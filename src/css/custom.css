@@ -1,0 +1,444 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400;1,500&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+/* You can override the default Infima variables here. */
+
+:root {
+	--ifm-font-color-base: rgb(71 70 69);
+	--ifm-link-color: rgb(74 125 221);
+	--ifm-color-primary: #0265ff; /*  #f36932; /*#0079EA;*/
+	--ifm-color-primary-dark: #29784c;
+	--ifm-color-primary-darker: #277148;
+	--ifm-color-primary-darkest: #205d3b;
+	--ifm-color-primary-light: #33925d;
+	--ifm-toc-link-color: rgb(102 99 97); /* very dark since the text is small */
+	--ifm-menu-color: #444;
+	--ifm-color-primary-lighter: #359962;
+	--ifm-color-primary-lightest: #3cad6e;
+	--ifm-code-font-size: 0.85rem;
+	--ifm-code-background: rgb(246 244 242); /*#e9f5ff;*/
+	--ifm-toc-border-color: #eaeaea;
+	--ifm-toc-padding-horizontal: 0;
+	--ifm-navbar-padding-horizontal: 30px;
+	--ifm-link-decoration: inherit;
+	--ifm-font-weight-bold: 600;
+
+	--ifm-list-left-padding: 0;
+
+	--ifm-h3-font-size: 1.1rem;
+	--ifm-toc-padding-vertical: 2px;
+	--ifm-menu-link-padding-vertical: 4px;
+
+	--ifm-code-padding-horizontal: 4px;
+	--ifm-code-padding-vertical: 1px;
+
+	--ifm-font-family-monospace: 'Roboto Mono';
+	--ifm-font-family-base: 'Inter';
+	--doc-sidebar-width: 250px !important;
+
+	--ifm-heading-font-weight: 500;
+	--ifm-h1-font-size: 2.2rem;
+	--ifm-heading-font-family: 'Inter';
+	--ifm-heading-color: rgb(52 52 51); /*#002240;*/
+	--ifm-h2-font-size: 1.3rem;
+
+	/* --docsearch-primary-color: var(--ifm-color-primary); */
+	/* --docsearch-text-color: var(--ifm-font-color-base); */
+	--docsearch-muted-color: var(--ifm-color-secondary-darkest);
+	--docsearch-container-background: rgba(94, 100, 112, 0.7);
+	/* Modal */
+	--docsearch-modal-background: var(--ifm-color-secondary-lighter);
+	/* Search box */
+	--docsearch-searchbox-background: var(--ifm-color-secondary);
+	--docsearch-searchbox-focus-background: var(--ifm-color-white);
+	/* Hit */
+	--docsearch-hit-color: var(--ifm-font-color-base);
+	--docsearch-hit-active-color: var(--ifm-color-white);
+	--docsearch-hit-background: var(--ifm-color-white);
+	/* Footer */
+	--docsearch-footer-background: var(--ifm-color-white);
+
+	--ifm-navbar-height: 60px;
+
+	--ifm-footer-background-color: white;
+	--ifm-footer-padding-vertical: 0;
+
+	--ifm-menu-color-background-hover: unset;
+}
+
+.markdown h1:first-child {
+	--ifm-h1-font-size: 2.2rem;
+}
+
+.markdown ul > li:before {
+	position: absolute;
+	top: 0.625rem;
+	left: 0.125rem;
+	height: 0.375rem;
+	width: 0.375rem;
+	border-radius: 9999px;
+	background-color: currentColor;
+	opacity: 0.4;
+	content: '';
+}
+
+.markdown > h2 {
+	--ifm-h2-font-size: 1.3rem;
+}
+
+html {
+	overflow-y: scroll;
+	font-size: 16px;
+}
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+html[data-theme='dark'] {
+	--ifm-color-primary: #2484de;
+	--ifm-color-primary-dark: #21af90;
+	--ifm-color-primary-darker: #1fa588;
+	--ifm-color-primary-darkest: #1a8870;
+	--ifm-color-primary-light: #29d5b0;
+	--ifm-color-primary-lighter: #32d8b4;
+	--ifm-color-primary-lightest: #4fddbf;
+	--ifm-toc-border-color: #444;
+
+	--docsearch-text-color: var(--ifm-font-color-base);
+	--docsearch-muted-color: var(--ifm-color-secondary-darkest);
+	--docsearch-container-background: rgba(47, 55, 69, 0.7);
+	/* Modal */
+	--docsearch-modal-background: var(--ifm-background-color);
+	/* Search box */
+	--docsearch-searchbox-background: var(--ifm-background-color);
+	--docsearch-searchbox-focus-background: var(--ifm-color-black);
+	/* Hit */
+	--docsearch-hit-color: var(--ifm-font-color-base);
+	--docsearch-hit-active-color: var(--ifm-color-white);
+	--docsearch-hit-background: var(--ifm-color-emphasis-100);
+	/* Footer */
+	--docsearch-footer-background: var(--ifm-background-surface-color);
+	--docsearch-key-gradient: linear-gradient(
+		-26.5deg,
+		var(--ifm-color-emphasis-200) 0%,
+		var(--ifm-color-emphasis-100) 100%
+	);
+}
+
+.docusaurus-highlight-code-line {
+	background-color: rgba(0, 0, 0, 0.1);
+	display: block;
+	margin: 0 calc(-1 * var(--ifm-pre-padding));
+	padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.navbar.navbar--fixed-top {
+	padding: 0;
+}
+
+.main-wrapper {
+	width: 100%;
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 var(--ifm-navbar-padding-horizontal);
+}
+
+.navbar__inner {
+	width: 100%;
+	max-width: 1400px;
+	padding: 0 var(--ifm-navbar-padding-horizontal);
+	margin: 0 auto;
+}
+
+.navbar__logo img {
+	width: 30px;
+}
+
+.navbar {
+	border-bottom: 1px solid var(--ifm-toc-border-color);
+	box-shadow: none;
+}
+
+.menu__link {
+	text-decoration: none;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-radius: 0;
+	font-weight: 400;
+	font-size: 1rem;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.theme-doc-sidebar-item-link {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.theme-doc-sidebar-item-link:hover > .menu__link {
+	background: none;
+	color: black;
+	background: none;
+}
+
+.theme-doc-sidebar-item-link > .menu__link--active:not(.menu__link--sublist) {
+	background: none;
+	color: var(--ifm-menu-color-active);
+	background: none;
+}
+
+.menu__list-item:not(:first-child) {
+	margin-top: 0;
+}
+
+.menu__list-item {
+}
+
+.menu__list .menu__list {
+	padding-left: 2px;
+}
+
+.menu__list ul.menu__list {
+	padding-left: 0px;
+	margin-left: 0;
+	margin-top: 0;
+}
+
+.theme-doc-sidebar-menu.menu__list {
+	border-left: none;
+}
+
+.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-1.menu__list-item,
+.theme-doc-sidebar-item-category-level-1.menu__list-item {
+	/*color: black;*/
+	border-left: none;
+	font-size: 1.1rem;
+	margin-top: 12px;
+}
+
+.theme-doc-sidebar-item-link-level-1.menu__list-item > .menu__link,
+.theme-doc-sidebar-item-category-level-1.menu__list-item > .menu__list-item-collapsible > .menu__link {
+	border-left: none;
+	font-size: 0.95rem;
+	font-weight: var(--ifm-font-weight-semibold);
+	padding-left: 0;
+	margin-left: 0;
+}
+
+.theme-doc-sidebar-item-link-level-1.menu__list-item:hover > .menu__link {
+	color: var(--ifm-menu-color-active);
+}
+
+.theme-doc-sidebar-item-link-level-1.menu__list-item:hover > .menu__link.menu__link--active {
+	color: var(--ifm-menu-color-active);
+}
+
+.theme-doc-sidebar-item-category-level-1.menu__list-item
+	> .menu__list-item-collapsible
+	> .menu__link.menu__link--active {
+	color: var(--ifm-color-primary);
+}
+
+.theme-doc-sidebar-item-category-level-1.menu__list-item > .menu__list-item-collapsible > .menu__link,
+.theme-doc-sidebar-item-category-level-1.menu__list-item
+	> .menu__list-item-collapsible:hover
+	> .menu__link.menu__link--active {
+}
+
+.theme-doc-sidebar-item-link-level-1.menu__list-item > .menu__link.menu__link--active {
+	color: var(--ifm-menu-color-active);
+	margin-left: 0;
+}
+
+nav.menu {
+	padding: 0;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.theme-doc-sidebar-menu.menu__list {
+	margin-left: 0;
+}
+
+.navbar-sidebar__item.menu {
+	padding: 0.5rem 1rem;
+}
+
+.menu__list-item-collapsible:hover {
+	background: none;
+}
+
+.menu__list-item-collapsible .menu__link {
+	color: #222;
+}
+
+@media (max-width: 996px) {
+	div.theme-doc-markdown.markdown {
+		padding: 20px 0px;
+	}
+	:root {
+		--ifm-spacing-horizontal: 0;
+	}
+}
+
+code {
+	color: #292b2d;
+	border: 1px solid rgb(230 228 226);
+	border-radius: 3px;
+	line-height: 1;
+}
+
+.theme-doc-sidebar-container {
+	clip-path: none !important;
+	-webkit-clip-path: none !important;
+}
+
+.navbar__search {
+	flex: 1;
+	padding-left: 60px;
+	padding-right: 20px;
+}
+
+.navbar__brand {
+	width: var(--doc-sidebar-width);
+	margin-right: 0;
+}
+
+a {
+	color: var(--ifm-link-color);
+	text-decoration: var(--ifm-link-decoration);
+	transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+}
+
+a:hover {
+	color: var(--ifm-color-primary);
+	text-decoration: var(--ifm-link-decoration);
+}
+
+.hash-link {
+	text-decoration: none;
+}
+
+.table-of-contents__link {
+	text-decoration: none;
+}
+
+.navbar__item.navbar__link {
+	text-decoration: none;
+}
+
+.pagination-nav__link,
+.navbar__brand {
+	text-decoration: none;
+}
+
+.table-of-contents {
+	font-size: 0.85rem;
+}
+
+.markdown li > p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.markdown > ul {
+	margin-top: var(--ifm-list-item-margin);
+}
+
+.markdown > p {
+	margin-bottom: 0;
+	margin-top: var(--ifm-leading);
+}
+
+.markdown ol {
+	list-style: none;
+	counter-reset: listitem;
+}
+
+/* nested ol should be ul */
+.markdown ol ol > li {
+	position: relative;
+	padding-left: 1.25rem;
+	list-style: none;
+	margin-top: 0; /* tighten */
+}
+
+.markdown ol ol > li:before {
+	position: absolute;
+	top: 0.625rem;
+	left: 0.125rem;
+	height: 0.375rem;
+	width: 0.375rem;
+	border-radius: 9999px;
+	background-color: currentColor;
+	opacity: 0.4;
+	content: '';
+	padding: 0;
+}
+
+.markdown ol > li {
+	position: relative;
+	padding-left: 1.75rem;
+	margin-top: 0.375rem;
+}
+
+.markdown ol > li:before {
+	position: absolute;
+	left: 0;
+	top: 0.125rem;
+	box-sizing: content-box;
+	height: 0.75rem;
+	width: 1.25rem;
+	border-radius: 9999px;
+	background-color: rgb(230 228 226);
+	padding: 0.25rem 0;
+	text-align: center;
+	font-size: 0.80rem;
+	line-height: 1rem;
+	font-weight: 500;
+	line-height: 1;
+	color: rgb(71 70 69);
+	counter-increment: listitem;
+	content: counter(listitem);
+}
+
+.markdown ul > li {
+	position: relative;
+	padding-left: 1.25rem;
+	list-style: none;
+}
+
+.table-of-contents__left-border {
+	border-left: none;
+}
+
+.footer {
+	border-top: 1px solid var(--ifm-toc-border-color);
+}
+
+.theme-doc-markdown.markdown {
+	padding: 10px 40px;
+}
+
+.footer__links {
+	margin-top: 20px;
+}
+
+.table-of-contents {
+	padding-top: 10px;
+}
+
+body {
+	background-color: #f5f5f5;
+}
+
+.container {
+	background: white;
+}

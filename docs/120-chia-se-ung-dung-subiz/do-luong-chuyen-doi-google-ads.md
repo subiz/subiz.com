@@ -1,0 +1,140 @@
+---
+id: 171095673
+slug: /171095673-do-luong-chuyen-đoi-google-ads
+title: Đo lường chuyển đổi Google Ads
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2023-02-20T03:54:52.684Z
+---
+
+# Đo lường chuyển đổi Google Ads
+
+
+
+## Subiz nhận diện nguồn quảng cáo
+
+
+Subiz tự động nhận diện nguồn khách truy cập website từ quảng cáo Google Ads (Advertising) hay cụ thể chiến dịch quảng cáo nào .
+
+
+
+Từ đó, bạn có thể theo dõi và đo lường 3 mục tiêu chuyển đổi Google Ads ngay trên Subiz:
+
++ Khách truy cập website
+
++ Khách nhắn tin
+
++ Khách đã có số điện thoại hoặc email
+
+
+
+Để giúp Subiz nhận diện khách đến từ nguồn quảng cáo Google Ads hay chiến dịch quảng cáo cụ thể thì url cuối cùng của Google Ads cần gắn tham số “glicd” hoặc “utm\_campaign”
+
+[Xem hướng dẫn gắn thẻ url](https://support.google.com/analytics/answer/1033981?hl=vi&ref_topic=1308612#zippy=%2Cn%E1%BB%99i-dung-c%E1%BB%A7a-b%C3%A0i-vi%E1%BA%BFt-n%C3%A0y).
+
+
+
+Ví dụ: Nếu trang web của bạn là www.example.com thì khi một người dùng nhấp vào quảng cáo của bạn, trang web đó sẽ xuất hiện trong thanh địa chỉ dưới dạng như sau:
+
+
+
+[https://www.example.com](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale)[/?gclid=123xyz](http://www.example.com/?gclid=123xyz) => Subiz hiển thị nguồn truy cập là “Advertising” 
+
+
+
+[https://www.example.com/?utm\_campaign=summer-sale](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale) => Subiz hiển thị nguồn truy cập là “Sumer-sale”
+## Xem chuyển đổi “Khách truy cập website”
+
+
+Với mục tiêu “Khách truy cập website” bạn sẽ xem **[trang Thống kê lượng người dùng](https://app.subiz.com.vn/new-reports/user)**. Tại mục Nguồn truy cập, bạn sẽ xem được chi tiết số lượng người dùng mới đã truy cập theo từng nguồn khác nhau như “Advertising” hay chiến dịch quảng cáo “Tet\_2023”.
+
+
+
+
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrszhpzjtzarfhmd_acpxkgumifuoofoosble)
+
+
+
+
+
+## Xem chuyển đổi “Khách nhắn tin” và “Khách tiềm năng”
+
+
+Để tự động nhận diện khách đã nhắn tin đến từ nguồn quảng cáo, bạn sẽ sử dụng thêm bot tự động của Subiz.
+
+
+
+Bot giúp bạn:
+
+- Tự động nhận diện khách nhắn tin đến từ nguồn quảng cáo
+- Tự động gắn Tag hội thoại giúp thống kê hội thoại của khách từ nguồn quảng cáo
+- Tự động gắn Nhãn phân loại giúp phân nhóm khách tiềm năng từ nguồn quảng cáo
+
+
+
+**Hướng dẫn cài đặt:**
+
+**Bước 1: ****[Tạo Tag mới](https://app.subiz.com.vn/settings/tags)**** theo chiến dịch quảng cáo**
+
+Ví dụ Tag “Advertising”
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrszkdekznxbtvmb_acpxkgumifuoofoosble)
+
+
+**Bước 2: ****[Tạo Nhãn phân loại](https://app.subiz.com.vn/settings/label)**** theo chiến dịch quảng cáo**
+
+Ví dụ Nhãn “Advertising”
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrszmipsjcoqmubk_acpxkgumifuoofoosble)
+
+
+**Bước 3: ****[Tạo bot tự động](https://app.subiz.com.vn/bots)**** nhận diện khách từ quảng cáo **
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrszoojzsfkkayoo_acpxkgumifuoofoosble)
+
+
+
+
+**[Xem thêm video hướng dẫn sử dụng bot tự động](https://www.youtube.com/watch?v=IvUPSEgX2_g&t=186s)**
+
+
+
+**Bước 4: Thống kê chuyển đổi số lượng hội thoại có Tag “Advertising”**
+
+Bạn vào trang Thống kê hội thoại, xem số lượng hội thoại theo Tag “Advertising”.
+
+Để biết cụ thể danh sách khách hàng đã nhắn tin, bạn nhấp vào nút Danh sách hội thoại góc phải màn hình. Tại đây, bạn sẽ lọc phân tích và [xuất dữ liệu](https://www.youtube.com/watch?v=mJgbIMfkCwY) về máy tính nếu cần.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrszqudthaprbcyl_acpxkgumifuoofoosble)
+
+
+
+
+**Bước 5: Thống kê chuyển đổi khách tiềm năng có nhãn “Advertising”**
+
+Khách tiềm năng là khách đã có số điện thoại hoặc email và được tổng hợp tại trang **[KHÁCH TIỀM NĂNG](https://app.subiz.com.vn/lead)**.
+
+Tại đây, bạn sẽ nhìn thấy nhóm khách “Advertising”
+
+
+![](https://vcdn.subiz-cdn.com/file/firrxrsztrrzigyvhsjj_acpxkgumifuoofoosble)
+
+
+
+
+
+
+***Tip nhỏ***: Bạn cần đo lường chuyển đổi khách nhắn tin Subiz trên phần mềm Google Ads. Tuy nhiên, Subiz không liên kết dữ liệu trực tiếp với Google Ads, Subiz chỉ kết nối tự động tới Google Analytics. Bạn có thể phân tích dữ liệu SUBIZ chat trên Google Analytics, sau đó đồng bộ số liệu từ Google Analytics sang Google Ads. **[Xem hướng dẫn đọc dữ liệu SUBIZ Chat trên Google Analytics](https://subiz.com.vn/docs/18827101-google-analytics-va-subiz)**.
