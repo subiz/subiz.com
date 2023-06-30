@@ -6,7 +6,6 @@ WORKDIR /app
 COPY blog ./blog
 COPY docs ./docs
 COPY docusaurus.config.js ./
-COPY dropboxapi.js ./
 COPY package.json ./
 COPY sidebars.js ./
 COPY static/ ./static
