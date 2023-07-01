@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1688123295017,
-  "updated": 1688123295017,
+  "fetched": 1688184842513,
+  "updated": 1688184842513,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -13,6 +13,61 @@
       "modifiedTime": "2023-03-16T04:01:51.311Z",
       "version": "182",
       "path_lower": "/_readme"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
+      "name": "3. Khách tiềm năng",
+      "modifiedTime": "2023-06-19T10:55:06.767Z",
+      "version": "238",
+      "path_lower": "/60 Quản lý thông tin khách hàng/3.-khach-tiem-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
+      "name": "1.  Subiz live khách truy cập web",
+      "modifiedTime": "2023-06-10T03:20:58.063Z",
+      "version": "255",
+      "path_lower": "/60 Quản lý thông tin khách hàng/1.--subiz-live-khach-truy-cap-web"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
+      "name": "2. Thông tin khách hàng",
+      "modifiedTime": "2023-06-10T02:54:53.829Z",
+      "version": "231",
+      "path_lower": "/60 Quản lý thông tin khách hàng/2.-thong-tin-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
+      "name": "_2. Khách tiềm năng",
+      "modifiedTime": "2023-03-16T04:01:42.205Z",
+      "version": "263",
+      "path_lower": "/60 Quản lý thông tin khách hàng/_2.-khach-tiem-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
+      "name": "4. Nhãn phân loại khách hàng",
+      "modifiedTime": "2023-03-16T03:45:43.505Z",
+      "version": "94",
+      "path_lower": "/60 Quản lý thông tin khách hàng/4.-nhan-phan-loai-khach-hang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -94,61 +149,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
-      "name": "3. Khách tiềm năng",
-      "modifiedTime": "2023-06-19T10:55:06.767Z",
-      "version": "238",
-      "path_lower": "/60 Quản lý thông tin khách hàng/3.-khach-tiem-nang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
-      "name": "1.  Subiz live khách truy cập web",
-      "modifiedTime": "2023-06-10T03:20:58.063Z",
-      "version": "255",
-      "path_lower": "/60 Quản lý thông tin khách hàng/1.--subiz-live-khach-truy-cap-web"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
-      "name": "2. Thông tin khách hàng",
-      "modifiedTime": "2023-06-10T02:54:53.829Z",
-      "version": "231",
-      "path_lower": "/60 Quản lý thông tin khách hàng/2.-thong-tin-khach-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
-      "name": "_2. Khách tiềm năng",
-      "modifiedTime": "2023-03-16T04:01:42.205Z",
-      "version": "263",
-      "path_lower": "/60 Quản lý thông tin khách hàng/_2.-khach-tiem-nang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
-      "name": "4. Nhãn phân loại khách hàng",
-      "modifiedTime": "2023-03-16T03:45:43.505Z",
-      "version": "94",
-      "path_lower": "/60 Quản lý thông tin khách hàng/4.-nhan-phan-loai-khach-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
       ],
       "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
@@ -211,6 +211,61 @@
       "modifiedTime": "2022-11-02T10:35:01.542Z",
       "version": "39",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
+      "name": "5. Nhắc việc cần làm",
+      "modifiedTime": "2023-06-02T10:25:43.510Z",
+      "version": "110",
+      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
+      "name": "4. Nghe và gọi điện thoại ",
+      "modifiedTime": "2023-05-31T08:43:50.463Z",
+      "version": "146",
+      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
+      "name": "1. Quản lý hội thoại của tôi",
+      "modifiedTime": "2023-05-31T03:39:48.119Z",
+      "version": "262",
+      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
+      "name": "2. Mẫu tin nhắn",
+      "modifiedTime": "2023-05-30T10:39:14.888Z",
+      "version": "118",
+      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
+      "name": "3. Tag hội thoại",
+      "modifiedTime": "2023-03-27T07:59:40.291Z",
+      "version": "137",
+      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -402,67 +457,12 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
-      "name": "5. Nhắc việc cần làm",
-      "modifiedTime": "2023-06-02T10:25:43.510Z",
-      "version": "110",
-      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
-      "name": "4. Nghe và gọi điện thoại ",
-      "modifiedTime": "2023-05-31T08:43:50.463Z",
-      "version": "146",
-      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
-      "name": "1. Quản lý hội thoại của tôi",
-      "modifiedTime": "2023-05-31T03:39:48.119Z",
-      "version": "262",
-      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
-      "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2023-05-30T10:39:14.888Z",
-      "version": "118",
-      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
-      "name": "3. Tag hội thoại",
-      "modifiedTime": "2023-03-27T07:59:40.291Z",
-      "version": "137",
-      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "6. Kết nối tổng đài",
-      "modifiedTime": "2023-06-30T11:07:14.526Z",
-      "version": "373",
+      "modifiedTime": "2023-07-01T04:12:22.416Z",
+      "version": "440",
       "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
     },
     {
