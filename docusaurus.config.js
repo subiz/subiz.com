@@ -55,6 +55,15 @@ const config = {
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
+				algolia: {
+						// The application ID provided by Algolia
+						appId: '0RST30TI5Y',
+
+						// Public API key: it is safe to commit it
+						apiKey: '5ba0cd57d84ae9c8758dc89e7528c29d',
+
+						indexName: 'subiz_doc',
+				},
 			imageZoom: {
 				// CSS selector to apply the plugin to, defaults to '.markdown img'
 				selector: '.markdown img',
