@@ -57,12 +57,12 @@ const config = {
 		({
 				algolia: {
 						// The application ID provided by Algolia
-						appId: '0RST30TI5Y',
+						appId: 'KMSSP41O2O',
 
 						// Public API key: it is safe to commit it
-						apiKey: '5ba0cd57d84ae9c8758dc89e7528c29d',
+						apiKey: '1dfabfe59e75bf2e37d5b037ac6dee95',
 
-						indexName: 'subiz_doc',
+						indexName: 'subiz-com',
 				},
 			imageZoom: {
 				// CSS selector to apply the plugin to, defaults to '.markdown img'
