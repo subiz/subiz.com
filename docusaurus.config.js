@@ -57,7 +57,7 @@ const config = {
 		({
 				algolia: {
 						// The application ID provided by Algolia
-						appId: 'KMSSP41O2O',
+						appId: 'KMSSP41O2O', // hamy@subiz.com
 
 						// Public API key: it is safe to commit it
 						apiKey: '1dfabfe59e75bf2e37d5b037ac6dee95',
