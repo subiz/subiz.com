@@ -49,7 +49,7 @@ Ví dụ:
 - Số lượng rule tạo mới sẽ tương ứng với số lượng nhóm chat bạn phân loại
 
 
-![](https://vcdn.subiz-cdn.com/file/firryhedrzkeddesnbzd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlovzyjxryokqa_acpxkgumifuoofoosble)
 
 
 
@@ -59,7 +59,7 @@ Ví dụ:
 Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > Mở **Cài đặt** > chọn **[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)** > chọn **Tạo Rule phân phối**
 
 
-![](https://vcdn.subiz-cdn.com/file/firryhedwaewfzuwskoc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlsuejafclgbsr_acpxkgumifuoofoosble)
 
 ## Một số ví dụ Rule phân phối
 
@@ -80,7 +80,7 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firryhedzcvhkouvmmvk_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlvxaiaozqrluj_acpxkgumifuoofoosble)
 
 ### TH2: Rule phân phối theo vùng miền/ tỉnh thành
 
@@ -98,7 +98,7 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 - **Rule 2**: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
 
 
-![](https://vcdn.subiz-cdn.com/file/firryheecwdwfheazuio_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlzxxfjquwvkkd_acpxkgumifuoofoosble)
 
 ### TH3: Rule phân phối theo giờ làm việc/ agent online
 
@@ -113,4 +113,4 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 - **Rule 2**: Điều kiện Rule chọn Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
 
 
-![](https://vcdn.subiz-cdn.com/file/firryheegitlzweaklaq_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxmdjzxqsydoczq_acpxkgumifuoofoosble)

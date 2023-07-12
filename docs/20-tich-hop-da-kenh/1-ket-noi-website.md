@@ -32,7 +32,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách hàng dễ d
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtaryzlwrsozemi_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrgmevrphyjdrx_acpxkgumifuoofoosble)
 
 
 
@@ -67,7 +67,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtaulttuopofdzz_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrjwjsokpeovvo_acpxkgumifuoofoosble)
 
 
 
@@ -77,7 +77,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtawwgyhkvefhov_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrmdimavmrljin_acpxkgumifuoofoosble)
 
 
 
@@ -87,7 +87,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtazcqewezsvopz_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxroyhobyhwsqxk_acpxkgumifuoofoosble)
 
 
 
@@ -95,7 +95,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtbbnhtuvfmqoaa_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrrlttfrpjuoke_acpxkgumifuoofoosble)
 
 ### Bước 4: Thay đổi lời chào khách truy cập web
 
@@ -103,7 +103,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtbdyyenuxcwxqd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrtsurbumvcuer_acpxkgumifuoofoosble)
 
 
 
@@ -113,7 +113,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường dữ liệu mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtbglgvzuqcjslo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrvxiseyqjigzt_acpxkgumifuoofoosble)
 
 
 
@@ -125,4 +125,4 @@ Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh
 Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường dữ liệu mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtbiyopchbgbale_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxryfdrhzprphli_acpxkgumifuoofoosble)
