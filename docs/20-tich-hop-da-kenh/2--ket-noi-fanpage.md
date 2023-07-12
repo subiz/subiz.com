@@ -32,7 +32,7 @@ last_update:
 - **Đăng nhập Facebook của admin** Fanpage > **Chọn Fanpage kết nối vào Subiz** > **Chọn tất cả quyền và Xong** hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtapxvnocicyfpe_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxqxznzougmkwhy_acpxkgumifuoofoosble)
 
 ## Hướng dẫn thêm Fanpage mới vào Subiz
 
@@ -49,4 +49,4 @@ Khi bạn đã kết nối một số Fanpage vào Subiz và muốn thêm Fanpag
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrtasfawcbnnvqyg_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxrahxhoelziyhr_acpxkgumifuoofoosble)

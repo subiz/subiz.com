@@ -24,7 +24,7 @@ Hơn nữa, khi khách quay lại sẽ được gặp đúng agent đang sẵn s
 - Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrsvgxyrfdqjinxg_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlpqhhhwsdxlvu_acpxkgumifuoofoosble)
 
 ## Tự động hoàn thành hội thoại mới
 
@@ -37,7 +37,7 @@ Hội thoại mới sẽ được tự động hoàn thành sau X phút kể t�
 - Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrsvjqcdnayccggo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlsdnbtjwohakk_acpxkgumifuoofoosble)
 
 ## Hướng dẫn 4 click hoàn thành hội thoại hàng loạt
 
@@ -56,4 +56,4 @@ Với các hội thoại cũ, bạn cần trực tiếp hoàn thành hội tho�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firrxrsvmoikhejqpmwi_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsfrxlupqpqqofwnlo_acpxkgumifuoofoosble)
