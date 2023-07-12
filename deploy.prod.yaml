@@ -31,7 +31,7 @@ spec:
         type: ms
     spec:
       nodeSelector:
-        tier: app
+        tier: search
       containers:
       - name: home
         resources:
