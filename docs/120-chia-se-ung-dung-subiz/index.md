@@ -3,7 +3,7 @@ title: Chia sẻ ứng dụng Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-07-12T11:29:45.526Z
+   date: 2023-07-13T11:22:10.958Z
 ---
 # Chia sẻ ứng dụng Subiz
 * [Quản lý hàng nghìn Fanpage](/120-chia-se-ung-dung-subiz/1--quan-ly-hang-nghin-fanpage.md)
