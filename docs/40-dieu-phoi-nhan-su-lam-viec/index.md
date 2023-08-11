@@ -3,7 +3,7 @@ title: Điều phối nhân sự làm việc
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-06-27T07:49:52.360Z
+   date: 2023-07-20T08:13:57.496Z
 ---
 # Điều phối nhân sự làm việc
 * [Tổng quan về agent](/40-dieu-phoi-nhan-su-lam-viec/1.-tong-quan-ve-agent.md)

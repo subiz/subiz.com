@@ -5,7 +5,7 @@ title: Tích hợp Zalo OA
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-05-25T07:11:17.986Z
+  date: 2023-08-01T10:48:33.487Z
 ---
 
 # Tích hợp Zalo OA 
@@ -18,11 +18,10 @@ last_update:
 
 
 - Bạn kết nối được nhiều Zalo OA trên Subiz
-- Tất cả tin nhắn của Zalo sẽ được nhận trên Subiz
-- Bot tự động trả lời tin nhắn của khách hàng
-- Tự động phân chia chat của khách cho nhân viên tư vấn
-
-
+- Bạn nhận được tin nhắn của khách hàng Zalo OA trên Subiz
+- Bạn có bot tự động trả lời tin nhắn từ Zalo OA
+- Bạn tự động phân chia khách từ Zalo OA cho nhân viên phụ trách
+- Bạn có báo cáo thống kê chi tiết khách hàng từ Zalo OA
 ## Hướng dẫn cài đặt Zalo vào Subiz
 
 
@@ -35,7 +34,7 @@ last_update:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxqxugzrbjbnwcu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdcpdabpoaqusbd_acpxkgumifuoofoosble)
 
 
 

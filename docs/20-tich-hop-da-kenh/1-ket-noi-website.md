@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-03-30T10:39:10.577Z
+  date: 2023-08-01T10:43:12.827Z
 ---
 
 # Tích hợp trên website
@@ -17,22 +17,20 @@ last_update:
 ## Kênh website hoạt động như thế nào?
 
 
-Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách hàng dễ dàng nhắn tin liên hệ và Doanh nghiệp nhanh chóng quảng cáo thông tin tin Doanh nghiệp, các chương trình ưu đãi hay sản phẩm mới.
+Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập web dễ dàng nhắn tin liên hệ và nhận được phản hồi nhanh chóng.
 ## Hướng dẫn cài đặt Subiz trên website
 
 
 - **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **Tích hợp website**
 - Chọn **[Cài đặt lên website](https://app.subiz.com.vn/website/install)**
 
-    - **Bước 1**: **Điền tên miền website** giúp bạn quản lý danh sách website hiển thị cửa sổ chat.
-    - **Bước 2**: **Sao chép mã nhúng Subiz và dán vào code website** trong thẻ `body`
-
-- Kiểm tra cài đặt thành công chưa: Vào website, F5 tải trang để cập nhật thay đổi và xem hiển thị cửa sổ chat Subiz là thành công
-
-
+    - **Bước 1**: **Điền tên miền website** để biết bạn cài đặt cửa sổ chat trên website nào.
+    - **Bước 2**: **Sao chép mã nhúng Subiz và dán vào code website** trong thẻ ` <body>`
+    - Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để cập nhật thay đổi và thấy cửa sổ chat ở góc phải màn hình là cài đặt thành công.
+    - 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrgmevrphyjdrx_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzddardchwguergy_acpxkgumifuoofoosble)
 
 
 
@@ -51,69 +49,89 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách hàng dễ d
 ## Chỉnh sửa cửa sổ chat Subiz
 
 
-Cửa sổ chat là một thành phần của website và là hình ảnh của Doanh nghiệp.
+Cửa sổ chat là một thành phần của website và là hình ảnh đại diện cho doanh nghiệp.
 
 
 
-Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa sổ chat cho đồng nhất với hình ảnh chuyên nghiệp trên website.
+Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa sổ chat sao cho đồng nhất với hình ảnh chuyên nghiệp của website.
 
 
 
 **Hướng dẫn chỉnh sửa cửa sổ chat: **
 
-- **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **Tích hợp website**
-- Chọn **[Chỉnh cửa sổ chat](https://app.subiz.com.vn/chatbox/design)**
+- **Đăng nhập Subiz** > Mở **Cài đặt**
+- Chọn **[Cửa sổ chat](https://app.subiz.com.vn/chatbox/design)**
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrjwjsokpeovvo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzddeyxpmoqxagvj_acpxkgumifuoofoosble)
 
 
 
 ### Bước 1: Thay đổi nút chat 
 
 
+Nút chat mặc định của Subiz thường là nút tròn nhỏ ở góc phải màn hình. 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrmdimavmrljin_acpxkgumifuoofoosble)
+Bạn có thể chọn trong thư viện nút chat Subiz hoặc thiết kế ảnh nút chat có kích thước tối đa 240px x 146px. 
+
+
+
+**Lưu ý**: Khi khách sử dụng điện thoại để truy cập website, do kích thước màn hình điện thoại nhỏ, bạn nên sử dụng nút chat nhỏ cho điện thoại.
+
+
+![](https://vcdn.subiz-cdn.com/file/firsxzddihzkjctodwhx_acpxkgumifuoofoosble)
 
 
 
 ### Bước 2: Thay đổi vị trí và kích thước cửa sổ chat
 
 
+Kích thước cửa sổ chat chỉ được thay đổi khi khách sử dụng máy tính để truy cập website. Trên điện thoại sẽ cố định kích thước cửa sổ chat, vì vậy, bạn không thể thay đổi kích thước cửa sổ chat trên điện thoại.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxroyhobyhwsqxk_acpxkgumifuoofoosble)
+
+![](https://vcdn.subiz-cdn.com/file/firsxzddlixfnijkedux_acpxkgumifuoofoosble)
 
 
 
 ### Bước 3: Thay đổi tiêu đề cửa sổ chat
 
 
+Tiêu đề cửa sổ chat thường hiển thị giới thiệu ngắn gọn về doanh nghiệp, ảnh logo và số hotline.
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrrlttfrpjuoke_acpxkgumifuoofoosble)
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firsxzddonmmnaigpxbe_acpxkgumifuoofoosble)
 
 ### Bước 4: Thay đổi lời chào khách truy cập web
 
 
+Lời chào đính kèm với nút chat nên lời chào cần đơn giản và ngắn gọn.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrtsurbumvcuer_acpxkgumifuoofoosble)
+Khi bạn cần lời chào mạnh mẽ và đính kèm nhiều phương tiện như hình ảnh, đường link, [hãy sử dụng Bot tự động chào khách](https://www.youtube.com/watch?v=UeE6tV5IG6k).
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firsxzddsknztmnbpegi_acpxkgumifuoofoosble)
 
 
 
 ### Bước 5: Sử dụng bảng hỏi thông tin khách trước khi chat
 
 
-Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường dữ liệu mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
+**Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrvxiseyqjigzt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzddvmzfnfmihkgt_acpxkgumifuoofoosble)
 
 
 
@@ -125,4 +143,4 @@ Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh
 Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường dữ liệu mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxryfdrhzprphli_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdeansxjzayyilg_acpxkgumifuoofoosble)
