@@ -5,7 +5,7 @@ title: Tích hợp Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-05-25T07:00:36.273Z
+  date: 2023-08-01T10:46:46.104Z
 ---
 
 # Tích hợp Fanpage
@@ -20,10 +20,14 @@ last_update:
 
 
 - Bạn kết nối được hàng nghìn Fanpage vào Subiz
-- Tất cả tin nhắn bình luận và chat messenger được nhận trên Subiz
-- Nhận diện tên Fanpage cụ thể khách đã nhắn tin
-- Sử dụng bot tự động trả lời bình luận và chat messenger
-- Tự động phân chia khách hàng từng Fanpage cho nhân viên phụ trách
+- Bạn sẽ nhận bình luận Fanpage và chat messenger trên Subiz
+- Bạn biết cụ thể tên Fanpage khách đã nhắn đến.
+- Bạn có thể cài đặt tự động trả lời, like, ẩn bình luận Fanpage
+- Bạn có thể sử dụng bot tự động trả lời tin nhắn messenger
+- Bạn tự động phân chia khách từ Fanpage cho nhân viên phụ trách
+- Bạn có báo cáo thống kê chi tiết khách hàng từ mỗi Fanpage
+
+
 ## Hướng dẫn tích hợp Fanpage 
 
 
@@ -32,12 +36,12 @@ last_update:
 - **Đăng nhập Facebook của admin** Fanpage > **Chọn Fanpage kết nối vào Subiz** > **Chọn tất cả quyền và Xong** hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxqxznzougmkwhy_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdcrqskfrttxywe_acpxkgumifuoofoosble)
 
 ## Hướng dẫn thêm Fanpage mới vào Subiz
 
 
-Khi bạn đã kết nối một số Fanpage vào Subiz và muốn thêm Fanpage mới vào Subiz, bạn thao tác như sau:
+Khi bạn đã kết nối một số Fanpage vào Subiz, sáu đó muốn thêm Fanpage mới vào Subiz, bạn thao tác như sau:
 
 
 
@@ -49,4 +53,4 @@ Khi bạn đã kết nối một số Fanpage vào Subiz và muốn thêm Fanpag
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxrahxhoelziyhr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdcvulhcsrgiyme_acpxkgumifuoofoosble)

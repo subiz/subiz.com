@@ -3,7 +3,7 @@ title: Câu hỏi thường gặp
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-06-10T03:41:40.746Z
+   date: 2023-07-27T10:30:08.066Z
 ---
 # Câu hỏi thường gặp
 * [Câu hỏi chung](/110-cau-hoi-thuong-gap/1.-cau-hoi-chung.md)

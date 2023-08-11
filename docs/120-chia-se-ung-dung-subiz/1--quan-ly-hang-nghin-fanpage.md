@@ -5,7 +5,7 @@ title: Quản lý hàng nghìn Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:10:05.565Z
+  date: 2023-07-14T08:51:28.569Z
 ---
 
 # Quản lý hàng nghìn Fanpage
@@ -19,7 +19,7 @@ Chỉ cần đăng nhập 1 trang làm việc Subiz, bạn có thể quản lý 
 
 Một số điểm nổi bật khi quản lý Fanpage trên Subiz:
 
-- Kết nối hàng nghìn Fanpage, không tính phí theo số lượng Fanpage
+- Kết nối hàng nghìn Fanpage, không thêm chi phí
 - Tự động hóa trả lời bình luận Fanpage, like, ẩn bình luận
 - Tự động inbox messenger cho khách bình luận
 - Tự động trả lời chat messenger riêng cho từng Fanpage
@@ -35,7 +35,7 @@ Một số điểm nổi bật khi quản lý Fanpage trên Subiz:
 Hướng dẫn: Đăng nhập Subiz > mở trang Cài đặt > chọn **[Tích hợp Fanpage](https://app.subiz.com.vn/settings/messenger)** > chọn nút Tích hợp Fanpage và làm theo các bước
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxperspqrryhmfo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdbkliysvldimex_acpxkgumifuoofoosble)
 
 
 
@@ -58,7 +58,7 @@ Sau khi tích hợp thành công Fanpage vào Subiz, bạn có thể cài đặt
 Hướng dẫn cài đặt trả lời bình luận Fanpage: Mở trang **[Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)** > chọn nút CHỈNH SỬA Fanpage cụ thể > chọn các chức năng tự động trả lời bình luận > Lưu cài đặt để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpnqiaphicdkakp_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdbnymhdpvhgckz_acpxkgumifuoofoosble)
 
 ### Bước 3: Bot tự động trả lời chat messenger
 
@@ -77,7 +77,7 @@ Xem thêm **[hướng dẫn tạo bot tự động trả lời](https://subiz.co
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpntgskhxpsnyfb_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdbtmiwhwiacwls_acpxkgumifuoofoosble)
 
 
 
@@ -91,21 +91,31 @@ Xem thêm **[hướng dẫn cài đặt Rule phân phối](https://subiz.com.vn/
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpnvqxlkpbshmfr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdbxpbtunjpfmgt_acpxkgumifuoofoosble)
 
 ### Bước 5: Thiết lập các công cụ chat tư vấn 
 
 
 Bắt đầu giờ làm việc, agent sẽ đăng nhập Subiz làm việc qua đường link **[https://app.subiz.com.vn/](https://app.subiz.com.vn/)**
 
-Tại đây, agent tư vấn sẽ: 
 
-- Nhận thông báo có tin nhắn mới
-- Trả lời nhanh khách hàng qua Mẫu tin nhắn
-- Xem thông tin khách hàng
-- Phân loại yêu cầu của khách bằng cách gắn Tag hội thoại
-- Ghi chú nội dung quan trọng với mỗi khách hàng
-- Thêm agent vào hội thoại để hỗ trợ chat tư vấn khách
-- Hoàn thành hội thoại đảm bảo xong chat tư vấn khách
 
-**[Xem video quản lý chat online của agent Subiz](https://www.youtube.com/watch?v=5tfSPLKmK2o)**
+Mở trang **Tin nhắn**, agent sẽ nhận được tất cả tin nhắn bình luận và inbox messenger của khách. 
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firsxzdcbuebpqaihmdc_acpxkgumifuoofoosble)
+
+
+
+
+Một số công cụ hỗ trợ agent quản lý tin nhắn và hiểu khách hàng hơn:
+
+
+![](https://vcdn.subiz-cdn.com/file/firsxzdcgxtakjfmoycr_acpxkgumifuoofoosble)
+
+
+
+
+**[Xem video quản lý tin nhắn của khách hàng](https://www.youtube.com/watch?v=5tfSPLKmK2o)**

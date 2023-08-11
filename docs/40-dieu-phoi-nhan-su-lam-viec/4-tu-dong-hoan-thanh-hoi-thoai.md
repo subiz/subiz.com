@@ -5,7 +5,7 @@ title: Hoàn thành hội thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-03-31T07:56:17.435Z
+  date: 2023-07-20T08:13:57.496Z
 ---
 
 # Hoàn thành hội thoại
@@ -13,9 +13,17 @@ last_update:
 ## Mục đích hoàn thành hội thoại?
 
 
-Hoàn thành hội thoại giúp agent kiểm soát được các hội thoại tư vấn khách hàng dễ dàng theo dõi, quản lý các vấn đề mỗi lần khách hàng liên hệ tới.
+Hoàn thành hội thoại sẽ có 3 lợi ích sau:
 
-Hơn nữa, khi khách quay lại sẽ được gặp đúng agent đang sẵn sàng online tư vấn khách.
+01. Giúp agent kiểm soát được cuộc chat nào đã trả lời khách xong, cuộc chat nào đang cần trả lời tiếp
+11. Giúp agent báo cáo thống kê được số lượng chat đã trả lời khách trong ca từng ngày làm việc
+21. Khi khách quay lại nhắn tin sẽ tạo hội thoại mới và hội thoại mới sẽ được phân chia cho đúng agent đang sẵn sàng trả lời khách. Lưu ý: Hội thoại mới sẽ được phân phối cho agent theo rule đang cài đặt.
+
+Lưu ý:
+
+- Trạng thái hoàn thành hội thoại chỉ hiển thị với khách trên kênh website; Không hiển thị với khách trên Fanpage, Zalo, Instagram.
+- Sau khi hội thoại hoàn thành, agent có thể tiếp tục nhắn tin với khách bằng cách Tạo hội thoại mới
+- Sau khi hội thoại hoàn thành, agent và khách hàng vẫn xem được tin nhắn cũ.
 
 **Hướng dẫn hoàn thành hội thoại:**
 
@@ -24,29 +32,25 @@ Hơn nữa, khi khách quay lại sẽ được gặp đúng agent đang sẵn s
 - Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxlpqhhhwsdxlvu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdaszmagmxgefwa_acpxkgumifuoofoosble)
 
 ## Tự động hoàn thành hội thoại mới
 
 
-Hội thoại mới sẽ được tự động hoàn thành sau X phút kể từ tin nhắn cuối cùng trong hội thoại.
+Tự động hoàn thành hội thoại chỉ áp dụng với hội thoại mới.
 
-**Hướng dẫn cài đặt tự động hoàn thành hội thoại:**
+**Hướng dẫn cài đặt:**
 
 - **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **[Hoàn thành hội thoại](https://app.subiz.com.vn/settings/auto-endchat)**
 - Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxlsdnbtjwohakk_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdawevicdfkpvbr_acpxkgumifuoofoosble)
 
-## Hướng dẫn 4 click hoàn thành hội thoại hàng loạt
-
-
-Với các hội thoại cũ, bạn cần trực tiếp hoàn thành hội thoại.
+## 4 click hoàn thành hội thoại hàng loạt
 
 
-
-**Hướng dẫn 4 click hoàn thành hội thoại hàng loạt:**
+Với các hội thoại cũ, bạn cần thủ công hoàn thành hàng loạt với 4 bước sau:
 
 - Click nút **Hội thoại**
 - **Nhấn phím Shift** trên bàn phím
@@ -56,4 +60,4 @@ Với các hội thoại cũ, bạn cần trực tiếp hoàn thành hội tho�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxlupqpqqofwnlo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firsxzdazgijxgwlymsu_acpxkgumifuoofoosble)
