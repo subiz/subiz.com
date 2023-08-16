@@ -3,7 +3,7 @@ title: Quản lý thông tin khách hàng
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-08-11T08:10:47.672Z
+   date: 2023-08-12T05:24:57.268Z
 ---
 # Quản lý thông tin khách hàng
 * [Subiz live khách truy cập web](/60-quan-ly-thong-tin-khach-hang/1.--subiz-live-khach-truy-cap-web.md)
