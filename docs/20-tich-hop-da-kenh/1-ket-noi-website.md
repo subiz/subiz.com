@@ -30,7 +30,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập w
     - 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddardchwguergy_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymeqyjfcinivqk_acpxkgumifuoofoosble)
 
 
 
@@ -65,7 +65,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddeyxpmoqxagvj_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymhupbxvjvsxjn_acpxkgumifuoofoosble)
 
 
 
@@ -83,7 +83,7 @@ Bạn có thể chọn trong thư viện nút chat Subiz hoặc thiết kế ả
 **Lưu ý**: Khi khách sử dụng điện thoại để truy cập website, do kích thước màn hình điện thoại nhỏ, bạn nên sử dụng nút chat nhỏ cho điện thoại.
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddihzkjctodwhx_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymkseuwfhfifqp_acpxkgumifuoofoosble)
 
 
 
@@ -95,7 +95,7 @@ Kích thước cửa sổ chat chỉ được thay đổi khi khách sử dụng
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddlixfnijkedux_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymnpoiibzjlljm_acpxkgumifuoofoosble)
 
 
 
@@ -107,7 +107,7 @@ Tiêu đề cửa sổ chat thường hiển thị giới thiệu ngắn gọn v
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddonmmnaigpxbe_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymqmqzmmbfrsxw_acpxkgumifuoofoosble)
 
 ### Bước 4: Thay đổi lời chào khách truy cập web
 
@@ -121,7 +121,7 @@ Khi bạn cần lời chào mạnh mẽ và đính kèm nhiều phương tiện 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddsknztmnbpegi_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymtnapbghrbtfs_acpxkgumifuoofoosble)
 
 
 
@@ -131,7 +131,7 @@ Khi bạn cần lời chào mạnh mẽ và đính kèm nhiều phương tiện 
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzddvmzfnfmihkgt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymwkgucgvqfuob_acpxkgumifuoofoosble)
 
 
 
@@ -143,4 +143,4 @@ Khi bạn cần lời chào mạnh mẽ và đính kèm nhiều phương tiện 
 Lưu ý: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường dữ liệu mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzdeansxjzayyilg_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcymzrewtljwenvh_acpxkgumifuoofoosble)

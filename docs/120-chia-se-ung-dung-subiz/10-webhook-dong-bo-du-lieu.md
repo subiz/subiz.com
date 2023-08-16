@@ -24,7 +24,7 @@ Ví dụ:
 - Khi tư vấn viên cập nhật thông tin của khách hàng trên Subiz. Webhook gửi thông tin này sang server của bạn.
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxoskbtvdstzbjj_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyiyyvaiiypiaeu_acpxkgumifuoofoosble)
 
 ## Bạn cần chuẩn bị những gì?
 
@@ -95,7 +95,7 @@ Một lưu ý trước khi bạn bắt đầu là cơ chế xác thực chỉ á
 Bạn có thể thiết lập mật khẩu cho webhook bằng cách đăng nhập vào Dashboard của Subiz. Vào Setting → Webhook → Chỉnh sửa, rồi chọn thay đổi ô Mật khẩu
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpngwxgonwuewgc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdctfjdcsgjosfcm_acpxkgumifuoofoosble)
 
 
 Khi chọn mật khẩu, bạn nên sử dụng một mật khẩu ngẫu nhiên, càng dài sẽ càng bảo mật và không nhất thiết phải chứa ký tự đặc biệt. Nếu mật khẩu bị lộ, bên thứ 3 có thể giả dạng Subiz để gửi event không tin cậy sang endpoint của bạn.
@@ -201,7 +201,7 @@ puts Base64.encode64(hash)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxovtbfaartvoiw_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjfsgwyytnclov_acpxkgumifuoofoosble)
 
 
 Đầu gửi (subiz)
@@ -265,7 +265,7 @@ Mỗi sự kiện sẽ có các trường thông tin chung như ví dụ bên d�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxoxsskkqhdsaga_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjiurytsdssuhr_acpxkgumifuoofoosble)
 
 
 **user\_created**
