@@ -24,7 +24,7 @@ Ví dụ website tiếng Việt thì cửa sổ chat hiện tiếng Việt, webs
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpmsyfqtfgwdakg_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykbhrgosvqinju_acpxkgumifuoofoosble)
 
 
 
@@ -50,7 +50,7 @@ Hướng dẫn cài đặt Subiz đa ngôn ngữ:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpmvpoedpnqgvar_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykeubnrdhykpis_acpxkgumifuoofoosble)
 
 
 
@@ -71,7 +71,7 @@ Hướng dẫn cài đặt cửa sổ chat đa ngôn ngữ:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpmyepmwgudtteb_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykhqldmwwqplcf_acpxkgumifuoofoosble)
 
 
 
@@ -101,7 +101,7 @@ Hướng dẫn cài đặt bot gửi tin nhắn đa ngôn ngữ:
 - Xuất bản đề hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxprsfipuifjinh_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykkopfobamqvoi_acpxkgumifuoofoosble)
 
 
 
@@ -144,11 +144,11 @@ Hướng dẫn cài đặt popup gửi tin nhắn đa ngôn ngữ:
 Agent có thể thay đổi ngôn ngữ trang làm việc [app.subiz.com.vn](https://app.subiz.com.vn/) tại cài đặt thông tin cá nhân như sau: 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpndeonjlccrmno_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdctugsqdhqyqzdj_acpxkgumifuoofoosble)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxpuwmxalavlizc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykqvycjvkfgcme_acpxkgumifuoofoosble)
 
 
 

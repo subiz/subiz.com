@@ -240,6 +240,7 @@ last_update:
 ---
 
 ` + data
+		console.log('WRITING', fileName)
 		fs.writeFileSync(fileName, data, {encoding: 'utf8'})
 
 		// auto gen index directory
@@ -247,7 +248,7 @@ last_update:
 		if (categoryIndex)
 			fs.writeFileSync('./docs' + sluggy(categoryPath) + '/index.md', categoryIndex, {encoding: 'utf8'})
 	})
-
+	console.log('COPY RECURSIVE')
 	copyRecursiveSync('./static_docs', './docs')
 }
 

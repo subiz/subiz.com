@@ -28,7 +28,7 @@ Bạn có thể thiết lập lại một số công cụ sau để chăm sóc k
 Bạn thêm ngày nghỉ Lễ tại trang **[Giờ làm việc](https://app.subiz.com.vn/settings/business-hours)**. Như vậy, Subiz tự động nhận diện Ngày lễ là ngày không làm việc để bạn cài đặt điều kiện cho các chức năng khác chạy khi ngoài giờ làm việc như cửa sổ chat, bot, popup. **[Xem hướng dẫn sử dụng Giờ làm việc](https://subiz.com.vn/docs/1954376476-gio-lam-viec)**.
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtphsbiaikyeisn_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjyiyrrqqmxaje_acpxkgumifuoofoosble)
 
 ## Cửa sổ chat rộn ràng không khí Tết
 
@@ -36,7 +36,7 @@ Bạn thêm ngày nghỉ Lễ tại trang **[Giờ làm việc](https://app.subi
 Khách truy cập website sẽ nhìn thấy ngay nút chat có hình ảnh Tết tạo sự thu hút khách và thêm rộn ràng không khí Tết.
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpjzuytwxzlgiz_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdctqmlhljhffmlb_acpxkgumifuoofoosble)
 
 
 Subiz có sẵn thư viện nút chat đầy màu sắc để bạn lựa chọn sử dụng.
@@ -48,7 +48,7 @@ Subiz có sẵn thư viện nút chat đầy màu sắc để bạn lựa chọn
 - Chọn nút chat và sử dụng mẫu phù hợp với website của bạn > Cập nhật để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpmrgtdiulxwiq_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykexpxzgjutsgq_acpxkgumifuoofoosble)
 
 
 
@@ -64,7 +64,7 @@ Bạn muốn chúc mừng năm mới khách truy cập website?
 Bạn muốn thông báo lịch nghỉ Tết trang trọng?
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpplrwcmgxnfoo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdcttmdupzawdfsa_acpxkgumifuoofoosble)
 
 
 
@@ -81,7 +81,7 @@ Bạn chỉ cần vài click để chọn mẫu popup có sẵn trên Subiz đ�
 - Chọn Xuất bản để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpsavfpoywotut_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykllbchdmgwhqd_acpxkgumifuoofoosble)
 
 ## Bot tự động trả lời khi khách nhắn tin trong dịp Tết
 
@@ -98,7 +98,7 @@ Bot tự động giúp bạn:
 - Cảm ơn khách đã liên hệ tới
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpvfudsbcxkemn_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcykovfniiatvvir_acpxkgumifuoofoosble)
 
 
 ***Hướng dẫn cài đặt: ***
@@ -128,7 +128,7 @@ Bạn có thể tạo lời thoại chờ theo nhu cầu bằng công nghệ AI 
     - Chọn agent xử lý cuộc gọi nhỡ
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtpybbdspjoeacu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdctyajhyaofmazs_acpxkgumifuoofoosble)
 
 ## Sẵn sàng online 24/7 với app mobile Subiz
 
@@ -138,4 +138,4 @@ Tư vấn viên vẫn trực tết sẵn sàng hỗ trợ khách hàng mọi lú
 Tải app Subiz ngay!!!
 
 
-![](https://vcdn.subiz-cdn.com/file/firsghtqaqcfnjsgpvmu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbdctzouzmmllbtvq_acpxkgumifuoofoosble)

@@ -32,7 +32,7 @@ Lưu ý:
 - Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzdaszmagmxgefwa_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyggraiwqqvdjaa_acpxkgumifuoofoosble)
 
 ## Tự động hoàn thành hội thoại mới
 
@@ -45,7 +45,7 @@ Tự động hoàn thành hội thoại chỉ áp dụng với hội thoại m�
 - Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzdawevicdfkpvbr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcygklsgbhxppnqa_acpxkgumifuoofoosble)
 
 ## 4 click hoàn thành hội thoại hàng loạt
 
@@ -60,4 +60,4 @@ Với các hội thoại cũ, bạn cần thủ công hoàn thành hàng loạt 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsxzdazgijxgwlymsu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcygnzfiktdugceq_acpxkgumifuoofoosble)

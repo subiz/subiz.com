@@ -25,7 +25,7 @@ last_update:
 Subiz sẽ gửi các dữ liệu sự kiện (event data) của khách (user) trên website sang Google Analytics. Khi đó, bạn có thể xem được các dữ liệu này tại mục Sự kiện (event) của Google Analytics. Các sự kiện mà Subiz gửi : 
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrxpeecxaejqauqd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjrghsxmddmurl_acpxkgumifuoofoosble)
 
 ## Khai thác dữ liệu
 
@@ -70,7 +70,7 @@ Hướng dẫn cài đặt Subiz trên GTM:
 - Chú ý tại mục Data Layer Version bạn chọn Version 2 - đây là version Data Layer Subiz sử dụng.
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpnqsxoshtkyljf_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjvflenedsfdnd_acpxkgumifuoofoosble)
 
 
 
@@ -81,7 +81,7 @@ Hướng dẫn cài đặt Subiz trên GTM:
 - Lưu
 
 
-![](https://vcdn.subiz-cdn.com/file/firsfrpntgmznieumbmq_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtbcyjyehnzdawkcek_acpxkgumifuoofoosble)
 
 
 
