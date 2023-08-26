@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-08-26T03:09:56.980Z
+  date: 2023-08-26T10:37:33.045Z
 ---
 
 # Tích hợp trên website
@@ -31,7 +31,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập w
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawluzczbkiznvkr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkbxvbocavxfkok_acpxkgumifuoofoosble)
 
 
 
@@ -67,7 +67,7 @@ Bạn được tùy chỉnh thiết kế và thông tin hiển thị trên cửa
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawlymcobrhloatt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcayuljppvwxnm_acpxkgumifuoofoosble)
 
 
 
@@ -84,17 +84,11 @@ Nút chat này có thể thay đổi là ảnh nhỏ hoặc ảnh lớn nhằm t
 
 
 
-**Hướng dẫn thay đổi nút chat: **[Mở cài đặt cửa sổ chat ](https://app.subiz.com.vn/chatbox/design)
+**Hướng dẫn thay đổi nút chat: **[Mở cài đặt cửa sổ chat ](https://app.subiz.com.vn/chatbox/design)> Chọn nút chat > Bật ON hiện hoặc OFF tắt nút chat trên website > Click ảnh nút chat để thay đổi > Chọn sử dụng ảnh nút chat trong thư viện có sẵn của Subiz hoặc tải ảnh bạn thiết kế lên. 
 
-> Chọn nút chat 
 
-> Bật ON hiện hoặc OFF tắt nút chat trên website 
 
-> Click ảnh nút chat để thay đổi 
-
-> Chọn sử dụng ảnh nút chat trong thư viện có sẵn của Subiz hoặc tải ảnh bạn thiết kế lên. Lưu ý: Thiết kế ảnh nút chat có kích thước tối đa 240px x 146px. 
-
-> Xuất bản để hoàn thành
+**Lưu ý**: Thiết kế ảnh nút chat có kích thước tối đa 240px x 146px. 
 
 
 
@@ -103,7 +97,7 @@ Nút chat này có thể thay đổi là ảnh nhỏ hoặc ảnh lớn nhằm t
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmbrrankgqekqt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkceredtablyxgq_acpxkgumifuoofoosble)
 
 
 
@@ -115,7 +109,7 @@ Khi bạn muốn chuyển nút chat lên cao hay xuống thấp, chuyển sang t
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmetqedktdaoqo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcidsjxiopcqqf_acpxkgumifuoofoosble)
 
 ### Thay đổi chiều rộng và chiều dài cửa sổ chat như thế nào?
 
@@ -129,7 +123,7 @@ Khi bạn muốn chuyển nút chat lên cao hay xuống thấp, chuyển sang t
 Lưu ý: Trên điện thoại sẽ cố định kích thước cửa sổ chat, không thay đổi được vì màn hình điện thoại nhỏ và cần tối ưu trải nghiệm nhắn tin của người dùng.
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmetqedktdaoqo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcidsjxiopcqqf_acpxkgumifuoofoosble)
 
 
 
@@ -152,7 +146,7 @@ Lưu ý: Trên điện thoại sẽ cố định kích thước cửa sổ chat,
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmjwrellkbxigr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcltfflcpwliib_acpxkgumifuoofoosble)
 
 ### Hiện nút Facebook và Zalo trên cửa sổ chat
 
@@ -172,7 +166,7 @@ Hướng dẫn thay đổi lời chào: [Mở cài đặt cửa sổ chat](https
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmndzkcmiamies_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcprwjpqlxqpsq_acpxkgumifuoofoosble)
 
 
 
@@ -186,7 +180,7 @@ Hướng dẫn: [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chat
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmqevpsugllbuo_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkcszxorlbjljby_acpxkgumifuoofoosble)
 
 
 
@@ -204,4 +198,4 @@ Hướng dẫn: [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chat
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firthawmtqkqdabiipli_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firthfkutorvhpecpljh_acpxkgumifuoofoosble)

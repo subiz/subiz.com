@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1693021672649,
-  "updated": 1693021672649,
+  "fetched": 1693046375403,
+  "updated": 1693046375403,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -228,6 +228,17 @@
       "parents": [
         "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
       ],
+      "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
+      "name": "4. Tổng đài điện thoại",
+      "modifiedTime": "2023-08-26T10:39:32.798Z",
+      "version": "144",
+      "path_lower": "/110 Câu hỏi thường gặp/4.-tong-dai-đien-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
       "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
       "name": "6. Thanh toán",
       "modifiedTime": "2023-08-18T11:49:35.663Z",
@@ -244,17 +255,6 @@
       "modifiedTime": "2023-08-16T11:10:00.195Z",
       "version": "56",
       "path_lower": "/110 Câu hỏi thường gặp/5.-app-mobile-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
-      "name": "4. Tổng đài điện thoại",
-      "modifiedTime": "2023-08-16T10:56:25.734Z",
-      "version": "136",
-      "path_lower": "/110 Câu hỏi thường gặp/4.-tong-dai-đien-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -299,72 +299,6 @@
       "modifiedTime": "2023-05-16T09:04:18.073Z",
       "version": "174",
       "path_lower": "/110 Câu hỏi thường gặp/3.-loi-gui-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
-      "name": "1. Quản lý hội thoại của tôi",
-      "modifiedTime": "2023-07-29T02:02:45.137Z",
-      "version": "272",
-      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1KSUm6y1fGDQbJb4T24Mnju1dDx3O-e6j5MAEEKPss4w",
-      "name": "3. Trả lời khách từ Zalo OA",
-      "modifiedTime": "2023-07-26T07:46:39.124Z",
-      "version": "7",
-      "path_lower": "/30 Tư vấn khách hàng/3.-tra-loi-khach-tu-zalo-oa"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
-      "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2023-07-20T08:35:58.892Z",
-      "version": "126",
-      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
-      "name": "5. Nhắc việc cần làm",
-      "modifiedTime": "2023-06-02T10:25:43.510Z",
-      "version": "110",
-      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
-      "name": "4. Nghe và gọi điện thoại ",
-      "modifiedTime": "2023-05-31T08:43:50.463Z",
-      "version": "146",
-      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
-      "name": "3. Tag hội thoại",
-      "modifiedTime": "2023-03-27T07:59:40.291Z",
-      "version": "137",
-      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -490,12 +424,78 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
+      "name": "1. Quản lý hội thoại của tôi",
+      "modifiedTime": "2023-07-29T02:02:45.137Z",
+      "version": "272",
+      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1KSUm6y1fGDQbJb4T24Mnju1dDx3O-e6j5MAEEKPss4w",
+      "name": "3. Trả lời khách từ Zalo OA",
+      "modifiedTime": "2023-07-26T07:46:39.124Z",
+      "version": "7",
+      "path_lower": "/30 Tư vấn khách hàng/3.-tra-loi-khach-tu-zalo-oa"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
+      "name": "2. Mẫu tin nhắn",
+      "modifiedTime": "2023-07-20T08:35:58.892Z",
+      "version": "126",
+      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
+      "name": "5. Nhắc việc cần làm",
+      "modifiedTime": "2023-06-02T10:25:43.510Z",
+      "version": "110",
+      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
+      "name": "4. Nghe và gọi điện thoại ",
+      "modifiedTime": "2023-05-31T08:43:50.463Z",
+      "version": "146",
+      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
+      "name": "3. Tag hội thoại",
+      "modifiedTime": "2023-03-27T07:59:40.291Z",
+      "version": "137",
+      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2023-08-26T03:09:56.980Z",
-      "version": "275",
+      "modifiedTime": "2023-08-26T10:37:33.045Z",
+      "version": "279",
       "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
     },
     {
