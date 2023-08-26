@@ -3,7 +3,7 @@ title: Câu hỏi thường gặp
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-08-18T11:49:35.663Z
+   date: 2023-08-26T10:39:32.798Z
 ---
 # Câu hỏi thường gặp
 * [Cửa sổ chat trên website](/110-cau-hoi-thuong-gap/1.-cua-so-chat-tren-website.md)
