@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-08-28T11:42:28.345Z
+  date: 2023-08-29T03:53:49.776Z
 ---
 
 # Tích hợp trên website
@@ -20,7 +20,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập d
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcqwnnuspwtksll_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsafxxkhljrortb_acpxkgumifuoofoosble)
 
 ## Hướng dẫn cài đặt Subiz trên website
 
@@ -29,7 +29,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập d
 - Bước 2: Chọn [Tích hợp website](https://app.subiz.com.vn/settings/website)
 - Bước 3: Chọn nút Cài lên website
 - Bước 4: Điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn.
-- Bước 5: Sao chép mã nhúng Subiz và dán vào code website trong thẻ <body>
+- Bước 5: Sao chép mã nhúng Subiz và dán vào code website trong thẻ **body**.
 
 
 
@@ -38,22 +38,12 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrayygzjqjufbt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsakhgcyjvgzehc_acpxkgumifuoofoosble)
 
 
 
 
  
-
-
-
-
-
-
-
-
-
-
 ## Chỉnh sửa cửa sổ chat Subiz
 
 
@@ -74,7 +64,7 @@ Hướng dẫn chỉnh sửa cửa sổ chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcretpybrykyuet_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsamnqdvznfqstx_acpxkgumifuoofoosble)
 
 
 
@@ -101,11 +91,11 @@ Hướng dẫn thay đổi nút chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrhxtfwqmpizfs_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsaoklzzawugkes_acpxkgumifuoofoosble)
 
 
 
-### Tôi muốn cài đặt khách click nút CTA trên website và mở cửa sổ chat
+### Tôi muốn cài đặt mở cửa sổ chat khi khách click nút CTA trên website
 
 
 Bạn sẽ không sử dụng nút chat ở góc phải hay góc trái màn hình. Bạn có thể cài đặt nút CTA ở vị trí bất kỳ trên website và mở cửa sổ chat khi khách click.
@@ -186,7 +176,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrrkkhxzlhpxao_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsatgqgfrhnxavk_acpxkgumifuoofoosble)
 
 ### Hiện nút Facebook và Zalo trên cửa sổ chat
 
@@ -199,7 +189,7 @@ Hướng dẫn cài đặt:
 - Bước 4: Thêm liên kết > Chọn Fanpage và chọn Zalo > Dán đường link Fanpage, đường link Zalo OA
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrrkkhxzlhpxao_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsatgqgfrhnxavk_acpxkgumifuoofoosble)
 
 ### Lời chào thay đổi như thế nào?
 
@@ -219,7 +209,7 @@ Hướng dẫn thay đổi lời chào:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrwonlzxrzglxl_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsaxicqkrxqjtqb_acpxkgumifuoofoosble)
 
 
 
@@ -239,7 +229,7 @@ Hướng dẫn cài đặt:
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcrzmfktubfplsi_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsazstbyzpaqqtl_acpxkgumifuoofoosble)
 
 
 
@@ -261,4 +251,4 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtiwcscytqwsboargk_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwsbddieqxoarqkw_acpxkgumifuoofoosble)
