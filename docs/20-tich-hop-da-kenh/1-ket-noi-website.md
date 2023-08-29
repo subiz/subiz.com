@@ -20,7 +20,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập d
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtimaqvxcsprkgldtz_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcqwnnuspwtksll_acpxkgumifuoofoosble)
 
 ## Hướng dẫn cài đặt Subiz trên website
 
@@ -38,7 +38,7 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtimaranomdslfcocj_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrayygzjqjufbt_acpxkgumifuoofoosble)
 
 
 
@@ -74,7 +74,7 @@ Hướng dẫn chỉnh sửa cửa sổ chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmlwkdskwozgle_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcretpybrykyuet_acpxkgumifuoofoosble)
 
 
 
@@ -101,7 +101,7 @@ Hướng dẫn thay đổi nút chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmpfnwlwsxbblz_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrhxtfwqmpizfs_acpxkgumifuoofoosble)
 
 
 
@@ -141,7 +141,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmsiyluinnlfsx_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrlgbihjofjoib_acpxkgumifuoofoosble)
 
 ### Thay đổi chiều rộng và chiều dài cửa sổ chat như thế nào?
 
@@ -163,7 +163,7 @@ Hướng dẫn cài đặt:
 **Lưu ý**: Trên điện thoại sẽ cố định kích thước cửa sổ chat, không thay đổi được vì màn hình điện thoại nhỏ và cần tối ưu trải nghiệm nhắn tin của người dùng.
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmsiyluinnlfsx_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrlgbihjofjoib_acpxkgumifuoofoosble)
 
 
 
@@ -186,7 +186,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmxccexnqyfcht_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrrkkhxzlhpxao_acpxkgumifuoofoosble)
 
 ### Hiện nút Facebook và Zalo trên cửa sổ chat
 
@@ -199,7 +199,7 @@ Hướng dẫn cài đặt:
 - Bước 4: Thêm liên kết > Chọn Fanpage và chọn Zalo > Dán đường link Fanpage, đường link Zalo OA
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwmxccexnqyfcht_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrrkkhxzlhpxao_acpxkgumifuoofoosble)
 
 ### Lời chào thay đổi như thế nào?
 
@@ -219,7 +219,7 @@ Hướng dẫn thay đổi lời chào:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwncadwzdvpwdmn_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrwonlzxrzglxl_acpxkgumifuoofoosble)
 
 
 
@@ -239,7 +239,7 @@ Hướng dẫn cài đặt:
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtilwnfaxcjhpxwkys_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcrzmfktubfplsi_acpxkgumifuoofoosble)
 
 
 
@@ -261,4 +261,4 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtimarorfjczsgbcuv_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/firtiwcscytqwsboargk_acpxkgumifuoofoosble)
