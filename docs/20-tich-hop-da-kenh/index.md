@@ -3,7 +3,7 @@ title: Tích hợp đa kênh
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-08-29T03:53:49.776Z
+   date: 2023-08-30T10:47:54.216Z
 ---
 # Tích hợp đa kênh
 * [Kết nối website](/20-tich-hop-da-kenh/1-ket-noi-website.md)

@@ -90,3 +90,17 @@ Thông báo: (#10) This message is sent outside of allowed window. Learn more ab
 
 - Nguyên nhân: Token Zalo OA hết hạn
 - Cách xử lý: [Tích hợp lại Zalo OA vào Subiz](https://subiz.com.vn/docs/297964546-ket-noi-zalo-oa) để cấp lại các quyền nhắn tin cho Subiz.
+
+
+![](https://vcdn.subiz-cdn.com/file/firtjrhdnhzubtwphqek_acpxkgumifuoofoosble)
+
+## Zalo - Lỗi 230: user has not interacted with Zalo OA in the past 7 days
+
+
+- Nguyên nhân: Do khách hàng không có tương tác nhắn tin tới Zalo OA trong 7 ngày gần nhất.
+- Cách xử lý: Liên hệ khách qua kênh khác như gọi điện thoại, gửi email, nhắn tin messenger
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/firtjrhdqdikohwkvkxy_acpxkgumifuoofoosble)
