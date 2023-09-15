@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-08-29T10:46:21.285Z
+  date: 2023-09-11T08:51:55.743Z
 ---
 
 # Tích hợp trên website
@@ -20,7 +20,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập d
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhdmlqhwwpzqtmm_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/9628eec96ae0a667421996a5a992d21d46a2f4545b4af5eef8a44dd7d171ecfc_acpxkgumifuoofoosble)
 
 ## Hướng dẫn cài đặt Subiz trên website
 
@@ -38,7 +38,7 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhdrbijeztkozrd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/42c591962429c4a1178adcdda20824589c1b1ab3799f037eccf356e851cd3f9b_acpxkgumifuoofoosble)
 
 
 
@@ -64,7 +64,7 @@ Hướng dẫn chỉnh sửa cửa sổ chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhduxredgnyssyt_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/1f57dd3242bc8bbf0ccd3a0c71772c8938c0fd900517fa0044cb4fdc07d00f1c_acpxkgumifuoofoosble)
 
 
 
@@ -91,7 +91,7 @@ Hướng dẫn thay đổi nút chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhdyapockpleiat_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/8353408486fc487766b9e9ddec6e0133c274bd68d00de2252245f6e61f81a503_acpxkgumifuoofoosble)
 
 
 
@@ -131,7 +131,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhebcdwnlohxoly_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/9cb39200b9facfa35a3ab5874435821175581a9d54d51bf7ccee73238d25266b_acpxkgumifuoofoosble)
 
 ### Thay đổi chiều rộng và chiều dài cửa sổ chat như thế nào?
 
@@ -153,7 +153,7 @@ Hướng dẫn cài đặt:
 **Lưu ý**: Trên điện thoại sẽ cố định kích thước cửa sổ chat, không thay đổi được vì màn hình điện thoại nhỏ và cần tối ưu trải nghiệm nhắn tin của người dùng.
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhebcdwnlohxoly_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/9cb39200b9facfa35a3ab5874435821175581a9d54d51bf7ccee73238d25266b_acpxkgumifuoofoosble)
 
 
 
@@ -176,7 +176,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhegefozfsvhort_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/072a3dd49198d655e83624962f21059f8080086faa2c8d39ee3e27cbb5a3fd2f_acpxkgumifuoofoosble)
 
 ### Hiện nút Facebook và Zalo trên cửa sổ chat
 
@@ -189,7 +189,7 @@ Hướng dẫn cài đặt:
 - Bước 4: Thêm liên kết > Chọn Fanpage và chọn Zalo > Dán đường link Fanpage, đường link Zalo OA
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhegefozfsvhort_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/072a3dd49198d655e83624962f21059f8080086faa2c8d39ee3e27cbb5a3fd2f_acpxkgumifuoofoosble)
 
 ### Lời chào thay đổi như thế nào?
 
@@ -209,7 +209,7 @@ Hướng dẫn thay đổi lời chào:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhekoyuvjkzayon_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/27a1005e6b4ad668c5e31f717584878b76535aa351345369e9380cc220123b50_acpxkgumifuoofoosble)
 
 
 
@@ -229,7 +229,7 @@ Hướng dẫn cài đặt:
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrheoaffihbvqvky_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fe626a0072562179d6464abfafb5abe84c0d01ec8c620fbe3d16dd000dc72d01_acpxkgumifuoofoosble)
 
 
 
@@ -251,4 +251,17 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhercxnaoifrgsj_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/857f2c5eb168dd591f160ebda0da17a1747307fca1884943f1e7e14059f9fd77_acpxkgumifuoofoosble)
+
+### Sửa ngôn ngữ cửa sổ chat?
+
+
+Bạn muốn cửa sổ chat của bạn hiển thị tiếng Anh hoặc tiếng Việt hoặc bất cứ ngôn ngữ nào? Cài đặt dễ dàng với Subiz.
+
+
+
+Hướng dẫn cài đặt ngôn ngữ:
+
+- Mở Cài đặt > chọn Cửa sổ chat
+- Mở mục 2 Cài đặt điều kiện cửa sổ chat
+- Chọn Đa ngôn ngữ > Thêm ngôn ngữ phù hợp
