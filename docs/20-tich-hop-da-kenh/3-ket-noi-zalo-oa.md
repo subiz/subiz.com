@@ -5,7 +5,7 @@ title: Tích hợp Zalo OA
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-08-30T10:47:54.216Z
+  date: 2023-11-10T10:43:06.003Z
 ---
 
 # Tích hợp Zalo OA 
@@ -27,14 +27,20 @@ last_update:
 
 
 
-- **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **[Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)**
-- Chọn **Kết nối Zalo**
-- **Đăng nhập tài khoản Zalo cá nhân** > **Chọn Zalo OA kết nối vào Subiz** > Chọn tất cả quyền và Xong hoàn thành
+**Đăng nhập Subiz** 
+
+> Mở **Cài đặt** > Chọn **[Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)**
+
+> Chọn Tích hợp Zalo Official Account và làm theo các bước cấp quyền
+
+
+
+[XEM VIDEO TÍCH HỢP ZALO](https://www.youtube.com/watch?v=67dyW9RBD3o)
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtjrhdmvfrtisnnpwe_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/72835de1cd493e0b9beeaf38a14978571507806820b3e003ed06d944195e0958_acpxkgumifuoofoosble)
 
 
 

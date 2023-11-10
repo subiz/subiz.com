@@ -5,7 +5,7 @@ title: Tích hợp Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-08-01T10:46:46.104Z
+  date: 2023-11-10T10:34:55.099Z
 ---
 
 # Tích hợp Fanpage
@@ -31,12 +31,20 @@ last_update:
 ## Hướng dẫn tích hợp Fanpage 
 
 
-- Đăng nhập Subiz > Mở **Cài đặt **> Chọn **[Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)**
-- Chọn nút **Tích hợp Fanpage **và làm theo các bước
-- **Đăng nhập Facebook của admin** Fanpage > **Chọn Fanpage kết nối vào Subiz** > **Chọn tất cả quyền và Xong** hoàn thành
+Đăng nhập Subiz qua link https://app.subiz.com.vn
+
+> Mở **Cài đặt **> Chọn **[Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)** 
+
+> Chọn nút **Tích hợp Fanpage **và làm theo các bước
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbdcunqzcziruyqwy_acpxkgumifuoofoosble)
+
+[XEM VIDEO TÍCH HỢP FANPAGE](https://www.youtube.com/watch?v=XkAFJFvsUbA)
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/c641504d4edfac34878f6ddfc7dab78f0eb6b68b44927c3b81c8c612893cd0d7_acpxkgumifuoofoosble)
 
 ## Hướng dẫn thêm Fanpage mới vào Subiz
 
@@ -53,4 +61,4 @@ Khi bạn đã kết nối một số Fanpage vào Subiz, sáu đó muốn thêm
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcymbdxwflgrbqkp_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/0f265b71f2f7af95c8291d00079f7d61f73a48d02232ee94b68bb54b779929a8_acpxkgumifuoofoosble)

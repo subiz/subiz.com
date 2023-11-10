@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-09-11T08:51:55.743Z
+  date: 2023-11-10T10:29:48.971Z
 ---
 
 # Tích hợp trên website
@@ -15,7 +15,7 @@ last_update:
 ## Kênh website hoạt động như thế nào?
 
 
-Trên website, Subiz sẽ hiển thị cửa sổ chat giúp khách truy cập dễ dàng nhắn tin liên hệ và nhận được trả lời nhanh chóng.
+Trên website, Subiz sẽ hiển thị cửa sổ chat thu hút khách truy cập web, giúp khách dễ dàng nhắn tin liên hệ và nhận được trả lời nhanh chóng.
 
 
 
@@ -37,13 +37,15 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
+[XEM VIDEO CÀI ĐẶT LÊN WEBSITE](https://www.youtube.com/watch?v=cIA8Zp_B2gg)
+
+
+
 
 ![](https://vcdn.subiz-cdn.com/file/42c591962429c4a1178adcdda20824589c1b1ab3799f037eccf356e851cd3f9b_acpxkgumifuoofoosble)
 
 
 
-
- 
 ## Chỉnh sửa cửa sổ chat Subiz
 
 
@@ -90,15 +92,19 @@ Hướng dẫn thay đổi nút chat:
 
 
 
+[XEM VIDEO THAY ĐỔI NÚT CHAT](https://www.youtube.com/watch?v=idX1Mcv-Y0c)
+
+
+
 
 ![](https://vcdn.subiz-cdn.com/file/8353408486fc487766b9e9ddec6e0133c274bd68d00de2252245f6e61f81a503_acpxkgumifuoofoosble)
 
 
 
-### Tôi muốn cài đặt mở cửa sổ chat khi khách click nút CTA trên website
+### Tôi muốn cài đặt mở cửa sổ chat khi khách click nút CTA trên website?
 
 
-Bạn sẽ không sử dụng nút chat ở góc phải hay góc trái màn hình. Bạn có thể cài đặt nút CTA ở vị trí bất kỳ trên website và mở cửa sổ chat khi khách click.
+Bạn không muốn sử dụng nút chat ở góc phải hay góc trái màn hình. Bạn cần cài đặt nút CTA ở vị trí bất kỳ trên website và mở cửa sổ chat khi khách nhấp chuột vào.
 
 
 
@@ -146,7 +152,7 @@ Hướng dẫn cài đặt:
 
 - Bước 1: Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Bước 2: Chọn Vị trí và Kích thước
-- Bước 3: Chọn px chiều rộng và chiều dài
+- Bước 3: Chọn px chiều rộng và chiều cao
 
 
 
@@ -160,36 +166,30 @@ Hướng dẫn cài đặt:
 ### Tôi muốn đổi tên và ảnh logo trên cửa sổ chat?
 
 
-Đổi tên trên cửa sổ chat, bạn làm 2 bước:
-
-- Bước 1: Thay đổi tiêu đề cửa sổ chat tại [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
-- Bước 2: Chỉnh sửa tên của agent tại [cài đặt agent](https://app.subiz.com.vn/chatbox/design)
-
-
-
-Đổi ảnh trên cửa sổ chat, bạn cần làm 3 bước sau:
-
-- Bước 1: Thay đổi ảnh đại diện tại [Cài đặt thông tin](https://app.subiz.com.vn/settings/)
-- Bước 2: Thay đổi ảnh agent tại [cài đặt agent](https://app.subiz.com.vn/chatbox/design)
-- Bước 3: Chọn hiển thị agent hoặc hiển thị logo doanh nghiệp tại [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+Cửa sổ chat hiện tên và hình ảnh logo theo hồ sơ người chat. Bạn cài đặt như sau:
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/072a3dd49198d655e83624962f21059f8080086faa2c8d39ee3e27cbb5a3fd2f_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/40bd68083df1ed83f52773339e7b52a401764b8c955fc2642b380960beb2ffeb_acpxkgumifuoofoosble)
+
+
+
+![](https://vcdn.subiz-cdn.com/file/e75a9bb4b2704de20b4f7e405a254d1af99fa3fdf2317ef91b96f1c55251eae7_acpxkgumifuoofoosble)
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fef24f8d9e8ae9b249c46344dbc9856be9d0b938fb7fa97c7d48eb2a05146a98_acpxkgumifuoofoosble)
 
 ### Hiện nút Facebook và Zalo trên cửa sổ chat
 
 
-Hướng dẫn cài đặt:
-
-- Bước 1: [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
-- Bước 2: Chọn Tiêu đề
-- Bước 3: Chọn Hiển thị logo doanh nghiệp
-- Bước 4: Thêm liên kết > Chọn Fanpage và chọn Zalo > Dán đường link Fanpage, đường link Zalo OA
+Hướng dẫn cài đặt: [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design) > Chọn Tiêu đề > Chọn Hiển thị logo doanh > Thêm liên kết Facebook và Zalo > Cập nhật là xong
 
 
-![](https://vcdn.subiz-cdn.com/file/072a3dd49198d655e83624962f21059f8080086faa2c8d39ee3e27cbb5a3fd2f_acpxkgumifuoofoosble)
+
+
+![](https://vcdn.subiz-cdn.com/file/037d1c96a564cf8beb286e4537b95e944f465b6baf5e2f163eef7cbbc43a78fa_acpxkgumifuoofoosble)
 
 ### Lời chào thay đổi như thế nào?
 
@@ -226,7 +226,7 @@ Hướng dẫn cài đặt:
 
 
 
-**Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
+**Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fe626a0072562179d6464abfafb5abe84c0d01ec8c620fbe3d16dd000dc72d01_acpxkgumifuoofoosble)
@@ -246,7 +246,9 @@ Hướng dẫn cài đặt:
 
 
 
-**Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo yêu cầu của Doanh nghiệp, bạn sẽ cần tạo thêm trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
+**Lưu ý**: Khi bạn muốn thông báo cho khách biết nhân viên đang không trực tuyến và yêu cầu khách điền thông tin thì bạn sử dụng hỏi thông tin khi offline. 
+
+Bạn muốn hỏi thêm thông tin khác, tạo mới trường thông tin tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Rồi quay lại thêm thông tin mới vào bảng hỏi 
 
 
 
@@ -262,6 +264,9 @@ Bạn muốn cửa sổ chat của bạn hiển thị tiếng Anh hoặc tiếng
 
 Hướng dẫn cài đặt ngôn ngữ:
 
-- Mở Cài đặt > chọn Cửa sổ chat
-- Mở mục 2 Cài đặt điều kiện cửa sổ chat
-- Chọn Đa ngôn ngữ > Thêm ngôn ngữ phù hợp
+
+![](https://vcdn.subiz-cdn.com/file/4061792ced88e893444df69fb1c63741bda2df22294be429a0c4b6f15ab852c4_acpxkgumifuoofoosble)
+
+
+
+![](https://vcdn.subiz-cdn.com/file/a7bf9cd6769d0146e0f01e052004a6cd341e1f35acddc990bbcb91fc24cbd2ea_acpxkgumifuoofoosble)
