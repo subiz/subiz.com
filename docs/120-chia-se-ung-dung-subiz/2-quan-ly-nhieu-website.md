@@ -48,7 +48,7 @@ Bạn có nhiều website khác nhau. Để biết cụ thể website nào đang
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcyjuqyllngmzgsd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/ece436ca9609375983b47ed6f324c26a3fccc6e9e7dd175007490133d3bc3f6c_acpxkgumifuoofoosble)
  
 ### Bước 2: Mời thêm agent
 
@@ -62,7 +62,7 @@ Hướng dẫn tạo thêm agent: Vào trang [cài đặt agent](https://app.sub
 Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent > trên tab trình duyệt hiện “agent\_id”. 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcyjxwssqkxvrmnu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/e16a26f5b8306627bc136b4bae5163716b1b0884447925e4db513eb274734d05_acpxkgumifuoofoosble)
 
 ### Bước 3: Chỉnh sửa cửa sổ chat trên Subiz cho website đầu tiên
 
@@ -74,7 +74,7 @@ Tại đây, bạn sửa: Tiêu đề chọn hiển thị agent và Lời chào 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbdctogivxsgrvjpd_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/5b60adbf0de30ba2046b35c835800c1e8d1a2820489cbfc78de50bc35d808260_acpxkgumifuoofoosble)
 
 ### Bước 4: Sử dụng API chỉnh sửa cửa sổ chat trên website còn lại
 
@@ -179,7 +179,7 @@ Khi bạn muốn phân chia chat từ một website cụ thể cho các agent t�
 Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcykfmyajsxqssjr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/b8ace8df8f00a40b1a5d1711d67e786890347092cf60c8d1a69131152880a608_acpxkgumifuoofoosble)
 
 ### Bước 6: Bot tự động trả lời riêng từng website
 
@@ -189,7 +189,7 @@ Bot tự động chào đón và trả lời riêng cho từng website. Bạn [t
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbdctrednvjywlqqu_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/4d3f1474c4d019a4825035af9f258a52fd5971547876d7f3c0d647fb20609cbe_acpxkgumifuoofoosble)
 
 
 
@@ -199,7 +199,7 @@ Bot tự động chào đón và trả lời riêng cho từng website. Bạn [t
 Bạn cần báo cáo, so sánh số lượng hội thoại khách nhắn tin trên mỗi website, bạn sẽ vào thống kê hội thoại và xem mục Theo website” - “Nguồn hội thoại” 
 
 Lưu ý: [Cần thêm tên miền website](https://subiz.com.vn/docs/158663500-quan-ly-nhieu-website#b%C6%B0%E1%BB%9Bc-1-ki%E1%BB%83m-so%C3%A1t-danh-s%C3%A1ch-website) tại trang tích hợp website để Subiz thống kê 
-![](https://vcdn.subiz-cdn.com/file/firtbdctssyxfwioziuv_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/6c6ebfb5c636396147b236a6058af8a9bc755ab30483611b5522881fedec611d_acpxkgumifuoofoosble)
 
 ### 
 

@@ -35,7 +35,7 @@ Một số điểm nổi bật khi quản lý Fanpage trên Subiz:
 Hướng dẫn: Đăng nhập Subiz > mở trang Cài đặt > chọn **[Tích hợp Fanpage](https://app.subiz.com.vn/settings/messenger)** > chọn nút Tích hợp Fanpage và làm theo các bước
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqapuqozppusgy_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/f51e61366f585dc09440befff4282ac77f3b574d40c7237df54d470a3211770a_acpxkgumifuoofoosble)
 
 
 
@@ -58,7 +58,7 @@ Sau khi tích hợp thành công Fanpage vào Subiz, bạn có thể cài đặt
 Hướng dẫn cài đặt trả lời bình luận Fanpage: Mở trang **[Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)** > chọn nút CHỈNH SỬA Fanpage cụ thể > chọn các chức năng tự động trả lời bình luận > Lưu cài đặt để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqduxhdfgslmhi_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/82abbc31ab54de267106f500ca2f6c9b15494f85339592efe986bf27d7258673_acpxkgumifuoofoosble)
 
 ### Bước 3: Bot tự động trả lời chat messenger
 
@@ -77,7 +77,7 @@ Xem thêm **[hướng dẫn tạo bot tự động trả lời](https://subiz.co
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqhqnccoiwrcgv_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/cc60046ad2ac738a5e273e0700a53aa114c3e9d927eb6d5e9dd083beae363039_acpxkgumifuoofoosble)
 
 
 
@@ -91,7 +91,7 @@ Xem thêm **[hướng dẫn cài đặt Rule phân phối](https://subiz.com.vn/
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqkvrmedjqwcao_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/62b995c60364b3109aad0ee603bbf68500b9b036c9f80ab23c51a379e7977845_acpxkgumifuoofoosble)
 
 ### Bước 5: Thiết lập các công cụ chat tư vấn 
 
@@ -105,7 +105,7 @@ Mở trang **Tin nhắn**, agent sẽ nhận được tất cả tin nhắn bìn
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqoacyuwdsyzsr_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/9e6ca4c5339fbd5b8f574aebec8e5b55baa0e19687490a545e5388603286c861_acpxkgumifuoofoosble)
 
 
 
@@ -113,7 +113,7 @@ Mở trang **Tin nhắn**, agent sẽ nhận được tất cả tin nhắn bìn
 Một số công cụ hỗ trợ agent quản lý tin nhắn và hiểu khách hàng hơn:
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcxqremnvnactgxy_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/26f2320d9683a9d5b263cafdc37526687df704d22c78683f25cfbdd18edffd37_acpxkgumifuoofoosble)
 
 
 
