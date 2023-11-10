@@ -43,7 +43,7 @@ Khách truy cập website dễ dàng nhắn tin qua cửa sổ chat. Bạn muố
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbdctdzdqmfogfpqp_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/cef26fecf656bc91092397fd200d6c83db85dc1057a1173095536cd1719671bb_acpxkgumifuoofoosble)
 
 
 Sự khác nhau giữa Hỏi thông tin trước khi chat và Hỏi thông tin khi offline
@@ -63,7 +63,7 @@ Bot hoạt động như thế nào?
 Vì vậy trước hết, bạn sẽ cần xây dựng được quy trình tư vấn khách hàng, rồi từ đó thêm các hành động tương ứng cho bot.
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcyjcalwparznrkk_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/900e0ae8c9084574a723942a671559622b59a537571997ed0bffc76097eb3344_acpxkgumifuoofoosble)
 
 
 ***Hướng dẫn cài đặt bot:***
@@ -78,7 +78,7 @@ Vì vậy trước hết, bạn sẽ cần xây dựng được quy trình tư v
 - Click nút Xem thử để biết bot chạy như thế nào với khách hàng và sang trang [TIN NHẮN](https://app.subiz.com.vn/convo) để biết tư vấn viên nhận được chat như thế nào.
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcyjfkbovspxsmnv_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/3a3780b9eb03cf796fb9ccae953dfb39ebf1a71316913591514b331cb80c626c_acpxkgumifuoofoosble)
 
 
 
@@ -112,7 +112,7 @@ Bài này sẽ chỉ hướng dẫn bạn cài đặt popup hỏi thông tin kh�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/firtbcyjinnbqrnlvsbj_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/6176f04b467aa1830fb280a89164604dacdf1657812f92355e47365e46f75142_acpxkgumifuoofoosble)
 
 
 [Xem thêm một số kịch bản popup thường dùng](https://subiz.com.vn/docs/1083215603-popup-chuyen-doi-khach-tiem-nang#k%E1%BB%8Bch-b%E1%BA%A3n-popup-%C4%91%C4%83ng-k%C3%BD-t%C6%B0-v%E1%BA%A5n-cho-t%E1%BA%A5t-c%E1%BA%A3-kh%C3%A1ch-truy-c%E1%BA%ADp-website)
