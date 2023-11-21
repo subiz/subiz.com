@@ -1,5 +1,0 @@
-version: 1
-steps:
-- image: gcr.io/cloud-builders/go
-  command: |
-    go version

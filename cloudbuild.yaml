@@ -1,0 +1,45 @@
+steps:
+  # prepare env
+  - name: gcr.io/cloud-builders/gcloud
+    entrypoint: /bin/sh
+    args:
+    - '-c'
+    - |
+      ## get cloudbuild private key from KMS
+      mkdir -p ./.ssh
+      gcloud secrets versions access latest --secret=cloudbuild-ssh > ./.ssh/id_rsa || exit 0
+      echo >> ./.ssh/id_rsa # add new line
+      chmod 0600 ./.ssh/id_rsa
+      ## generate public key from private key
+      ssh-keygen -f ./.ssh/id_rsa -y > ./.ssh/id_rsa.pub
+      MD5PUB=`echo -n $$(cat ./.ssh/id_rsa.pub) | md5sum | cut -d ' ' -f 1` # 4556442d4233cd1dd99f16b2db23fd01
+
+      NOW=`date +%s`
+      echo -n $$NOW | ssh-keygen -Y sign -n file -f ./.ssh/id_rsa > ./.ssh/$SHORT_SHA.sig
+      SIGN=`cat ./.ssh/$SHORT_SHA.sig | od -v -A n -t x1 | sed 's/ *//g' | tr -d '\n'`
+      curl -o env.remote --fail "https://config.subiz.net/prod/$REPO_NAME?sign=$$SIGN&timestamp=$$NOW&md5key=$$MD5PUB" || exit 0
+      cat env.remote env.local > .env
+      cat .env
+
+  # build docker
+  - name: gcr.io/cloud-builders/docker
+    args: ['build', '-t', 'asia.gcr.io/$PROJECT_ID/$REPO_NAME:$SHORT_SHA', '.']
+
+  # push image
+  - name: gcr.io/cloud-builders/docker
+    args: ['push', 'asia.gcr.io/$PROJECT_ID/$REPO_NAME:$SHORT_SHA']
+
+  # deploy
+  - name: 'gcr.io/cloud-builders/gcloud'
+    entrypoint: /bin/sh
+    args:
+    - '-c'
+    - |
+      sed -i "s/\$$IMG/asia.gcr.io\/$PROJECT_ID\/$REPO_NAME:$SHORT_SHA/g" deploy.prod.yaml
+      cat deploy.prod.yaml
+
+  - name: gcr.io/cloud-builders/kubectl
+    args: ["apply", "-f", "deploy.prod.yaml"]
+    env:
+    - 'CLOUDSDK_COMPUTE_ZONE=asia-southeast1-a'
+    - 'CLOUDSDK_CONTAINER_CLUSTER=subiz'
