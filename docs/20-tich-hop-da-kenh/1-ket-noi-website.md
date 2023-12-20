@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-11-10T10:29:48.971Z
+  date: 2023-12-19T10:00:50.943Z
 ---
 
 # Tích hợp trên website
@@ -25,10 +25,11 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat thu hút khách truy cậ
 ## Hướng dẫn cài đặt Subiz trên website
 
 
-- Bước 1: Mở trang Cài đặt
-- Bước 2: Chọn [Tích hợp website](https://app.subiz.com.vn/settings/website)
-- Bước 3: Chọn nút Cài lên website
-- Bước 4: Điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn.
+- Bước 1: Đăng nhập Subiz qua đường link https://app.subiz.com.vn
+- Bước 2: Mở trang Cài đặt
+- Bước 3: Chọn [Tích hợp website](https://app.subiz.com.vn/settings/website)
+- Bước 4: Chọn nút Cài lên website
+- Bước 5: Điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn.
 - Bước 5: Sao chép mã nhúng Subiz và dán vào code website trong thẻ **body**.
 
 
@@ -67,8 +68,6 @@ Hướng dẫn chỉnh sửa cửa sổ chat:
 
 
 ![](https://vcdn.subiz-cdn.com/file/1f57dd3242bc8bbf0ccd3a0c71772c8938c0fd900517fa0044cb4fdc07d00f1c_acpxkgumifuoofoosble)
-
-
 
 ## Câu hỏi thường gặp
 
