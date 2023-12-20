@@ -5,7 +5,7 @@ title: Tích hợp Zalo OA
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-11-10T10:43:06.003Z
+  date: 2023-12-19T10:04:49.914Z
 ---
 
 # Tích hợp Zalo OA 
@@ -25,13 +25,9 @@ last_update:
 ## Hướng dẫn cài đặt Zalo vào Subiz
 
 
-
-
-**Đăng nhập Subiz** 
-
-> Mở **Cài đặt** > Chọn **[Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)**
-
-> Chọn Tích hợp Zalo Official Account và làm theo các bước cấp quyền
+- Bước 1: Đăng nhập Subiz qua đường link https://app.subiz.com.vn
+- Bước 2: Mở Cài đặt > Chọn [Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)
+- Bước 3: Chọn Tích hợp Zalo Official Account và làm theo các bước cấp quyền
 
 
 
