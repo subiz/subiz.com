@@ -3,7 +3,7 @@ title: Tích hợp đa kênh
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-01-12T09:25:44.463Z
+   date: 2024-01-22T11:17:04.436Z
 ---
 # Tích hợp đa kênh
 * [Kết nối website](/20-tich-hop-da-kenh/1-ket-noi-website.md)
@@ -12,3 +12,4 @@ last_update:
 * [Kết nối Instagram](/20-tich-hop-da-kenh/4.-ket-noi-instagram.md)
 * [Kết nối Email](/20-tich-hop-da-kenh/5.-ket-noi-email.md)
 * [Kết nối tổng đài](/20-tich-hop-da-kenh/6.-ket-noi-tong-dai.md)
+* [Kênh Google](/20-tich-hop-da-kenh/7.-kenh-google.md)
