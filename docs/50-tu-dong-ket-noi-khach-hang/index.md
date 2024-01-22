@@ -3,7 +3,7 @@ title: Tự động kết nối khách hàng
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2023-08-18T11:17:27.537Z
+   date: 2024-01-13T04:11:13.554Z
 ---
 # Tự động kết nối khách hàng
 * [Bot tự động nhắn tin](/50-tu-dong-ket-noi-khach-hang/1.-bot-tu-dong-nhan-tin.md)
