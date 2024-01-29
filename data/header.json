@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1706509639503,
-  "updated": 1706509639503,
+  "fetched": 1706510396870,
+  "updated": 1706510396870,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -105,34 +105,12 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
-      ],
-      "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
-      "name": "5.2 Đơn hàng",
-      "modifiedTime": "2023-04-17T10:47:43.744Z",
-      "version": "138",
-      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.2-don-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
-      ],
-      "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
-      "name": "5.1 Sản phẩm",
-      "modifiedTime": "2023-03-02T10:25:44.505Z",
-      "version": "176",
-      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.1-san-pham"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2024-01-29T05:35:54.006Z",
-      "version": "353",
+      "version": "355",
       "path_lower": "/60 Quản lý thông tin khách hàng/2.-ho-so-khach-hang"
     },
     {
@@ -193,6 +171,28 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
+      ],
+      "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
+      "name": "5.2 Đơn hàng",
+      "modifiedTime": "2023-04-17T10:47:43.744Z",
+      "version": "138",
+      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.2-don-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
+      ],
+      "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
+      "name": "5.1 Sản phẩm",
+      "modifiedTime": "2023-03-02T10:25:44.505Z",
+      "version": "176",
+      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.1-san-pham"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
@@ -233,6 +233,61 @@
       "modifiedTime": "2022-11-02T10:35:01.542Z",
       "version": "39",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
+      "name": "4. Nghe và gọi điện thoại ",
+      "modifiedTime": "2023-12-19T10:49:18.722Z",
+      "version": "153",
+      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
+      "name": "3. Tag hội thoại",
+      "modifiedTime": "2023-12-19T10:44:13.933Z",
+      "version": "146",
+      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
+      "name": "2. Mẫu tin nhắn",
+      "modifiedTime": "2023-12-19T10:34:16.141Z",
+      "version": "140",
+      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
+      "name": "1. Quản lý hội thoại của tôi",
+      "modifiedTime": "2023-07-29T02:02:45.137Z",
+      "version": "280",
+      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
+      "name": "5. Nhắc việc cần làm",
+      "modifiedTime": "2023-06-02T10:25:43.510Z",
+      "version": "110",
+      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -310,138 +365,6 @@
       "modifiedTime": "2023-08-16T10:45:31.500Z",
       "version": "202",
       "path_lower": "/110 Câu hỏi thường gặp/1.-cua-so-chat-tren-website"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
-      "name": "4. Nghe và gọi điện thoại ",
-      "modifiedTime": "2023-12-19T10:49:18.722Z",
-      "version": "153",
-      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-va-goi-dien-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
-      "name": "3. Tag hội thoại",
-      "modifiedTime": "2023-12-19T10:44:13.933Z",
-      "version": "146",
-      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
-      "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2023-12-19T10:34:16.141Z",
-      "version": "140",
-      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
-      "name": "1. Quản lý hội thoại của tôi",
-      "modifiedTime": "2023-07-29T02:02:45.137Z",
-      "version": "280",
-      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
-      "name": "5. Nhắc việc cần làm",
-      "modifiedTime": "2023-06-02T10:25:43.510Z",
-      "version": "110",
-      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
-      "name": "7. Kênh Google",
-      "modifiedTime": "2024-01-22T11:18:25.923Z",
-      "version": "86",
-      "path_lower": "/20 Tích hợp đa kênh/7.-kenh-google"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
-      "name": "1 Kết nối website",
-      "modifiedTime": "2024-01-15T11:32:45.312Z",
-      "version": "386",
-      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
-      "name": "6. Kết nối tổng đài",
-      "modifiedTime": "2024-01-12T09:25:44.463Z",
-      "version": "642",
-      "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
-      "name": "5. Kết nối Email",
-      "modifiedTime": "2023-12-19T10:06:45.172Z",
-      "version": "176",
-      "path_lower": "/20 Tích hợp đa kênh/5.-ket-noi-email"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
-      "name": "3 Kết nối Zalo OA",
-      "modifiedTime": "2023-12-19T10:04:49.914Z",
-      "version": "154",
-      "path_lower": "/20 Tích hợp đa kênh/3-ket-noi-zalo-oa"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
-      "name": "2  Kết nối Fanpage",
-      "modifiedTime": "2023-12-19T10:03:44.060Z",
-      "version": "174",
-      "path_lower": "/20 Tích hợp đa kênh/2--ket-noi-fanpage"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
-      "name": "4. Kết nối Instagram",
-      "modifiedTime": "2023-05-25T07:24:25.250Z",
-      "version": "134",
-      "path_lower": "/20 Tích hợp đa kênh/4.-ket-noi-instagram"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -607,6 +530,83 @@
       "modifiedTime": "2022-10-24T08:41:26.686Z",
       "version": "48",
       "path_lower": "/10 Làm quen với Subiz/index"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
+      "name": "7. Kênh Google",
+      "modifiedTime": "2024-01-22T11:18:25.923Z",
+      "version": "86",
+      "path_lower": "/20 Tích hợp đa kênh/7.-kenh-google"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
+      "name": "1 Kết nối website",
+      "modifiedTime": "2024-01-15T11:32:45.312Z",
+      "version": "386",
+      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
+      "name": "6. Kết nối tổng đài",
+      "modifiedTime": "2024-01-12T09:25:44.463Z",
+      "version": "642",
+      "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
+      "name": "5. Kết nối Email",
+      "modifiedTime": "2023-12-19T10:06:45.172Z",
+      "version": "176",
+      "path_lower": "/20 Tích hợp đa kênh/5.-ket-noi-email"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
+      "name": "3 Kết nối Zalo OA",
+      "modifiedTime": "2023-12-19T10:04:49.914Z",
+      "version": "154",
+      "path_lower": "/20 Tích hợp đa kênh/3-ket-noi-zalo-oa"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
+      "name": "2  Kết nối Fanpage",
+      "modifiedTime": "2023-12-19T10:03:44.060Z",
+      "version": "174",
+      "path_lower": "/20 Tích hợp đa kênh/2--ket-noi-fanpage"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
+      "name": "4. Kết nối Instagram",
+      "modifiedTime": "2023-05-25T07:24:25.250Z",
+      "version": "134",
+      "path_lower": "/20 Tích hợp đa kênh/4.-ket-noi-instagram"
     }
   ]
 }
