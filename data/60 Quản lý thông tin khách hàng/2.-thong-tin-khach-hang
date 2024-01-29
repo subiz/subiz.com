@@ -1,19 +1,23 @@
-# Thông tin khách hàng
+# Hồ sơ khách hàng
 
-## Sử dụng thông tin khách hàng như thế nào?
-
-
-Thông tin khách hàng là họ tên, số điện thoại, email,... của khách hàng. 
-
-Subiz có mặc định tạo sẵn một số trường thông tin khách hàng và bạn có thể tạo thêm các trường thông tin khác để tổng hợp hồ sơ khách hàng của mình.
+## Hồ sơ khách hàng trên Subiz là gì?
 
 
+Hồ sơ khách hàng là tài liệu lưu trữ thông tin về khách hàng của một doanh nghiệp hoặc tổ chức, bao gồm:
 
-Tại trang [Tin nhắn](https://app.subiz.com.vn/convo), khi mở 1 hội thoại thì bạn xem được thông tin chi tiết của khách hàng ở bên phải màn hình.
+- Thông tin cá nhân như họ tên, số điện thoại, email, địa chỉ,...
+- Lịch sử truy cập website
+- Lịch sử mua hàng
+- Lịch sử liên hệ tư vấn qua website, Fanpage, Điện thoại….
+- Và nhiều thông tin khác liên quan đến khách hàng.
 
 
 
-Tại trang [Khách](https://app.subiz.com.vn/lead), khi mở 1 khách thì bạn cũng xem được thông tin chi tiết của khách. 
+Trên Subiz, khi bạn mở bất kỳ hội thoại hay một khách hàng, bạn đều xem được hồ sơ khách hàng ở cột bên phải màn hình.
+
+
+
+Ví dụ xem thông tin cá nhân của khách gồm họ tên, email, SĐT, giai đoạn hỗ trợ, địa chỉ, ngày sinh, giới tính,...
 
 
 
@@ -22,66 +26,89 @@ Tại trang [Khách](https://app.subiz.com.vn/lead), khi mở 1 khách thì bạ
 
 
 
-## Subiz có lưu lịch sử khách hàng không?
 
-
-
-
-Bên cạnh các thông tin cá nhân của khách, lịch sử hội thoại của khách sẽ được lưu trữ đầy đủ
-## Tạo trường thông tin khách hàng mới
-
-
-Hướng dẫn: Mở Cài đặt > Chọn **[Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)** > Chọn \`**Tạo mới**\` > Điền **Tiêu đề**, **khóa**, **định dạng dữ liệu** > Lưu để hoàn thành
-
-
-![](https://vcdn.subiz-cdn.com/file/2c5e785db693b336200e425f7bf796826aef42865c8b1c09562f10f5d7b9ca78_acpxkgumifuoofoosble)
+Ví dụ xem lịch sử hội thoại liên hệ của khách đã gửi email, nhắn tin website, bình luận Fanpage, inbox messenger,...
 
 
 
 
 
-## Ứng dụng của Trường thông tin
-
-### Xem thông tin khách hàng trong khi chat
-
-
-Bạn có thể hiển thị nhiều thông tin khách hàng để xem và cập nhật thay đổi trong khi chat tại trang **[TIN NHẮN](https://app.subiz.com.vn/convo)**.
 
 
 
-**Hướng dẫn**: Tại mục ‘**Thông tin khách hàng**’ > chọn nút ‘**Chi tiết**’, click chọn ‘**Hiển thị**’ thông tin bạn cần
+![](https://vcdn.subiz-cdn.com/file/56be0970f2b999526b5119fe6e07632c0a8e700f11e7d1f583cd96fb5bec1d1e_acpxkgumifuoofoosble)
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/4e3016ae4d2e3f6d4519040b834362f8cf9ef0f3a53244e25d1be0a0f8a5cd46_acpxkgumifuoofoosble)
+Ví dụ: xem lịch sử phiên truy cập website của khách, khách đến từ nguồn quảng cáo Advertising, địa chỉ Hà Nội, đã xem trang Tích hợp Fanpage lên Subiz và bảng giá,...
 
 
 
-### Lưu số điện thoại/ email khách nhắn trong chat
+
+![](https://vcdn.subiz-cdn.com/file/0ec6f1fd94c57c661735b0b3c62842ffae26077d3e6b8e380136331afe4c19b9_acpxkgumifuoofoosble)
 
 
 
-### Popup hỏi thông tin khách hàng
+## Tạo thêm thông tin khách hàng
 
 
-Popup tự động quảng cáo, hỏi thông tin khách hàng theo nhu cầu riêng của bạn, lưu vào hệ thống giúp bạn dễ dàng xem và tổng hợp.
-
-
-
-**Hướng dẫn**:** **[Tạo popup mới](https://app.subiz.com.vn/web_plugin/create#) > Thêm thông tin hỏi khách và sửa nội dung phù hợp > Xuất bản để hoàn thành
-
-
-![](https://vcdn.subiz-cdn.com/file/075d5f34d4fa660091046c9a69a6c576a1768452ee977bb5e18e93a3660d56b0_acpxkgumifuoofoosble)
+Với đặc thù từng lĩnh vực kinh doanh và đối tượng khách hàng mục tiêu khác nhau, bạn cần tổng hợp và lưu trữ các loại thông tin khác của khách hàng.
 
 
 
-### Bot hỏi thông tin khách hàng
+Khi đó bạn sẽ tạo mới trường thông tin trên Subiz, cho phép agent thu thập và lưu lại khi nói chuyện với khách hoặc sử dụng các công cụ tự động hỏi khách hàng.
 
 
-Bot tự động gửi tin nhắn hỏi các thông tin khách hàng theo nhu cầu riêng của bạn, lưu vào hệ thống giúp bạn dễ dàng tổng hợp.
 
-**Hướng dẫn**: Tạo bot > Thiết kế kịch bản, chọn hỏi thông tin khách và lưu phản hồi vào thuộc tính ‘Trường thông tin’
+Hướng dẫn tạo thêm thông tin khách hàng: Đăng nhập Subiz > Mở trang Cài đặt > [Tìm Trường thông tin](https://app.subiz.com.vn/settings/user-attributes) > Chọn Tạo mới> Nhập tiêu đề thông tin và định dạng thông tin tương ứng
 
 
-![](https://vcdn.subiz-cdn.com/file/1d25d0e0506160d32be2429c8a0b9f17effb139ebe6b703502dfadf999beb7e1_acpxkgumifuoofoosble)
+
+Ví dụ: Trường thông tin theo nhu cầu thuê căn hộ của khách. Vì công ty đã cố định các căn hộ đang có nên sẽ tạo trường thông tin dạng tích, cho phép nhân viên xem và click chọn căn hộ khách cần.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/85a88549c284f437d12a7cb5f0b2c55d907743eea0367a3f874b024eea237487_acpxkgumifuoofoosble)
+
+
+
+
+Bạn có thể lựa chọn các định dạng trường thông tin như văn bản để nhập tự do, dạng danh sách chỉ chọn 1 tùy chọn có sẵn, danh sách sổ xuống, danh sách tích chọn, ngày giờ,....
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/e8f235f4373981656f77846d068cf19e9986c50ca66f36b58628cfdb1a96b67f_acpxkgumifuoofoosble)
+
+## Agent xem thông tin khách hàng
+
+
+Mỗi agent sẽ cài đặt hiển thị thêm thông tin khách hàng trên trang làm việc của mình.
+
+
+
+Hướng dẫn cài đặt: Mở trang **[TIN NHẮN](https://app.subiz.com.vn/convo)** > Mở bất kỳ hội thoại nào > Xem cột hồ sơ khách hàng ở bên phải màn hình > chọn nút **Chi tiết** > Tìm thông tin khách hàng cần hiển thị > Chọn nút **Hiển thị** > Lưu thay đổi. Sau đó tất cả khách hàng sẽ hiện trường thông tin đã cài đặt.
+
+
+
+Ví dụ agent cài đặt hiển thị thêm trường thông tin Căn hộ yêu thích với 3 bước sau:
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/64c96ba7eb41047efac02e0e1516e376418af254b99d143d2f85b017ab27756a_acpxkgumifuoofoosble)
+
+
+
+
+Chú thích: Quản lý sẽ tổng hợp, phân tích thông tin khách hàng theo dạng danh sách tại trang [KHÁCH](https://subiz.com.vn/docs/1221805713-khach-tiem-nang).
+## Có tự động thu thập được thông tin khách không?
+
+
+
+
+Trả lời: Subiz có hỗ trợ nhiều công cụ tự động thu thập thông tin như bảng hỏi trên cửa sổ chat, bot nhắn tin, popup bảng hỏi.
+
+[Xem hướng dẫn cài đặt](https://subiz.com.vn/docs/1385334016-tu-dong-hoa-chuyen-%C4%91oi-khach-hang).
