@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1706510396870,
-  "updated": 1706510396870,
+  "fetched": 1707211935667,
+  "updated": 1707211935667,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -13,6 +13,17 @@
       "modifiedTime": "2023-11-22T09:58:16.001Z",
       "version": "199",
       "path_lower": "/_readme"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
+      "name": "Gửi hàng loạt Email Marketing",
+      "modifiedTime": "2023-10-25T10:15:21.244Z",
+      "version": "34",
+      "path_lower": "/90 Chiến dịch Marketing/gui-hang-loat-email-marketing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -61,17 +72,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
-      ],
-      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
-      "name": "Gửi hàng loạt Email Marketing",
-      "modifiedTime": "2023-10-25T10:15:21.244Z",
-      "version": "30",
-      "path_lower": "/90 Chiến dịch Marketing/gui-hang-loat-email-marketing"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
@@ -101,72 +101,6 @@
       "modifiedTime": "2022-11-29T03:05:40.528Z",
       "version": "83",
       "path_lower": "/50 Tự động kết nối khách hàng/4.-thong-bao-mua-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
-      "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2024-01-29T05:35:54.006Z",
-      "version": "355",
-      "path_lower": "/60 Quản lý thông tin khách hàng/2.-ho-so-khach-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
-      "name": "5. Gộp khách hàng ",
-      "modifiedTime": "2023-09-22T08:57:46.817Z",
-      "version": "96",
-      "path_lower": "/60 Quản lý thông tin khách hàng/5.-gop-khach-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
-      "name": "3. Khách tiềm năng",
-      "modifiedTime": "2023-08-28T11:14:51.580Z",
-      "version": "315",
-      "path_lower": "/60 Quản lý thông tin khách hàng/3.-khach-tiem-nang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
-      "name": "1.  Subiz live khách truy cập web",
-      "modifiedTime": "2023-08-10T09:35:00.163Z",
-      "version": "296",
-      "path_lower": "/60 Quản lý thông tin khách hàng/1.--subiz-live-khach-truy-cap-web"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
-      "name": "_2. Khách tiềm năng",
-      "modifiedTime": "2023-03-16T04:01:42.205Z",
-      "version": "263",
-      "path_lower": "/60 Quản lý thông tin khách hàng/_2.-khach-tiem-nang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
-      ],
-      "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
-      "name": "4. Nhãn phân loại khách hàng",
-      "modifiedTime": "2023-03-16T03:45:43.505Z",
-      "version": "94",
-      "path_lower": "/60 Quản lý thông tin khách hàng/4.-nhan-phan-loai-khach-hang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -237,6 +171,149 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
+      "name": "2. Hồ sơ khách hàng",
+      "modifiedTime": "2024-01-29T05:35:54.006Z",
+      "version": "358",
+      "path_lower": "/60 Quản lý thông tin khách hàng/2.-ho-so-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
+      "name": "5. Gộp khách hàng ",
+      "modifiedTime": "2023-09-22T08:57:46.817Z",
+      "version": "96",
+      "path_lower": "/60 Quản lý thông tin khách hàng/5.-gop-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
+      "name": "3. Khách tiềm năng",
+      "modifiedTime": "2023-08-28T11:14:51.580Z",
+      "version": "315",
+      "path_lower": "/60 Quản lý thông tin khách hàng/3.-khach-tiem-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
+      "name": "1.  Subiz live khách truy cập web",
+      "modifiedTime": "2023-08-10T09:35:00.163Z",
+      "version": "296",
+      "path_lower": "/60 Quản lý thông tin khách hàng/1.--subiz-live-khach-truy-cap-web"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
+      "name": "_2. Khách tiềm năng",
+      "modifiedTime": "2023-03-16T04:01:42.205Z",
+      "version": "263",
+      "path_lower": "/60 Quản lý thông tin khách hàng/_2.-khach-tiem-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
+      ],
+      "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
+      "name": "4. Nhãn phân loại khách hàng",
+      "modifiedTime": "2023-03-16T03:45:43.505Z",
+      "version": "94",
+      "path_lower": "/60 Quản lý thông tin khách hàng/4.-nhan-phan-loai-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
+      "name": "4. Tổng đài điện thoại",
+      "modifiedTime": "2024-02-06T08:30:01.637Z",
+      "version": "155",
+      "path_lower": "/110 Câu hỏi thường gặp/4.-tong-dai-đien-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
+      "name": "6. Thanh toán",
+      "modifiedTime": "2024-02-06T08:27:12.556Z",
+      "version": "105",
+      "path_lower": "/110 Câu hỏi thường gặp/6.-thanh-toan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1QP47DSh3uURbavrmOPbt2nYojfmv2tVRvhTy_LNBdcg",
+      "name": "3. Lỗi gửi tin nhắn ",
+      "modifiedTime": "2023-09-15T10:26:19.704Z",
+      "version": "234",
+      "path_lower": "/110 Câu hỏi thường gặp/3.-loi-gui-tin-nhan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
+      "name": "7. Cập nhật mới trên Subiz",
+      "modifiedTime": "2023-09-15T10:25:37.789Z",
+      "version": "70",
+      "path_lower": "/110 Câu hỏi thường gặp/7.-cap-nhat-moi-tren-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
+      "name": "2. Cài đặt thông báo",
+      "modifiedTime": "2023-08-29T10:55:39.209Z",
+      "version": "257",
+      "path_lower": "/110 Câu hỏi thường gặp/2.-cai-dat-thong-bao"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
+      "name": "5. App mobile Subiz",
+      "modifiedTime": "2023-08-16T11:10:00.195Z",
+      "version": "59",
+      "path_lower": "/110 Câu hỏi thường gặp/5.-app-mobile-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
+      ],
+      "id": "1hTkUi8QyB_pxy8BImJ4jFjj6iOoQ8xdnkjilRa2nVGw",
+      "name": "1. Cửa sổ chat trên website",
+      "modifiedTime": "2023-08-16T10:45:31.500Z",
+      "version": "202",
+      "path_lower": "/110 Câu hỏi thường gặp/1.-cua-so-chat-tren-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
@@ -288,83 +365,6 @@
       "modifiedTime": "2023-06-02T10:25:43.510Z",
       "version": "110",
       "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
-      "name": "6. Thanh toán",
-      "modifiedTime": "2023-12-19T09:57:00.336Z",
-      "version": "72",
-      "path_lower": "/110 Câu hỏi thường gặp/6.-thanh-toan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1QP47DSh3uURbavrmOPbt2nYojfmv2tVRvhTy_LNBdcg",
-      "name": "3. Lỗi gửi tin nhắn ",
-      "modifiedTime": "2023-09-15T10:26:19.704Z",
-      "version": "234",
-      "path_lower": "/110 Câu hỏi thường gặp/3.-loi-gui-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
-      "name": "7. Cập nhật mới trên Subiz",
-      "modifiedTime": "2023-09-15T10:25:37.789Z",
-      "version": "70",
-      "path_lower": "/110 Câu hỏi thường gặp/7.-cap-nhat-moi-tren-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
-      "name": "2. Cài đặt thông báo",
-      "modifiedTime": "2023-08-29T10:55:39.209Z",
-      "version": "257",
-      "path_lower": "/110 Câu hỏi thường gặp/2.-cai-dat-thong-bao"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
-      "name": "4. Tổng đài điện thoại",
-      "modifiedTime": "2023-08-26T10:39:59.838Z",
-      "version": "147",
-      "path_lower": "/110 Câu hỏi thường gặp/4.-tong-dai-đien-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
-      "name": "5. App mobile Subiz",
-      "modifiedTime": "2023-08-16T11:10:00.195Z",
-      "version": "59",
-      "path_lower": "/110 Câu hỏi thường gặp/5.-app-mobile-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
-      ],
-      "id": "1hTkUi8QyB_pxy8BImJ4jFjj6iOoQ8xdnkjilRa2nVGw",
-      "name": "1. Cửa sổ chat trên website",
-      "modifiedTime": "2023-08-16T10:45:31.500Z",
-      "version": "202",
-      "path_lower": "/110 Câu hỏi thường gặp/1.-cua-so-chat-tren-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -490,50 +490,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
-      ],
-      "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
-      "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2023-12-19T09:58:54.724Z",
-      "version": "146",
-      "path_lower": "/10 Làm quen với Subiz/2.-hanh-trinh-su-dung"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
-      ],
-      "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
-      "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2023-08-25T07:09:45.606Z",
-      "version": "178",
-      "path_lower": "/10 Làm quen với Subiz/3.-cac-goi-dich-vu"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
-      ],
-      "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
-      "name": "1. Bảng tính năng Subiz",
-      "modifiedTime": "2023-08-25T06:58:45.647Z",
-      "version": "197",
-      "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
-      ],
-      "id": "1OW21HBSiKnQRqZwDWqVaAT84tTYyutMweisVpAStqh4",
-      "name": "index",
-      "modifiedTime": "2022-10-24T08:41:26.686Z",
-      "version": "48",
-      "path_lower": "/10 Làm quen với Subiz/index"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
@@ -607,6 +563,50 @@
       "modifiedTime": "2023-05-25T07:24:25.250Z",
       "version": "134",
       "path_lower": "/20 Tích hợp đa kênh/4.-ket-noi-instagram"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
+      ],
+      "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
+      "name": "2. Hành trình sử dụng",
+      "modifiedTime": "2023-12-19T09:58:54.724Z",
+      "version": "146",
+      "path_lower": "/10 Làm quen với Subiz/2.-hanh-trinh-su-dung"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
+      ],
+      "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
+      "name": "3. Các gói dịch vụ",
+      "modifiedTime": "2023-08-25T07:09:45.606Z",
+      "version": "178",
+      "path_lower": "/10 Làm quen với Subiz/3.-cac-goi-dich-vu"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
+      ],
+      "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
+      "name": "1. Bảng tính năng Subiz",
+      "modifiedTime": "2023-08-25T06:58:45.647Z",
+      "version": "197",
+      "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
+      ],
+      "id": "1OW21HBSiKnQRqZwDWqVaAT84tTYyutMweisVpAStqh4",
+      "name": "index",
+      "modifiedTime": "2022-10-24T08:41:26.686Z",
+      "version": "48",
+      "path_lower": "/10 Làm quen với Subiz/index"
     }
   ]
 }
