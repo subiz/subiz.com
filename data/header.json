@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1707211935667,
-  "updated": 1707211935667,
+  "fetched": 1708919545381,
+  "updated": 1708919545381,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,7 +11,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2023-11-22T09:58:16.001Z",
-      "version": "199",
+      "version": "200",
       "path_lower": "/_readme"
     },
     {
@@ -127,50 +127,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
-      ],
-      "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
-      "name": "6.3. Thống kê cuộc gọi",
-      "modifiedTime": "2023-04-20T11:20:12.010Z",
-      "version": "37",
-      "path_lower": "/80 Thống kê báo cáo/6.3.-thong-ke-cuoc-goi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
-      ],
-      "id": "1K0bpRZmSKc3zFZpmi9vgWdImVOa5XtZ2gmA9BmvVNPo",
-      "name": "6.1 Thống kê lượng người dùng",
-      "modifiedTime": "2023-04-20T10:34:43.797Z",
-      "version": "126",
-      "path_lower": "/80 Thống kê báo cáo/6.1-thong-ke-luong-nguoi-dung"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
-      ],
-      "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
-      "name": "6.2 Thống kê hội thoại",
-      "modifiedTime": "2023-04-20T09:56:20.265Z",
-      "version": "183",
-      "path_lower": "/80 Thống kê báo cáo/6.2-thong-ke-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
-      ],
-      "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
-      "name": "6.4 Thống kê hiệu suất chat của agent",
-      "modifiedTime": "2022-11-02T10:35:01.542Z",
-      "version": "39",
-      "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
@@ -237,6 +193,50 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
+      ],
+      "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
+      "name": "6.3. Thống kê cuộc gọi",
+      "modifiedTime": "2023-04-20T11:20:12.010Z",
+      "version": "37",
+      "path_lower": "/80 Thống kê báo cáo/6.3.-thong-ke-cuoc-goi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
+      ],
+      "id": "1K0bpRZmSKc3zFZpmi9vgWdImVOa5XtZ2gmA9BmvVNPo",
+      "name": "6.1 Thống kê lượng người dùng",
+      "modifiedTime": "2023-04-20T10:34:43.797Z",
+      "version": "126",
+      "path_lower": "/80 Thống kê báo cáo/6.1-thong-ke-luong-nguoi-dung"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
+      ],
+      "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
+      "name": "6.2 Thống kê hội thoại",
+      "modifiedTime": "2023-04-20T09:56:20.265Z",
+      "version": "183",
+      "path_lower": "/80 Thống kê báo cáo/6.2-thong-ke-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
+      ],
+      "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
+      "name": "6.4 Thống kê hiệu suất chat của agent",
+      "modifiedTime": "2022-11-02T10:35:01.542Z",
+      "version": "39",
+      "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
       ],
       "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
@@ -253,7 +253,7 @@
       "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
       "name": "6. Thanh toán",
       "modifiedTime": "2024-02-06T08:27:12.556Z",
-      "version": "105",
+      "version": "106",
       "path_lower": "/110 Câu hỏi thường gặp/6.-thanh-toan"
     },
     {
@@ -494,20 +494,9 @@
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "7. Kênh Google",
-      "modifiedTime": "2024-01-22T11:18:25.923Z",
-      "version": "86",
+      "modifiedTime": "2024-02-24T04:38:20.635Z",
+      "version": "121",
       "path_lower": "/20 Tích hợp đa kênh/7.-kenh-google"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
-      "name": "1 Kết nối website",
-      "modifiedTime": "2024-01-15T11:32:45.312Z",
-      "version": "386",
-      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -516,9 +505,20 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "6. Kết nối tổng đài",
-      "modifiedTime": "2024-01-12T09:25:44.463Z",
-      "version": "642",
+      "modifiedTime": "2024-02-22T11:26:31.624Z",
+      "version": "649",
       "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
+      "name": "1 Kết nối website",
+      "modifiedTime": "2024-02-22T11:25:43.579Z",
+      "version": "399",
+      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -528,7 +528,7 @@
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
       "modifiedTime": "2023-12-19T10:06:45.172Z",
-      "version": "176",
+      "version": "178",
       "path_lower": "/20 Tích hợp đa kênh/5.-ket-noi-email"
     },
     {

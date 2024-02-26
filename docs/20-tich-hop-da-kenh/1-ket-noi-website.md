@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-01-15T11:32:45.312Z
+  date: 2024-02-22T11:25:43.579Z
 ---
 
 # Tích hợp trên website
@@ -71,10 +71,10 @@ Hướng dẫn chỉnh sửa cửa sổ chat:
 
 ## Câu hỏi thường gặp
 
-### Tôi muốn thay đổi ảnh nút chat?
+### Nút chat thay đổi như thế nào?
 
 
-Khi khách click vào nút chat thì sẽ mở rộng cửa sổ chat để nhắn tin.Nút chat này có thể thay đổi là ảnh nhỏ hoặc ảnh lớn nhằm thu hút và kêu gọi khách “Nhắn tin liên hệ tại đây” 
+Khi khách click vào nút chat thì sẽ mở rộng cửa sổ chat để nhắn tin. Nút chat này có thể thay đổi là ảnh nhỏ hoặc ảnh lớn nhằm thu hút và kêu gọi khách “nhắn tin liên hệ tại đây” 
 
 
 
@@ -100,7 +100,7 @@ Hướng dẫn thay đổi nút chat:
 
 
 
-### Tôi muốn cài đặt mở cửa sổ chat khi khách click nút CTA trên website?
+### Tùy chọn gắn nút chat vào bất kỳ vị trí nào trên website?
 
 
 Bạn không muốn sử dụng nút chat ở góc phải hay góc trái màn hình. Bạn cần cài đặt nút CTA ở vị trí bất kỳ trên website và mở cửa sổ chat khi khách nhấp chuột vào.
@@ -120,7 +120,7 @@ window.subiz('expandWidget')
 
 ```
 
-### Chuyển nút chat lên cao hay xuống thấp hơn được không?
+### Thay đổi vị trí nút chat lên cao hay xuống thấp hơn được không?
 
 
 Bạn có thể chuyển nút chat lên cao hay xuống thấp, chuyển sang trái hay sang phải.
@@ -162,7 +162,7 @@ Hướng dẫn cài đặt:
 
 
 
-### Tôi muốn đổi tên và ảnh logo trên cửa sổ chat?
+### Ảnh trên cửa sổ chat thay đổi như thế nào?
 
 
 Cửa sổ chat hiện tên và hình ảnh logo theo hồ sơ người chat. Bạn cài đặt như sau:
@@ -180,7 +180,7 @@ Cửa sổ chat hiện tên và hình ảnh logo theo hồ sơ người chat. B�
 
 ![](https://vcdn.subiz-cdn.com/file/fef24f8d9e8ae9b249c46344dbc9856be9d0b938fb7fa97c7d48eb2a05146a98_acpxkgumifuoofoosble)
 
-### Hiện nút Facebook và Zalo trên cửa sổ chat
+### Hiển thị nút Facebook và Zalo trên cửa sổ chat
 
 
 Hướng dẫn cài đặt: [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design) > Chọn Tiêu đề > Chọn Hiển thị logo doanh > Thêm liên kết Facebook và Zalo > Cập nhật là xong
@@ -190,7 +190,7 @@ Hướng dẫn cài đặt: [Mở cài đặt cửa sổ chat](https://app.subiz
 
 ![](https://vcdn.subiz-cdn.com/file/037d1c96a564cf8beb286e4537b95e944f465b6baf5e2f163eef7cbbc43a78fa_acpxkgumifuoofoosble)
 
-### Lời chào thay đổi như thế nào?
+### Tùy chỉnh lời chào khách trên cửa sổ chat?
 
 
 Lời chào đính kèm với nút chat nên lời chào cần đơn giản và ngắn gọn.
@@ -214,7 +214,7 @@ Hướng dẫn thay đổi lời chào:
 
 
 **Lưu ý**: Khi bạn muốn tắt lời chào, bạn vào cài đặt lời chào và tắt OFF.
-### Tôi muốn khách nhập thông tin trước khi chat
+### Bắt buộc khách điền thông tin trước khi chat bằng cách nào?
 
 
 Hướng dẫn cài đặt:
@@ -234,7 +234,7 @@ Hướng dẫn cài đặt:
 
 
 
-### Thay đổi bảng hỏi thông tin khách khi offline như thế nào?
+### Bảng hỏi thông tin khách hàng khi nhân viên ngoại tuyến?
 
 
 Hướng dẫn cài đặt:
