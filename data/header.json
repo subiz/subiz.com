@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1709094134458,
-  "updated": 1709094134458,
+  "fetched": 1709094187684,
+  "updated": 1709094187684,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -13,17 +13,6 @@
       "modifiedTime": "2023-11-22T09:58:16.001Z",
       "version": "200",
       "path_lower": "/_readme"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
-      ],
-      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
-      "name": "Gửi hàng loạt Email Marketing",
-      "modifiedTime": "2024-02-27T10:24:18.341Z",
-      "version": "113",
-      "path_lower": "/90 Chiến dịch Marketing/gui-hang-loat-email-marketing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -68,6 +57,17 @@
       "modifiedTime": "2023-01-17T08:39:56.701Z",
       "version": "107",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
+      "name": "Gửi hàng loạt Email Marketing",
+      "modifiedTime": "2024-02-27T10:24:18.341Z",
+      "version": "113",
+      "path_lower": "/90 Chiến dịch Marketing/gui-hang-loat-email-marketing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -319,7 +319,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "4. Nghe gọi điện thoại tổng đài",
       "modifiedTime": "2024-02-27T11:52:55.867Z",
-      "version": "199",
+      "version": "200",
       "path_lower": "/30 Tư vấn khách hàng/4.-nghe-goi-dien-thoai-tong-đai"
     },
     {
@@ -365,127 +365,6 @@
       "modifiedTime": "2023-06-02T10:25:43.510Z",
       "version": "110",
       "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
-      "name": "4 Subiz đa ngôn ngữ",
-      "modifiedTime": "2023-11-10T08:37:28.177Z",
-      "version": "163",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/4-subiz-da-ngon-ngu"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
-      "name": "8. Kết nối bảng hỏi website",
-      "modifiedTime": "2023-10-03T12:05:18.491Z",
-      "version": "93",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/8.-ket-noi-bang-hoi-website"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
-      "name": "3 Ứng dụng Tết 2023 ",
-      "modifiedTime": "2023-08-31T08:30:09.317Z",
-      "version": "89",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/3-ung-dung-tet-2023"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
-      "name": "1  Quản lý hàng nghìn Fanpage",
-      "modifiedTime": "2023-08-16T10:35:28.112Z",
-      "version": "102",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/1--quan-ly-hang-nghin-fanpage"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
-      "name": "5 Tự động hóa chuyển đổi khách hàng",
-      "modifiedTime": "2023-07-13T11:22:10.958Z",
-      "version": "113",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/5-tu-dong-hoa-chuyen-đoi-khach-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
-      "name": "10 Webhook đồng bộ dữ liệu",
-      "modifiedTime": "2023-07-12T04:10:36.529Z",
-      "version": "48",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/10-webhook-dong-bo-du-lieu"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
-      "name": "9 Tích hợp app mobile",
-      "modifiedTime": "2023-07-12T04:10:28.805Z",
-      "version": "66",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/9-tich-hop-app-mobile"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
-      "name": "8 API kết nối Subiz",
-      "modifiedTime": "2023-07-12T04:10:21.468Z",
-      "version": "34",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/8-api-ket-noi-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
-      "name": "7 Google Analytics và Subiz",
-      "modifiedTime": "2023-07-12T04:10:14.593Z",
-      "version": "49",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/7-google-analytics-va-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
-      "name": "2 Quản lý nhiều website",
-      "modifiedTime": "2023-07-12T04:09:57.873Z",
-      "version": "234",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/2-quan-ly-nhieu-website"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
-      "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
-      "name": "6 Đo lường chuyển đổi Google Ads",
-      "modifiedTime": "2023-07-12T04:09:31.814Z",
-      "version": "88",
-      "path_lower": "/120 Chia sẻ ứng dụng Subiz/6-do-luong-chuyen-đoi-google-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -607,6 +486,127 @@
       "modifiedTime": "2022-10-24T08:41:26.686Z",
       "version": "48",
       "path_lower": "/10 Làm quen với Subiz/index"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
+      "name": "4 Subiz đa ngôn ngữ",
+      "modifiedTime": "2023-11-10T08:37:28.177Z",
+      "version": "163",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/4-subiz-da-ngon-ngu"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
+      "name": "8. Kết nối bảng hỏi website",
+      "modifiedTime": "2023-10-03T12:05:18.491Z",
+      "version": "93",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/8.-ket-noi-bang-hoi-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
+      "name": "3 Ứng dụng Tết 2023 ",
+      "modifiedTime": "2023-08-31T08:30:09.317Z",
+      "version": "89",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/3-ung-dung-tet-2023"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
+      "name": "1  Quản lý hàng nghìn Fanpage",
+      "modifiedTime": "2023-08-16T10:35:28.112Z",
+      "version": "102",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/1--quan-ly-hang-nghin-fanpage"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
+      "name": "5 Tự động hóa chuyển đổi khách hàng",
+      "modifiedTime": "2023-07-13T11:22:10.958Z",
+      "version": "113",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/5-tu-dong-hoa-chuyen-đoi-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
+      "name": "10 Webhook đồng bộ dữ liệu",
+      "modifiedTime": "2023-07-12T04:10:36.529Z",
+      "version": "48",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/10-webhook-dong-bo-du-lieu"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
+      "name": "9 Tích hợp app mobile",
+      "modifiedTime": "2023-07-12T04:10:28.805Z",
+      "version": "66",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/9-tich-hop-app-mobile"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
+      "name": "8 API kết nối Subiz",
+      "modifiedTime": "2023-07-12T04:10:21.468Z",
+      "version": "34",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/8-api-ket-noi-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
+      "name": "7 Google Analytics và Subiz",
+      "modifiedTime": "2023-07-12T04:10:14.593Z",
+      "version": "49",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/7-google-analytics-va-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
+      "name": "2 Quản lý nhiều website",
+      "modifiedTime": "2023-07-12T04:09:57.873Z",
+      "version": "234",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/2-quan-ly-nhieu-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
+      "name": "6 Đo lường chuyển đổi Google Ads",
+      "modifiedTime": "2023-07-12T04:09:31.814Z",
+      "version": "88",
+      "path_lower": "/120 Chia sẻ ứng dụng Subiz/6-do-luong-chuyen-đoi-google-ads"
     }
   ]
 }
