@@ -1,23 +1,60 @@
-# Nghe và gọi điện thoại 
+# Nghe gọi điện thoại tổng đài
 
 
 
 
-Bạn sử dụng Subiz như một chiếc điện thoại đặc biệt để nhận cuộc gọi đến của khách và bấm số gọi đi. Chiếc điện thoại đặc biệt của Subiz giúp bạn quản lý cuộc gọi thông minh hơn với các chức năng sau:
+Bạn sử dụng phần mềm Subiz như một thiết bị điện thoại để thực hiện cuộc gọi đi và trả lời cuộc gọi đến tổng đài. Tổng đài Subiz hỗ trợ nhiều chức năng như sau:
 
-01. Thông báo có cuộc gọi mới
-11. Xem chi tiết thông tin khách
+01. Gọi điện thoại trên Subiz
+11. Xem hồ sơ khách hàng
 21. Tóm tắt nội dung cuộc gọi
 31. Gắn Tag phân loại cuộc gọi
 41. Nhắc việc sau khi gọi điện
-51. Tạo đơn hàng mới
-61. Gọi điện thoại đi
+
+01. Tạo đơn hàng mới
+11. Gọi điện thoại đi
 
 
 
 [Xem video nghe gọi trên máy tính](https://www.youtube.com/watch?v=W2yWHCtsW-k)
 
 [Xem video nghe gọi trên app mobile](https://www.youtube.com/watch?v=S9wVGrxhYks)
+## Gọi điện thoại trên Subiz
+
+
+Khi sử dụng tổng đài Subiz, agent thực hiện cuộc gọi bằng cách sử dụng máy tính hoặc app mobile.
+
+
+
+Trên máy tính, agent đăng nhập Subiz qua đường link [https://app.subiz.com.vn](https://app.subiz.com.vn) và bấm nút GỌI ĐIỆN THOẠI ở góc phải dưới cùng > Nhập số của khách > Nhấn gọi đi bằng máy tính như sau:
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/abe4318a91451356fc20a9d567c33eeae977c3799170ae410041d99e762123a6_acpxkgumifuoofoosble)
+
+
+
+
+Khi khách hàng nhắn tin và đã có SĐT lưu trên Subiz, agent sẽ gọi điện thoại cho khách bằng cách nhấp nút GỌI ở ngay dưới họ tên khách.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/9380c5dad76a0046d80521b1645f7c2d63c6521935628387ff1395f592501e54_acpxkgumifuoofoosble)
+
+
+
+
+Trên điện thoại smartphone, agent tải [app Subiz](https://subiz.com.vn/vi/download.html) về và bấm số gọi đi như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/05ae87d41c9b662010c56edb5e85fcd11e34e82f0782f6bf8ab4bf68065011b4_acpxkgumifuoofoosble)
+
+
+
+
+
 ## Thông báo có cuộc gọi mới
 
 
@@ -31,47 +68,29 @@ Khi có cuộc gọi đến từ khách hàng, bạn sẽ nhận được chuôn
 
 
 
-Để nhận thông báo, bạn cần cài đặt trình duyệt cho phép [App.subiz.com.vn](https://app.subiz.com.vn/) thông báo:
-
-
-![](https://vcdn.subiz-cdn.com/file/560b53210c026f6c8da2252377b342abcfdabd6e34f938a6af622e1e19f620c3_acpxkgumifuoofoosble)
 
 
 
-## Xem thông tin khách hàng
+## Xem hồ sơ khách hàng
 
 
-Bạn xem được khách hàng đã có họ tên chưa?
+Khách hàng trên phần mềm Subiz sẽ hiển thị hồ sơ thông tin ở cột bên phải màn hình. 
 
-Lịch sử khách đã tương tác liên hệ trước đây như thế nào?
 
-Từ đó, bạn sẽ trả lời tư vấn khách hàng nhanh chóng và đúng mong muốn của khách.
+
+Tại đây, agent lưu được các trường dữ liệu cá nhân, lịch sử hội thoại đã nhắn tin hay gọi điện thoại, nhân viên nào đã trả lời khách, Có ghi chú quan trọng nào cho khách,...
+
+[Xem thêm quản lý hồ sơ khách hàng](https://subiz.com.vn/docs/777741175-ho-so-khach-hang).
 
 
 
 
 ![](https://vcdn.subiz-cdn.com/file/38547064c47fb070984147cbfa0ee13fd8e6c2cc8b8ab3dd18dfb93df5ce4cce_acpxkgumifuoofoosble)
 
-
-
-## Tóm tắt nội dung cuộc gọi
-
-
-Bạn muốn ghi chú nhanh gọn nội dung chính của cuộc gọi, bạn có thể nhập nội dung ở ô tiêu đề hội thoại như sau:
-
-
-
-
-![](https://vcdn.subiz-cdn.com/file/ac472eb6daac60b7794d50c272165663591a62e632adaa3f55399f768f50d13c_acpxkgumifuoofoosble)
-
-
-
 ## Gắn Tag phân loại cuộc gọi
 
 
-Bạn cần phân biệt các yêu cầu của khách hàng qua mỗi cuộc gọi, hãy nhấn nút **THÊM TAG**
-
-
+Giao tiếp khách hàng qua điện thoại có thể về nhiều chủ đề khác nhau như Tư vấn sản phẩm A, Tư vấn sản phẩm B, Báo giá, Góp ý - khiếu nại,...Bạn sử dụng chức năng gắn Tag cuộc gọi để đánh dấu chủ đề của cuộc gọi và báo cáo tình hình hỗ trợ khách hàng.
 
 **[Xem thêm quản lý Tag hội thoại](https://subiz.com.vn/docs/662546069-tag-hoi-thoai)** 
 
@@ -129,4 +148,51 @@ Bạn sử dụng Subiz như một điện thoại thông minh. Như vậy, bạ
 
 
 
-**[Xem thêm một số câu hỏi thường gặp trên kênh tổng đài](https://subiz.com.vn/docs/883847443-cau-hoi-ve-tong-dai)**
+**Câu hỏi thường gặp**
+
+
+### Không nhận được thông báo cuộc gọi đến trên máy tính?
+
+
+Trả lời: Khi máy tính không thông báo cuộc gọi đến từ Subiz, bạn cần kiểm tra cài đặt trình duyệt cho phép [App.subiz.com.vn](https://app.subiz.com.vn/) thông báo như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/560b53210c026f6c8da2252377b342abcfdabd6e34f938a6af622e1e19f620c3_acpxkgumifuoofoosble)
+
+### Cách lựa chọn thiết bị gọi điện đi bằng máy tính hay điện thoại bàn voip?
+
+
+
+
+Trả lời: Khi sử dụng tổng đài Subiz, bạn dễ dàng thay đổi thiết bị gọi điện thoại bằng máy tính hoặc điện thoại bàn voip, ví dụ các trường hợp:
+
+- Công ty mua thêm điện thoại bàn voip chuyên dụng
+- Nhân viên thay đổi vị trí làm việc cần đổi từ điện thoại bàn sang laptop để trực điện thoại
+- Điện thoại bàn hay máy tính của nhân viên bị hỏng, cần thay thế thiết bị gọi điện thoại nhanh chóng
+
+Hướng dẫn thay đổi thiết bị gọi điện thoại trên Subiz như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/9b469dcae5fed6c5891d1257a4e3ff3b9aa30358482471ffc94b0035caedc5dd_acpxkgumifuoofoosble)
+
+### Cách lựa chọn đầu số gọi đi
+
+
+Khi bạn sử dụng nhiều đầu số tổng đài, bạn dễ dàng lựa chọn đầu số để gọi đi cho khách hàng trên tổng đài Subiz ngay trên máy tính và app mobile điện thoại.
+
+
+
+Trên máy tính, bạn thay đổi đầu số gọi đi như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/636b75ad636d6600149dbc2868a4ad93ee3f84ed8d4630f33c10bb164137926c_acpxkgumifuoofoosble)
+
+
+
+
+
+
+Trên app mobile, bạn thay đổi đầu số gọi đi như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/6fbac2da33e63ee44b7c82b6aea1e459092dac5cc8155c5410a94a2570b9364e_acpxkgumifuoofoosble)
