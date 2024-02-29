@@ -95,11 +95,11 @@
 }
 
 .markdown > h3 {
-	--ifm-h2-font-size: 1.2rem;
+	--ifm-h3-font-size: 1.2rem;
 }
 
 .markdown > h4 {
-	--ifm-h2-font-size: 1.1rem;
+	--ifm-h4-font-size: 1.1rem;
 }
 
 html {
