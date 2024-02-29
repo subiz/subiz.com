@@ -46,7 +46,9 @@
 	--ifm-h1-font-size: 2.2rem;
 	--ifm-heading-font-family: 'Inter';
 	--ifm-heading-color: rgb(52 52 51); /*#002240;*/
-	--ifm-h2-font-size: 1.3rem;
+	--ifm-h2-font-size: 1.4rem;
+	--ifm-h3-font-size: 1.2rem;
+	--ifm-h4-font-size: 1.1rem;
 
 	/* --docsearch-primary-color: var(--ifm-color-primary); */
 	/* --docsearch-text-color: var(--ifm-font-color-base); */
@@ -89,7 +91,15 @@
 }
 
 .markdown > h2 {
-	--ifm-h2-font-size: 1.3rem;
+	--ifm-h2-font-size: 1.4rem;
+}
+
+.markdown > h3 {
+	--ifm-h2-font-size: 1.2rem;
+}
+
+.markdown > h4 {
+	--ifm-h2-font-size: 1.1rem;
 }
 
 html {
@@ -400,7 +410,7 @@ a:hover {
 	background-color: rgb(230 228 226);
 	padding: 0.25rem 0;
 	text-align: center;
-	font-size: 0.80rem;
+	font-size: 0.8rem;
 	line-height: 1rem;
 	font-weight: 500;
 	line-height: 1;
