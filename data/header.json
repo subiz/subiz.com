@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1709199530619,
-  "updated": 1709199530619,
+  "fetched": 1709294871736,
+  "updated": 1709294871736,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -90,6 +90,28 @@
       "modifiedTime": "2022-11-29T03:05:40.528Z",
       "version": "83",
       "path_lower": "/50 Tự động kết nối khách hàng/4.-thong-bao-mua-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
+      "name": "2. Chiến dịch telesales",
+      "modifiedTime": "2024-03-01T12:01:29.111Z",
+      "version": "81",
+      "path_lower": "/90 Chiến dịch Marketing/2.-chien-dich-telesales"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
+      "name": "1 Gửi hàng loạt Email Marketing",
+      "modifiedTime": "2024-03-01T10:31:22.777Z",
+      "version": "114",
+      "path_lower": "/90 Chiến dịch Marketing/1-gui-hang-loat-email-marketing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -358,83 +380,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
-      "name": "7. Kênh Google",
-      "modifiedTime": "2024-02-29T09:37:46.239Z",
-      "version": "132",
-      "path_lower": "/20 Tích hợp đa kênh/7.-kenh-google"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
-      "name": "6. Kết nối tổng đài",
-      "modifiedTime": "2024-02-27T11:37:56.390Z",
-      "version": "656",
-      "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
-      "name": "1 Kết nối website",
-      "modifiedTime": "2024-02-22T11:25:43.579Z",
-      "version": "399",
-      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
-      "name": "5. Kết nối Email",
-      "modifiedTime": "2023-12-19T10:06:45.172Z",
-      "version": "178",
-      "path_lower": "/20 Tích hợp đa kênh/5.-ket-noi-email"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
-      "name": "3 Kết nối Zalo OA",
-      "modifiedTime": "2023-12-19T10:04:49.914Z",
-      "version": "154",
-      "path_lower": "/20 Tích hợp đa kênh/3-ket-noi-zalo-oa"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
-      "name": "2  Kết nối Fanpage",
-      "modifiedTime": "2023-12-19T10:03:44.060Z",
-      "version": "174",
-      "path_lower": "/20 Tích hợp đa kênh/2--ket-noi-fanpage"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
-      ],
-      "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
-      "name": "4. Kết nối Instagram",
-      "modifiedTime": "2023-05-25T07:24:25.250Z",
-      "version": "134",
-      "path_lower": "/20 Tích hợp đa kênh/4.-ket-noi-instagram"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
       ],
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
@@ -556,6 +501,83 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
+      "name": "7. Kênh Google",
+      "modifiedTime": "2024-02-29T09:51:59.134Z",
+      "version": "139",
+      "path_lower": "/20 Tích hợp đa kênh/7.-kenh-google"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
+      "name": "6. Kết nối tổng đài",
+      "modifiedTime": "2024-02-27T11:37:56.390Z",
+      "version": "656",
+      "path_lower": "/20 Tích hợp đa kênh/6.-ket-noi-tong-dai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
+      "name": "1 Kết nối website",
+      "modifiedTime": "2024-02-22T11:25:43.579Z",
+      "version": "399",
+      "path_lower": "/20 Tích hợp đa kênh/1-ket-noi-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
+      "name": "5. Kết nối Email",
+      "modifiedTime": "2023-12-19T10:06:45.172Z",
+      "version": "178",
+      "path_lower": "/20 Tích hợp đa kênh/5.-ket-noi-email"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
+      "name": "3 Kết nối Zalo OA",
+      "modifiedTime": "2023-12-19T10:04:49.914Z",
+      "version": "154",
+      "path_lower": "/20 Tích hợp đa kênh/3-ket-noi-zalo-oa"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
+      "name": "2  Kết nối Fanpage",
+      "modifiedTime": "2023-12-19T10:03:44.060Z",
+      "version": "174",
+      "path_lower": "/20 Tích hợp đa kênh/2--ket-noi-fanpage"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
+      "name": "4. Kết nối Instagram",
+      "modifiedTime": "2023-05-25T07:24:25.250Z",
+      "version": "134",
+      "path_lower": "/20 Tích hợp đa kênh/4.-ket-noi-instagram"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
@@ -596,17 +618,6 @@
       "modifiedTime": "2022-10-24T08:41:26.686Z",
       "version": "48",
       "path_lower": "/10 Làm quen với Subiz/index"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
-      ],
-      "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
-      "name": "Gửi hàng loạt Email Marketing",
-      "modifiedTime": "2024-02-27T10:24:18.341Z",
-      "version": "113",
-      "path_lower": "/90 Chiến dịch Marketing/gui-hang-loat-email-marketing"
     }
   ]
 }
