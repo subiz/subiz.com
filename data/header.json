@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1709294871736,
-  "updated": 1709294871736,
+  "fetched": 1709354551298,
+  "updated": 1709354551298,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -99,7 +99,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "2. Chiến dịch telesales",
       "modifiedTime": "2024-03-01T12:01:29.111Z",
-      "version": "81",
+      "version": "82",
       "path_lower": "/90 Chiến dịch Marketing/2.-chien-dich-telesales"
     },
     {
@@ -110,30 +110,8 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "1 Gửi hàng loạt Email Marketing",
       "modifiedTime": "2024-03-01T10:31:22.777Z",
-      "version": "114",
+      "version": "115",
       "path_lower": "/90 Chiến dịch Marketing/1-gui-hang-loat-email-marketing"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
-      ],
-      "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
-      "name": "5.2 Đơn hàng",
-      "modifiedTime": "2023-04-17T10:47:43.744Z",
-      "version": "138",
-      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.2-don-hang"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
-      ],
-      "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
-      "name": "5.1 Sản phẩm",
-      "modifiedTime": "2023-03-02T10:25:44.505Z",
-      "version": "176",
-      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.1-san-pham"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -204,6 +182,28 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
+      ],
+      "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
+      "name": "5.2 Đơn hàng",
+      "modifiedTime": "2023-04-17T10:47:43.744Z",
+      "version": "138",
+      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.2-don-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
+      ],
+      "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
+      "name": "5.1 Sản phẩm",
+      "modifiedTime": "2023-03-02T10:25:44.505Z",
+      "version": "176",
+      "path_lower": "/70 Công cụ hỗ trợ chốt đơn/5.1-san-pham"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
@@ -244,61 +244,6 @@
       "modifiedTime": "2022-11-02T10:35:01.542Z",
       "version": "39",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
-      "name": "4. Nghe gọi điện thoại tổng đài",
-      "modifiedTime": "2024-02-28T04:23:01.861Z",
-      "version": "206",
-      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-goi-dien-thoai-tong-đai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
-      "name": "3. Tag hội thoại",
-      "modifiedTime": "2023-12-19T10:44:13.933Z",
-      "version": "146",
-      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
-      "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2023-12-19T10:34:16.141Z",
-      "version": "140",
-      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
-      "name": "1. Quản lý hội thoại của tôi",
-      "modifiedTime": "2023-07-29T02:02:45.137Z",
-      "version": "280",
-      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
-      ],
-      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
-      "name": "5. Nhắc việc cần làm",
-      "modifiedTime": "2023-06-02T10:25:43.510Z",
-      "version": "110",
-      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -376,6 +321,61 @@
       "modifiedTime": "2023-08-16T10:45:31.500Z",
       "version": "202",
       "path_lower": "/110 Câu hỏi thường gặp/1.-cua-so-chat-tren-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
+      "name": "4. Nghe gọi điện thoại tổng đài",
+      "modifiedTime": "2024-02-28T04:23:01.861Z",
+      "version": "206",
+      "path_lower": "/30 Tư vấn khách hàng/4.-nghe-goi-dien-thoai-tong-đai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
+      "name": "3. Tag hội thoại",
+      "modifiedTime": "2023-12-19T10:44:13.933Z",
+      "version": "146",
+      "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
+      "name": "2. Mẫu tin nhắn",
+      "modifiedTime": "2023-12-19T10:34:16.141Z",
+      "version": "140",
+      "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
+      "name": "1. Quản lý hội thoại của tôi",
+      "modifiedTime": "2023-07-29T02:02:45.137Z",
+      "version": "280",
+      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-toi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
+      "name": "5. Nhắc việc cần làm",
+      "modifiedTime": "2023-06-02T10:25:43.510Z",
+      "version": "110",
+      "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
