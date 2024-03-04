@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1709354551298,
-  "updated": 1709354551298,
+  "fetched": 1709400321717,
+  "updated": 1709400321717,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -13,50 +13,6 @@
       "modifiedTime": "2023-11-22T09:58:16.001Z",
       "version": "200",
       "path_lower": "/_readme"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
-      ],
-      "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
-      "name": "4 Tự động hoàn thành hội thoại",
-      "modifiedTime": "2023-07-20T08:13:57.496Z",
-      "version": "98",
-      "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
-      ],
-      "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
-      "name": "1. Tổng quan về agent",
-      "modifiedTime": "2023-06-27T07:49:52.360Z",
-      "version": "313",
-      "path_lower": "/40 Quản lý làm việc nhóm/1.-tong-quan-ve-agent"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
-      ],
-      "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
-      "name": "2 Rule phân phối hội thoại",
-      "modifiedTime": "2023-06-23T04:58:33.529Z",
-      "version": "194",
-      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
-      ],
-      "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
-      "name": "3 Giờ làm việc",
-      "modifiedTime": "2023-01-17T08:39:56.701Z",
-      "version": "107",
-      "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -110,8 +66,52 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "1 Gửi hàng loạt Email Marketing",
       "modifiedTime": "2024-03-01T10:31:22.777Z",
-      "version": "115",
+      "version": "117",
       "path_lower": "/90 Chiến dịch Marketing/1-gui-hang-loat-email-marketing"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
+      "name": "4 Tự động hoàn thành hội thoại",
+      "modifiedTime": "2023-07-20T08:13:57.496Z",
+      "version": "98",
+      "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
+      "name": "1. Tổng quan về agent",
+      "modifiedTime": "2023-06-27T07:49:52.360Z",
+      "version": "313",
+      "path_lower": "/40 Quản lý làm việc nhóm/1.-tong-quan-ve-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
+      "name": "2 Rule phân phối hội thoại",
+      "modifiedTime": "2023-06-23T04:58:33.529Z",
+      "version": "194",
+      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
+      "name": "3 Giờ làm việc",
+      "modifiedTime": "2023-01-17T08:39:56.701Z",
+      "version": "107",
+      "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
