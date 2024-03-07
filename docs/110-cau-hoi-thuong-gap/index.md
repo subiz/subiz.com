@@ -3,7 +3,7 @@ title: Câu hỏi thường gặp
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-03-07T12:01:40.215Z
+   date: 2024-03-07T12:01:49.350Z
 ---
 # Câu hỏi thường gặp
 * [Làm việc trên Subiz](/110-cau-hoi-thuong-gap/1.-lam-viec-tren-subiz.md)
