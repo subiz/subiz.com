@@ -411,6 +411,7 @@ async function exportFile(id, destPath) {
 }
 
 function writeFileHeader(entries, fetched, updated) {
+	entries = lo.orderBy(entries, 'id')
 	fs.writeFileSync(
 		'./data/header.json',
 		JSON.stringify({version: 1, fetched: fetched, updated: updated, entries}, null, 2),
