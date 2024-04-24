@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const darkCodeTheme = require('prism-react-renderer/themes/palenight')
+// const darkCodeTheme = require('prism-react-renderer/themes/palenight')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -23,6 +23,13 @@ const config = {
 			'classic',
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
+				sitemap: {
+					lastmod: 'date',
+					changefreq: 'weekly',
+					priority: 0.5,
+					ignorePatterns: ['/tags/**'],
+					filename: 'sitemap.xml',
+				},
 				docs: {
 					showLastUpdateTime: true,
 					breadcrumbs: false,
@@ -55,15 +62,15 @@ const config = {
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
-				algolia: {
-						// The application ID provided by Algolia
-						appId: 'KMSSP41O2O', // hamy@subiz.com
+			algolia: {
+				// The application ID provided by Algolia
+				appId: 'KMSSP41O2O', // hamy@subiz.com
 
-						// Public API key: it is safe to commit it
-						apiKey: '1dfabfe59e75bf2e37d5b037ac6dee95',
+				// Public API key: it is safe to commit it
+				apiKey: '1dfabfe59e75bf2e37d5b037ac6dee95',
 
-						indexName: 'subiz-com',
-				},
+				indexName: 'subiz-com',
+			},
 			imageZoom: {
 				// CSS selector to apply the plugin to, defaults to '.markdown img'
 				selector: '.markdown img',
@@ -104,10 +111,10 @@ const config = {
 					},
 				],
 			},
-			prism: {
-				theme: darkCodeTheme,
-				darkTheme: darkCodeTheme,
-			},
+			// prism: {
+			// theme: darkCodeTheme,
+			// darkTheme: darkCodeTheme,
+			//},
 			footer: {
 				links: [
 					{

@@ -5,7 +5,7 @@ title: Google Analytics và Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:10:14.593Z
+  date: 2024-04-24T07:41:04.635Z
 ---
 
 # Google Analytics và Subiz
@@ -47,17 +47,59 @@ Khi bạn tích hợp mã nhúng Google Analytics (GA) qua Google Tag Manager (G
 
 Subiz sẽ sử dụng dataLayer có **version 2** như ví dụ sau:
 
-***dataLayer.push({'event':'SUBIZ Chat','event\_action':'Sent','event\_label':'User'});***
+
+
+
+```
+dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'});
+
+```
+
 
 
 
 Subiz sẽ gửi lúc nào?
 
-- Khi cửa sổ chat Subiz được mở. Dữ liệu như sau: ***dataLayer.push({'event':'SUBIZ Chat','event\_action':'Opened','event\_label':'Subiz Windows'});***
+01. Khi cửa sổ chat Subiz được mở.
 
-- Khi User (khách truy cập) nhận tin nhắn. Dữ liệu như sau: ***dataLayer.push({'event':'SUBIZ Chat','event\_action':'Received','event\_label':'User'});***
+Dữ liệu như sau:
 
-- Khi User (khách truy cập) gửi tin nhắn. Dữ liệu như sau: ***dataLayer.push({'event':'SUBIZ Chat','event\_action':'Sent','event\_label':'User'});***
+
+```
+dataLayer.push({'event':'SUBIZ Chat','event_action':'Opened','event_label':'Subiz Windows'});
+
+```
+
+
+
+
+
+
+01. Khi User (khách truy cập) nhận tin nhắn.
+
+Dữ liệu như sau: 
+
+
+```
+dataLayer.push({'event':'SUBIZ Chat','event_action':'Received','event_label':'User'});
+
+```
+
+
+
+
+
+
+01. Khi User (khách truy cập) gửi tin nhắn.
+
+Dữ liệu như sau:
+
+
+```
+dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'});
+
+```
+
 
 
 
