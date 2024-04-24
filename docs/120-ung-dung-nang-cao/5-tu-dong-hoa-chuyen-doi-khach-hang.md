@@ -1,6 +1,6 @@
 ---
 id: 1385334016
-slug: /1385334016-tu-dong-hoa-chuyen-đoi-khach-hang
+slug: /1385334016-tu-dong-hoa-chuyen-doi-khach-hang
 title: Tự động thu thập thông tin khách
 pagination_next: null
 pagination_prev: null

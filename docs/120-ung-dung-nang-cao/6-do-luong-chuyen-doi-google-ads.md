@@ -1,6 +1,6 @@
 ---
 id: 171095673
-slug: /171095673-do-luong-chuyen-đoi-google-ads
+slug: /171095673-do-luong-chuyen-doi-google-ads
 title: Đo lường chuyển đổi Google Ads
 pagination_next: null
 pagination_prev: null
