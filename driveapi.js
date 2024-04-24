@@ -289,7 +289,7 @@ function ensureDirectoryExistence(filePath) {
 function unicodeToAscii(str) {
 	str = str + ''
 	// work around Đ not work
-	str = str.replace('đ', 'd').replace('Đ', 'D')
+	str = str.replaceAll('đ', 'd').replaceAll('Đ', 'D')
 	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 }
 
