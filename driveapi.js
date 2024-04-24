@@ -415,9 +415,7 @@ function writeFileHeader(entries, fetched, updated) {
 	fs.writeFileSync(
 		'./data/header.json',
 		JSON.stringify({version: 1, fetched: fetched, updated: updated, entries}, null, 2),
-		{
-			encoding: 'utf8',
-		},
+		{encoding: 'utf8'},
 	)
 }
 
