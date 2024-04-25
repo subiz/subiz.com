@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1713945869129,
-  "updated": 1713945869129,
+  "fetched": 1714028725174,
+  "updated": 1714028725174,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -22,7 +22,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
       "modifiedTime": "2024-03-23T04:47:55.456Z",
-      "version": "744",
+      "version": "745",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -90,6 +90,17 @@
       "modifiedTime": "2022-11-02T10:35:01.542Z",
       "version": "39",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
+      ],
+      "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
+      "name": "index",
+      "modifiedTime": "2024-04-25T07:04:44.935Z",
+      "version": "11",
+      "path_lower": "/index"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -176,7 +187,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "5 Tự động hóa chuyển đổi khách hàng",
       "modifiedTime": "2023-07-13T11:22:10.958Z",
-      "version": "116",
+      "version": "117",
       "path_lower": "/120 Ứng dụng nâng cao/5-tu-dong-hoa-chuyen-doi-khach-hang"
     },
     {
@@ -242,7 +253,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "3. Chiến dịch telesales",
       "modifiedTime": "2024-03-23T05:15:52.657Z",
-      "version": "96",
+      "version": "97",
       "path_lower": "/90 Tổng đài điện thoại/3.-chien-dich-telesales"
     },
     {
@@ -374,7 +385,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2024-03-23T05:43:01.715Z",
-      "version": "261",
+      "version": "262",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -572,7 +583,7 @@
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "7 Google Analytics và Subiz",
       "modifiedTime": "2024-04-24T07:41:04.635Z",
-      "version": "59",
+      "version": "60",
       "path_lower": "/120 Ứng dụng nâng cao/7-google-analytics-va-subiz"
     },
     {
@@ -594,7 +605,7 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "6 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2023-07-12T04:09:31.814Z",
-      "version": "91",
+      "version": "92",
       "path_lower": "/120 Ứng dụng nâng cao/6-do-luong-chuyen-doi-google-ads"
     },
     {
@@ -626,8 +637,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2023-11-22T09:58:16.001Z",
-      "version": "203",
+      "modifiedTime": "2024-04-25T06:58:09.740Z",
+      "version": "209",
       "path_lower": "/_readme"
     },
     {

@@ -249,7 +249,7 @@ last_update:
 			fs.writeFileSync('./docs' + sluggy(categoryPath) + '/index.md', categoryIndex, {encoding: 'utf8'})
 	})
 	console.log('COPY RECURSIVE')
-	copyRecursiveSync('./static_docs', './docs')
+	// copyRecursiveSync('./static_docs', './docs')
 }
 
 main()
