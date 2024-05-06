@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1714028725174,
-  "updated": 1714028725174,
+  "fetched": 1714992861793,
+  "updated": 1714992861793,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -43,8 +43,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2024-03-07T09:40:10.085Z",
-      "version": "417",
+      "modifiedTime": "2024-05-06T10:23:24.937Z",
+      "version": "428",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -99,7 +99,7 @@
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
       "name": "index",
       "modifiedTime": "2024-04-25T07:04:44.935Z",
-      "version": "11",
+      "version": "13",
       "path_lower": "/index"
     },
     {
@@ -108,10 +108,10 @@
         "1IT2buzFHvsAHfvLXfr1cnGoctGkM90kz"
       ],
       "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
-      "name": "1. Làm việc trên Subiz",
-      "modifiedTime": "2024-03-07T11:51:34.450Z",
-      "version": "274",
-      "path_lower": "/110 Câu hỏi thường gặp/1.-lam-viec-tren-subiz"
+      "name": "1. Thông báo tin nhắn mới",
+      "modifiedTime": "2024-05-06T10:52:40.166Z",
+      "version": "299",
+      "path_lower": "/110 Câu hỏi thường gặp/1.-thong-bao-tin-nhan-moi"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -638,7 +638,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2024-04-25T06:58:09.740Z",
-      "version": "209",
+      "version": "210",
       "path_lower": "/_readme"
     },
     {
