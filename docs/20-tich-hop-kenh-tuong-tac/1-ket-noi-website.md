@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-03-07T09:40:10.085Z
+  date: 2024-05-06T10:23:24.937Z
 ---
 
 # Tích hợp trên website
@@ -52,7 +52,7 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
-Trả lời: Cách kiểm tra cửa sổ chat đã cài đặt thành công trên website: Mở website và chọn tải trang hoặc F5 xem có hiển thị cửa sổ chat không?
+**Trả lời**: Cách kiểm tra cửa sổ chat đã cài đặt thành công trên website: Mở website và chọn tải trang hoặc F5 xem có hiển thị cửa sổ chat không?
 
 
 
@@ -60,7 +60,7 @@ Trả lời: Cách kiểm tra cửa sổ chat đã cài đặt thành công trê
 
 
 
-**Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz. **
+**Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz.** 
 
 - Kiểm tra: Mở tab trình duyệt mới > Mở website lên > Chọn Ctrl U > chọn Ctrl F và điền Subiz > Có tìm được mã nhúng không? Nếu không thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web.
 - Cách xử lý: Quay lại trang admin code web tìm xem có sử dụng plugin cache nào không? Nếu có xóa cache để lưu thành công cài đặt Subiz
@@ -111,21 +111,21 @@ Lưu ý: Đổi mã tài khoản Subiz của bạn vào đoạn mã trên (sbzac
 
 
 
-Trả lời. Bạn cài đặt Subiz qua Google Tag Manager được.
+**Trả lời**: Bạn cài đặt Subiz qua Google Tag Manager được.
 
 
 
 Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích hợp Subiz chat vào website thông qua Google Tag Manager theo các bước như sau:
 
-**Bước 1**: Đăng nhập[ ](https://tagmanager.google.com/#/home)**[Tagmanager.google.com](https://tagmanager.google.com/#/home)**
+Bước 1: Đăng nhập[ ](https://tagmanager.google.com/#/home)**[Tagmanager.google.com](https://tagmanager.google.com/#/home)**
 
-**Bước 2**: **Chọn account quản lý website** sẽ tích hợp Subiz chat tại All account.
+Bước 2: **Chọn account quản lý website** sẽ tích hợp Subiz chat tại All account.
 
-**Bước 3**: Tạo Tag mới **Tại WORKSPACE chọn Tags > NEW**
+Bước 3: Tạo Tag mới **Tại WORKSPACE chọn Tags > NEW**
 
-**Bước 4**:** Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
+Bước 4: **Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
 
-**Bước 5**: **Tag Configuration: **Chọn Custom HTML >[ ](https://app.subiz.com.vn/website/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com.vn/website/install)** và dán vào ô HTML
+Bước 5: **Tag Configuration: **Chọn Custom HTML >[ ](https://app.subiz.com.vn/website/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com.vn/website/install)** và dán vào ô HTML
 
 **Chọn (tick) Support document.write**
 
@@ -139,9 +139,9 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
     - Chỉ một số trang (Some Pages) sẽ hiển thị cửa sổ Subiz chat.
     - Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
 
-**Bước 6**: Chọn **SAVE** > chọn **SUBMIT** ở góc phải màn hình > Điền thông tin mô tả trong mục **Publish and Create Version** > chọn **PUBLISH** để hoàn thành.
+Bước 6: Chọn **SAVE** > chọn **SUBMIT** ở góc phải màn hình > Điền thông tin mô tả trong mục **Publish and Create Version** > chọn **PUBLISH** để hoàn thành.
 
-**Bước 7**: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
+Bước 7: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
 
 ![](https://vcdn.subiz-cdn.com/file/b24cc7dffc26c84921322d2215547aa782f824d6b63b504880318ab9f9f37530_acpxkgumifuoofoosble)
@@ -149,13 +149,15 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
 ### Cài đặt Subiz trên website Wordpress
 
 
-01. Mở trang quản lý WordPress Admin Panel > Appearance > Editor.
-11. Tìm file footer.php bên cột bên phải và mở file này.
-21. Sao chép[ mã nhúng Subiz](https://app.subiz.com.vn/website/install) tại đây
-31. Dán mã nhúng Subiz trước thẻ `body` đóng
-41. Kiểm tra trên trang WordPress có dùng plugin cache nào không? Ví dụ: WP Rocket, [Comet Cache](https://wordpress.org/plugins/comet-cache/), [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/),... Nếu có cần xóa cache để lưu mã nhúng Subiz vừa cài đặt
+Bước 1: Mở trang quản lý WordPress Admin Panel > Appearance > Editor.
 
+Bước 2: Tìm file footer.php bên cột bên phải và mở file này.
 
+Bước 3: Sao chép[ mã nhúng Subiz](https://app.subiz.com.vn/website/install) tại đây.
+
+Bước 4 Dán mã nhúng Subiz trước thẻ `body` đóng
+
+Bước 5: Kiểm tra trên trang WordPress có dùng plugin cache nào không? Nếu có cần xóa cache để lưu mã nhúng Subiz vừa cài đặt. Ví dụ: WP Rocket, [Comet Cache](https://wordpress.org/plugins/comet-cache/), [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/),... 
 
 
 ![](https://vcdn.subiz-cdn.com/file/e1eed3bfefff1cc6b291c13e840f1ebc93bf0decd8a56c58622e73fe3d24b063_acpxkgumifuoofoosble)
@@ -165,13 +167,13 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
 ### Cài đặt Subiz trên Ladipage
 
 
-**Bước 1**: Login tài khoản[ ](https://ladipage.vn)**[Ladipage](https://ladipage.vn)** và chọn Landing page bạn muốn đặt Subiz.
+Bước 1: Login tài khoản[ ](https://ladipage.vn)**[Ladipage](https://ladipage.vn)** và chọn Landing page bạn muốn đặt Subiz.
 
-**Bước 2: **Trên Ladipage, bạn vào CÀI ĐẶT TRANG tại góc dưới bên phải màn hình. Tại màn hình mở ra, bạn chọn Tab "Mã theo dõi tuỳ chỉnh". 
+Bước 2: Trên Ladipage, bạn vào CÀI ĐẶT TRANG tại góc dưới bên phải màn hình. Tại màn hình mở ra, bạn chọn Tab "Mã theo dõi tuỳ chỉnh". 
 
-**Bước 3**: Sao chép[ ](https://app.subiz.com.vn/website/install)**[mã nhúng Subiz tại đây](https://app.subiz.com.vn/website/install)** và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ body” > Chọn Save > Chọn Xuất bản
+Bước 3: Sao chép[ ](https://app.subiz.com.vn/website/install)**[mã nhúng Subiz tại đây](https://app.subiz.com.vn/website/install)** và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ body” > Chọn Save > Chọn Xuất bản
 
-**Bước 4**: Truy cập vào Landing Page để xem hiển thị cửa sổ chat
+Bước 4: Truy cập vào Landing Page để xem hiển thị cửa sổ chat
 
 
 ![](https://vcdn.subiz-cdn.com/file/b53ab0290cf70df144b3e5164abb8bf69688f5c3a865c8f5de66a92bffb98050_acpxkgumifuoofoosble)
@@ -181,11 +183,11 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
 ### Cài đặt Subiz trên web Sapo
 
 
-**Bước 1**: Đăng nhập trang quản trị website của Sapo > Chọn Website.
+Bước 1: Đăng nhập trang quản trị website của Sapo > Chọn Website.
 
-**Bước 2**: Chọn **Giao diện > Thao tác > Chỉnh sửa HTML/CSS.**
+Bước 2: Chọn **Giao diện > Thao tác > Chỉnh sửa HTML/CSS.**
 
-**Bước 3: **Chọn Them.bwt > Tìm thẻ “body” >[ ](https://app.subiz.com/settings/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install)** và dán trước thẻ “body” > Lưu để hoàn thành
+Bước 3: Chọn Them.bwt > Tìm thẻ “body” >[ ](https://app.subiz.com/settings/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install)** và dán trước thẻ “body” > Lưu để hoàn thành
 
 
 
@@ -199,11 +201,11 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
 
 
 
-**Bước 1**:[ ](https://myharavan.com/admin/auth/login)**[Đăng nhập](https://myharavan.com/admin/auth/login)** trang quản lý website của Haravan
+Bước 1:[ ](https://myharavan.com/admin/auth/login)**[Đăng nhập](https://myharavan.com/admin/auth/login)** trang quản lý website của Haravan
 
-**Bước 2**: Chọn **Website** > chọn **Giao diện** > chọn
+Bước 2: Chọn **Website** > chọn **Giao diện** > chọn
 
-**Bước 3**: Chọn **theme.liquid** trong Layouts > Tìm thẻ “head” >[ ](https://app.subiz.com/settings/install)[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ “head” > chọn **Lưu** để hoàn thành
+Bước 3: Chọn **theme.liquid** trong Layouts > Tìm thẻ “head” >[ ](https://app.subiz.com/settings/install)[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ “head” > chọn **Lưu** để hoàn thành
 
 
 
