@@ -436,7 +436,7 @@ function genFolderIndex(name, docM) {
 	links = lo.orderBy(links, 'index', 'asc')
 	if (index) return
 
-	let $links = lo.map(links, (link) => `* [${link.name}](${link.url})`)
+	let $links = lo.map(links, (link) => `* [${link.name}](.${link.url})`)
 	let out = extractFilename({name: name, id: Date.now()})
 	let dirname = out.name || 'category'
 	dirname = dirname[0].toUpperCase() + dirname.substr(1)
