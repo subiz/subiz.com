@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1714992861793,
-  "updated": 1714992861793,
+  "fetched": 1716010680120,
+  "updated": 1716010680120,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -109,8 +109,8 @@
       ],
       "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
       "name": "1. Thông báo tin nhắn mới",
-      "modifiedTime": "2024-05-06T10:52:40.166Z",
-      "version": "299",
+      "modifiedTime": "2024-05-06T10:52:43.836Z",
+      "version": "305",
       "path_lower": "/110 Câu hỏi thường gặp/1.-thong-bao-tin-nhan-moi"
     },
     {
@@ -132,7 +132,7 @@
       "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
       "name": "2. App mobile Subiz",
       "modifiedTime": "2024-03-07T11:56:11.995Z",
-      "version": "79",
+      "version": "82",
       "path_lower": "/110 Câu hỏi thường gặp/2.-app-mobile-subiz"
     },
     {
@@ -286,7 +286,7 @@
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "4. Cập nhật mới trên Subiz",
       "modifiedTime": "2024-03-07T09:50:59.162Z",
-      "version": "75",
+      "version": "77",
       "path_lower": "/110 Câu hỏi thường gặp/4.-cap-nhat-moi-tren-subiz"
     },
     {
@@ -582,8 +582,8 @@
       ],
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "7 Google Analytics và Subiz",
-      "modifiedTime": "2024-04-24T07:41:04.635Z",
-      "version": "60",
+      "modifiedTime": "2024-05-18T05:15:13.634Z",
+      "version": "96",
       "path_lower": "/120 Ứng dụng nâng cao/7-google-analytics-va-subiz"
     },
     {
