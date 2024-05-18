@@ -74,7 +74,7 @@ Tại đây, bạn sửa: Tiêu đề chọn hiển thị agent và Lời chào 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/5b60adbf0de30ba2046b35c835800c1e8d1a2820489cbfc78de50bc35d808260_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/2ff9ad825e11691d274e54ef9f81ea231b17f8794781b70d82e39601e5beb6de_acpxkgumifuoofoosble)
 
 ### Bước 4: Sử dụng API chỉnh sửa cửa sổ chat trên website còn lại
 

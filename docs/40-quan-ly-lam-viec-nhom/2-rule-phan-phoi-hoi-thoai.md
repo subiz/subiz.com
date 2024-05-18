@@ -59,7 +59,7 @@ Ví dụ:
 Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > Mở **Cài đặt** > chọn **[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)** > chọn **Tạo Rule phân phối**
 
 
-![](https://vcdn.subiz-cdn.com/file/ea24aa9d69be16851069ac032689ddad09d837b045857b6e37b663211616216f_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/ffd1f95c981ee2560a73c4b2cff8d06fe8cb02e1d472c0487ff168211947591e_acpxkgumifuoofoosble)
 
 ## Một số ví dụ Rule phân phối
 

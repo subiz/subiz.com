@@ -5,7 +5,7 @@ title: Google Analytics và Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-05-18T05:15:13.634Z
+  date: 2024-05-18T05:49:20.765Z
 ---
 
 # Google Analytics và Subiz
@@ -149,6 +149,14 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 ![](https://vcdn.subiz-cdn.com/file/6ad36d6a7cc0014d955197fc151b69b5bd52e1c5be98d078b09d0df92497f1a7_acpxkgumifuoofoosble)
 
 
+
+
+Sau khi cài đặt GTM thành công, bạn xem báo cáo sự kiện SUBIZ Chat trên GA4 ví dụ như sau
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/9a6405e450c7dcd555560338eeb575211944223917780bdf78646c2fee72bb09_acpxkgumifuoofoosble)
 
 
 
