@@ -3,7 +3,7 @@ title: Câu hỏi thường gặp
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-05-06T10:52:40.166Z
+   date: 2024-05-06T10:52:43.836Z
 ---
 # Câu hỏi thường gặp
 * [Thông báo tin nhắn mới](/110-cau-hoi-thuong-gap/1.-thong-bao-tin-nhan-moi.md)

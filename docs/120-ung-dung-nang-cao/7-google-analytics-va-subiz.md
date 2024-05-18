@@ -5,7 +5,7 @@ title: Google Analytics và Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-04-24T07:41:04.635Z
+  date: 2024-05-18T05:15:13.634Z
 ---
 
 # Google Analytics và Subiz
@@ -48,8 +48,6 @@ Khi bạn tích hợp mã nhúng Google Analytics (GA) qua Google Tag Manager (G
 Subiz sẽ sử dụng dataLayer có **version 2** như ví dụ sau:
 
 
-
-
 ```
 dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'});
 
@@ -60,9 +58,7 @@ dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'}
 
 Subiz sẽ gửi lúc nào?
 
-01. Khi cửa sổ chat Subiz được mở.
-
-Dữ liệu như sau:
+Một là: Khi cửa sổ chat Subiz được mở. Dữ liệu như sau:
 
 
 ```
@@ -75,9 +71,7 @@ dataLayer.push({'event':'SUBIZ Chat','event_action':'Opened','event_label':'Subi
 
 
 
-01. Khi User (khách truy cập) nhận tin nhắn.
-
-Dữ liệu như sau: 
+Hai là: Khi User (khách truy cập) nhận tin nhắn. Dữ liệu như sau: 
 
 
 ```
@@ -90,9 +84,7 @@ dataLayer.push({'event':'SUBIZ Chat','event_action':'Received','event_label':'Us
 
 
 
-01. Khi User (khách truy cập) gửi tin nhắn.
-
-Dữ liệu như sau:
+Ba là: Khi User (khách truy cập) gửi tin nhắn. Dữ liệu như sau:
 
 
 ```
@@ -102,37 +94,64 @@ dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'}
 
 
 
+## Hướng dẫn cài đặt Subiz trên GTM
 
-Hướng dẫn cài đặt Subiz trên GTM:
+
+Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến), tạo Triggers (Trình kích hoạt), tạo Tags (Thẻ).
+
+
+
+**Bước 1: Tạo 2 Variables (Biến) cho SUBIZ Chat gồm event\_action và event\_label.**
 
 - Đăng nhập [Google Tag Manager](https://tagmanager.google.com/)
-- Trong Variables, chọn tạo mới tại mục User-Defined Variables.
-- Chọn loại Variable là Data Layer Variable, đặt tên cho biến Variable (ví dụ trong ảnh là Data Layer Subiz Action).
-- xem hình dưới để hoàn thiện các bước và Lưu.
-- Chú ý tại mục Data Layer Version bạn chọn Version 2 - đây là version Data Layer Subiz sử dụng.
+- Trong Variables, chọn “tạo mới” tại mục “User-Defined Variables”.
+- Chọn loại Variable là “Data Layer Variable”, đặt tên cho biến Variable là Data Layer Subiz Action).
+- Chú ý tại mục Data Layer Version, bạn chọn “Version 2”.
+- Xem hình dưới để hoàn thiện các bước và Lưu.
+- Sau đó, bạn tạo thêm Data Layer Subiz Label
 
 
-![](https://vcdn.subiz-cdn.com/file/c0d25b13f9e1013cdccb629a39381dab492b1a65c10f3cb881d280eda22554b2_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/b9bbb9f2bb87f853ccb1171b224c091f96ebb3a3690bbea5cafcfa833e9b23e8_acpxkgumifuoofoosble)
+
+
+
+![](https://vcdn.subiz-cdn.com/file/db892b724de838e7e996a0c9880419de282e71bd7d991a8c2212924126052e3d_acpxkgumifuoofoosble)
 
 
 
 
-- Tiếp đến, bạn vào Trigger để tạo Trigger mới.
-- Loại trigger chọn Custom event
-- This trigger fires on: Bạn chọn chính Variable đã tạo ở trên, trong ảnh ví dụ này nó có tên là Data Layer Subiz Action. Và chọn biến này bằng (equals) **Sent**
+
+
+**Bước 2: Tạo Triggers (Trình kích hoạt) cho SUBIZ Chat**
+
+
+
+- Bạn mở Trigger để tạo Trigger mới.
+- Loại trigger chọn Custom Event
+- This trigger fires on: Bạn chọn All Custom Events
 - Lưu
 
 
-![](https://vcdn.subiz-cdn.com/file/4501068b951650c715f56ab90a16c844190df223c1e95d104472d2ea8fbf7a26_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/30c1207655b71d01e87d656099bb444ff70b2b4ffb21c794157087bf9190f588_acpxkgumifuoofoosble)
 
 
 
 
-- Tiếp đến bạn thiết lập Tag cho trigger. Tag này có thể là ghi nhận Goal cho Google Analytics, Conversion cho Google Ads ….
+**Bước 3: Tạo Tags (Thẻ) cho SUBIZ Chat**
 
 
 
-Sau khi xong, bạn publish để Google Tag Manager của bạn được cập nhật lên website. Và dùng chức năng Preview để thử với việc bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
+- Bạn tạo Tag cho Triggers. Tag này có thể là ghi nhận Goal cho Google Analytics, Conversion cho Google Ads ….
+- Ví dụ ảnh dưới đây là Tag ghi nhận chuyển đổi trên GA4.
+- Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật lên website. Và dùng chức năng Preview để thử với việc bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
+
+
+![](https://vcdn.subiz-cdn.com/file/6ad36d6a7cc0014d955197fc151b69b5bd52e1c5be98d078b09d0df92497f1a7_acpxkgumifuoofoosble)
+
+
+
+
+
 ## Một số câu hỏi thường gặp
 
 
