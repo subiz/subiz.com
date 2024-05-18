@@ -24,7 +24,7 @@ Ví dụ website tiếng Việt thì cửa sổ chat hiện tiếng Việt, webs
 
 
 
-![](https://vcdn.subiz-cdn.com/file/8fa47d67130c5b72cc045575b798d449e2b03e87574c3133fa431fdcd356b2ad_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/4f994440c830ac87a36767774b108cddae1e252860ecd7a328f9759a3579d99f_acpxkgumifuoofoosble)
 
 
 
