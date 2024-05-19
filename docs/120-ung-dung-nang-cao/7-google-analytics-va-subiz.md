@@ -5,7 +5,7 @@ title: Google Analytics và Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-05-18T05:49:20.765Z
+  date: 2024-05-18T09:00:27.467Z
 ---
 
 # Google Analytics và Subiz
@@ -143,20 +143,40 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 
 - Bạn tạo Tag cho Triggers. Tag này có thể là ghi nhận Goal cho Google Analytics, Conversion cho Google Ads ….
 - Ví dụ ảnh dưới đây là Tag ghi nhận chuyển đổi trên GA4.
-- Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật lên website. Và dùng chức năng Preview để thử với việc bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
 
 
 ![](https://vcdn.subiz-cdn.com/file/6ad36d6a7cc0014d955197fc151b69b5bd52e1c5be98d078b09d0df92497f1a7_acpxkgumifuoofoosble)
 
 
+- Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật lên website. Và dùng chức năng Preview để thử với việc bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
 
 
-Sau khi cài đặt GTM thành công, bạn xem báo cáo sự kiện SUBIZ Chat trên GA4 ví dụ như sau
+## Xem dữ liệu SUBIZ Chat trên GA4
+
+
+Sau khi cài đặt GTM thành công, bạn xem báo cáo sự kiện SUBIZ Chat trên GA4, ví dụ như sau:
 
 
 
 
 ![](https://vcdn.subiz-cdn.com/file/9a6405e450c7dcd555560338eeb575211944223917780bdf78646c2fee72bb09_acpxkgumifuoofoosble)
+
+
+
+
+Khi bạn muốn thay đổi hiển thị sự kiện SUBIZ Chat trên GA4 theo cách riêng, bạn sẽ cài đặt trực tiếp trên GA4. 
+
+Ví dụ bạn muốn xem có bao nhiêu khách hàng đã nhắn tin qua Subiz, bạn cài đặt thêm GA4 như sau:
+
+- Vào mục Quản trị của GA4, tìm tới Cài đặt tài sản > chọn Hiển thị dữ liệu > chọn Sự kiện và tạo mới
+- Thêm số chọn event\_action, nhập giá trị là Sent
+- Lưu ý tích chọn Sao chép các thông số từ sự kiện nguồn
+- Chọn Tạo là xong. Sau khi tạo thì dữ liệu mới sẽ hiển thị báo cáo theo tên “SUBIZ\_Chat\_Sent\_Message”
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/3ac730bee82db58b768ede5ae00e26a50af2c436d0d0af4ab6671f9bf1cc38cc_acpxkgumifuoofoosble)
 
 
 
