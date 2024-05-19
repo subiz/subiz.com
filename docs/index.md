@@ -1,6 +1,6 @@
 ---
 id: 321138315
-slug: /321138315-category
+slug: /
 title: Chào mừng bạn đến với trang docs của Subiz
 pagination_next: null
 pagination_prev: null
