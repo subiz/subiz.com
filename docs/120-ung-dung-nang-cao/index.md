@@ -3,7 +3,7 @@ title: Ứng dụng nâng cao
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-05-18T09:00:27.467Z
+   date: 2024-08-01T11:52:20.799Z
 ---
 # Ứng dụng nâng cao
 * [Quản lý hàng nghìn Fanpage](/120-ung-dung-nang-cao/1--quan-ly-hang-nghin-fanpage.md)
@@ -16,4 +16,5 @@ last_update:
 * [Kết nối bảng hỏi website](/120-ung-dung-nang-cao/8.-ket-noi-bang-hoi-website.md)
 * [API kết nối Subiz](/120-ung-dung-nang-cao/8-api-ket-noi-subiz.md)
 * [Tích hợp app mobile](/120-ung-dung-nang-cao/9-tich-hop-app-mobile.md)
-* [Webhook đồng bộ dữ liệu](/120-ung-dung-nang-cao/10-webhook-dong-bo-du-lieu.md)
+* [Webhook tích hợp CRM](/120-ung-dung-nang-cao/10-webhook-tich-hop-crm.md)
+* [Phiếu ghi chăm sóc khách hàng](/120-ung-dung-nang-cao/11.-phieu-ghi-cham-soc-khach-hang.md)
