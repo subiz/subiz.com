@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1722534378252,
-  "updated": 1722534378252,
+  "fetched": 1722570880491,
+  "updated": 1722570880491,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -329,8 +329,8 @@
       ],
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "10 Webhook tích hợp CRM",
-      "modifiedTime": "2024-08-01T09:18:47.515Z",
-      "version": "59",
+      "modifiedTime": "2024-08-02T03:27:38.023Z",
+      "version": "69",
       "path_lower": "/120 Ứng dụng nâng cao/10-webhook-tich-hop-crm"
     },
     {
