@@ -5,7 +5,7 @@ title: Rule phân phối hội thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-06-23T04:58:33.529Z
+  date: 2024-08-03T08:45:49.186Z
 ---
 
 # Rule phân phối hội thoại
@@ -15,22 +15,26 @@ last_update:
 
 
 
-**[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)** là chức năng tự động phân chia hội thoại của khách hàng cho agent tư vấn phụ trách.
+**[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)** là chức năng tự động phân chia hội thoại của khách hàng rồi giao cho nhân viên trả lời tư vấn khách, giúp chuyên môn hóa công việc cho từng nhân viên và nâng cao chất lượng dịch vụ khách hàng.
 
 
 
 Ví dụ: 
 
-- Rule tự động phân chia khách miền Bắc cho agent miền Bắc. Rule tự động phân chia khách miền Nam cho agent miền Nam.
-- Rule tự động phân chia đồng đều theo vòng chat Fanpage cho các agent. Rule tự động phân chia chat website cho agent trả lời nhanh nhất.
+- Rule chia theo vùng miền: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam.
+- Rule theo kênh tương tác: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B.
+- Rule theo hiệu suất của nhân viên: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất.
+
+
+![](https://vcdn.subiz-cdn.com/file/81107e0ffe74647919c91b1643350a86527ac3ff26aaee688cf0fd5705065bda_acpxkgumifuoofoosble)
 
 
 
-**Một số lưu ý của Rule phân phối:**
 
-- Rule phân phối giống như phễu lọc hội thoại theo các điều kiện khác nhau và phân chia tới cho agent trực chat
+Một số điểm nổi bật của Rule phân phối:
+
 - Bạn được tạo nhiều rule phân phối khác nhau
-- Hội thoại chat được lọc qua danh sách các rule theo thứ tự từ trên xuống
+- Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới.
 
 
 
@@ -42,24 +46,35 @@ Ví dụ:
 
 
 
-**Bước 1: Xác định quy trình phân chia chat cho agent**
+**Bước 1: Xác định quy tắc phân chia khách cho agent**
 
-- Bạn sẽ lọc và phân nhóm chat của khách hàng theo tiêu chí nào?
-- Agent nào trực chat và phụ trách nhóm chat nào? Nếu nhiều agent trực chat thì các agent kết hợp trực chat như thế nào? Chia đều chat cho các agent hay chia cho tất cả agent cùng nhận chat hay chia chat cho agent trả lời nhanh nhất?
-- Số lượng rule tạo mới sẽ tương ứng với số lượng nhóm chat bạn phân loại
-
-
-![](https://vcdn.subiz-cdn.com/file/50141443507ae0acecb57543b5f83e1b55e2e8f09527c526a6f8eb9f9f54165e_acpxkgumifuoofoosble)
+- Đặc điểm phân loại của khách hàng là gì? Ví dụ theo vùng miền, theo nguồn khách hàng, theo thời gian khách liên hệ,....
+- Agent nào phụ trách trả lời khách hàng?
 
 
 
-
-**Bước 2: Cài đặt rule phân phối trên Subiz**
-
-Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > Mở **Cài đặt** > chọn **[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)** > chọn **Tạo Rule phân phối**
+Khi đó, số lượng rule cần tạo sẽ tương ứng với số lượng nhóm khách của bạn
 
 
-![](https://vcdn.subiz-cdn.com/file/ffd1f95c981ee2560a73c4b2cff8d06fe8cb02e1d472c0487ff168211947591e_acpxkgumifuoofoosble)
+
+**Bước 2: Cài đặt rule phân phối**
+
+Hướng dẫn cài đặt:
+
+- Mở trang Cài đặt
+- Xem cột chức năng bên trái, tìm [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- chọn Tạo Rule phân phối
+- Nhập tên Rule để nhận biết rule này làm nhiệm vụ gì?
+- Chọn điều kiện lọc khách hàng
+- Chọn Phân phối tới, thêm agent trả lời khách
+- Nhấp Tạo Rule là xong
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/a68b7a189ab26acde74d83884e687eadb065bb21f03adbc5e54b31ecab0e9821_acpxkgumifuoofoosble)
+
+
 
 ## Một số ví dụ Rule phân phối
 
@@ -68,7 +83,7 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 
 
 
-**Tình huống**: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo vào Subiz. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
+**Tình huống**: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
 
 
 
@@ -82,7 +97,7 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 
 ![](https://vcdn.subiz-cdn.com/file/2ae090c32370467de1f3385452df8edd359a32a11fcf8a6888b23983af57b7ec_acpxkgumifuoofoosble)
 
-### TH2: Rule phân phối theo vùng miền/ tỉnh thành
+### TH2: Rule phân phối theo vùng miền
 
 
 
@@ -100,7 +115,7 @@ Hướng dẫn cài đặt rule phân phối:** ****Đăng nhập Subiz** > M�
 
 ![](https://vcdn.subiz-cdn.com/file/555d825fbe9198f503ffe66513b8235deb275decf1cdfd42ca44d8b3f6c2be5f_acpxkgumifuoofoosble)
 
-### TH3: Rule phân phối theo giờ làm việc/ agent online
+### TH3: Rule phân phối theo thời gian làm việc
 
 
 **Tình huống**: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
