@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1722570880491,
-  "updated": 1722570880491,
+  "fetched": 1722687742858,
+  "updated": 1722687742858,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -76,8 +76,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
-      "modifiedTime": "2023-06-23T04:58:33.529Z",
-      "version": "195",
+      "modifiedTime": "2024-08-03T08:45:49.186Z",
+      "version": "224",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -109,8 +109,8 @@
       ],
       "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
       "name": "1. Thông báo tin nhắn mới",
-      "modifiedTime": "2024-05-06T10:52:43.836Z",
-      "version": "306",
+      "modifiedTime": "2024-08-03T10:38:41.166Z",
+      "version": "313",
       "path_lower": "/110 Câu hỏi thường gặp/1.-thong-bao-tin-nhan-moi"
     },
     {
@@ -120,8 +120,8 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2023-12-19T09:58:54.724Z",
-      "version": "147",
+      "modifiedTime": "2024-08-03T10:37:43.624Z",
+      "version": "155",
       "path_lower": "/10 Làm quen với Subiz/2.-hanh-trinh-su-dung"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Quản lý khách tiềm năng",
-      "modifiedTime": "2024-03-09T08:42:34.217Z",
-      "version": "432",
+      "modifiedTime": "2024-08-03T10:28:18.027Z",
+      "version": "457",
       "path_lower": "/60 Quản lý khách hàng/3.-quan-ly-khach-tiem-nang"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "10 Webhook tích hợp CRM",
       "modifiedTime": "2024-08-02T03:27:38.023Z",
-      "version": "69",
+      "version": "72",
       "path_lower": "/120 Ứng dụng nâng cao/10-webhook-tich-hop-crm"
     },
     {
@@ -351,8 +351,8 @@
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2024-03-23T07:54:31.775Z",
-      "version": "497",
+      "modifiedTime": "2024-08-03T10:05:26.352Z",
+      "version": "523",
       "path_lower": "/60 Quản lý khách hàng/2.-ho-so-khach-hang"
     },
     {
@@ -428,8 +428,8 @@
       ],
       "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
       "name": "5.2 Đơn hàng",
-      "modifiedTime": "2023-04-17T10:47:43.744Z",
-      "version": "141",
+      "modifiedTime": "2024-08-03T09:37:30.713Z",
+      "version": "187",
       "path_lower": "/70 Quản lý đơn hàng/5.2-don-hang"
     },
     {
@@ -472,8 +472,8 @@
       ],
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "1. Bảng tính năng Subiz",
-      "modifiedTime": "2024-03-08T07:51:01.084Z",
-      "version": "216",
+      "modifiedTime": "2024-08-03T10:34:02.069Z",
+      "version": "226",
       "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
-      "modifiedTime": "2024-03-26T12:02:04.986Z",
-      "version": "386",
+      "modifiedTime": "2024-08-03T08:14:36.690Z",
+      "version": "517",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
       "name": "5.1 Sản phẩm",
       "modifiedTime": "2023-03-02T10:25:44.505Z",
-      "version": "179",
+      "version": "182",
       "path_lower": "/70 Quản lý đơn hàng/5.1-san-pham"
     },
     {
@@ -605,7 +605,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2024-03-08T03:16:30.134Z",
-      "version": "186",
+      "version": "188",
       "path_lower": "/10 Làm quen với Subiz/3.-cac-goi-dich-vu"
     },
     {
