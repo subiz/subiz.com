@@ -5,7 +5,7 @@ title: Google Analytics và Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-05-18T09:00:27.467Z
+  date: 2024-08-06T11:00:56.326Z
 ---
 
 # Google Analytics và Subiz
@@ -128,11 +128,24 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 
 - Bạn mở Trigger để tạo Trigger mới.
 - Loại trigger chọn Custom Event
-- This trigger fires on: Bạn chọn All Custom Events
-- Lưu
+- This trigger fires on:
+
+
+
+Ví dụ chọn Trigger khi muốn đo lường tất cả sự kiện trên cửa sổ chat Subiz
 
 
 ![](https://vcdn.subiz-cdn.com/file/30c1207655b71d01e87d656099bb444ff70b2b4ffb21c794157087bf9190f588_acpxkgumifuoofoosble)
+
+
+
+
+Ví dụ chọn Trigger chỉ khi có sự kiện nhắn tin trên cửa sổ chat Subiz
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/121675472608996a002704132ea6a1e578e970423f9e5d9e55fff7b79ad9c7c8_acpxkgumifuoofoosble)
 
 
 
@@ -145,10 +158,25 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 - Ví dụ ảnh dưới đây là Tag ghi nhận chuyển đổi trên GA4.
 
 
+
+
 ![](https://vcdn.subiz-cdn.com/file/6ad36d6a7cc0014d955197fc151b69b5bd52e1c5be98d078b09d0df92497f1a7_acpxkgumifuoofoosble)
 
 
-- Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật lên website. Và dùng chức năng Preview để thử với việc bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
+
+
+Ví dụ ảnh cài đặt Tag đo lường chuyển đổi Google ads
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/497a83e8f19f78c8ad93b7cf96bedda082b56491c89509f7c195f253ea7e86f0_acpxkgumifuoofoosble)
+
+
+
+
+- Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật. Bạn dùng chức năng Preview bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
+- Chú thích: Thường sau 24h cài đặt GTM thì GA4 và Google Ads sẽ nhận được báo cáo sự kiện Subiz.
 
 
 ## Xem dữ liệu SUBIZ Chat trên GA4
