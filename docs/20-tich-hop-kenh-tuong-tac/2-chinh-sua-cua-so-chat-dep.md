@@ -5,7 +5,7 @@ title: Chỉnh sửa cửa sổ chat Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-09T11:53:57.779Z
+  date: 2024-08-12T10:44:31.479Z
 ---
 
 # Chỉnh sửa cửa sổ chat Subiz
@@ -43,14 +43,14 @@ Nút chat kêu gọi khách nhắn tin có thể thay đổi là ảnh nhỏ ho�
 
 Hướng dẫn thay đổi nút chat: 
 
-- [Mở cài đặt chức năng cửa sổ chat ](https://app.subiz.com.vn/chatbox/design)
-- Nhấp mở Nút chat
+- Mở trang [cài đặt cửa sổ chat ](https://app.subiz.com.vn/chatbox/design)
+- Nhấp Nút chat
 - Click vào ảnh nút chat để thay đổi, bạn có thể tùy chọn ảnh nút chat có sẵn trong thư viện Subiz hoặc tải ảnh bạn thiết kế lên.
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/58ab01e67edfd50fec8446a1e33b94dba6e13b0e57b15f903f1c5c5caec22472_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/849dcd0a4ce0a2e9c53ce6074dc66e9684a7b443d384a748c4e5aca530f533af_acpxkgumifuoofoosble)
 
 
 
@@ -136,7 +136,7 @@ Bạn cần thay đổi ảnh và tên hiển thị trên cửa sổ chat. Đây
 - Mở trang Cài đặt
 - Tìm [chức năng Agent](https://app.subiz.com.vn/settings/agents)
 - Chọn Chỉnh sửa Agent
-- Thay đổi Họ tên và Nhấp ảnh đại diện để tải ảnh lên
+- Thay đổi Họ tên và Nhấp ảnh đại diện để tải lên ảnh mới
 - Lưu Cài đặt là xong
 
 
@@ -166,18 +166,43 @@ Bước 1: Cài đặt Cửa sổ chat
 
 Bước 2: Thay đổi thông tin Doanh nghiệp
 
-- Mở trang Cài đặt Thông tin
+- Mở trang [Cài đặt Thông tin](https://app.subiz.com.vn/settings/)
 - Nhập các thông tin, thay đổi ảnh đại diện là logo Doanh nghiệp
 
 
 ![](https://vcdn.subiz-cdn.com/file/c2653fb4d47ec706d7523fe3cb10de6ff59e00f112ac0719e326fd2fc3930360_acpxkgumifuoofoosble)
+
+
+
+## Cách thay đổi tên và nội dung tiêu đề cửa sổ chat
+
+
+
+
+Cửa sổ chat hiển thị tên và nội dung tiêu đề mặc định như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/9fef0307f0015a366f969dc4ff0ff7d4b92f3148409b7cada90d3ed3350ec9d9_acpxkgumifuoofoosble)
+
+
+
+
+Hướng dẫn cách thay đổi tiêu đề cửa sổ chat:
+
+- Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+- Nhấp chọn Tiêu đề
+- Thay đổi nội dung tiêu đề và lời giới thiệu
+- Cập nhật là xong
+
+
+![](https://vcdn.subiz-cdn.com/file/5fc292a9a33045353ef7556d0b4f7d300d17420ab1bf405e061b5887da5a4b0f_acpxkgumifuoofoosble)
 
 ## Gắn nút Facebook và Zalo trên cửa sổ chat
 
 
 Hướng dẫn cài đặt: 
 
-- [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+- Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Nhấp chọn Tiêu đề
 - Chọn Hiển thị logo doanh nghiệp
 - Thêm liên kết Facebook và Zalo
@@ -199,7 +224,7 @@ Lời chào hiển thị qua cửa sổ thu nhỏ, mời gọi khách nhắn tin
 
 Hướng dẫn thay đổi lời chào:
 
-- [Mở trang cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+- Mở trang [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Chọn Lời chào
 - Bật ON Lời chào và sửa nội dung
 - Cập nhật là xong
@@ -216,7 +241,7 @@ Hướng dẫn thay đổi lời chào:
 
 Hướng dẫn cài đặt:
 
-- [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+- Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Nhấp chọn Hỏi thông tin trước khi chat
 - Bật ON và chọn hỏi thông tin cần thiết của khách
 - Cập nhật là xong
@@ -233,7 +258,7 @@ Hướng dẫn cài đặt:
 
 Hướng dẫn cài đặt:
 
-- [Mở cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
+- Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Nhấp chọn Hỏi thông tin khi offline
 - Bật ON và chọn hỏi thông tin cần thiết của khách
 

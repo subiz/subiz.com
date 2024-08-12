@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1723259817400,
-  "updated": 1723259817400,
+  "fetched": 1723464618608,
+  "updated": 1723464618608,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
-      "modifiedTime": "2024-03-23T04:47:55.456Z",
-      "version": "746",
+      "modifiedTime": "2024-08-12T10:57:28.490Z",
+      "version": "758",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -109,9 +109,9 @@
       ],
       "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
       "name": "1. Thông báo tin nhắn mới",
-      "modifiedTime": "2024-08-03T10:38:41.166Z",
-      "version": "313",
-      "path_lower": "/110 Câu hỏi thường gặp/1.-thong-bao-tin-nhan-moi"
+      "modifiedTime": "2024-08-12T12:08:50.659Z",
+      "version": "330",
+      "path_lower": "/110 Xử lý tình huống/1.-thong-bao-tin-nhan-moi"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -131,9 +131,9 @@
       ],
       "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
       "name": "2. App mobile Subiz",
-      "modifiedTime": "2024-03-07T11:56:11.995Z",
-      "version": "83",
-      "path_lower": "/110 Câu hỏi thường gặp/2.-app-mobile-subiz"
+      "modifiedTime": "2024-08-12T12:08:18.395Z",
+      "version": "95",
+      "path_lower": "/110 Xử lý tình huống/2.-app-mobile-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -142,9 +142,9 @@
       ],
       "id": "1Jh13PChCMiqoU4lcN2BqqvszhQ_hHkk8zHj04NM_wug",
       "name": "6. Xử lý lỗi Zalo OA",
-      "modifiedTime": "2024-03-07T11:51:54.675Z",
-      "version": "23",
-      "path_lower": "/110 Câu hỏi thường gặp/6.-xu-ly-loi-zalo-oa"
+      "modifiedTime": "2024-08-12T12:08:25.207Z",
+      "version": "28",
+      "path_lower": "/110 Xử lý tình huống/6.-xu-ly-loi-zalo-oa"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -164,9 +164,9 @@
       ],
       "id": "1Jq0sdcPquRX347bXq8wqtXwblR1Og9V4CqsmTZEgZ0I",
       "name": "7. Xử lý lỗi tổng đài",
-      "modifiedTime": "2024-03-07T12:01:49.350Z",
-      "version": "173",
-      "path_lower": "/110 Câu hỏi thường gặp/7.-xu-ly-loi-tong-dai"
+      "modifiedTime": "2024-08-12T12:08:55.519Z",
+      "version": "178",
+      "path_lower": "/110 Xử lý tình huống/7.-xu-ly-loi-tong-dai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -252,8 +252,8 @@
       ],
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "3. Chiến dịch telesales",
-      "modifiedTime": "2024-03-23T05:15:52.657Z",
-      "version": "98",
+      "modifiedTime": "2024-08-12T11:49:00.339Z",
+      "version": "133",
       "path_lower": "/90 Tổng đài điện thoại/3.-chien-dich-telesales"
     },
     {
@@ -264,8 +264,8 @@
       "id": "1QP47DSh3uURbavrmOPbt2nYojfmv2tVRvhTy_LNBdcg",
       "name": "5. Xử lý lỗi Fanpage",
       "modifiedTime": "2024-08-01T12:11:38.262Z",
-      "version": "295",
-      "path_lower": "/110 Câu hỏi thường gặp/5.-xu-ly-loi-fanpage"
+      "version": "296",
+      "path_lower": "/110 Xử lý tình huống/5.-xu-ly-loi-fanpage"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -285,9 +285,9 @@
       ],
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "4. Cập nhật mới trên Subiz",
-      "modifiedTime": "2024-03-07T09:50:59.162Z",
-      "version": "78",
-      "path_lower": "/110 Câu hỏi thường gặp/4.-cap-nhat-moi-tren-subiz"
+      "modifiedTime": "2024-08-12T12:09:02.180Z",
+      "version": "83",
+      "path_lower": "/110 Xử lý tình huống/4.-cap-nhat-moi-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -384,8 +384,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2024-03-23T05:43:01.715Z",
-      "version": "263",
+      "modifiedTime": "2024-08-12T11:00:35.140Z",
+      "version": "276",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -395,9 +395,9 @@
       ],
       "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
       "name": "3. Thanh toán",
-      "modifiedTime": "2024-03-07T09:50:53.717Z",
-      "version": "112",
-      "path_lower": "/110 Câu hỏi thường gặp/3.-thanh-toan"
+      "modifiedTime": "2024-08-12T11:51:23.071Z",
+      "version": "121",
+      "path_lower": "/110 Xử lý tình huống/3.-thanh-toan"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -472,8 +472,8 @@
       ],
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "1. Bảng tính năng Subiz",
-      "modifiedTime": "2024-08-03T10:34:02.069Z",
-      "version": "226",
+      "modifiedTime": "2024-08-12T10:19:38.603Z",
+      "version": "235",
       "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
-      "modifiedTime": "2024-08-06T10:50:37.455Z",
-      "version": "524",
+      "modifiedTime": "2024-08-12T11:19:59.168Z",
+      "version": "541",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {
@@ -637,8 +637,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
-      "modifiedTime": "2024-08-09T11:53:57.779Z",
-      "version": "90",
+      "modifiedTime": "2024-08-12T10:44:31.479Z",
+      "version": "113",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
