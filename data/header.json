@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1723464618608,
-  "updated": 1723464618608,
+  "fetched": 1723722547910,
+  "updated": 1723722547910,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -32,8 +32,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "1. Bot tự động nhắn tin",
-      "modifiedTime": "2024-01-13T04:11:13.554Z",
-      "version": "280",
+      "modifiedTime": "2024-08-15T11:29:11.999Z",
+      "version": "369",
       "path_lower": "/50 Tự động hóa/1.-bot-tu-dong-nhan-tin"
     },
     {
@@ -110,7 +110,7 @@
       "id": "1FU4RNt2kPMoySUYmgzjK3cCwTpDKgESP98bTnCo0KUI",
       "name": "1. Thông báo tin nhắn mới",
       "modifiedTime": "2024-08-12T12:08:50.659Z",
-      "version": "330",
+      "version": "331",
       "path_lower": "/110 Xử lý tình huống/1.-thong-bao-tin-nhan-moi"
     },
     {
@@ -132,7 +132,7 @@
       "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
       "name": "2. App mobile Subiz",
       "modifiedTime": "2024-08-12T12:08:18.395Z",
-      "version": "95",
+      "version": "97",
       "path_lower": "/110 Xử lý tình huống/2.-app-mobile-subiz"
     },
     {
@@ -142,8 +142,8 @@
       ],
       "id": "1Jh13PChCMiqoU4lcN2BqqvszhQ_hHkk8zHj04NM_wug",
       "name": "6. Xử lý lỗi Zalo OA",
-      "modifiedTime": "2024-08-12T12:08:25.207Z",
-      "version": "28",
+      "modifiedTime": "2024-08-12T12:08:47.660Z",
+      "version": "31",
       "path_lower": "/110 Xử lý tình huống/6.-xu-ly-loi-zalo-oa"
     },
     {
@@ -264,7 +264,7 @@
       "id": "1QP47DSh3uURbavrmOPbt2nYojfmv2tVRvhTy_LNBdcg",
       "name": "5. Xử lý lỗi Fanpage",
       "modifiedTime": "2024-08-01T12:11:38.262Z",
-      "version": "296",
+      "version": "298",
       "path_lower": "/110 Xử lý tình huống/5.-xu-ly-loi-fanpage"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "4. Cập nhật mới trên Subiz",
-      "modifiedTime": "2024-08-12T12:09:02.180Z",
-      "version": "83",
+      "modifiedTime": "2024-08-12T12:09:04.827Z",
+      "version": "85",
       "path_lower": "/110 Xử lý tình huống/4.-cap-nhat-moi-tren-subiz"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
       "name": "3. Thanh toán",
       "modifiedTime": "2024-08-12T11:51:23.071Z",
-      "version": "121",
+      "version": "122",
       "path_lower": "/110 Xử lý tình huống/3.-thanh-toan"
     },
     {
