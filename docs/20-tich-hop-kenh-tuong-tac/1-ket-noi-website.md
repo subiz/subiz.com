@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-05-06T10:23:24.937Z
+  date: 2024-08-16T04:55:16.958Z
 ---
 
 # Tích hợp trên website
@@ -23,16 +23,13 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat thu hút khách truy cậ
 ## Hướng dẫn cài đặt Subiz trên website
 
 
-- Bước 1: Đăng nhập Subiz qua đường link https://app.subiz.com.vn
-- Bước 2: Mở trang Cài đặt
-- Bước 3: Chọn [Tích hợp website](https://app.subiz.com.vn/settings/website)
-- Bước 4: Chọn nút “Cài lên website”
-- Bước 5: Điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn.
-- Bước 6: Sao chép mã nhúng Subiz và dán vào code website trong thẻ **body**.
-
-
-
-Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để cập nhật thay đổi và thấy cửa sổ chat ở góc phải màn hình là cài đặt thành công.
+- Đăng nhập Subiz qua đường link https://app.subiz.com.vn
+- Mở trang Cài đặt
+- Tìm chức năng [Tích hợp website](https://app.subiz.com.vn/settings/website)
+- Chọn nút Cài lên website ở góc phải màn hình
+- Điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn.
+- Sao chép mã nhúng Subiz và dán vào code website trong thẻ **body**.
+- Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để cập nhật thay đổi và thấy cửa sổ chat ở góc phải màn hình là cài đặt thành công.
 
 
 
@@ -45,24 +42,22 @@ Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để c�
 
 
 
-## Câu hỏi thường gặp
+## Tình huống thường gặp
 
-### Không hiện cửa sổ chat sau khi đặt mã nhúng Subiz vào code web?
-
-
+### Cách xử lý khi không hiện cửa sổ chat sau khi đặt mã nhúng Subiz vào code web.
 
 
-**Trả lời**: Cách kiểm tra cửa sổ chat đã cài đặt thành công trên website: Mở website và chọn tải trang hoặc F5 xem có hiển thị cửa sổ chat không?
+Cách kiểm tra cửa sổ chat đã cài đặt thành công trên website: Mở website và chọn F5 tải xem có hiển thị cửa sổ chat không?
 
 
 
-4 nguyên nhân không hiển thị cửa sổ chat:
+Cửa sổ chat Subiz không hiện trên website, thường có 4 nguyên nhân chính:
 
 
 
-**Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz.** 
+Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz. 
 
-- Kiểm tra: Mở tab trình duyệt mới > Mở website lên > Chọn Ctrl U > chọn Ctrl F và điền Subiz > Có tìm được mã nhúng không? Nếu không thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web.
+- Kiểm tra: Mở tab trình duyệt mới rồi mở lại website. Chọn Ctrl U, rồi Ctrl F và nhập tìm Subiz > Có tìm được mã nhúng không? Nếu không thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web.
 - Cách xử lý: Quay lại trang admin code web tìm xem có sử dụng plugin cache nào không? Nếu có xóa cache để lưu thành công cài đặt Subiz
 
 
