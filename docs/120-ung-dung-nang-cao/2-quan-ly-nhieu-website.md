@@ -5,39 +5,35 @@ title: Quản lý nhiều website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:09:57.873Z
+  date: 2024-08-16T10:52:05.175Z
 ---
 
 # Quản lý nhiều website
 
-## Quản lý nhiều website như thế nào?
+## Lợi thế quản lý nhiều website trên Subiz
 
 
 
 
-Bạn đang có nhiều website khác nhau và muốn quản lý chung tất cả khách hàng trên 1 tài khoản Subiz. 
+Bạn tập trung quản lý được tất cả website và tương tác tư vấn khách hàng trên phần mềm Subiz.
 
 
 
-Chỉ cần đăng nhập 1 tài khoản Subiz, bạn sẽ:
+Chỉ cần đăng nhập 1 phần mềm Subiz, bạn sẽ:
 
 - Quan sát được tất cả khách truy cập trên tất cả website
 - Trả lời chat của khách liên hệ từ tất cả website
-- Sử dụng được bot tự động gửi tin nhắn riêng cho mỗi website
-- Tự động phân chia khách hàng từ mỗi website cho agent phụ trách riêng
-- Thay đổi hình ảnh và nội dung của cửa sổ chat khác nhau trên mỗi website
-
-
-
-**Lưu ý**: Bạn chỉ có thể cài đặt cửa sổ chat khác nhau trên nhiều website khi tài khoản có nhiều agent. Vì mỗi agent sẽ hiển thị tên và hình ảnh thương hiệu của mỗi website, **[xem thêm cài đặt agent](https://subiz.com.vn/docs/628554948-tong-quan-ve-agent)**.
+- Bot tự động gửi tin nhắn riêng trên mỗi website
+- Tự động phân chia khách từ mỗi website cho nhân viên chăm sóc riêng
+- Thay đổi hình ảnh và nội dung của cửa sổ chat khác nhau cho mỗi website
 ## Hướng dẫn cài đặt
 
 
 - Bước 1: Kiểm soát danh sách website
 - Bước 2: Mời thêm agent phụ trách mỗi website
-- Bước 3: Tùy chỉnh cửa sổ chat trên Subiz cho website đầu tiên
-- Bước 4: Sử dụng API thay đổi cửa sổ chat trên mỗi website còn lại
-- Bước 5: Rule phân chia chat từ mỗi website
+- Bước 3: Tùy chỉnh cửa sổ chat Subiz cho website đầu tiên
+- Bước 4: Sửa cửa sổ chat trên các website còn lại bằng mã API
+- Bước 5: Rule phân phối khách từ mỗi website cho nhân viên
 - Bước 6: Bot tự động trả lời riêng từng website
 - Bước 7: Báo cáo hội thoại của mỗi website
 ### Bước 1: Kiểm soát danh sách website
@@ -167,7 +163,28 @@ subiz('overrideChatbox', {
 
 ```
 
-### Bước 5: Rule phân chia chat từ mỗi website
+
+
+
+**Ví dụ API sửa tiêu đề và lời chào**
+```
+<script>
+  subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      caption: {vi_VN: 'Tư vấn viên'},
+      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
+      greeting: {
+        vi_VN: 'Xin chào, hãy chat tư vấn ngay tại đây nhé :wave:'
+      },
+    },
+  })
+</script>
+
+
+```
+
+### Bước 5: Rule phân phối khách từ mỗi website cho nhân viên 
 
 
 Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting):

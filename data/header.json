@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1723722547910,
-  "updated": 1723722547910,
+  "fetched": 1723865545282,
+  "updated": 1723865545282,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -10,8 +10,8 @@
       ],
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "2 Quản lý nhiều website",
-      "modifiedTime": "2023-07-12T04:09:57.873Z",
-      "version": "237",
+      "modifiedTime": "2024-08-16T10:52:05.175Z",
+      "version": "248",
       "path_lower": "/120 Ứng dụng nâng cao/2-quan-ly-nhieu-website"
     },
     {
@@ -43,8 +43,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2024-05-06T10:23:24.937Z",
-      "version": "429",
+      "modifiedTime": "2024-08-16T04:55:16.958Z",
+      "version": "440",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
