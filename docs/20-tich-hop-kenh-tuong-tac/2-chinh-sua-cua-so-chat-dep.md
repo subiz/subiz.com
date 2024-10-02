@@ -5,7 +5,7 @@ title: Chỉnh sửa cửa sổ chat Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-12T10:44:31.479Z
+  date: 2024-09-16T07:54:37.493Z
 ---
 
 # Chỉnh sửa cửa sổ chat Subiz
@@ -75,6 +75,13 @@ Bạn có thể cài đặt nút CTA (kêu gọi khách hàng động) ở vị 
 <script type="text/javascript">
 window.subiz('expandWidget')
 </script>
+
+```
+
+## hoặc
+
+```
+<a href="#nogo" onclick="subiz('expandWidget')">Text của </a>
 
 ```
 
@@ -187,7 +194,7 @@ Cửa sổ chat hiển thị tên và nội dung tiêu đề mặc định như 
 
 
 
-Hướng dẫn cách thay đổi tiêu đề cửa sổ chat:
+Hướng dẫn cách thay đổi tên và thông điệp trên cửa sổ chat:
 
 - Mở [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design)
 - Nhấp chọn Tiêu đề
@@ -269,6 +276,10 @@ Hướng dẫn cài đặt:
 
 
 **Lưu ý**: Bạn muốn hỏi nhiều thông tin khác theo đặc thù riêng của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang **[Cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)**, rồi quay lại thêm hỏi thông tin vào bảng hỏi.
+
+
+
+Bảng hỏi lựa chọn bộ phận tư vấn
 ## Sửa ngôn ngữ cửa sổ chat?
 
 

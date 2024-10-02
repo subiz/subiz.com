@@ -5,7 +5,7 @@ title: Tích hợp Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-06T10:52:47.042Z
+  date: 2024-09-05T08:22:07.391Z
 ---
 
 # Tích hợp Fanpage
@@ -59,7 +59,7 @@ Khi bạn đã cài đặt Fanpage vào Subiz và muốn thêm Fanpage mới, b�
 - Bước 2: Tìm chức năng [Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)
 - Bước 3: Nhấp chọn nút Thêm Fanpage
 - Bước 4: Đăng nhập vào tài khoản Facebook của Admin
-- Bước 5: Chọn nút **Chỉnh sửa các cài đặt trước đây. **Bước quan trọng nhất cần lưu ý.
+- Bước 5: Chọn nút “Chỉnh sửa các cài đặt trước đây”. Bước quan trọng nhất cần lưu ý.
 - Bước 6: Làm tiếp các bước cấp quyền và chọn các Fanpage muốn thêm vào Subiz
 
 
