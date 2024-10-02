@@ -1,0 +1,160 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Các gói dịch vụ Subiz"
+  },
+  "i18n_slug": {
+    "vi_VN": "1081919878-cac-goi-dich-vu"
+  },
+  "category": "2",
+  "source_id": "1081919878",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Các gói dịch vụ Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngay khi bạn đăng ký tài khoản Subiz, bạn sẽ có 30 ngày dùng thử tất cả "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/352944605-bang-tinh-nang-subiz",
+              "title": "chức năng Subiz",
+              "text": "chức năng Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": " như gói trả phí."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gói trả phí của"
+            },
+            {
+              "type": "text",
+              "text": " Subiz được thiết kế linh hoạt phù hợp với từng nhu cầu của Doanh nghiệp"
+            },
+            {
+              "type": "text",
+              "text": ". Dưới đây là đơn giá dịch vụ Subiz tính cho 1 agent: "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisaklsnaveqhbmgkenu"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chi phí dịch vụ Subiz được tính theo số lượng agent làm việc trên Subiz. Doanh nghiệp có thể tính phí dịch vụ Subiz theo nhu cầu tại "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/vi/calculator.html",
+              "title": "trang Bảng tính giá",
+              "text": "trang Bảng tính giá",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

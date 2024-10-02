@@ -1,0 +1,408 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Hoàn thành hội thoại"
+  },
+  "i18n_slug": {
+    "vi_VN": "573485226-tu-dong-hoan-thanh-hoi-thoai"
+  },
+  "category": "7",
+  "source_id": "573485226",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Mục đích hoàn thành hội thoại?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại sẽ có 3 lợi ích sau:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Giúp agent kiểm soát được cuộc chat nào đã trả lời khách xong, cuộc chat nào đang cần trả lời tiếp"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Giúp agent báo cáo thống kê được số lượng chat đã trả lời khách trong ca từng ngày làm việc"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Khi khách quay lại nhắn tin sẽ tạo hội thoại mới và hội thoại mới sẽ được phân chia cho đúng agent đang sẵn sàng trả lời khách. Lưu ý: Hội thoại mới sẽ được phân phối cho agent theo rule đang cài đặt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trạng thái hoàn thành hội thoại chỉ hiển thị với khách trên kênh website; Không hiển thị với khách trên Fanpage, Zalo, Instagram."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sau khi hội thoại hoàn thành, agent có thể tiếp tục nhắn tin với khách bằng cách Tạo hội thoại mới"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sau khi hội thoại hoàn thành, agent và khách hàng vẫn xem được tin nhắn cũ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn hoàn thành hội thoại:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 1: Click nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hội thoại",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " góc trái màn hình > "
+                },
+                {
+                  "type": "text",
+                  "text": "Click chọn Hội thoại",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " cần hoàn thành > Chọn nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hoàn thành",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 2: Chọn nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Đang mở",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " bên góc phải hội thoại > Chọn "
+                },
+                {
+                  "type": "text",
+                  "text": "Hoàn thành",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh "
+                },
+                {
+                  "type": "text",
+                  "text": "@complete",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/8f9d220ae0b55906362ad14a39572f8855d8d00d442ab99a5492a6618c554a06_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tự động hoàn thành hội thoại mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tự động hoàn thành hội thoại chỉ áp dụng với hội thoại mới."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Đăng nhập Subiz",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " > Mở "
+                },
+                {
+                  "type": "text",
+                  "text": "Cài đặt",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " > Chọn "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/settings/auto-endchat",
+                  "title": "Hoàn thành hội thoại",
+                  "text": "Hoàn thành hội thoại",
+                  "target": "_blank",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/30b7628fd8b205e712bfb370cd019e4a883b3183174174d9d874948669c2f7e8_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "4 click hoàn thành hội thoại hàng loạt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với các hội thoại cũ, bạn cần thủ công hoàn thành hàng loạt với 4 bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Click nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hội thoại",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nhấn phím Shift",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " trên bàn phím"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Click chọn hội thoại đầu",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " + kéo chuột xuống + "
+                },
+                {
+                  "type": "text",
+                  "text": "Click chọn hội thoại cuối",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hoàn thành",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f7f19659424f419ea2284db65a3f154c83aa364d607566d15b82a6554996c504_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

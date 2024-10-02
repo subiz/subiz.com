@@ -18,10 +18,7 @@ async function html2block(html, docM) {
 	}
 
 	if (out.length == 1 && out[0].type == 'paragraph') return out[0]
-	return {
-		type: 'paragraph',
-		content: out,
-	}
+	return {type: 'paragraph', content: out}
 }
 
 async function parse(item, format, docM) {
@@ -90,15 +87,12 @@ async function parseTable(item, docM) {
 			rows.push(row)
 		})
 	})
-	return {
-		type: 'table',
-		content: [rows],
-	}
+	return {type: 'table', content: rows}
 }
 
 function codeContent(item) {
-	if (!item) return ''
-	if (item.childNodes.length == 0) return {type: 'text', content: [item.textContent]}
+	if (!item) return
+	if (item.childNodes.length == 0) return {type: 'text', text: item.textContent}
 	let out = ''
 	let par = {
 		type: 'paragraph',
@@ -107,12 +101,6 @@ function codeContent(item) {
 	item.childNodes.forEach((child) => {
 		par.content.push(codeContent(child))
 	})
-	/*
-	if (item.tagName) {
-		let tagname = item.tagName.toLowerCase()
-		if (tagname == 'p') out += '\n'
-		}
-		*/
 	return par
 }
 
@@ -197,9 +185,7 @@ async function parsePara(item, org_format, docM) {
 		let childTagName = ''
 		if (child.tagName) childTagName = child.tagName.toLowerCase()
 		if (childTagName == 'img') {
-			// should upload
-			// console.log("UUUUUUUUUUP", child.src)
-			let newsrc = child.src //await uploadImageToSubiz(child.src)
+			let newsrc = await uploadImageToSubiz(child.src)
 			childs.push({
 				type: 'image',
 				alt_text: normalize(child.alt),

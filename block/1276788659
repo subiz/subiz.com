@@ -1,0 +1,637 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Quản lý đơn hàng"
+  },
+  "i18n_slug": {
+    "vi_VN": "1276788659-don-hang"
+  },
+  "category": "10",
+  "source_id": "1276788659",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý đơn hàng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý đơn hàng như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý đơn hàng trên Subiz giúp agent kết hợp quá trình tư vấn khách hàng và chốt đơn, theo dõi bán hàng ngay trên 1 màn hình làm việc, đồng thời xây dựng chân dung khách hàng chi tiết gồm thông tin nhân khẩu học, lịch sử tương tác tư vấn, lịch sử mua hàng …."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2122a6f22912bdbe59ac1a066a4265f2290c3f9608a30d4188df8b7fea60103f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hơn nữa, agent chủ động theo dõi được tất cả đơn hàng đang có theo từng giai đoạn, bám sát mục tiêu bán hàng thành công và tăng doanh số."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/5f06d8146a17d3c059ca0e92952797eba8dc5cfae0bb49ed569fc0ed0aca203e_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo đơn hàng mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có 2 cách tạo đơn hàng mới trên Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1: Tạo đơn mới trong khi tư vấn khách.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi agent đang nhắn tin trả lời khách hoặc đang gọi điện thoại cho khách, agent xem hồ sơ khách ở bên phải màn hình và nhấp nút Tạo đơn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/dc664e39e998efff9c362219a5019283b746dd472080d6e26f216892a7c1df8d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2: Tạo đơn mới trên trang ",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Đơn hàng",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Agent mở trang "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/orders",
+                  "title": "Đơn hàng",
+                  "text": "Đơn hàng",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "C"
+                },
+                {
+                  "type": "text",
+                  "text": "họn nút Tạo đơn"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Điền các thông tin cần thiết của đơn hàng."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn Xác nhận đơn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/c3b1b2c082face2be1492e2496984fb9983e04c3d6c906676e50cbd1681464b6_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn quản lý đơn hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn theo dõi quản lý tất cả đơn hàng tại trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/orders",
+              "title": "ĐƠN HÀNG",
+              "text": "ĐƠN HÀNG",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ", để"
+            },
+            {
+              "type": "text",
+              "text": " xử lý các công việc như gọi điện xác nhận đơn, nuôi dưỡng khách tiềm năng mua hàng, nhắc khách thanh toán, hỗ trợ giao hàng,... "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại đây, bạn chọn hiển thị đơn hàng theo dạng danh sách để lọc tìm nhanh đơn hoặc chọn dạng cột để kéo thả đơn hàng theo các bước xử lý đơn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ed8416abda93697048cf33d3bb78550b826d92236c38ac1e54a6e31a524b7809_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để quản lý bán hàng hiệu quả, bạn cần thiết kế quy trình bán hàng theo từng bước, từng hành động cần làm. Nhấp chọn "
+            },
+            {
+              "type": "text",
+              "text": "Sửa quy trình.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/13054d3f26cc7f49fdeca9f00323ea23599c1098bc810ae3921f2e85f97af058_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Quy trình đơn gồm nhiều bước, mỗi bước có thể thiết lập thêm agent phụ trách, chi tiết công việc cần làm của agent."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/440b189a63b456dfb066eca14b24ab69d6f0d26001ee7869bc5a750ebf935fc3_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Điểm nổi bật trên Subiz là bạn tạo được nhiều quy trình đơn khác nhau, phục vụ cho các bộ phận khác nhau hay các nhóm sản phẩm khác nhau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Agent tạo đơn sẽ tùy chọn được quy trình đơn phù hợp và lọc tìm nhanh được các đơn hàng theo từng quy trình đơn riêng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/236f5dde94089addac9f776ffb5bf6120bcf04abd7c44afb89d1eaf0eb834f7d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê doanh số đơn hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem được chi tiết thống kê doanh số tại trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/sales",
+              "title": "Thống kê doanh số",
+              "text": "Thống kê doanh số",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn biết được top những sản phẩm bán chạy nhất, chi nhánh cửa hàng có nhiều đơn nhất, hay lý do hủy đơn nếu có. Từ đó, bạn có thể đưa ra những điều chỉnh phù hợp để tăng doanh thu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/197be434b28681f27226d95acee1a864a55249b17c8173988fad767e012de04b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

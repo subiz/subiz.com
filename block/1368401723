@@ -1,0 +1,1453 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Quản lý hàng nghìn Fanpage"
+  },
+  "i18n_slug": {
+    "vi_VN": "1368401723-quan-ly-hang-nghin-fanpage"
+  },
+  "category": "4",
+  "source_id": "1368401723",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý hàng nghìn Fanpage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lợi ích quản lý Fanpage trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chỉ cần mở 1 trang Subiz, bạn có thể quản lý cùng lúc tới hàng nghìn Fanpage. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số điểm nổi bật khi quản lý Fanpage trên Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kết nối hàng nghìn Fanpage, không thêm chi phí"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tự động trả lời bình luận, like, ẩn, inbox messenger"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bot 24/7 tự động trả lời chat messenger"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tự động phân luồng khách giao cho nhân viên"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Quản lý khách hàng xuyên suốt vòng đời"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trả lời khách nhanh chóng qua mẫu tin nhắn"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Báo cáo chi tiết khách hàng và doanh số "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt và sử dụng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Tích hợp nhiều Fanpage vào Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp Fanpage vào Subiz cho phép bạn nhận và trả lời tất cả tin nhắn Fanpage ngay trên phần mềm Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Đăng nhập Subiz"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mở trang Cài đặt "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xem cột chức năng bên trái và chọn "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/settings/messenger",
+                  "title": "Tích hợp Facebook",
+                  "text": "Tích hợp Facebook",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tại cửa sổ tích hợp Fanpage, chọn nút “Tích hợp Fanpage” bên phải màn hình và làm theo các bước"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/34dd822b41ad1dc4bd3d95d610deff1d4cd8ed796d163b5d8ecd7b9198eaf3f2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thêm "
+            },
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=XkAFJFvsUbA&t=2s",
+              "title": "hướng dẫn tích hợp Fanpage vào Subiz",
+              "text": "hướng dẫn tích hợp Fanpage vào Subiz",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Cài đặt tự động trả lời bình luận"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tự động trả lời bình luận giúp bạn kết nối khách hàng ngay lập tức và giảm được các thao tác lặp lại như cảm ơn khách đã bình luận, like, ẩn tin nhắn bình luận của khách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt tự động trả lời bình luận:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mở trang Cài đặt"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xem cột chức năng bên trái và chọn "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/settings/messenger",
+                  "title": "Tích hợp Facebook",
+                  "text": "Tích hợp Facebook",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Với mỗi Fanpage có nút “Cài đặt” ở bên phải màn hình > Click “Cài đặt”"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bật On - Nhận bình luận và thiết lập kịch bản tự động trả lời bình luận phù hợp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fe675310736d69506a5f43faba91182dac3ac289e53e41b70f6dbf41c7881771_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tips hay cho kịch bản trả lời bình luận:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Thêm nhiều câu trả lời bình luận để hệ thống Subiz ngẫu nhiên gửi khách và tạo sự phong phú trong tương tác với khách."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trả lời theo tên khách bằng cách chèn biến { }."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cài đặt kịch bản trả lời bình luận riêng cho từng bài viết để chuyên biệt từng nhóm khách hàng mục tiêu."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Theo dõi, đánh giá hiệu quả chuyển đổi khách tư vấn qua messenger và thay đổi kịch bản trả lời bình luận cho phù hợp."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Bot tự động trả lời chat messenger"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot của Subiz chạy theo một quy trình chăm sóc khách hàng chuyên nghiệp giúp bạn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tự động phản hồi khách hàng ngay lập tức"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trả lời khách hàng nhanh chóng dựa vào các các hỏi thường gặp"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tự động hỏi số điện thoại và lưu thông tin khách hàng"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phân nhóm khách hàng qua Tag hội thoại và nhãn người dùng"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hẹn lịch tư vấn sau cho khách khi nhân viên bận / offline."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo bot trả lời chat messenger: "
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mở trang Cài đặt"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xem cột chức năng bên phải và chọn "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/bots",
+                  "title": "BOT",
+                  "text": "BOT",
+                  "target": "_blank",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn Tạo bot > click Bot Chào khách > Chọn Sử dụng để vào trang thiết kế kịch bản của bot "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thêm "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1540866648-bot-tu-dong-nhan-tin",
+              "title": "hướng dẫn tạo bot tự động trả lời",
+              "text": "hướng dẫn tạo bot tự động trả lời",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3599601fb6f850dddb5bf7c6fa58770292e6bd223be2c5811d674f111033ba97_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dưới đây là ví dụ kịch bản cho bot trả lời khách:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cd7be891f08c592eda165ebddb324efeff58fea56b85619b8075ff1b53e89674_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sau khi thiết kế kịch bản cho bot, bạn chuyển sang mục “2. Cài đặt” để cài đặt nâng cao cho bot."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lưu ý cài đặt - Bot chạy khi “"
+                },
+                {
+                  "type": "text",
+                  "text": "Khách gửi tin nhắn",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": "” "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi tên bot và mô tả công việc của bot để nhận biết các bot khác nhau"
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/804a8b6684c3765a0ead9c1460d3d4c8672579548a58248b2114f5e6f4ca40d0_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ],
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Tips hay khi sử dụng bot Subiz: Bạn tạo được 1 bot chung trả lời tất cả các fanpage hoặc tạo nhiều bot riêng cho từng Fanpage."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Cài đặt Rule phân luồng khách giao cho nhân viên"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tất cả thành viên quản lý và tư vấn khách hàng được gọi chung trên Subiz là agent. Agent sẽ có email và mật khẩu riêng để đăng nhập phần mềm Subiz làm việc. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi bạn muốn thêm thành viên làm việc và trả lời khách hàng trên Subiz, bạn mời agent tại trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/agents",
+              "title": "Cài đặt agent",
+              "text": "Cài đặt agent",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": " này."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6b084fa144dc0864fe1d3d4beabb4d91b48545de1aa3e292a504686ff20931ef_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi bạn muốn chia việc trả lời khách cho các nhân viên khác nhau thì bạn cài đặt thêm chức năng "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/rule-setting",
+              "title": "Rule phân phối",
+              "text": "Rule phân phối",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Rule giúp bạn phân luồng khách hàng theo các tiêu chí khác nhau như: "
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nguồn khách đến từ đâu? Ví dụ: Khách đến từ 1 Fanpage cụ thể,..."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Đặc điểm chung của khách? Ví dụ: Khách đã có SĐT, Khách liên hệ ngoài giờ làm việc,..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d40ea5c7e1856728890a46be4e9fab42ccdb29174d6295b0df39c30450adf8bd_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau đó, Rule giao khách hàng cho một hay nhiều nhân viên trả lời khách bằng các cách thực nâng cao như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Giao cho 1 (nhiều) nhân viên cụ thể"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chia đều cho nhiều nhân viên"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chia cho nhân viên trả lời nhanh nhất"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chia cho nhân viên đã nhắn tin gần nhất với khách"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6ce6137991ace8659598acd549ede38dcd5cc8d120c812ddf72338e57e93112c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thêm "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai",
+              "title": "hướng dẫn cài đặt Rule phân phối",
+              "text": "hướng dẫn cài đặt Rule phân phối",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5: Đào tạo nhân viên trả lời khách trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Từ nay, nhân viên tập trung làm việc và trả lời tư vấn khách hàng từ Fanpage chỉ trên phần mềm Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bắt đầu giờ làm việc, nhân viên sẽ đăng nhập phần mềm Subiz qua đường link "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/",
+              "title": "https://app.subiz.com.vn/",
+              "text": "https://app.subiz.com.vn/",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhân viên nhận được tất cả tin nhắn bình luận và chat messenger tại trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trang Tin nhắn được thiết kế gồm 3 cột chính như sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cột bên trái là hiện danh sách hội thoại: Giúp bạn nhận biết kênh khách nhắn là bình luận (icon f) hay chat messenger (icon ~), tên khách hàng, người nhắn tin cuối cùng,...."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cột giữa hiện chi tiết tin nhắn trò chuyện của khách, trả lời khách,..."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cột bên phải là hồ sơ khách hàng: Liệt kê tất cả thông tin cá nhân, lịch sử tương tác của khách hàng, ghi chú nội bộ,..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=5tfSPLKmK2o",
+              "title": "Xem video 6 chức năng cần biết trong chat online",
+              "text": "Xem video 6 chức năng cần biết trong chat online",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/088aaab9c74d1f4fe299f2e9dbfb20e5570b91186db37e47aab9ef9bd0bd8c15_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số công cụ hỗ trợ agent quản lý tin nhắn và thông tin khách hàng:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/26f2320d9683a9d5b263cafdc37526687df704d22c78683f25cfbdd18edffd37_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH 1: Subiz cài đặt được tối đa bao nhiêu Fanpage?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Bạn được cài đặt tối đa 4,000 Fanpage vào Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH 2: Tôi có phải trả thêm phí khi thêm nhiều Fanpage vào Subiz?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Không. Subiz tính trọn gói dịch vụ và bạn không cần trả thêm phí khi thêm Fanpage vào Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH 3: Làm sao để biết tên Fanpage khách nhắn tin tới?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Khi mở hội thoại nhắn tin của khách, bạn sẽ nhìn thấy tên Fanpage khách nhắn tin tại ô nhập tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/24eeecfeb5b08f855cfa81a094eced4e178ca774f0713b0aa83239e90c49344c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH 4: Có thể lọc tìm khách từ 1 Fanpage cụ thể hay lọc riêng chat messenger được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Bạn lọc tìm nhanh được khách theo nhiều tiêu chí bằng cách click nút “Lọc” ngay trên trang Tin nhắn, nút “Lọc” hiện trên cùng cột Hội thoại."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ca13f3fc2dc42e2b4048354a9269568b8bf81f6facaa4a355b4a2ba6446e459f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thêm đó, khi bạn cần làm báo cáo đo lường khách hàng theo từng Fanpage, bạn sẽ vào trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/convo",
+              "title": "Thống kê",
+              "text": "Thống kê",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/62b42690b9f96868823f5a162b9c572a17a1df92bc033b4a5bff8aa5f366aa7e_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH 5: Subiz có app mobile không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Bạn tải app Subiz về điện thoại bằng cách quét mã QR sau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/9f021e50d89901ed11a48111f04362f9f65edf11916cd23f73684307145538be_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1210 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Quản lý hội thoại của khách"
+  },
+  "i18n_slug": {
+    "vi_VN": "1387158228-quan-ly-hoi-thoai-cua-khach"
+  },
+  "category": "6",
+  "source_id": "1387158228",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý hội thoại của khách"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hội thoại là cuộc trò chuyện trực tiếp giữa khách hàng và nhân viên hỗ trợ của doanh nghiệp. Hội thoại có thể khởi tạo từ khách nhắn tin trên website, bình luận bài viết Fanpage, chat messenger, chat Zalo OA, gửi email hoặc gọi điện thoại,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bắt đầu ngày làm việc, bạn sẽ nhận và trả lời tư vấn khách hàng trên trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " của Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số công cụ hỗ trợ quản lý hội thoại của khách hàng như sau:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trả lời nhanh với mẫu tin nhắn có sẵn"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xem thông tin khách hàng"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Thêm Tag hội thoại phân biệt nhu cầu của khách"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tạo nhắc việc cần làm"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tạo đơn hàng mới"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ghi chú cho khách hàng"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Thêm agent đồng nghiệp vào hội thoại hoặc rời hội thoại"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hoàn thành hội thoại"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=oi6nmPYPAPk&t=1s",
+              "title": "Xem video 6 công cụ cần biết trong chat online",
+              "text": "Xem video 6 công cụ cần biết trong chat online",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Trả lời nhanh với mẫu tin nhắn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Việc trả lời tư vấn khách hàng qua tin nhắn chat khiến Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1 "
+            },
+            {
+              "type": "text",
+              "text": "click lệnh “/”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " hoặc nhấn "
+            },
+            {
+              "type": "text",
+              "text": "nút MẪU TIN NHẮN",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " trong ô nhập tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1941951532-mau-tin-nhan",
+              "title": "Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh",
+              "text": "Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/e64aca01ffb86bdd5024a61600cf17defe27ed0d49586612d5403366a303a6bc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Xem thông tin khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn muốn biết khách hàng là khách mới hay khách cũ? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách có thông tin họ tên, sđt chưa? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách đang xem trang sản phẩm nào trên website? Khách có lịch sử chat tư vấn chưa?,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem được tất cả thông tin khách hàng ở cột bên phải màn hình."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang",
+              "title": "Xem thêm hướng dẫn quản lý hồ sơ khách hàng",
+              "text": "Xem thêm hướng dẫn quản lý hồ sơ khách hàng",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/34d77cefccde4def0481ef47efb56ccd6a1fc6f9708562da60fe25df3c3807b7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Thêm Tag hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn "
+            },
+            {
+              "type": "text",
+              "text": "nút"
+            },
+            {
+              "type": "text",
+              "text": " THÊM TAG",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " hoặc gõ "
+            },
+            {
+              "type": "text",
+              "text": "lệnh “@tag”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " tại ô nhập tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/662546069-tag-hoi-thoai",
+              "title": "Hướng dẫn chi tiết cài đặt Tag hội thoại",
+              "text": "Hướng dẫn chi tiết cài đặt Tag hội thoại",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/bbb15f2186c3f4bec88b3a90f9d9d65a3ce67f83d610dd782335d49fdd287875_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Tạo nhắc việc cần làm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc"
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam",
+              "title": "Xem thêm hướng dẫn sử dụng nhắc việc",
+              "text": "Xem thêm hướng dẫn sử dụng nhắc việc",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/92a82f323317c9a64e7beeb24bbc5b5de15360b28ec9f6db615030484b376e1d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5: Tạo đơn hàng mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn gọi điện và chốt được đơn hàng mới, bạn ghi nhận được đơn hàng ngay trên Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo đơn mới: Click nút Tạo đơn tại mục Đơn hàng > Điền thông tin khách, thêm sản phẩm > Chọn Xác nhận đơn là xong"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1276788659-don-hang",
+              "title": "Xem hướng dẫn quản lý đơn hàng",
+              "text": "Xem hướng dẫn quản lý đơn hàng",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b7c65146cd0684dd37aa2732d53dff89db4efaead5e09a96922ae9b9edf50b4c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 6: Ghi chú cho khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần lưu ý thêm về khách hàng, cập nhật nội dung ngay mục ghi chú giúp bạn và đồng nghiệp chủ động tiếp cận hỗ trợ khách hàng phù hợp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 7: Thêm agent vào hội thoại hoặc rời hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click "
+            },
+            {
+              "type": "text",
+              "text": "nút THÊM AGENT",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " hoặc nhập lệnh "
+            },
+            {
+              "type": "text",
+              "text": "@agent",
+              "bold": true
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": " trong ô nhập tin nhắn."
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "THÊM AGENT",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": " > Chọn "
+            },
+            {
+              "type": "text",
+              "text": "Rời",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0ec90c8ea16e409d60f80cb12666cec8f927ea4a565de25af3d4b9a126e283b8_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 8: Hoàn thành hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại giúp bạn kiểm soát được công việc trả lời tư vấn khách hàng, đảm bảo bạn đã giải quyết xong yêu cầu của khách hay hết nhiệm vụ trong ca làm việc của mình."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn hoàn thành hội thoại:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 1: Click nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hội thoại",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " góc trái màn hình > "
+                },
+                {
+                  "type": "text",
+                  "text": "Click chọn Hội thoại",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " sẽ hoàn thành > Chọn nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Hoàn thành",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 2: "
+                },
+                {
+                  "type": "text",
+                  "text": "Chọn nút "
+                },
+                {
+                  "type": "text",
+                  "text": "Đang mở",
+                  "bold": true
+                },
+                {
+                  "type": "text",
+                  "text": " bên góc phải hội thoại > Chọn "
+                },
+                {
+                  "type": "text",
+                  "text": "Hoàn thành",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh "
+                },
+                {
+                  "type": "text",
+                  "text": "@complete",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/8f9d220ae0b55906362ad14a39572f8855d8d00d442ab99a5492a6618c554a06_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thêm "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/573485226-tu-dong-hoan-thanh-hoi-thoai",
+              "title": "hướng dẫn hoàn thành hội thoại",
+              "text": "hướng dẫn hoàn thành hội thoại",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH1: Tôi lọc tìm chat từ 1 website hay 1 Fanpage cụ thể được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Bạn lọc tìm nhanh hội thoại của khách theo kênh website, Fanpage hay nhiều tiêu chí khác bằng cách chọn nút Lọc trên trang Tin nhắn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f9936ed1fe9a4e4e959d628bad0038b50887a3c90c27e3ca084ceada23a70ec0_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang "
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/convo-list",
+              "title": "Danh sách hội thoại",
+              "text": "Danh sách hội thoại",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/329849664-thong-ke-hoi-thoai#danh-s%C3%A1ch-h%E1%BB%99i-tho%E1%BA%A1i",
+              "title": "xem hướng dẫn chi tiết",
+              "text": "xem hướng dẫn chi tiết",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH2: Subiz có app mobile không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Bạn tải app mobile Subiz để sẵn sàng trả lời khách hàng 24/7."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=S9wVGrxhYks",
+              "title": "Xem video hướng dẫn sử dụng app mobile",
+              "text": "Xem video hướng dẫn sử dụng app mobile",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d30c32b9fa60a4fc026e877ec78eb0578555358e9131c6b75ed8fdb53e2763cb_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH3: Xem địa chỉ IP của khách như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách: "
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mở 1 khách hàng bất kỳ"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xem cột hồ sơ khách ở bên phải màn hình"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ khách đến từ thành phố Hà Nội và click xem địa chỉ IP như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ca3eb5d7c97882b30739d626773bd27bc015b50d172e1a3dab9353960b6c5221_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH4: Chặn khách spam trên Subiz như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Bạn có 2 cách để chặn khách spam như sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 1: Chặn thủ công từng khách. Mở khách spam, xem cột hồ sơ khách hàng ở bên phải màn hình > dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d978ad5f1f0c984a6fb0c6389173dcfe5a3b65b1c7615fc14a8305200e00b06e_acpxkgumifuoofoosble"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cách 2: Chặn theo địa chỉ IP, chặn SĐT hoặc email. Mở trang Cài đặt > chọn Danh sách chặn > Chọn Tạo mới và thêm phương thức chặn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6b1ffab0f20089d0665c5b8b664dfd22b499709d2411e3a49671335d36dd629b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

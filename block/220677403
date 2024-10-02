@@ -1,0 +1,166 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Làm quen với Subiz"
+  },
+  "i18n_slug": {
+    "vi_VN": "220677403-lam-quen-voi-subiz"
+  },
+  "category": "2",
+  "source_id": "220677403",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm quen với Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trang tài liệu Subiz sẽ giúp bạn tìm hiểu các thông tin tổng quan về Subiz và hướng dẫn chi tiết cài đặt sử dụng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hãy bắt đầu"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "tìm hiểu thông t"
+            },
+            {
+              "type": "text",
+              "text": "i"
+            },
+            {
+              "type": "text",
+              "text": "n chung về Subiz với 3 mục sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "link",
+                  "href": "https://subiz.com.vn/docs/352944605-bang-tinh-nang-subiz",
+                  "title": "Bảng tính năng Subiz",
+                  "text": "Bảng tính năng Subiz",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "link",
+                  "href": "https://subiz.com.vn/docs/50701647-hanh-trinh-su-dung",
+                  "title": "Hành trình sử dụng Subiz",
+                  "text": "Hành trình sử dụng Subiz",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "link",
+                  "href": "https://subiz.com.vn/docs/1081919878-cac-goi-dich-vu",
+                  "title": "Các gói dịch vụ Subiz",
+                  "text": "Các gói dịch vụ Subiz",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
