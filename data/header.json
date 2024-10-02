@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1723865545282,
-  "updated": 1723865545282,
+  "fetched": 1727847409814,
+  "updated": 1727847409814,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -43,8 +43,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2024-08-16T04:55:16.958Z",
-      "version": "440",
+      "modifiedTime": "2024-09-05T08:16:39.205Z",
+      "version": "449",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -197,8 +197,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
-      "modifiedTime": "2024-08-06T10:52:47.042Z",
-      "version": "215",
+      "modifiedTime": "2024-09-05T08:22:07.391Z",
+      "version": "222",
       "path_lower": "/20 Tích hợp kênh tương tác/3--ket-noi-fanpage"
     },
     {
@@ -343,6 +343,17 @@
       "modifiedTime": "2023-07-20T08:13:57.496Z",
       "version": "99",
       "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
+      "name": "12. Đồng bộ chuyển đổi Facebook Ads",
+      "modifiedTime": "2024-09-28T03:29:42.364Z",
+      "version": "34",
+      "path_lower": "/120 Ứng dụng nâng cao/12.-dong-bo-chuyen-doi-facebook-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -516,8 +527,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
-      "modifiedTime": "2024-08-12T11:19:59.168Z",
-      "version": "541",
+      "modifiedTime": "2024-08-30T07:38:53.344Z",
+      "version": "551",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {
@@ -538,8 +549,8 @@
       ],
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "4 Subiz đa ngôn ngữ",
-      "modifiedTime": "2023-11-10T08:37:28.177Z",
-      "version": "166",
+      "modifiedTime": "2024-09-11T10:36:55.196Z",
+      "version": "182",
       "path_lower": "/120 Ứng dụng nâng cao/4-subiz-da-ngon-ngu"
     },
     {
@@ -637,8 +648,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
-      "modifiedTime": "2024-08-12T10:44:31.479Z",
-      "version": "113",
+      "modifiedTime": "2024-09-16T07:54:37.493Z",
+      "version": "133",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
@@ -648,8 +659,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2024-04-25T06:58:09.740Z",
-      "version": "211",
+      "modifiedTime": "2024-09-19T10:13:37.293Z",
+      "version": "218",
       "path_lower": "/_readme"
     },
     {

@@ -5,7 +5,7 @@ title: Tích hợp trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-16T04:55:16.958Z
+  date: 2024-09-05T08:16:39.205Z
 ---
 
 # Tích hợp trên website
@@ -55,14 +55,18 @@ Cửa sổ chat Subiz không hiện trên website, thường có 4 nguyên nhân
 
 
 
-Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz. 
+**Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz trong code web**
 
-- Kiểm tra: Mở tab trình duyệt mới rồi mở lại website. Chọn Ctrl U, rồi Ctrl F và nhập tìm Subiz > Có tìm được mã nhúng không? Nếu không thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web.
+
+
+- Kiểm tra: Mở tab trình duyệt mới rồi mở lại website. Chọn Ctrl U, rồi Ctrl F và nhập tìm Subiz. Có tìm được mã nhúng không? Nếu không, thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web.
 - Cách xử lý: Quay lại trang admin code web tìm xem có sử dụng plugin cache nào không? Nếu có xóa cache để lưu thành công cài đặt Subiz
 
 
 
-**Nguyên nhân 2: Sai mã nhúng Subiz khi đặt vào code website. **
+**Nguyên nhân 2: Sai mã nhúng khi đặt vào code website**
+
+
 
 - Kiểm tra: so sánh mã nhúng gốc của Subiz sao chép trên trang **[Cài lên website](https://app.subiz.com.vn/website/install)** và mã nhúng đang đặt trong code web tại trang **[https://www.diffnow.com/](https://www.diffnow.com/)** này.
 - Cách xử lý: Sao chép lại **[mã nhúng Subiz đúng](https://app.subiz.com.vn/website/install)** và dán vào code website. Nếu mã nhúng Subiz vẫn bị thay đổi khác, bạn hãy sử dụng đoạn mã nhúng dưới đây:
@@ -97,8 +101,8 @@ Lưu ý: Đổi mã tài khoản Subiz của bạn vào đoạn mã trên (sbzac
 
 **Nguyên nhân 4: Có nhiều mã nhúng Subiz khác nhau trong code web**. 
 
-- Kiểm tra: Mở tab trình duyệt mới > Mở website lên > Chọn Ctrl U > chọn Ctrl F và điền Subiz > Hiện ra từ 2 mã nhúng Subiz trở lên trong code web.
-- **Cách xử lý**: Giữ mã nhúng đúng đang đặt trong thẻ “body” và xóa tất cả mã nhúng Subiz còn lại.
+- Kiểm tra: Mở tab trình duyệt mới. Mở website lên, chọn Ctrl U, chọn Ctrl F và điền Subiz. Hiện ra từ 2 mã nhúng Subiz trở lên trong code web.
+- Cách xử lý: Giữ 1 mã nhúng đúng đang đặt trong thẻ “body” và xóa tất cả mã nhúng Subiz còn lại.
 
 
 ### Dùng Google Tag Manager để cài đặt Subiz lên website được không?
@@ -116,11 +120,11 @@ Bước 1: Đăng nhập[ ](https://tagmanager.google.com/#/home)**[Tagmanager.
 
 Bước 2: **Chọn account quản lý website** sẽ tích hợp Subiz chat tại All account.
 
-Bước 3: Tạo Tag mới **Tại WORKSPACE chọn Tags > NEW**
+Bước 3: Tạo Tag mới **Tại WORKSPACE chọn Tags, nhấp NEW**
 
 Bước 4: **Untitled Tag**: Điền tên Tag để phân biệt các Tag và chức năng của Tag
 
-Bước 5: **Tag Configuration: **Chọn Custom HTML >[ ](https://app.subiz.com.vn/website/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com.vn/website/install)** và dán vào ô HTML
+Bước 5: **Tag Configuration: **Chọn Custom HTML, **[Sao chép mã nhúng Subiz](https://app.subiz.com.vn/website/install)** và dán vào ô HTML
 
 **Chọn (tick) Support document.write**
 
@@ -134,7 +138,7 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
     - Chỉ một số trang (Some Pages) sẽ hiển thị cửa sổ Subiz chat.
     - Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
 
-Bước 6: Chọn **SAVE** > chọn **SUBMIT** ở góc phải màn hình > Điền thông tin mô tả trong mục **Publish and Create Version** > chọn **PUBLISH** để hoàn thành.
+Bước 6: Chọn **SAVE**, chọn **SUBMIT** ở góc phải màn hình > Điền thông tin mô tả trong mục **Publish and Create Version** > chọn **PUBLISH** để hoàn thành.
 
 Bước 7: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
