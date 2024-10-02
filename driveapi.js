@@ -1,4 +1,5 @@
 const readline = require('readline')
+var crypto = require('crypto')
 const {google} = require('googleapis')
 const {authenticate} = require('@google-cloud/local-auth')
 var lo = require('lodash')
@@ -10,6 +11,21 @@ var html2md = require('./convert.js')
 var html2Block = require('./convert_block.js')
 var ROOT = '1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE'
 // If modifying these scopes, delete token.json.
+
+let blockM = {}
+let CAT = {
+	10: '2', // Làm quen với Subiz/
+	110: '3', //  Xử lý tình huống/
+	120: '4', // Ứng dụng nâng cao/
+	20: '5', // Tích hợp kênh tương tác
+	30: '6', // Tư vấn khách hàng/
+	40: '7', // Quản lý làm việc nhóm/
+	50: '8', // Tự động hóa/
+	60: '9', // Quản lý khách hàng/
+	70: '10', // Quản lý đơn hàng/
+	80: '11', // Thống kê báo cáo/
+	90: '12', // Tổng đài điện thoại/
+}
 
 let SCOPES = [
 	'https://www.googleapis.com/auth/drive.metadata.readonly',
@@ -139,9 +155,13 @@ async function main() {
 		docM[entry.id] = entry
 	})
 
+	out.news = lo.orderBy(out.news, ['id'])
+	var i = 0
 	await flow.map(
 		out.news,
 		async (entry) => {
+			i++
+			//			if (i > 5) return
 			try {
 				// if (entry.name.indexOf('20') == -1) return
 				ensureDirectoryExistence('./data' + entry.path_lower)
@@ -156,8 +176,11 @@ async function main() {
 					return // skip
 				}
 
-				data = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
+				let data = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
 				let markdown = await html2md(data, docM)
+				let block = await html2Block(data, docM)
+				blockM[entry.id] = block
+				entry.block = block
 				fs.writeFileSync('./data' + entry.path_lower, markdown, {encoding: 'utf8'})
 			} catch (e) {
 				console.log('EEEEEEEEEE', e)
@@ -244,6 +267,17 @@ last_update:
 ` + data
 		console.log('WRITING', fileName)
 		fs.writeFileSync(fileName, data, {encoding: 'utf8'})
+
+		let cate = entry.path_lower.substr(1).split(' ')[0]
+		let article = {
+			kb: 'jbsaemzffzourymgylvyhtrtn',
+			i18n_title: {vi_VN: title},
+			i18n_slug: {vi_VN: slug},
+			category: CAT[parseInt(cate)],
+			source_id: hashCode(entry.id) + '',
+			i18n_content: {vi_VN: blockM[entry.id]},
+		}
+		fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
 
 		// auto gen index directory
 		let categoryIndex = genFolderIndex(categoryPath, docM)
@@ -414,6 +448,17 @@ async function exportFile(id, destPath) {
 
 function writeFileHeader(entries, fetched, updated) {
 	entries = lo.orderBy(entries, 'id')
+	entries = lo.map(entries, (entry) => {
+		return {
+			mimeType: entry.mimeType,
+			parents: entry.parents,
+			id: entry.id,
+			name: entry.name,
+			modifiedTime: entry.modifiedTime,
+			version: entry.version,
+			path_lower: entry.path_lower,
+		}
+	})
 	fs.writeFileSync(
 		'./data/header.json',
 		JSON.stringify({version: 1, fetched: fetched, updated: updated, entries}, null, 2),
