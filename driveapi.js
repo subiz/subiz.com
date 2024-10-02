@@ -7,6 +7,7 @@ const fs = require('fs')
 var path = require('path')
 var datefns = require('date-fns')
 var html2md = require('./convert.js')
+var html2Block = require('./convert_block.js')
 var ROOT = '1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE'
 // If modifying these scopes, delete token.json.
 
