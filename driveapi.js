@@ -272,7 +272,7 @@ last_update:
 		let article = {
 			kb: 'jbsaemzffzourymgylvyhtrtn',
 			i18n_title: {vi_VN: title},
-			i18n_slug: {vi_VN: slug},
+			i18n_slug: {vi_VN: sluggy(title)},
 			category: CAT[parseInt(cate)],
 			source_id: hashCode(entry.id) + '',
 			i18n_content: {vi_VN: blockM[entry.id]},
