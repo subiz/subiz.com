@@ -4,7 +4,7 @@
     "vi_VN": "Đồng bộ chuyển đổi Facebook Ads"
   },
   "i18n_slug": {
-    "vi_VN": "2033545430-dong-bo-chuyen-doi-facebook-ads"
+    "vi_VN": "dong-bo-chuyen-doi-facebook-ads"
   },
   "category": "4",
   "source_id": "2033545430",
@@ -32,11 +32,12 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 1,
           "content": [
             {
               "type": "text",
-              "text": "Mục tiêu"
+              "text": "Cách hoạt động của Subiz với Facebook Ads"
             }
           ]
         },
@@ -50,11 +51,60 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bullet_list",
           "content": [
             {
-              "type": "text",
-              "text": ""
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Doanh nghiệp phải có Meta "
+                },
+                {
+                  "type": "text",
+                  "text": "business"
+                },
+                {
+                  "type": "text",
+                  "text": ", fanpage và một tài khoản quảng cáo."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Doanh nghiệp cấp quyền quản lý quảng cáo cho Subiz"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trên Subiz, doanh nghiệp nhấn nút \"Ghi nhận thanh toán\" trên Subiz khi khách có một sự kiện đạt mục tiêu chuyển đổi, ví dụ khách mua hàng, hoặc khách có SĐT, hoặc khách nhắn tin."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Subiz sẽ gửi hành động (sự kiện) này đính kèm với Facebook user id cho Facebook."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Công việc còn lại là của Facebook tự tối ưu tệp quảng cáo."
+                }
+              ]
             }
           ]
         },
@@ -64,7 +114,67 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách cài đặt"
+              "text": "Khai thác dữ liệu​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Từ sự kiện chuyển đổi này, bạn có thể thiết lập để thành Mục tiêu và đồng bộ nó sang tài khoản Facebook ads của bạn."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tối ưu chiến dịch quảng cáo cho tệp khách tiềm năng"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phân tích khách đã nhắn tin theo chiến dịch quảng cáo"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phân tích khách đã có SĐT trên Subiz"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phân tích khách mua hàng trên Subiz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cấp quyền cho Subiz"
             }
           ]
         },
@@ -77,7 +187,7 @@
             },
             {
               "type": "text",
-              "text": "Subiz đồng bộ các sự kiện ghi nhận thanh toán hoặc chuyển đổi từ Subiz lên Facebook ads, bạn làm 2 bước:"
+              "text": "Subiz đồng bộ các sự kiện chuyển đổi từ Subiz lên Facebook ads, bạn làm 2 bước:"
             }
           ]
         },
@@ -108,7 +218,18 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Mở trang Cài đặt Facebook trên Subiz"
+                  "text": "Mở trang "
+                },
+                {
+                  "type": "link",
+                  "href": "https://app.subiz.com.vn/settings/messenger",
+                  "title": "Cài đặt Facebook",
+                  "text": "Cài đặt Facebook",
+                  "target": "_blank"
+                },
+                {
+                  "type": "text",
+                  "text": " trên Subiz"
                 }
               ]
             },
@@ -117,7 +238,92 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Chọn nút Thêm Fanpage và cấp quyền cho Subiz nhận gửi tin nhắn"
+                  "text": "Chọn nút Thêm Fanpage và "
+                },
+                {
+                  "type": "text",
+                  "text": "Chọn áp dụng cho tất cả các Trang ở hiện tại và tương lai"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn Fanpage muốn thêm vào Subiz và hoàn thành"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/e0925ea5221d4ee954715361a426d4926f68b8b3286302a9be95a9250d80d038_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Cấp quyền cho Subiz ghi nhận chuyển đổi",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sau khi thêm Fanpage thành công, bạn bấm nút Cài đặt bên phải của Fanpage"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chọn Ghi nhận chuyển đổi"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nhấp nút Cấp quyền cho Subiz "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bấm Tiếp tục để kết nối với hồ sơ doanh nghiệp và trang Fanpage"
                 }
               ]
             }
@@ -136,41 +342,100 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "text",
-              "text": "Bước 2: Cấp quyền Subiz ghi nhận chuyển đổi",
-              "bold": true
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/abc4a2419fac8695759c77ceaa472d2cb66caf5c4fbf19c66bd3ee4ebf289fe1_acpxkgumifuoofoosble"
+              }
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "heading",
+          "level": 1,
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sau khi thêm Fanpage thành công, bạn bấm cài đặt bên phải của Fanpage"
-                }
-              ]
+              "type": "text",
+              "text": "Hướng dẫn ghi nhận chuyển đổi trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi khách nhắn tin đến từ quảng cáo Facebook và đạt mục tiêu chuyển đổi, bạn bấm nút "
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chọn Ghi nhận chuyển đổi"
-                }
-              ]
+              "type": "text",
+              "text": "Ghi nhận thanh toán",
+              "bold": true
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nhấp nút Cấp quyền cho Subiz quản lý quảng cáo Facebook"
-                }
-              ]
+              "type": "text",
+              "text": " để nhập thông tin vào bảng. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể nhập s"
+            },
+            {
+              "type": "text",
+              "text": "ố tiền tượng trưng là 1, ghi chú thêm nếu cần xem lại."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0d1ee6c65cc438011cd04102e868dfc82cbb0fa69101aa67baefc68fef5cfef9_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
             }
           ]
         },
@@ -189,7 +454,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách ghi nhận chuyển đổi"
+              "text": "Cách xem báo cáo trên Facebook"
             }
           ]
         },
@@ -207,7 +472,65 @@
           "content": [
             {
               "type": "text",
-              "text": "Trên Subiz"
+              "text": "Facebook thường cập nhật sự kiện chuyển đổi sau 30 phút kể từ khi Subiz gửi đi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem báo cáo sự kiện chuyển đổi từ Subiz tại 2 mục:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Một là vào Meta Business, chọn Sự kiện tùy chỉnh và xem biểu đồ ghi nhận sự kiện"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/68fa7b113aefedfb1530316b912024e0899dfa2fb66f2f88fe3015174321c7e1_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hai là vào trực tiếp chiến dịch quảng cáo, xem bảng báo cáo theo lượt mua"
+                }
+              ]
             }
           ]
         },
@@ -224,26 +547,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "text",
-              "text": "Trong khi nhắn tin với khách hàng từ Fanpage, agent nhận diện khách đến từ quảng cáo và ghi nhận thanh toán cho khách hàng."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Số tiền có thể nhập tượng trưng là 1, ghi chú thêm nếu cần"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Subiz sẽ tự động gửi 1 sự kiện chuyển đổi lên Facebook"
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/35136fba07668c18a70e26451ee0cfdb3dc0317e4820dddd062fe210dcfb0973_acpxkgumifuoofoosble"
+              }
             }
           ]
         },
@@ -253,60 +561,6 @@
             {
               "type": "text",
               "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Trên Facebook"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Facebook thường cập nhật sự kiện chuyển đổi sau 30 kể từ khi Subiz gửi đi"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Bạn xem báo cáo sự kiện chuyển đổi từ Subiz tại 2 mục"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Một là vào Meta Business, chọn Sự kiện tùy chỉnh và xem biểu đồ ghi nhận sự kiện"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Hai là vào trực tiếp chiến dịch quảng cáo, xem biểu để ghi nhận lượt mua"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Bạn "
             }
           ]
         },

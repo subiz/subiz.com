@@ -4,7 +4,7 @@
     "vi_VN": "Quản lý hội thoại của khách"
   },
   "i18n_slug": {
-    "vi_VN": "1387158228-quan-ly-hoi-thoai-cua-khach"
+    "vi_VN": "quan-ly-hoi-thoai-cua-khach"
   },
   "category": "6",
   "source_id": "1387158228",
@@ -952,7 +952,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Có. Bạn tải app mobile Subiz để sẵn sàng trả lời khách hàng 24/7."
+              "text": "Trả lời: Có. Bạn tải app mobile Subiz về điện thoại để sẵn sàng trả lời khách hàng 24/7."
             }
           ]
         },
@@ -972,10 +972,19 @@
           "type": "paragraph",
           "content": [
             {
+              "type": "text",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/d30c32b9fa60a4fc026e877ec78eb0578555358e9131c6b75ed8fdb53e2763cb_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble"
               }
             }
           ]

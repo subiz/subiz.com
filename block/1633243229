@@ -4,7 +4,7 @@
     "vi_VN": "App mobile Subiz"
   },
   "i18n_slug": {
-    "vi_VN": "1633243229-app-mobile-subiz"
+    "vi_VN": "app-mobile-subiz"
   },
   "category": "3",
   "source_id": "1633243229",
@@ -88,7 +88,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/9f021e50d89901ed11a48111f04362f9f65edf11916cd23f73684307145538be_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "content": [
             {
               "type": "text",
-              "text": "App mobile không có thông báo tin nhắn mới?"
+              "text": "Cách xử lý khi app mobile không có thông báo tin nhắn mới"
             }
           ]
         },
@@ -182,12 +182,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": "> Mở cài đặt thông báo tin nhắn > bật ON cho Ứng dụng di động"
+                  "text": ".Mở cài đặt thông báo tin nhắn, bật ON cho Ứng dụng di động"
                 }
               ]
             }
@@ -373,24 +368,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/67f802db33cd2909e3532fa90803ccea0cb303c2353340fed9f0fb0185754d78_acpxkgumifuoofoosble"
               }
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         },
