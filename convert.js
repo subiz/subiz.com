@@ -133,7 +133,7 @@ async function parsePara(item, org_format, docM) {
 			if (child.style.marginLeft == '72pt') prefix = '    '
 			let childtagname = child.tagName.toLowerCase()
 			if (childtagname == 'li') {
-				let parsed = await parse(child, org_format, docM)
+					let parsed = await parse(child, org_format, docM)
 				out += NEWLINE + prefix + (tagname == 'ol' ? i + 1 + '. ' : '- ') + parsed.trim()
 			}
 		})

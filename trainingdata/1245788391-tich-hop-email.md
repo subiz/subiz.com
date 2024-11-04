@@ -1,0 +1,57 @@
+---
+id: 1245788391
+slug: /1245788391-ket-noi-email
+title: Tích hợp Email
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2023-12-19T10:06:45.172Z
+---
+
+# Tích hợp Email
+
+## Kênh email trên Subiz hoạt động như thế nào?
+
+
+
+
+- Nhận và gửi email cho khách hàng từ phần mềm Subiz
+- Quản lý được tất cả email từ nhiều địa chỉ email khác nhau trên 1 trang Subiz
+- Tạo và sử dụng được mẫu email
+## Hướng dẫn cài đặt email 
+
+
+Để bắt đầu sử dụng kênh email Subiz, bạn làm 3 bước:
+
+- Bước 1. Điền thêm địa chỉ email của Doanh nghiệp vào Subiz. Mở trang Cài đặt > chọn [Tích hợp Email](https://app.subiz.com.vn/settings/email) > chọn nút Thêm Email > Nhập địa chỉ email và tên hiển thị thay cho địa chỉ email
+- Bước 2: Bật ON cho phép nhận mail và vào email của Doanh nghiệp để cài đặt tự động chuyển tiếp email cho email Subiz, [xem hướng dẫn Gmail](https://support.google.com/mail/answer/10957?hl=vi#zippy=%2Cb%E1%BA%ADt-ho%E1%BA%B7c-t%E1%BA%AFt-t%C3%ADnh-n%C4%83ng-t%E1%BB%B1-%C4%91%E1%BB%99ng-chuy%E1%BB%83n-ti%E1%BA%BFp), [xem hướng dẫn mail Outlook](https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-7f2670a1-7fff-4475-8a3c-5822d63b0c8e).
+- Bước 3: Bật On cho phép gửi email và cài đặt xác thực email người gửi. Lưu ý xác thực qua tên miền sẽ tăng độ uy tín của email và hạn chế tỷ lệ vào hòm spam.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/492f5103b0ed7fc7c82aed3e506b460392fe3d8c24a1ed6e18a4a41a51b04ee4_acpxkgumifuoofoosble)
+
+## Hướng dẫn nhận và gửi email 
+
+### Nhận email đến tại trang TIN NHẮN
+
+
+
+![](https://vcdn.subiz-cdn.com/file/0ab1da90df06981e0be88f0b2683bc9480a349df619d60a88f547da43def7734_acpxkgumifuoofoosble)
+
+
+
+
+
+### Trả lời email đến
+
+
+
+![](https://vcdn.subiz-cdn.com/file/dba2b0c3e9f450a978733e056e96be3de2620d126f73b016e41e723af13a197d_acpxkgumifuoofoosble)
+
+### Gửi email đi cho khách hàng
+
+
+
+![](https://vcdn.subiz-cdn.com/file/4054617393561dda17f50c478bcf82d7acc66475efb9716572d66b8e38c8977c_acpxkgumifuoofoosble)

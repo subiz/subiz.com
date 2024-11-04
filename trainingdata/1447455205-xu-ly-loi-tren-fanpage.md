@@ -1,0 +1,128 @@
+---
+id: 1447455205
+slug: /1447455205-xu-ly-loi-fanpage
+title: Xử lý lỗi trên Fanpage
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2024-08-01T12:11:38.262Z
+---
+
+# Xử lý lỗi trên Fanpage 
+
+
+
+
+Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh Fanpage và cách xử lý. 
+## Cách xử lý khi có thông báo gián đoạn Fanpage
+
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/46b49b2f5e2a828abfe56b3a73c62e9308f9e1a642678eb46436c5ada77c4605_acpxkgumifuoofoosble)
+
+
+
+
+Thông báo gián đoạn Fanpage có nghĩa là Fanpage ngừng cấp quyền nhận gửi tin nhắn cho Subiz. Nguyên nhân thường gặp là do Fanpage có thay đổi cài đặt hoặc lỗi kỹ thuật của Facebook.
+
+
+
+Cách xử lý:
+
+- Mở trang Cài đặt
+- Xem cột chức năng bên trái màn hình, tìm Facebook
+- Nhấp nút Thêm Fanpage
+- Làm tiếp các bước cấp quyền cho Subiz
+
+
+![](https://vcdn.subiz-cdn.com/file/f6916900f2aa2741b3bf31f58978d32799268c11bf68b364634aae6b4ef9f862_acpxkgumifuoofoosble)
+
+
+
+
+
+
+
+## Cách xử lý khi không nhận được tin nhắn Fanpage về Subiz
+
+
+Nguyên nhân thường gặp là do Fanpage của bạn chưa cài đặt cho Subiz là người nhận chính cho giao thức chuyển giao.
+
+
+
+Hướng dẫn cài đặt:
+
+- Đăng nhập tài khoản Facebook của admin
+- Chọn chuyển sang chế độ trang Fanpage
+- Chọn Cài đặt và quyền riêng tư
+- Xem cột bên trái màn hình, tìm nút Cài đặt
+- Tìm Thiết lập Trang
+- Tìm Nhắn tin nâng cao và chọn Xem
+
+
+![](https://vcdn.subiz-cdn.com/file/2b953e4d6c646d49d2d92083b2e81b1cf383603052db19a0616931c3962752bc_acpxkgumifuoofoosble)
+
+
+- Chọn Cấu hình cho Ứng dụng nhận tin nhắn trên Messenger
+- Chọn Subiz là người nhận chính cho giao thức chuyển giao
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/e86a0d4efec3c391d046eb88f7a214fba0098c7d3449bb6fb4d315f0f68a66db_acpxkgumifuoofoosble)
+
+## Lỗi #1: Lỗi nội bộ không mong muốn
+
+
+
+
+- Nguyên nhân: Do Facebook có lỗi kỹ thuật hệ thống nên tin nhắn không gửi đi được.
+- Cách xử lý: Bạn bình tĩnh chờ giây lát rồi gửi lại tin nhắn cho khách.
+## Lỗi #10: Tin nhắn này được gửi ngoài thời gian cho phép
+
+
+Thông báo: (#10) This message is sent outside of allowed window. Learn more about the new policy here: [https://developers.facebook.com/docs/messenger-platform/policy-overview](https://developers.facebook.com/docs/messenger-platform/policy-overview)
+
+
+
+- Nguyên nhân: Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi, [xem chính sách gửi tin nhắn messenger.](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
+- Cách xử lý: Bạn chọn thử gửi lại tin nhắn cho khách. Nếu không gửi được, bạn cần liên hệ khách qua các kênh khác.
+## Lỗi #551: Người này hiện không có mặt 
+
+
+- Nguyên nhân: Lỗi xảy ra khi khách hàng chặn Fanpage của bạn hoặc tài khoản Facebook của khách bị khóa, bị checkpoint.
+- Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác.
+## This user can’t reply to this activity 
+
+
+
+
+- Nguyên nhân: Lỗi này xảy ra khi khách hàng đã chặn Fanpage của bạn hoặc tin nhắn bạn gửi sau 7 ngày kể từ tin nhắn cuối khách gửi.
+- Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác.
+## Lỗi #2022: Tạm thời bạn bị chặn thực hiện thao tác này
+
+
+
+
+- Nguyên nhân: Fanpage của bạn bị Facebook chặn không cho phép gửi tin nhắn do vi phạm chính sách và tiêu chuẩn cộng đồng của Facebook.
+
+
+
+- Cách xử lý: Kiểm tra trạng thái hoạt động của Fanpage bằng cách vào Cài đặt Fanpage > Hộp thư hỗ trợ về trang.
+## Lỗi #10900: Activity already replied to
+
+
+- Nguyên nhân: Lỗi xảy ra khi bạn nhắn tin messenger cho khách bình luận bài viết Fanpage. Bạn chỉ được phép gửi 1 tin nhắn messenger cho khách, [xem chính sách gửi tin nhắn messenger.](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
+
+
+
+- Cách xử lý: Bạn trả lời bình luận của khách và kêu gọi khách nhắn tin tiếp qua messenger. Thêm nữa, khi gửi tin nhắn messenger đầu tiên cho khách bình luận, bạn gom nội dung chào mời gọi khách rồi hãy enter gửi đi 1 lần.
+
+
+## Lỗi: facebook doesn't receive the message
+
+
+- Nguyên nhân: Facebook bị lỗi nền tảng messenger khiến tình trạng nhận và gửi tin nhắn bị chập chờn, [xem thông báo của Facebook](https://metastatus.com/messenger).
+- Cách xử lý: Chờ đợi Facebook khắc phục lỗi.

@@ -1,5 +1,6 @@
 const fs = require('fs')
 const jsdom = require('jsdom')
+var lo = require('lodash')
 var flow = require('@subiz/flow')
 const {JSDOM} = jsdom
 
@@ -8,7 +9,7 @@ async function html2block(html, docM) {
 	let out = []
 	await htmlMap(dom.window.document.body.childNodes, async (item, i) => {
 		let ret = await parse(item, undefined, docM || {})
-		out.push(ret)
+		if (ret) out.push(ret)
 	})
 	out = out.filter((ret) => ret)
 	// remove file ending new line
@@ -18,7 +19,7 @@ async function html2block(html, docM) {
 	}
 
 	if (out.length == 1 && out[0].type == 'paragraph') return out[0]
-	return {type: 'paragraph', content: out}
+	return {type: 'div', content: out}
 }
 
 async function parse(item, format, docM) {
@@ -76,6 +77,7 @@ async function parseTable(item, docM) {
 				if (td.tagName.toLowerCase() !== 'td') return
 
 				let parsed = await parse(td, {singleline: true}, docM)
+
 				cells.push({
 					type: 'table_cell',
 					colspan: 1,
@@ -92,24 +94,37 @@ async function parseTable(item, docM) {
 
 function codeContent(item) {
 	if (!item) return
-	if (item.childNodes.length == 0) return {type: 'text', text: item.textContent}
+	if (item.childNodes.length == 0) {
+		let text = item.textContent
+		if (text) return {type: 'text', text: text}
+		return null
+	}
 	let out = ''
 	let par = {
 		type: 'paragraph',
 		content: [],
 	}
 	item.childNodes.forEach((child) => {
-		par.content.push(codeContent(child))
+		let content = codeContent(child)
+		if (content) par.content.push(content)
 	})
 	return par
 }
 
 async function parsePara(item, org_format, docM) {
-	if (!item || !item.tagName) return {type: 'text', text: normalize(item.textContent, org_format)}
+	if (!item || !item.tagName) {
+		let text = normalize(item.textContent, org_format)
+		if (text) return {type: 'text', text: text}
+		return null
+	}
 	let tagname = item.tagName.toLowerCase()
-	if (tagname == 'br') return {type: 'paragraph', content: [{type: 'text', text: ''}]}
+	if (tagname == 'br') return null // {type: 'paragraph'}
 
-	if (item.childNodes.length == 0) return {type: 'text', text: normalize(item.textContent, org_format)}
+	if (item.childNodes.length == 0) {
+		let text = normalize(item.textContent, org_format)
+		if (text) return {type: 'text', text: text}
+		return null
+	}
 	if (tagname == 'a') {
 		let url = item.href || ''
 		if (url.startsWith('https://www.google.com/url?')) {
@@ -146,11 +161,18 @@ async function parsePara(item, org_format, docM) {
 			// if (!child) return
 			if (!child.tagName) return
 			let parsed = await parse(child, org_format, docM)
-			childs.push(parsed)
+			if (parsed) childs.push(parsed)
 		})
+
+		if (childs.length == 1 && childs[0].type == 'paragraph')
+			return {
+				type: 'list_item',
+				content: childs,
+			}
+
 		return {
 			type: 'list_item',
-			content: childs,
+			content: [{type: 'paragraph', content: childs}],
 		}
 	}
 
@@ -161,7 +183,7 @@ async function parsePara(item, org_format, docM) {
 			// if (!child) return
 			if (!child.tagName) return
 			let parsed = await parse(child, org_format, docM)
-			childs.push(parsed)
+			if (parsed) childs.push(parsed)
 		})
 
 		return {
@@ -173,13 +195,14 @@ async function parsePara(item, org_format, docM) {
 	let out = []
 
 	let childs = out
-	if (tagname == 'p')
+	if (tagname == 'p') {
 		out = [
 			{
 				type: 'paragraph',
 				content: childs,
 			},
 		]
+	}
 
 	await htmlMap(item.childNodes, async (child) => {
 		let childTagName = ''
@@ -212,15 +235,18 @@ async function parsePara(item, org_format, docM) {
 		}
 
 		if (format.code) {
-			childs.push({
-				type: 'text',
-				text: normalize(item.textContent),
-				code: true,
-			})
+			let text = normalize(item.textContent)
+			if (text)
+				childs.push({
+					type: 'text',
+					text: text,
+					code: true,
+				})
 			return
 		}
 
 		let ret = await parse(child, format, docM)
+		if (!ret) return
 		if (doitalic) ret.italic = true
 		if (dobold) ret.bold = true
 		childs.push(ret)
@@ -240,7 +266,7 @@ function parseTitle(item, docM) {
 	return {
 		type: 'heading',
 		level: 1,
-		content: [{type: 'text', text: normalize(item.textContent)}],
+		content: [{type: 'text', text: normalize(item.textContent) || ' '}],
 	}
 }
 
@@ -251,7 +277,7 @@ function parseHeading(level, item, docM) {
 		content: [
 			{
 				type: 'text',
-				text: normalize(item.textContent),
+				text: normalize(item.textContent) || ' ',
 			},
 		],
 	}
@@ -339,7 +365,7 @@ function normalize(str, format) {
 	if (format && format.singleline) {
 		str = str.replace(/\r\n|\r|\n/g, '<br />')
 	}
-	return str
+	return lo.trim(str)
 }
 
 function trimBr(str) {
