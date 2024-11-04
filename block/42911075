@@ -10,7 +10,7 @@
   "source_id": "42911075",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -43,12 +38,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -71,12 +61,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -89,12 +74,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -103,12 +83,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1:"
-                },
-                {
-                  "type": "text",
-                  "text": " Tạo webview liên kết với app mobile, webview này sẽ hiển thi cửa sổ chat Subiz. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tạo webview liên kết với app mobile, webview này sẽ hiển thi cửa sổ chat Subiz."
+                    }
+                  ]
                 }
               ]
             },
@@ -116,8 +101,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Dán mã nhúng Subiz vào code của webview "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Dán mã nhúng Subiz vào code của webview"
+                    }
+                  ]
                 }
               ]
             },
@@ -125,8 +115,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Đặt lệnh luôn mở cửa sổ chat khi khách vào webview. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Đặt lệnh luôn mở cửa sổ chat khi khách vào webview."
+                    }
+                  ]
                 }
               ]
             }
@@ -137,7 +132,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: "
+              "text": "Ví dụ:"
             }
           ]
         },
@@ -167,12 +162,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -181,8 +171,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Tạo nút chat trên app mobile để khách click liên hệ "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Tạo nút chat trên app mobile để khách click liên hệ"
+                    }
+                  ]
                 }
               ]
             },
@@ -190,8 +185,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 5: Thiết kế code để khi click vào nút chat trên app mobile sẽ điều hướng sang webview"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 5: Thiết kế code để khi click vào nút chat trên app mobile sẽ điều hướng sang webview"
+                    }
+                  ]
                 }
               ]
             }
@@ -199,19 +199,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ tích hợp Subiz trên app mobile của "
+              "text": "Ví dụ tích hợp Subiz trên app mobile của"
             },
             {
               "type": "link",
@@ -257,15 +252,6 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
@@ -296,19 +282,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn xem "
+              "text": "Hướng dẫn xem"
             },
             {
               "type": "link",
@@ -320,7 +301,7 @@
             },
             {
               "type": "text",
-              "text": " theo nguồn website, trong đó “appmobile.com” là url định danh cho nguồn app mobile."
+              "text": "theo nguồn website, trong đó “appmobile.com” là url định danh cho nguồn app mobile."
             }
           ]
         },
@@ -338,12 +319,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

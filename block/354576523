@@ -1,0 +1,454 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Thông báo đơn hàng"
+  },
+  "i18n_slug": {
+    "vi_VN": "thong-bao-don-hang"
+  },
+  "source_id": "354576523",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thông báo đơn hàng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thông báo đơn hàng là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thông báo mua hàng là cửa sổ thông báo được xuất hiện ở một số vị trí nhất định trên website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Truy cập trang Website"
+            },
+            {
+              "type": "text",
+              "text": "Giaynam"
+            },
+            {
+              "type": "text",
+              "text": ".VN. Bạn nhìn thấy Popup khuyến mãi sản phẩm cho 200 người đăng ký đầu tiên. Cùng đó, là những thông báo đơn hàng như Anh Nam đăng ký giày"
+            },
+            {
+              "type": "text",
+              "text": "A"
+            },
+            {
+              "type": "text",
+              "text": "size 37, Anh Kính đăng ký giày A sz43,... Thì đó chính là thông báo đơn hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a327a7f9308348306aadb8375f568072231ab50c54dfdd2d53d57d4beac22ecc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nói một cách khác, đây là thông báo đơn hàng giả với mục đích tạo hiệu ứng mua hàng, kích thích khách hàng chốt đơn nhanh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vậy khi nào nên cài đặt tính năng thông báo đơn hàng",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "? Khi bạn có Website bán hàng và muốn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thu hút tối đa sự chú ý khách truy cập web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quảng cáo sản phẩm tới khách hàng mục tiêu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kích thích khách hàng mua hàng online"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt thông báo mua hàng mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có sẵn thư viện mẫu đa dạng lĩnh vực, mục tiêu kinh doanh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/web_plugin/create#",
+              "title": "Tạo mới tiện ích web",
+              "text": "Tạo mới tiện ích web",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> chọn mục Thông báo đơn hàng > chọn Sử dụng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để tạo 1 Thông báo đơn hàng hiệu quả, bạn sẽ thực hiện 2 bước chính:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Thiết kế"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi tiêu đề và nội dung thông báo (nên ngắn gọn và rõ ràng)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gắn trang đích để điều hướng khách hàng sau khi tương tác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lựa chọn phông nền và vị trí hiển thị thông báo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Chức năng Điều kiện hiển thị"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt 3 điều kiện gồm:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thời điểm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tần suất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đối tượng hiển thị"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Xem thống kê",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi bạn đã thiết kế xong thông báo đơn hàng và chạy trên Website trong thời gian nhất định. Để xem kết quả thông báo đơn hàng đã tiếp cận được tới bao nhiêu khách hàng, đánh giá hiệu quả, bạn click vào phần thống kê trong cài đặt thông báo đơn hàng. Tại đây, bạn có thể xem được thống kê toàn bộ."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể tạo nhiều thông báo đơn hàng chạy luân phiên nhau không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn cần số lượng thống báo bao nhiêu đơn hàng cũng được. Điều này tùy thuộc vào việc bạn tạo thông báo và cài đặt điều kiện hiển thị."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể cài đặt hiển thị thông báo cho nhóm đối tượng khách hàng riêng biệt không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có hỗ trợ điều đó. Tại mục cài đặt thông báo đơn hàng, bạn di chuột tới Đối tượng mục tiêu và lựa chọn thêm điều kiện Website và loại trừ. Còn nếu bạn muốn hiển thị tới tất cả các khách hàng vào Website thì hãy bỏ qua mục này."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể sử dụng nhiều thông báo với các ngôn ngữ nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz hỗ trợ đa dạng ngôn ngữ. Bạn có thể lựa chọn ngôn ngữ tùy thích trong phần cài đặt. Nếu vẫn không tìm thấy ngôn ngữ mong muốn, hãy liên hệ tới"
+            },
+            {
+              "type": "text",
+              "text": "support Subiz:"
+            },
+            {
+              "type": "text",
+              "text": "0"
+            },
+            {
+              "type": "text",
+              "text": "247 302 1368 để được hỗ trợ nhanh nhất."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

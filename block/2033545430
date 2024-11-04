@@ -10,7 +10,7 @@
   "source_id": "2033545430",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -43,12 +38,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -57,16 +47,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Doanh nghiệp phải có Meta "
-                },
-                {
-                  "type": "text",
-                  "text": "business"
-                },
-                {
-                  "type": "text",
-                  "text": ", fanpage và một tài khoản quảng cáo."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Doanh nghiệp phải có Meta"
+                    },
+                    {
+                      "type": "text",
+                      "text": "business"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", fanpage và một tài khoản quảng cáo."
+                    }
+                  ]
                 }
               ]
             },
@@ -74,8 +69,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Doanh nghiệp cấp quyền quản lý quảng cáo cho Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Doanh nghiệp cấp quyền quản lý quảng cáo cho Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -83,8 +83,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trên Subiz, doanh nghiệp nhấn nút \"Ghi nhận thanh toán\" trên Subiz khi khách có một sự kiện đạt mục tiêu chuyển đổi, ví dụ khách mua hàng, hoặc khách có SĐT, hoặc khách nhắn tin."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trên Subiz, doanh nghiệp nhấn nút \"Ghi nhận thanh toán\" trên Subiz khi khách có một sự kiện đạt mục tiêu chuyển đổi, ví dụ khách mua hàng, hoặc khách có SĐT, hoặc khách nhắn tin."
+                    }
+                  ]
                 }
               ]
             },
@@ -92,8 +97,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Subiz sẽ gửi hành động (sự kiện) này đính kèm với Facebook user id cho Facebook."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subiz sẽ gửi hành động (sự kiện) này đính kèm với Facebook user id cho Facebook."
+                    }
+                  ]
                 }
               ]
             },
@@ -101,8 +111,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Công việc còn lại là của Facebook tự tối ưu tệp quảng cáo."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Công việc còn lại là của Facebook tự tối ưu tệp quảng cáo."
+                    }
+                  ]
                 }
               ]
             }
@@ -134,8 +149,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tối ưu chiến dịch quảng cáo cho tệp khách tiềm năng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tối ưu chiến dịch quảng cáo cho tệp khách tiềm năng"
+                    }
+                  ]
                 }
               ]
             },
@@ -143,8 +163,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân tích khách đã nhắn tin theo chiến dịch quảng cáo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân tích khách đã nhắn tin theo chiến dịch quảng cáo"
+                    }
+                  ]
                 }
               ]
             },
@@ -152,8 +177,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân tích khách đã có SĐT trên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân tích khách đã có SĐT trên Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -161,8 +191,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân tích khách mua hàng trên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân tích khách mua hàng trên Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -183,7 +218,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Để cho phép "
+              "text": "Để cho phép"
             },
             {
               "type": "text",
@@ -193,12 +228,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -217,19 +247,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/messenger",
-                  "title": "Cài đặt Facebook",
-                  "text": "Cài đặt Facebook",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " trên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/messenger",
+                      "title": "Cài đặt Facebook",
+                      "text": "Cài đặt Facebook",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "trên Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -237,12 +272,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút Thêm Fanpage và "
-                },
-                {
-                  "type": "text",
-                  "text": "Chọn áp dụng cho tất cả các Trang ở hiện tại và tương lai"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Thêm Fanpage và"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn áp dụng cho tất cả các Trang ở hiện tại và tương lai"
+                    }
+                  ]
                 }
               ]
             },
@@ -250,8 +290,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Fanpage muốn thêm vào Subiz và hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Fanpage muốn thêm vào Subiz và hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -271,12 +316,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -295,8 +335,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sau khi thêm Fanpage thành công, bạn bấm nút Cài đặt bên phải của Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi thêm Fanpage thành công, bạn bấm nút Cài đặt bên phải của Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -304,8 +349,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Ghi nhận chuyển đổi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Ghi nhận chuyển đổi"
+                    }
+                  ]
                 }
               ]
             },
@@ -313,8 +363,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp nút Cấp quyền cho Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp nút Cấp quyền cho Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -322,8 +377,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bấm Tiếp tục để kết nối với hồ sơ doanh nghiệp và trang Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bấm Tiếp tục để kết nối với hồ sơ doanh nghiệp và trang Fanpage"
+                    }
+                  ]
                 }
               ]
             }
@@ -331,12 +391,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -362,19 +417,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Khi khách nhắn tin đến từ quảng cáo Facebook và đạt mục tiêu chuyển đổi, bạn bấm nút "
+              "text": "Khi khách nhắn tin đến từ quảng cáo Facebook và đạt mục tiêu chuyển đổi, bạn bấm nút"
             },
             {
               "type": "text",
@@ -383,18 +433,13 @@
             },
             {
               "type": "text",
-              "text": " để nhập thông tin vào bảng. "
+              "text": "để nhập thông tin vào bảng."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -411,12 +456,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -425,26 +465,8 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/0d1ee6c65cc438011cd04102e868dfc82cbb0fa69101aa67baefc68fef5cfef9_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/5b6fcffc4b2bd9d2a331f2bad59be875e9db3107a42c854f1e3034658eadc912_acpxkgumifuoofoosble"
               }
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         },
@@ -455,15 +477,6 @@
             {
               "type": "text",
               "text": "Cách xem báo cáo trên Facebook"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         },
@@ -492,8 +505,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Một là vào Meta Business, chọn Sự kiện tùy chỉnh và xem biểu đồ ghi nhận sự kiện"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Một là vào Meta Business, chọn Sự kiện tùy chỉnh và xem biểu đồ ghi nhận sự kiện"
+                    }
+                  ]
                 }
               ]
             }
@@ -513,12 +531,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -527,8 +540,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hai là vào trực tiếp chiến dịch quảng cáo, xem bảng báo cáo theo lượt mua"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hai là vào trực tiếp chiến dịch quảng cáo, xem bảng báo cáo theo lượt mua"
+                    }
+                  ]
                 }
               ]
             }
@@ -536,12 +554,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -557,39 +570,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

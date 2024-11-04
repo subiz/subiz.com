@@ -10,7 +10,7 @@
   "source_id": "972963943",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -54,25 +49,20 @@
             },
             {
               "type": "text",
-              "text": " là chức năng tự động phân chia hội thoại của khách hàng rồi giao cho nhân viên trả lời tư vấn khách, giúp chuyên môn hóa công việc cho từng nhân viên và nâng cao chất lượng dịch vụ khách hàng."
+              "text": "là chức năng tự động phân chia hội thoại của khách hàng rồi giao cho nhân viên trả lời tư vấn khách, giúp chuyên môn hóa công việc cho từng nhân viên và nâng cao chất lượng dịch vụ khách hàng."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Ví dụ: "
+              "text": "Ví dụ:"
             }
           ]
         },
@@ -83,8 +73,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule chia theo vùng miền: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule chia theo vùng miền: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam."
+                    }
+                  ]
                 }
               ]
             },
@@ -92,8 +87,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule theo kênh tương tác: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule theo kênh tương tác: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B."
+                    }
+                  ]
                 }
               ]
             },
@@ -101,8 +101,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule theo hiệu suất của nhân viên: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule theo hiệu suất của nhân viên: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất."
+                    }
+                  ]
                 }
               ]
             }
@@ -122,12 +127,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -145,8 +145,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bạn được tạo nhiều rule phân phối khác nhau"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn được tạo nhiều rule phân phối khác nhau"
+                    }
+                  ]
                 }
               ]
             },
@@ -154,8 +159,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới."
+                    }
+                  ]
                 }
               ]
             }
@@ -163,12 +173,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -206,15 +211,6 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "text",
               "text": "Bước 1: Xác định quy tắc phân chia khách cho agent",
               "bold": true
@@ -228,8 +224,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặc điểm phân loại của khách hàng là gì? Ví dụ theo vùng miền, theo nguồn khách hàng, theo thời gian khách liên hệ,...."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặc điểm phân loại của khách hàng là gì? Ví dụ theo vùng miền, theo nguồn khách hàng, theo thời gian khách liên hệ,...."
+                    }
+                  ]
                 }
               ]
             },
@@ -237,8 +238,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent nào phụ trách trả lời khách hàng?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent nào phụ trách trả lời khách hàng?"
+                    }
+                  ]
                 }
               ]
             }
@@ -246,12 +252,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -264,12 +265,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -297,8 +293,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -306,15 +307,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột chức năng bên trái, tìm "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/rule-setting",
-                  "title": "Rule phân phối",
-                  "text": "Rule phân phối",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột chức năng bên trái, tìm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/rule-setting",
+                      "title": "Rule phân phối",
+                      "text": "Rule phân phối",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -322,8 +328,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "chọn Tạo Rule phân phối"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "chọn Tạo Rule phân phối"
+                    }
+                  ]
                 }
               ]
             },
@@ -331,8 +342,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập tên Rule để nhận biết rule này làm nhiệm vụ gì?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập tên Rule để nhận biết rule này làm nhiệm vụ gì?"
+                    }
+                  ]
                 }
               ]
             },
@@ -340,8 +356,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn điều kiện lọc khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn điều kiện lọc khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -349,8 +370,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Phân phối tới, thêm agent trả lời khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Phân phối tới, thêm agent trả lời khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -358,8 +384,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Tạo Rule là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Tạo Rule là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -367,12 +398,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -388,12 +414,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -417,12 +438,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -440,12 +456,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -468,13 +479,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể"
+                    }
+                  ]
                 }
               ]
             },
@@ -482,13 +498,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể"
+                    }
+                  ]
                 }
               ]
             }
@@ -496,12 +517,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -527,12 +543,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -550,12 +561,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -571,7 +577,7 @@
             },
             {
               "type": "text",
-              "text": " tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM"
+              "text": "tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM"
             }
           ]
         },
@@ -582,24 +588,29 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ":"
-                },
-                {
-                  "type": "text",
-                  "text": " Tạo nhóm agent tại "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents-group",
-                  "title": "trang Nhóm agent",
-                  "text": "trang Nhóm agent",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ":"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tạo nhóm agent tại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents-group",
+                      "title": "trang Nhóm agent",
+                      "text": "trang Nhóm agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -607,13 +618,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN"
+                    }
+                  ]
                 }
               ]
             },
@@ -621,13 +637,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM"
+                    }
+                  ]
                 }
               ]
             }
@@ -671,12 +692,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -699,13 +715,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng"
+                    }
+                  ]
                 }
               ]
             },
@@ -713,13 +734,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điều kiện Rule chọn Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điều kiện Rule chọn Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất"
+                    }
+                  ]
                 }
               ]
             }
@@ -739,107 +765,47 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

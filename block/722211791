@@ -10,7 +10,7 @@
   "source_id": "722211791",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -42,21 +37,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -69,30 +54,20 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Agent đã gửi bao nhiêu tin nhắn tư vấn khách hàng? "
+              "text": "Agent đã gửi bao nhiêu tin nhắn tư vấn khách hàng?"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -105,12 +80,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -123,12 +93,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -141,12 +106,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -159,12 +119,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -189,12 +144,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

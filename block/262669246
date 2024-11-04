@@ -1,0 +1,1682 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Quản lý hội thoại của khách trên Subiz"
+  },
+  "i18n_slug": {
+    "vi_VN": "quan-ly-hoi-thoai-cua-khach-tren-subiz"
+  },
+  "source_id": "262669246",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý hội thoại của khách trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hội thoại khách hàng là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hội thoại là cuộc trò chuyện trực tiếp giữa khách hàng và nhân viên hỗ trợ của doanh nghiệp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi nào cần quản lý hội thoại?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi khách hàng của bạn tới từ nhiều hơn 2 điểm chạm. Đó có thể là Website, Zalo OA, Fanpage, Messenger, Email... Thậm chí cả bình luận bài viết."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kênh hội thoại Subiz giúp bạn quản lý toàn bộ hội thoại khách hàng cùng một nơi trên Subiz. Quản trị viên dễ dàng dễ dàng quan sát, nhận và trả lời tin nhắn khách hàng. Điều đó giúp bạn có thể quản lý khách hàng từ nhiều điểm chạm tốt hơn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm sao để xem được hội thoại khách hàng?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trước tiên bạn cần"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/tich-hop-kenh-tuong-tac/",
+              "title": "tích hợp kênh bán hàng online",
+              "text": "tích hợp kênh bán hàng online",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "của bạn lên Subiz. Bạn sẽ xem được toàn bộ hội thoại khách hàng đa kênh tại mục"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo?uid=ussdbqyhiwtnpvijxcliw&cid=cssdbqyhizxhsdppqu",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "trên trang Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/eb0789e42a7eaada34a9d33b0acaae5d7bb9a30fa32cfe2468de576d5e96ffe3_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên đây là hình ảnh giao diện trang tin nhắn. Bạn sẽ thấy có 3 cột nội dung."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột hội thoại:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hiển thị tin nhắn, cuộc gọi bị nhỡ, cuộc gọi đi thất bại, email nhận,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột nội dung:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nhập nội dung tin nhắn trò chuyện với khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột khách:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Gồm các thông tin cá nhân của khách hàng (Tên, số điện thoại, Email, tag phân loại,...) và lịch sử tương tác trước. Nhìn vào đó để biết được khách hàng mới hay cũ, đã từng trao đổi vấn đề gì."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Công cụ hỗ trợ quản lý hội thoại khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để dễ dàng quản lý và tương tác khách hàng hiệu quả, Subiz cung cấp cho doanh nghiệp nhiều tính năng như:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lọc khách hàng theo nguồn hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sử dụng khi bạn muốn hiển thị hội thoại tới từ nguồn cụ thể nào đó ví dụ tin nhắn của khách hàng tới từ Fanpage chưa trả lời/ cuộc gọi nhỡ,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cụ thể, trên Subiz bạn có thể lọc hội thoại khách hàng theo:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trạng thái:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bao gồm Đang mở/chưa trả lời/đã trả lời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kênh tương tác:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tin nhắn/Email/bình luận Fanpage,"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Instagram, Tổng đài, Bảng hỏi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tag:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Những tag đã được gắn trước đó trong các hội thoại của khách hàng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi chọn theo các điều kiện cụ thể, Subiz sẽ hiển thị giúp quá trình tìm kiếm nhanh, tránh bỏ sót tin nhắn/bình luận của khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cf4711769d9c54a6b3458873c527b3200efedd3fc8e5ff1d2bb777338687647d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách thực hiện:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập"
+                    },
+                    {
+                      "type": "link",
+                      "href": "http://app.subiz.com.vn",
+                      "title": "app.subiz.com.vn",
+                      "text": "app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn mục"
+                    },
+                    {
+                      "type": "text",
+                      "text": "TIN NHẮN",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột tới hình phễu ở góc phải cột hội thoại. Tại đó Subiz sẽ hiển thị các nguồn hội thoại như hình ảnh trên để bạn lựa chọn."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời nhanh với mẫu tin nhắn có sẵn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1"
+            },
+            {
+              "type": "text",
+              "text": "click lệnh “/”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "hoặc nhấn"
+            },
+            {
+              "type": "text",
+              "text": "nút MẪU TIN NHẮN",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "trong ô nhập tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1941951532-mau-tin-nhan",
+              "title": "Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh",
+              "text": "Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/e64aca01ffb86bdd5024a61600cf17defe27ed0d49586612d5403366a303a6bc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thông tin khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có hàng trăm, thậm chí hàng nghìn khách hàng tương tác. Nếu không quản lý hội thoại hiệu quả rất dễ dẫn tới tình trạng tư vấn không phù hợp gây mất thời gian, khách hàng cảm thấy chán."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhưng trên Subiz, hoàn toàn có thể biết được"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách hàng cũ hay mới? Nhờ các thông tin cá nhân như Tên, số điện thoại, email,... kết hợp với tag phân loại khách hàng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lịch sử hội thoại. Nhìn vào đó, tư vấn viên biết được khách hàng đã từng gặp vấn đề gì và tiếp tục vào luồng trước đó."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem được tất cả thông tin khách hàng ở cột bên phải màn hình."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang",
+              "title": "Xem thêm hướng dẫn quản lý hồ sơ khách hàng",
+              "text": "Xem thêm hướng dẫn quản lý hồ sơ khách hàng",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/5701a6ebc050b7ffa3120ffbad3a783cf4d653a0cd27de635abca4df2cdbd0fc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thêm Tag hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn nút"
+            },
+            {
+              "type": "text",
+              "text": "THÊM TAG",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "hoặc gõ"
+            },
+            {
+              "type": "text",
+              "text": "lệnh “@tag”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "tại ô nhập tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với cách này, bạn dễ dàng phân loại khách hàng. Quá trình chuyển giao khách hàng tới các bộ phận khác theo luồng, không bị nhầm lẫn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/662546069-tag-hoi-thoai",
+              "title": "Hướng dẫn chi tiết cài đặt Tag hội thoại",
+              "text": "Hướng dẫn chi tiết cài đặt Tag hội thoại",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ccd60e9ff3499c3a0c66fcfbcf789f93557d86467cf8395138f68e8574a657cc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo nhắc việc (Task) quản lý đầu công việc"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhắc việc - nhắc nhở công việc cần làm,"
+            },
+            {
+              "type": "text",
+              "text": "quản lý công việc cá nhân/đội nhóm hiệu quả. Nắm bắt được từng đầu mục công việc, phân loại và điều phối. Dễ dàng quan sát được tiến độ công việc, nhằm đảm bảo tiến độ và hiệu quả công việc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách tạo nhắc việc",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Tới trang"
+            },
+            {
+              "type": "text",
+              "text": "Khách"
+            },
+            {
+              "type": "text",
+              "text": "> Click nút Tạo mới - Nhắc việc"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam",
+              "title": "Xem thêm hướng dẫn sử dụng nhắc việc",
+              "text": "Xem thêm hướng dẫn sử dụng nhắc việc",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4433bd7683fb0de32ab84f0446db62cf6cf5ce4ba6152e2760fc1923027805ae_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo đơn hàng mới trong hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi cần tạo đơn, tại màn hình hội thoại Subiz cột Khách, di chuột tới “Đơn hàng” > Tạo đơn và lựa chọn tên khách hàng, sản phẩm, số lượng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mọi thông tin về số điện thoại, địa chỉ sẽ được tự động cập nhật. Tiếp đó chọn đơn vị vận chuyển và xác nhận đơn hàng là đã hoàn thành xong bước tạo đơn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1276788659-don-hang",
+              "title": "Xem hướng dẫn quản lý đơn hàng",
+              "text": "Xem hướng dẫn quản lý đơn hàng",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/5ffc69dd2eb7376baafd879839249b28291a1bbc29ad795ee494eb44771768e4_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Ghi chú cho khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giống như sổ ghi tay, sử dụng tính năng Ghi chú để lưu lại thông tin quan trọng về khách hàng"
+            },
+            {
+              "type": "text",
+              "text": "về khách hàng. Cập nhật nội dung ngay mục ghi chú giúp bạn và đồng nghiệp chủ động tiếp cận hỗ trợ khách hàng phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thêm agent vào hội thoại hoặc rời hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click"
+            },
+            {
+              "type": "text",
+              "text": "nút THÊM AGENT",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "hoặc nhập lệnh"
+            },
+            {
+              "type": "text",
+              "text": "@agent",
+              "bold": true
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "trong ô nhập tin nhắn."
+                },
+                {
+                  "type": "text",
+                  "text": "Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "THÊM AGENT",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Rời",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0e137b2deebd2d9dd4d488a1bc7fee55bfda2f6ac9ca219004f1c68446af4b2c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại/Đóng hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại kiểm soát được công việc trả lời tư vấn khách hàng, đảm bảo bạn đã giải quyết xong yêu cầu của khách hay hết nhiệm vụ trong ca làm việc của mình."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn hoàn thành hội thoại:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Click nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "góc trái màn hình >"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Click chọn Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "sẽ hoàn thành > Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Đang mở",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên góc phải hội thoại > Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh"
+                    },
+                    {
+                      "type": "text",
+                      "text": "@complete",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chi tiết:"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/573485226-tu-dong-hoan-thanh-hoi-thoai",
+              "title": "hướng dẫn hoàn thành hội thoại",
+              "text": "hướng dẫn hoàn thành hội thoại",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ace9a97ea9040f3b6c925a54165f6b42a182d84932078d3f4dd559511cc57edc_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thông báo tin nhắn mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Không phải lúc nào bạn cũng làm việc trên trang tin nhắn. Để tránh tình trạng chậm trả lời, hãy cài đặt thông báo mới trên trang Subiz. Hoặc khi bạn cần tập trung vào việc khác, có thể tăng giảm âm lượng phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Nhấn"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/profile/setting-notification",
+              "title": "nút chuông thông báo",
+              "text": "nút chuông thông báo",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "bên phải màn hình >Chọn nút Cài đặt>Bật ON thông báo Tin nhắn mới. Chọn lặp lại và kiểu chuông nếu cần"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6f9f8747fc5b1c1d3b38cb5d481c15b0d28688dc1c297504dbad11457efbf6a6_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi cần tắt:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Nhấn OFF thông báo khách mới và khách quay lại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bật/tắt thông báo Khách hàng cụ thể:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Trong phần thông báo tin nhắn, Subiz đưa ra nhiều lựa chọn cụ thể khách hàng. Theo đó bạn bận ON/OFF từng đối tượng mà bạn muốn."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Các lỗi thường gặp và cách xử lý hiệu quả"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi không nhận được tin nhắn khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 1: Lỗi chưa tích hợp thành công",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Theo quy trình, chỉ khi bạn ủy quyền cho Subiz quản trị kênh bán hàng online thì bạn mới nhận được tin nhắn trên Subiz. Do vậy khi gặp lỗi không nhận được tin nhắn ở kênh Website, Fanpage, Email, Zalo OA, Instagram bạn cần kiểm tra xem đã tích hợp thành công chưa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách kiểm tra: Vào Cài đặt chọn kênh mà bạn đã tích hợp, ví dụ như kênh Zalo. Nếu tích hợp thành công, Zalo của bạn sẽ hiển thị chữ màu xanh"
+            },
+            {
+              "type": "text",
+              "text": "ĐANG HOẠT ĐỘNG",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Nếu chưa có, tức kênh chưa được tích hợp hoặc tích hợp chưa thành công, cần phải thực hiện lại thao tác"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/297964546-ket-noi-zalo-oa",
+              "title": "tích hợp",
+              "text": "tích hợp",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "này."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 1: Agent chưa được giao chat",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần kiểm tra đã được phân chia hội thoại chưa. Xử lý bằng cách sử dụng"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai",
+              "title": "Rule phân phối hội thoại",
+              "text": "Rule phân phối hội thoại",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Tuy nhiên không phải ai cũng có thể thực hiện phân chia hội thoại mà chỉ người quản lý mới cài đặt được Rule phân phối."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 2: Lỗi truy cập",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đây cũng là nguyên nhân dẫn tới tình trạng gián đoạn tin nhắn. Lúc này bạn cần kiểm tra lại hệ thống các kênh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nếu Website báo lỗi",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "404: Not Found, 500 Internal Server Error, 503 Service Unavailable, HTTP 500… Bạn nên kiểm tra lại thiết bị, khởi động lại hoặc đổi sang nguồn mạng khác mạnh hơn hoặc báo kỹ thuật để xử lý tránh làm giãn đoạn tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Với lỗi không nhận được tin nhắn từ Zalo OA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân có thể do chưa trả phí hoặc hết hạn gói đã trả phí. Cách kiểm tra gói dịch vụ của Zalo: Đăng nhập Zalo OA > Quản lý >"
+            },
+            {
+              "type": "link",
+              "href": "https://oa.zalo.me/manage/account",
+              "title": "Quản lý tài khoản",
+              "text": "Quản lý tài khoản",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "> trong Quản lý gói xem gói nâng cao hay premium chưa? Nếu chưa, cần mua gói Nâng cao hoặc premium của Zalo OA."
+            },
+            {
+              "type": "link",
+              "href": "https://oa.zalo.me/home/resources/policy/-trien-khai-goi-dich-vu-tra-phi-voi-zalo-oa-doanh-nghiep_4326077009372661188",
+              "title": "Xem hướng dẫn trả phí",
+              "text": "Xem hướng dẫn trả phí",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi trang Zalo do Token hết hạn: Do Zalo giới hạn quyền nhận gửi tin nhắn cho Subiz trong 1 khoảng thời gian nên Quản trị viên Zalo cần cấp lại quyền cho Subiz bằng cách tích hợp lại Zalo vào Subiz. Cách xử lý là Tích hợp lại Zalo OA vào Subiz tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/zalo",
+              "title": "Cài đặt > Tích hợp Zalo",
+              "text": "Cài đặt > Tích hợp Zalo",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Nếu vẫn không khắc phục được, hãy liên hệ tới đội"
+            },
+            {
+              "type": "text",
+              "text": "Support Subiz:"
+            },
+            {
+              "type": "text",
+              "text": "02 473 021 368"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi “230: user has not interacted with Zalo OA in the past 7 days” trên Zalo"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Do khách hàng không có tương tác nhắn tin tới Zalo OA trong 7 ngày gần nhất. Cách xử lý là bạn cần liên hệ khách qua kênh khác như gọi điện thoại, gửi email, nhắn tin messenger."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi #10: Tin nhắn này được gửi ngoài thời gian cho phép​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thông báo: (#10) This message is sent outside"
+            },
+            {
+              "type": "text",
+              "text": "of allowed"
+            },
+            {
+              "type": "text",
+              "text": "window. Learn more about the new policy here:"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/policy-overview",
+              "title": "https://developers.facebook.com/docs/messenger-platform/policy-overview",
+              "text": "https://developers.facebook.com/docs/messenger-platform/policy-overview",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi,"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
+              "title": "xem chính sách gửi tin nhắn messenger.",
+              "text": "xem chính sách gửi tin nhắn messenger.",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn chọn thử gửi lại tin nhắn cho khách. Nếu không gửi được, bạn cần liên hệ khách qua các kênh khác."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi #551: Người này hiện không có mặt​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi xảy ra khi khách hàng chặn Fanpage của bạn hoặc tài khoản Facebook của khách bị khóa, bị checkpoint."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần tìm cách liên hệ khách qua các kênh khác."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "This user can’t reply to this activity​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi này xảy ra khi khách hàng đã chặn Fanpage của bạn hoặc tin nhắn bạn gửi sau 7 ngày kể từ tin nhắn cuối khách gửi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần tìm cách liên hệ khách qua các kênh khác."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi #2022: Tạm thời bạn bị chặn thực hiện thao tác này​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fanpage của bạn bị Facebook chặn không cho phép gửi tin nhắn do vi phạm chính sách và tiêu chuẩn cộng đồng của Facebook."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kiểm tra trạng thái hoạt động của Fanpage bằng cách vào Cài đặt Fanpage > Hộp thư hỗ trợ về trang."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi #10900: Activity already replied to​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi xảy ra khi bạn nhắn tin messenger cho khách bình luận bài viết Fanpage. Bạn chỉ được phép gửi 1 tin nhắn messenger cho khác"
+            },
+            {
+              "type": "text",
+              "text": "h,"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
+              "title": "xem chính sách gửi tin nhắn messenger.",
+              "text": "xem chính sách gửi tin nhắn messenger.",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn trả lời bình luận của khách và kêu gọi khách nhắn tin tiếp qua messenger. Thêm nữa, khi gửi tin nhắn messenger đầu tiên cho khách bình luận, bạn gom nội dung chào mời gọi khách rồi hãy enter gửi đi 1 lần."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi: facebook doesn't receive the message​"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Facebook bị lỗi nền tảng messenger khiến tình trạng nhận và gửi tin nhắn bị chập chờn,"
+            },
+            {
+              "type": "link",
+              "href": "https://metastatus.com/messenger",
+              "title": "xem thông báo của Facebook",
+              "text": "xem thông báo của Facebook",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chờ đợi Facebook khắc phục lỗi."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi lọc tìm chat từ 1 Website hay 1 Fanpage cụ thể được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn lọc tìm nhanh hội thoại của khách theo kênh Website, Fanpage hay nhiều tiêu chí khác bằng cách chọn nút Lọc trên trang Tin nhắn, chọn lọc Chi tiết."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/convo-list",
+              "title": "Danh sách hội thoại",
+              "text": "Danh sách hội thoại",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ","
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/329849664-thong-ke-hoi-thoai#danh-s%C3%A1ch-h%E1%BB%99i-tho%E1%BA%A1i",
+              "title": "xem hướng dẫn chi tiết",
+              "text": "xem hướng dẫn chi tiết",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có app mobile không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn tải app mobile Subiz về điện thoại để sẵn sàng trả lời khách hàng 24/7."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=S9wVGrxhYks",
+              "title": "Xem video hướng dẫn sử dụng app mobile",
+              "text": "Xem video hướng dẫn sử dụng app mobile",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể chuyển cuộc hội thoại tới ngay cho Agent có tương tác gần nhất không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn có thể chuyển 1 cuộc hội thoại"
+            },
+            {
+              "type": "text",
+              "text": "ngay"
+            },
+            {
+              "type": "text",
+              "text": "tới Agent có tương tác gần nhất với khách hàng bằng cách thiết lập rule với hành động Phân phối tới agent có tương tác cuối cùng với user."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhiều Agent có thể hỗ trợ một khách hàng cùng lúc được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Nhiều Agent có thể hỗ trợ khách hàng cùng lúc qua 2 cách:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Cài đặt rule phân phối cuộc hội thoại cho 1 nhóm Agent"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Agent nhận cuộc hội thoại có thể mời các Agent khác cùng tham gia cuộc hội thoại đó"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

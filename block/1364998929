@@ -10,7 +10,7 @@
   "source_id": "1364998929",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -57,8 +52,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách mới truy cập website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới truy cập website"
+                    }
+                  ]
                 }
               ]
             },
@@ -66,8 +66,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách mới nhắn tin trên Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới nhắn tin trên Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -75,8 +80,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách mới nhắn tin trên Zalo OA"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới nhắn tin trên Zalo OA"
+                    }
+                  ]
                 }
               ]
             },
@@ -84,8 +94,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách mới gửi email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới gửi email"
+                    }
+                  ]
                 }
               ]
             },
@@ -93,8 +108,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách mới gọi điện tới tổng đài."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới gọi điện tới tổng đài."
+                    }
+                  ]
                 }
               ]
             }
@@ -112,7 +132,7 @@
             },
             {
               "type": "text",
-              "text": " là khách được xác định có nhu cầu mua sản phẩm/dịch vụ của Doanh nghiệp."
+              "text": "là khách được xác định có nhu cầu mua sản phẩm/dịch vụ của Doanh nghiệp."
             }
           ]
         },
@@ -202,21 +222,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -275,7 +285,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Bạn có chạy quảng cáo Google Ads và muốn biết có bao nhiêu khách mới đến từ quảng cáo hay một chiến dịch quảng cáo cụ thể, bạn xem tại mục “Nguồn truy cập”, "
+              "text": "Ví dụ: Bạn có chạy quảng cáo Google Ads và muốn biết có bao nhiêu khách mới đến từ quảng cáo hay một chiến dịch quảng cáo cụ thể, bạn xem tại mục “Nguồn truy cập”,"
             },
             {
               "type": "link",
@@ -304,12 +314,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

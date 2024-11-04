@@ -10,16 +10,11 @@
   "source_id": "1447455205",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -27,25 +22,20 @@
           "content": [
             {
               "type": "text",
-              "text": "Xử lý lỗi trên Fanpage "
+              "text": "Xử lý lỗi trên Fanpage"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh Fanpage và cách xử lý. "
+              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh Fanpage và cách xử lý."
             }
           ]
         },
@@ -61,12 +51,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -82,12 +67,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -100,12 +80,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -123,8 +98,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -132,8 +112,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột chức năng bên trái màn hình, tìm Facebook"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột chức năng bên trái màn hình, tìm Facebook"
+                    }
+                  ]
                 }
               ]
             },
@@ -141,8 +126,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp nút Thêm Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp nút Thêm Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -150,8 +140,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Làm tiếp các bước cấp quyền cho Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Làm tiếp các bước cấp quyền cho Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -171,30 +166,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -217,12 +197,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -240,8 +215,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập tài khoản Facebook của admin"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập tài khoản Facebook của admin"
+                    }
+                  ]
                 }
               ]
             },
@@ -249,8 +229,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn chuyển sang chế độ trang Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn chuyển sang chế độ trang Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -258,8 +243,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Cài đặt và quyền riêng tư"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Cài đặt và quyền riêng tư"
+                    }
+                  ]
                 }
               ]
             },
@@ -267,8 +257,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột bên trái màn hình, tìm nút Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột bên trái màn hình, tìm nút Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -276,8 +271,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm Thiết lập Trang"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm Thiết lập Trang"
+                    }
+                  ]
                 }
               ]
             },
@@ -285,8 +285,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm Nhắn tin nâng cao và chọn Xem"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm Nhắn tin nâng cao và chọn Xem"
+                    }
+                  ]
                 }
               ]
             }
@@ -311,8 +316,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Cấu hình cho Ứng dụng nhận tin nhắn trên Messenger"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Cấu hình cho Ứng dụng nhận tin nhắn trên Messenger"
+                    }
+                  ]
                 }
               ]
             },
@@ -320,8 +330,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Subiz là người nhận chính cho giao thức chuyển giao"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Subiz là người nhận chính cho giao thức chuyển giao"
+                    }
+                  ]
                 }
               ]
             }
@@ -329,12 +344,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -360,12 +370,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -374,8 +379,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Do Facebook có lỗi kỹ thuật hệ thống nên tin nhắn không gửi đi được."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Do Facebook có lỗi kỹ thuật hệ thống nên tin nhắn không gửi đi được."
+                    }
+                  ]
                 }
               ]
             },
@@ -383,8 +393,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Bạn bình tĩnh chờ giây lát rồi gửi lại tin nhắn cho khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Bạn bình tĩnh chờ giây lát rồi gửi lại tin nhắn cho khách."
+                    }
+                  ]
                 }
               ]
             }
@@ -405,7 +420,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Thông báo: (#10) This message is sent outside of allowed window. Learn more about the new policy here: "
+              "text": "Thông báo: (#10) This message is sent outside of allowed window. Learn more about the new policy here:"
             },
             {
               "type": "link",
@@ -418,12 +433,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -432,15 +442,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
-                  "title": "xem chính sách gửi tin nhắn messenger.",
-                  "text": "xem chính sách gửi tin nhắn messenger.",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
+                      "title": "xem chính sách gửi tin nhắn messenger.",
+                      "text": "xem chính sách gửi tin nhắn messenger.",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -448,8 +463,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Bạn chọn thử gửi lại tin nhắn cho khách. Nếu không gửi được, bạn cần liên hệ khách qua các kênh khác."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Bạn chọn thử gửi lại tin nhắn cho khách. Nếu không gửi được, bạn cần liên hệ khách qua các kênh khác."
+                    }
+                  ]
                 }
               ]
             }
@@ -461,49 +481,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lỗi #551: Người này hiện không có mặt "
-            }
-          ]
-        },
-        {
-          "type": "bullet_list",
-          "content": [
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nguyên nhân: Lỗi xảy ra khi khách hàng chặn Fanpage của bạn hoặc tài khoản Facebook của khách bị khóa, bị checkpoint."
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "content": [
-            {
-              "type": "text",
-              "text": "This user can’t reply to this activity "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
+              "text": "Lỗi #551: Người này hiện không có mặt"
             }
           ]
         },
@@ -518,16 +496,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nguyên nhân: Lỗi này xảy ra khi khách hàng đã chặn Fanpage của bạn hoặc tin nhắn bạn gửi sau 7 ngày kể từ tin nhắn cuối khách gửi."
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "text": "Nguyên nhân: Lỗi xảy ra khi khách hàng chặn Fanpage của bạn hoặc tài khoản Facebook của khách bị khóa, bị checkpoint."
                     }
                   ]
                 }
@@ -537,8 +506,60 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "This user can’t reply to this activity"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Lỗi này xảy ra khi khách hàng đã chặn Fanpage của bạn hoặc tin nhắn bạn gửi sau 7 ngày kể từ tin nhắn cuối khách gửi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Bạn cần tìm cách liên hệ khách qua các kênh khác."
+                    }
+                  ]
                 }
               ]
             }
@@ -556,12 +577,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -570,8 +586,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Fanpage của bạn bị Facebook chặn không cho phép gửi tin nhắn do vi phạm chính sách và tiêu chuẩn cộng đồng của Facebook. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Fanpage của bạn bị Facebook chặn không cho phép gửi tin nhắn do vi phạm chính sách và tiêu chuẩn cộng đồng của Facebook."
+                    }
+                  ]
                 }
               ]
             }
@@ -579,12 +600,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -593,8 +609,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Kiểm tra trạng thái hoạt động của Fanpage bằng cách vào Cài đặt Fanpage > Hộp thư hỗ trợ về trang."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Kiểm tra trạng thái hoạt động của Fanpage bằng cách vào Cài đặt Fanpage > Hộp thư hỗ trợ về trang."
+                    }
+                  ]
                 }
               ]
             }
@@ -617,15 +638,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Lỗi xảy ra khi bạn nhắn tin messenger cho khách bình luận bài viết Fanpage. Bạn chỉ được phép gửi 1 tin nhắn messenger cho khách, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
-                  "title": "xem chính sách gửi tin nhắn messenger.",
-                  "text": "xem chính sách gửi tin nhắn messenger.",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Lỗi xảy ra khi bạn nhắn tin messenger cho khách bình luận bài viết Fanpage. Bạn chỉ được phép gửi 1 tin nhắn messenger cho khách,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/",
+                      "title": "xem chính sách gửi tin nhắn messenger.",
+                      "text": "xem chính sách gửi tin nhắn messenger.",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             }
@@ -633,12 +659,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -647,8 +668,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Bạn trả lời bình luận của khách và kêu gọi khách nhắn tin tiếp qua messenger. Thêm nữa, khi gửi tin nhắn messenger đầu tiên cho khách bình luận, bạn gom nội dung chào mời gọi khách rồi hãy enter gửi đi 1 lần."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Bạn trả lời bình luận của khách và kêu gọi khách nhắn tin tiếp qua messenger. Thêm nữa, khi gửi tin nhắn messenger đầu tiên cho khách bình luận, bạn gom nội dung chào mời gọi khách rồi hãy enter gửi đi 1 lần."
+                    }
+                  ]
                 }
               ]
             }
@@ -656,12 +682,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -680,19 +701,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Facebook bị lỗi nền tảng messenger khiến tình trạng nhận và gửi tin nhắn bị chập chờn, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://metastatus.com/messenger",
-                  "title": "xem thông báo của Facebook",
-                  "text": "xem thông báo của Facebook",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Facebook bị lỗi nền tảng messenger khiến tình trạng nhận và gửi tin nhắn bị chập chờn,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://metastatus.com/messenger",
+                      "title": "xem thông báo của Facebook",
+                      "text": "xem thông báo của Facebook",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -700,8 +726,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Chờ đợi Facebook khắc phục lỗi."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Chờ đợi Facebook khắc phục lỗi."
+                    }
+                  ]
                 }
               ]
             }
@@ -709,75 +740,35 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

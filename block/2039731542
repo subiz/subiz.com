@@ -10,7 +10,7 @@
   "source_id": "2039731542",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -37,7 +37,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Nhắc việc là danh sách các công việc cần làm của agent. Tính năng "
+              "text": "Nhắc việc là danh sách các công việc cần làm của agent. Tính năng"
             },
             {
               "type": "text",
@@ -46,7 +46,7 @@
             },
             {
               "type": "text",
-              "text": " sẽ giúp bạn:"
+              "text": "sẽ giúp bạn:"
             }
           ]
         },
@@ -59,15 +59,6 @@
                 {
                   "type": "text",
                   "text": "+ Ghi nhớ và tránh bỏ sót các việc cần làm để hỗ trợ khách hàng"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
                 },
                 {
                   "type": "text",
@@ -95,29 +86,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/e4ceecc84f3ffff2dffd36267e4a6b9afdb8ce33f55cc5345097eb0889df63b6_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -127,7 +95,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Tạo Nhắc việc mới? "
+              "text": "Tạo Nhắc việc mới?"
             }
           ]
         },
@@ -146,7 +114,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trường hợp sau khi chat trả lời khách hay sau khi điện thoại hay khi bạn được giao 1 khách mới, bạn cần thực hiện 1 công việc cụ thể để tiếp tục chăm sóc khách, bạn sẽ tạo nhắc việc cần làm như sau: Mở thông tin khách hàng > chọn nút "
+              "text": "Trường hợp sau khi chat trả lời khách hay sau khi điện thoại hay khi bạn được giao 1 khách mới, bạn cần thực hiện 1 công việc cụ thể để tiếp tục chăm sóc khách, bạn sẽ tạo nhắc việc cần làm như sau: Mở thông tin khách hàng > chọn nút"
             },
             {
               "type": "text",
@@ -155,7 +123,7 @@
             },
             {
               "type": "text",
-              "text": " > Điền nội dung chi tiết cho công việc."
+              "text": "> Điền nội dung chi tiết cho công việc."
             }
           ]
         },
@@ -173,12 +141,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -303,7 +266,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hàng ngày, agent cần lên kế hoạch công việc của cá nhân mình hay công việc nội bộ công ty, agent sẽ tạo nhắc việc mới như sau: Click "
+              "text": "Hàng ngày, agent cần lên kế hoạch công việc của cá nhân mình hay công việc nội bộ công ty, agent sẽ tạo nhắc việc mới như sau: Click"
             },
             {
               "type": "text",
@@ -312,7 +275,7 @@
             },
             {
               "type": "text",
-              "text": " ở góc phải trên cùng màn hình > chọn "
+              "text": "ở góc phải trên cùng màn hình > chọn"
             },
             {
               "type": "text",
@@ -321,16 +284,7 @@
             },
             {
               "type": "text",
-              "text": " và điền thông tin nhắc việc."
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
+              "text": "và điền thông tin nhắc việc."
             },
             {
               "type": "image",
@@ -343,12 +297,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -376,8 +325,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khi khách nhắn tin mà chưa được agent trả lời"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi khách nhắn tin mà chưa được agent trả lời"
+                    }
+                  ]
                 }
               ]
             },
@@ -385,8 +339,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khi có cuộc gọi nhỡ của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi có cuộc gọi nhỡ của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -396,22 +355,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nhắc việc tự động khi có khách nhắn tin/ gọi nhỡ chưa được hỗ trợ sẽ hiện như sau: "
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Nhắc việc tự động khi có khách nhắn tin/ gọi nhỡ chưa được hỗ trợ sẽ hiện như sau:"
             },
             {
               "type": "image",
@@ -424,30 +369,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -464,7 +394,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn cài đặt: "
+              "text": "Hướng dẫn cài đặt:"
             },
             {
               "type": "link",
@@ -476,7 +406,7 @@
             },
             {
               "type": "text",
-              "text": " > Thiết kế kịch bản > Tại nhánh agent chưa trả lời, thêm hành động "
+              "text": "> Thiết kế kịch bản > Tại nhánh agent chưa trả lời, thêm hành động"
             },
             {
               "type": "text",
@@ -484,31 +414,8 @@
               "bold": true
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": " > Điền nội dung công việc cần làm và thêm agent phụ trách công việc > Xuất bản là xong"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "> Điền nội dung công việc cần làm và thêm agent phụ trách công việc > Xuất bản là xong"
             },
             {
               "type": "image",
@@ -516,33 +423,19 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/061b3704f3f7236c2034618992d79bcdea909858658124e23b4bd04ff6cc7ed1_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Tự động nhắc việc có cuộc gọi nhỡ ",
+              "text": "Tự động nhắc việc có cuộc gọi nhỡ",
               "bold": true
             }
           ]
@@ -552,7 +445,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn cài đặt: "
+              "text": "Hướng dẫn cài đặt:"
             },
             {
               "type": "link",
@@ -563,22 +456,8 @@
               "bold": true
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": " > Thêm agent xử lý cuộc gọi nhỡ và hạn xử lý cuộc gọi nhỡ > Cập nhật là xong"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "> Thêm agent xử lý cuộc gọi nhỡ và hạn xử lý cuộc gọi nhỡ > Cập nhật là xong"
             }
           ]
         },
@@ -596,21 +475,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -634,12 +503,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -652,30 +516,12 @@
                   "text": "Bạn muốn xem mình có những công việc cần làm là gì?"
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "Hạn xử lý từng công việc?"
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
-                  "text": "Bạn sẽ lọc danh sách nhắc việc theo nhóm "
+                  "text": "Bạn sẽ lọc danh sách nhắc việc theo nhóm"
                 }
               ]
             },
@@ -686,11 +532,11 @@
             },
             {
               "type": "text",
-              "text": " và nút "
+              "text": "và nút"
             },
             {
               "type": "text",
-              "text": "Sắp xếp theo ngày hết hạn ",
+              "text": "Sắp xếp theo ngày hết hạn",
               "bold": true
             },
             {
@@ -701,12 +547,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -722,12 +563,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -743,31 +579,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bạn đang cùng đồng nghiệp theo dõi và xử lý một sự vụ cụ thể, vậy để làm sao xem được trạng thái công việc và các hoạt động khác nếu có, bạn sẽ lọc nhắc việc theo tên agent phụ trách như sau:"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Bạn đang cùng đồng nghiệp theo dõi và xử lý một sự vụ cụ thể, vậy để làm sao xem được trạng thái công việc và các hoạt động khác nếu có, bạn sẽ lọc nhắc việc theo tên agent phụ trách như sau:"
             },
             {
               "type": "image",
@@ -780,44 +593,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

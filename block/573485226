@@ -10,7 +10,7 @@
   "source_id": "573485226",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -48,8 +48,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Giúp agent kiểm soát được cuộc chat nào đã trả lời khách xong, cuộc chat nào đang cần trả lời tiếp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giúp agent kiểm soát được cuộc chat nào đã trả lời khách xong, cuộc chat nào đang cần trả lời tiếp"
+                    }
+                  ]
                 }
               ]
             },
@@ -57,8 +62,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Giúp agent báo cáo thống kê được số lượng chat đã trả lời khách trong ca từng ngày làm việc"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giúp agent báo cáo thống kê được số lượng chat đã trả lời khách trong ca từng ngày làm việc"
+                    }
+                  ]
                 }
               ]
             },
@@ -66,8 +76,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khi khách quay lại nhắn tin sẽ tạo hội thoại mới và hội thoại mới sẽ được phân chia cho đúng agent đang sẵn sàng trả lời khách. Lưu ý: Hội thoại mới sẽ được phân phối cho agent theo rule đang cài đặt."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi khách quay lại nhắn tin sẽ tạo hội thoại mới và hội thoại mới sẽ được phân chia cho đúng agent đang sẵn sàng trả lời khách. Lưu ý: Hội thoại mới sẽ được phân phối cho agent theo rule đang cài đặt."
+                    }
+                  ]
                 }
               ]
             }
@@ -89,8 +104,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trạng thái hoàn thành hội thoại chỉ hiển thị với khách trên kênh website; Không hiển thị với khách trên Fanpage, Zalo, Instagram."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trạng thái hoàn thành hội thoại chỉ hiển thị với khách trên kênh website; Không hiển thị với khách trên Fanpage, Zalo, Instagram."
+                    }
+                  ]
                 }
               ]
             },
@@ -98,8 +118,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sau khi hội thoại hoàn thành, agent có thể tiếp tục nhắn tin với khách bằng cách Tạo hội thoại mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi hội thoại hoàn thành, agent có thể tiếp tục nhắn tin với khách bằng cách Tạo hội thoại mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -107,8 +132,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sau khi hội thoại hoàn thành, agent và khách hàng vẫn xem được tin nhắn cũ."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi hội thoại hoàn thành, agent và khách hàng vẫn xem được tin nhắn cũ."
+                    }
+                  ]
                 }
               ]
             }
@@ -131,31 +161,36 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1: Click nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hội thoại",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " góc trái màn hình > "
-                },
-                {
-                  "type": "text",
-                  "text": "Click chọn Hội thoại",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " cần hoàn thành > Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoàn thành",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Click nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "góc trái màn hình >"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Click chọn Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "cần hoàn thành > Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -163,22 +198,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Đang mở",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " bên góc phải hội thoại > Chọn "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoàn thành",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Đang mở",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên góc phải hội thoại > Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -186,13 +226,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh "
-                },
-                {
-                  "type": "text",
-                  "text": "@complete",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh"
+                    },
+                    {
+                      "type": "text",
+                      "text": "@complete",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -246,30 +291,35 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Mở "
-                },
-                {
-                  "type": "text",
-                  "text": "Cài đặt",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/auto-endchat",
-                  "title": "Hoàn thành hội thoại",
-                  "text": "Hoàn thành hội thoại",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/auto-endchat",
+                      "title": "Hoàn thành hội thoại",
+                      "text": "Hoàn thành hội thoại",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -277,8 +327,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày"
+                    }
+                  ]
                 }
               ]
             }
@@ -322,13 +377,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hội thoại",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hội thoại",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -336,13 +396,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấn phím Shift",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " trên bàn phím"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn phím Shift",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "trên bàn phím"
+                    }
+                  ]
                 }
               ]
             },
@@ -350,18 +415,23 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click chọn hội thoại đầu",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " + kéo chuột xuống + "
-                },
-                {
-                  "type": "text",
-                  "text": "Click chọn hội thoại cuối",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click chọn hội thoại đầu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "+ kéo chuột xuống +"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Click chọn hội thoại cuối",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -369,13 +439,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoàn thành",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -383,12 +458,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",

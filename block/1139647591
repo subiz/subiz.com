@@ -10,7 +10,7 @@
   "source_id": "1139647591",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,21 +24,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -52,12 +42,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -66,8 +51,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kết nối cùng lúc hàng nghìn Fanpage vào Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kết nối cùng lúc hàng nghìn Fanpage vào Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -75,8 +65,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời tất cả bình luận bài viết và chat messenger trên 1 màn hình làm việc"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời tất cả bình luận bài viết và chat messenger trên 1 màn hình làm việc"
+                    }
+                  ]
                 }
               ]
             },
@@ -84,8 +79,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động hóa trả lời bình luận, like, ẩn, gửi inbox messenger"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động hóa trả lời bình luận, like, ẩn, gửi inbox messenger"
+                    }
+                  ]
                 }
               ]
             },
@@ -93,8 +93,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bot 24/7 tự động trả lời chat messenger"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bot 24/7 tự động trả lời chat messenger"
+                    }
+                  ]
                 }
               ]
             },
@@ -102,8 +107,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Rule tự động hóa phân luồng khách giao cho nhân viên phụ trách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rule tự động hóa phân luồng khách giao cho nhân viên phụ trách"
+                    }
+                  ]
                 }
               ]
             },
@@ -111,8 +121,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thu thập và lưu trữ thông tin khách hàng có hệ thống"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thu thập và lưu trữ thông tin khách hàng có hệ thống"
+                    }
+                  ]
                 }
               ]
             },
@@ -120,8 +135,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mẫu tin nhắn trả lời nhanh cho khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mẫu tin nhắn trả lời nhanh cho khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -129,8 +149,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tag phân loại hội thoại của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tag phân loại hội thoại của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -138,8 +163,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thống kê chi tiết số lượng khách hàng và doanh số"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thống kê chi tiết số lượng khách hàng và doanh số"
+                    }
+                  ]
                 }
               ]
             }
@@ -147,12 +177,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -172,7 +197,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn tích hợp Fanpage "
+              "text": "Hướng dẫn tích hợp Fanpage"
             }
           ]
         },
@@ -183,15 +208,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Đăng nhập Subiz qua đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -199,8 +229,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Mở trang Cài đặt "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -208,15 +243,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/messenger",
-                  "title": "Tích hợp Facebook",
-                  "text": "Tích hợp Facebook",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/messenger",
+                      "title": "Tích hợp Facebook",
+                      "text": "Tích hợp Facebook",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -224,8 +264,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Nhấp chọn nút Thêm Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Nhấp chọn nút Thêm Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -233,8 +278,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 5: Đăng nhập vào tài khoản Facebook của Admin, và tiếp tục đồng ý cấp quyền cho Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 5: Đăng nhập vào tài khoản Facebook của Admin, và tiếp tục đồng ý cấp quyền cho Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -242,8 +292,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 6: Subiz hiện cửa sổ để chọn Fanpage muốn thêm vào Subiz, nhấp chọn và bấm Hoàn thành là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 6: Subiz hiện cửa sổ để chọn Fanpage muốn thêm vào Subiz, nhấp chọn và bấm Hoàn thành là xong"
+                    }
+                  ]
                 }
               ]
             },
@@ -251,11 +306,16 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://www.youtube.com/watch?v=XkAFJFvsUbA",
-                  "title": "XEM VIDEO TÍCH HỢP FANPAGE",
-                  "text": "XEM VIDEO TÍCH HỢP FANPAGE",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://www.youtube.com/watch?v=XkAFJFvsUbA",
+                      "title": "XEM VIDEO TÍCH HỢP FANPAGE",
+                      "text": "XEM VIDEO TÍCH HỢP FANPAGE",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             }
@@ -263,12 +323,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -308,12 +363,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: "
-                },
-                {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -321,19 +381,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/messenger",
-                  "title": "Tích hợp Facebook",
-                  "text": "Tích hợp Facebook",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/messenger",
+                      "title": "Tích hợp Facebook",
+                      "text": "Tích hợp Facebook",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -341,8 +402,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Nhấp chọn nút Thêm Fanpage"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Nhấp chọn nút Thêm Fanpage"
+                    }
+                  ]
                 }
               ]
             },
@@ -350,8 +416,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Đăng nhập vào tài khoản Facebook của Admin"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Đăng nhập vào tài khoản Facebook của Admin"
+                    }
+                  ]
                 }
               ]
             },
@@ -359,8 +430,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 5: Chọn nút “Chỉnh sửa các cài đặt trước đây”. Bước quan trọng nhất cần lưu ý."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 5: Chọn nút “Chỉnh sửa các cài đặt trước đây”. Bước quan trọng nhất cần lưu ý."
+                    }
+                  ]
                 }
               ]
             },
@@ -368,8 +444,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 6: Làm tiếp các bước cấp quyền và chọn các Fanpage muốn thêm vào Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 6: Làm tiếp các bước cấp quyền và chọn các Fanpage muốn thêm vào Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -377,12 +458,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -398,57 +474,27 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

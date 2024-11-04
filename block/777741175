@@ -10,7 +10,7 @@
   "source_id": "777741175",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -37,7 +37,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hồ sơ khách hàng là danh sách các thông tin mô tả đặc điểm của khách hàng, giúp doanh nghiệp thấu hiểu khách hàng hơn và chăm sóc bán hàng phù hợp. Hồ sơ khách hàng sẽ bao gồm các thông tin: "
+              "text": "Hồ sơ khách hàng là danh sách các thông tin mô tả đặc điểm của khách hàng, giúp doanh nghiệp thấu hiểu khách hàng hơn và chăm sóc bán hàng phù hợp. Hồ sơ khách hàng sẽ bao gồm các thông tin:"
             }
           ]
         },
@@ -48,8 +48,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông tin nhân khẩu học như họ tên, số điện thoại, email, địa chỉ,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông tin nhân khẩu học như họ tên, số điện thoại, email, địa chỉ,..."
+                    }
+                  ]
                 }
               ]
             }
@@ -62,8 +67,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mối quan tâm của khách, Sở thích,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mối quan tâm của khách, Sở thích,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -71,8 +81,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lịch sử tương tác như xem trang web, nhắn tin, gọi điện,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lịch sử tương tác như xem trang web, nhắn tin, gọi điện,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -80,8 +95,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Và nhiều thông tin khác liên quan đến khách hàng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Và nhiều thông tin khác liên quan đến khách hàng."
+                    }
+                  ]
                 }
               ]
             }
@@ -89,12 +109,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -107,12 +122,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -125,12 +135,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -146,12 +151,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -164,30 +164,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -203,12 +188,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -221,12 +201,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -242,12 +217,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -270,19 +240,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn tạo thêm thông tin khách hàng: "
+              "text": "Hướng dẫn tạo thêm thông tin khách hàng:"
             }
           ]
         },
@@ -293,8 +258,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -302,19 +272,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/user-attributes",
-                  "title": "Trường thông tin",
-                  "text": "Trường thông tin",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/user-attributes",
+                      "title": "Trường thông tin",
+                      "text": "Trường thông tin",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -322,8 +293,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -331,8 +307,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập tiêu đề thông tin và định dạng thông tin tương ứng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập tiêu đề thông tin và định dạng thông tin tương ứng"
+                    }
+                  ]
                 }
               ]
             }
@@ -340,12 +321,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -358,12 +334,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -379,12 +350,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -402,8 +368,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "văn bản để nhập tự do"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "văn bản để nhập tự do"
+                    }
+                  ]
                 }
               ]
             },
@@ -411,8 +382,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "dạng danh sách chỉ chọn 1 tùy chọn có sẵn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "dạng danh sách chỉ chọn 1 tùy chọn có sẵn"
+                    }
+                  ]
                 }
               ]
             },
@@ -420,8 +396,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "danh sách sổ xuống"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "danh sách sổ xuống"
+                    }
+                  ]
                 }
               ]
             },
@@ -429,8 +410,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "danh sách tích chọn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "danh sách tích chọn"
+                    }
+                  ]
                 }
               ]
             },
@@ -438,8 +424,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "dạng ngày giờ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "dạng ngày giờ"
+                    }
+                  ]
                 }
               ]
             }
@@ -447,12 +438,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -487,12 +473,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -510,12 +491,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở khách hàng bất kỳ, xem cột "
-                },
-                {
-                  "type": "text",
-                  "text": "hồ sơ khách hàng ở bên phải màn hình "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở khách hàng bất kỳ, xem cột"
+                    },
+                    {
+                      "type": "text",
+                      "text": "hồ sơ khách hàng ở bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -523,12 +509,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "C"
-                },
-                {
-                  "type": "text",
-                  "text": "họn nút Hiển thị thêm"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "C"
+                    },
+                    {
+                      "type": "text",
+                      "text": "họn nút Hiển thị thêm"
+                    }
+                  ]
                 }
               ]
             },
@@ -536,8 +527,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm thông tin khách hàng cần hiển thị"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm thông tin khách hàng cần hiển thị"
+                    }
+                  ]
                 }
               ]
             },
@@ -545,17 +541,22 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tích chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hiển thị",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Lưu thay đổi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tích chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hiển thị",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Lưu thay đổi"
+                    }
+                  ]
                 }
               ]
             }
@@ -563,19 +564,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt 1 lần và áp dụng cho tất cả khách hàng. "
+              "text": "Cài đặt 1 lần và áp dụng cho tất cả khách hàng."
             },
             {
               "type": "link",
@@ -588,12 +584,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -644,10 +635,6 @@
               "text": "Trả lời: Subiz có hỗ trợ nhiều công cụ tự động thu thập thông tin như bảng hỏi trên cửa sổ chat, bot nhắn tin, popup bảng hỏi."
             },
             {
-              "type": "text",
-              "text": " "
-            },
-            {
               "type": "link",
               "href": "https://subiz.com.vn/docs/1385334016-tu-dong-hoa-chuyen-%C4%91oi-khach-hang",
               "title": "Xem hướng dẫn cài đặt",
@@ -662,12 +649,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -683,22 +665,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Trả lời: Có. Khách hàng gửi tin nhắn có chứa SĐT hoặc Email thì Subiz tự động lưu vào hồ sơ khách hàng."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Trả lời: Có. Khách hàng gửi tin nhắn có chứa SĐT hoặc Email thì Subiz tự động lưu vào hồ sơ khách hàng."
             },
             {
               "type": "image",
@@ -724,7 +692,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: "
+              "text": "Trả lời:"
             }
           ]
         },
@@ -735,15 +703,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bạn mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/lead",
-                  "title": "Khách",
-                  "text": "Khách",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/lead",
+                      "title": "Khách",
+                      "text": "Khách",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -751,8 +724,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm nút Khác ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm nút Khác ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -760,8 +738,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tải xuống toàn bộ khách "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tải xuống toàn bộ khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -805,8 +788,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1: Tải file khách lên Google drive, sau đó chọn mở bằng Google Trang tính (Google sheet)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Tải file khách lên Google drive, sau đó chọn mở bằng Google Trang tính (Google sheet)"
+                    }
+                  ]
                 }
               ]
             }
@@ -814,12 +802,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -840,27 +823,28 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Chuyển file định dạng .csv sang định dạng excel. Hướng dẫn: "
-                },
-                {
-                  "type": "text",
-                  "text": "Mở 1 file excel mới > chọn menu Data > From Text > Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên,"
-                },
-                {
-                  "type": "text",
-                  "text": " "
-                },
-                {
-                  "type": "link",
-                  "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
-                  "title": "xem video hướng dẫn đọc file .csv",
-                  "text": "xem video hướng dẫn đọc file .csv",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Chuyển file định dạng .csv sang định dạng excel. Hướng dẫn:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mở 1 file excel mới > chọn menu Data > From Text > Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
+                      "title": "xem video hướng dẫn đọc file .csv",
+                      "text": "xem video hướng dẫn đọc file .csv",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -868,12 +852,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -890,18 +869,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Bạn biết được nguồn khách từ quảng cáo Google Ads bằng cách mở 1 khách hàng bất kỳ và xem cột hồ sơ khách ở bên phải màn hình, tại mục “Phiên truy cập” hiện nguồn truy cập là “Advertising”. "
+              "text": "Trả lời: Bạn biết được nguồn khách từ quảng cáo Google Ads bằng cách mở 1 khách hàng bất kỳ và xem cột hồ sơ khách ở bên phải màn hình, tại mục “Phiên truy cập” hiện nguồn truy cập là “Advertising”."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -926,12 +900,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -952,7 +921,7 @@
             },
             {
               "type": "text",
-              "text": ". "
+              "text": "."
             }
           ]
         },
@@ -983,7 +952,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách: "
+              "text": "Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách:"
             }
           ]
         },
@@ -994,8 +963,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở 1 khách hàng bất kỳ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở 1 khách hàng bất kỳ"
+                    }
+                  ]
                 }
               ]
             },
@@ -1003,8 +977,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột hồ sơ khách ở bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột hồ sơ khách ở bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1012,8 +991,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP"
+                    }
+                  ]
                 }
               ]
             }
@@ -1021,12 +1005,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1070,19 +1049,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Cách 1: Chặn thủ công từng khách. ",
+              "text": "Cách 1: Chặn thủ công từng khách.",
               "bold": true
             }
           ]
@@ -1094,8 +1068,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở khách spam"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở khách spam"
+                    }
+                  ]
                 }
               ]
             },
@@ -1103,8 +1082,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột hồ sơ khách hàng ở bên phải màn hình, dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột hồ sơ khách hàng ở bên phải màn hình, dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng."
+                    }
+                  ]
                 }
               ]
             }
@@ -1114,29 +1098,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/d978ad5f1f0c984a6fb0c6389173dcfe5a3b65b1c7615fc14a8305200e00b06e_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -1152,12 +1118,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -1166,8 +1127,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -1175,8 +1141,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng Danh sách chặn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng Danh sách chặn"
+                    }
+                  ]
                 }
               ]
             },
@@ -1184,8 +1155,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn chặn theo IP hoặc SĐT hoặc Email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn chặn theo IP hoặc SĐT hoặc Email"
+                    }
+                  ]
                 }
               ]
             },
@@ -1193,8 +1169,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập thông tin tương ứng và bấm lưu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập thông tin tương ứng và bấm lưu"
+                    }
+                  ]
                 }
               ]
             }
@@ -1202,12 +1183,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1223,12 +1199,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1245,18 +1216,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Agent làm việc trên Subiz sẽ không nhận tin nhắn mới từ khách đã chặn và khách trên website sẽ không nhìn thấy cửa sổ chat Subiz. "
+              "text": "Trả lời: Agent làm việc trên Subiz sẽ không nhận tin nhắn mới từ khách đã chặn và khách trên website sẽ không nhìn thấy cửa sổ chat Subiz."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1282,7 +1248,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Bạn tìm lại hội thoại do chặn khách bằng cách chọn “NÚT LỌC” ở cột Hội thoại tại trang "
+              "text": "Trả lời: Bạn tìm lại hội thoại do chặn khách bằng cách chọn “NÚT LỌC” ở cột Hội thoại tại trang"
             },
             {
               "type": "link",
@@ -1293,7 +1259,7 @@
             },
             {
               "type": "text",
-              "text": " > chọn “Hội thoại spam”"
+              "text": "> chọn “Hội thoại spam”"
             }
           ]
         },
@@ -1311,21 +1277,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1351,7 +1307,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách 1: Nhập thủ công từng khách ",
+              "text": "Cách 1: Nhập thủ công từng khách",
               "bold": true
             }
           ]
@@ -1363,8 +1319,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Vào trang Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -1372,8 +1333,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn nút Thêm Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn nút Thêm Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -1381,8 +1347,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điền các thông tin của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điền các thông tin của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -1390,12 +1361,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1411,12 +1377,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1434,8 +1395,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Vào trang Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -1443,8 +1409,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp nút Khác ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp nút Khác ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1452,8 +1423,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tải lên khách từ file"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tải lên khách từ file"
+                    }
+                  ]
                 }
               ]
             }
@@ -1461,12 +1437,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1482,12 +1453,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -1496,19 +1462,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz. "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
-                  "title": "Xem cách thêm trường thông tin mới trên Subiz",
-                  "text": "Xem cách thêm trường thông tin mới trên Subiz",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz."
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
+                      "title": "Xem cách thêm trường thông tin mới trên Subiz",
+                      "text": "Xem cách thêm trường thông tin mới trên Subiz",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -1516,12 +1487,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",

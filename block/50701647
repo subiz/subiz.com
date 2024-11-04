@@ -10,7 +10,7 @@
   "source_id": "50701647",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -51,12 +46,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "table",
@@ -167,8 +157,8 @@
                         {
                           "type": "link",
                           "href": "https://app.subiz.com.vn/",
-                          "title": " https://app.subiz.com.vn/",
-                          "text": " https://app.subiz.com.vn/",
+                          "title": "https://app.subiz.com.vn/",
+                          "text": "https://app.subiz.com.vn/",
                           "target": "_blank"
                         }
                       ]
@@ -211,8 +201,8 @@
                         {
                           "type": "link",
                           "href": "https://app.subiz.com.vn/register",
-                          "title": " https://app.subiz.com.vn/register",
-                          "text": " https://app.subiz.com.vn/register",
+                          "title": "https://app.subiz.com.vn/register",
+                          "text": "https://app.subiz.com.vn/register",
                           "target": "_blank"
                         }
                       ]
@@ -236,7 +226,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " cá nhân agent"
+                          "text": "cá nhân agent"
                         }
                       ]
                     }
@@ -280,7 +270,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " Subiz lên website"
+                          "text": "Subiz lên website"
                         }
                       ]
                     }
@@ -303,7 +293,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " tin nhắn mới"
+                          "text": "tin nhắn mới"
                         }
                       ]
                     }
@@ -340,7 +330,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Kết nối các kênh khác nếu có: "
+                          "text": "Kết nối các kênh khác nếu có:"
                         },
                         {
                           "type": "link",
@@ -351,7 +341,7 @@
                         },
                         {
                           "type": "text",
-                          "text": ", "
+                          "text": ","
                         },
                         {
                           "type": "link",
@@ -362,7 +352,7 @@
                         },
                         {
                           "type": "text",
-                          "text": ", "
+                          "text": ","
                         },
                         {
                           "type": "link",
@@ -373,7 +363,7 @@
                         },
                         {
                           "type": "text",
-                          "text": ", "
+                          "text": ","
                         },
                         {
                           "type": "link",
@@ -403,7 +393,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " tư vấn khách hàng"
+                          "text": "tư vấn khách hàng"
                         }
                       ]
                     }
@@ -440,7 +430,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Trải nghiệm "
+                          "text": "Trải nghiệm"
                         },
                         {
                           "type": "link",
@@ -463,7 +453,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Xem "
+                          "text": "Xem"
                         },
                         {
                           "type": "link",
@@ -514,7 +504,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " chào đón và thu hút khách"
+                          "text": "chào đón và thu hút khách"
                         }
                       ]
                     }
@@ -530,7 +520,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Trả lời nhanh khách hàng bằng cách dùng "
+                          "text": "Trả lời nhanh khách hàng bằng cách dùng"
                         },
                         {
                           "type": "link",
@@ -581,7 +571,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " vào Subiz làm việc"
+                          "text": "vào Subiz làm việc"
                         }
                       ]
                     }
@@ -604,7 +594,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " phân loại yêu cầu hỗ trợ của khách"
+                          "text": "phân loại yêu cầu hỗ trợ của khách"
                         }
                       ]
                     }
@@ -648,7 +638,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " chia chat của khách hàng cho agent phụ trách"
+                          "text": "chia chat của khách hàng cho agent phụ trách"
                         }
                       ]
                     }
@@ -664,7 +654,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Quản lý "
+                          "text": "Quản lý"
                         },
                         {
                           "type": "link",
@@ -708,7 +698,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Đào tạo agent "
+                          "text": "Đào tạo agent"
                         },
                         {
                           "type": "link",
@@ -719,7 +709,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " khách hàng online"
+                          "text": "khách hàng online"
                         }
                       ]
                     }
@@ -735,7 +725,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Chủ động tiếp cận "
+                          "text": "Chủ động tiếp cận"
                         },
                         {
                           "type": "link",
@@ -779,7 +769,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Sử dụng "
+                          "text": "Sử dụng"
                         },
                         {
                           "type": "link",
@@ -790,7 +780,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " và thu thập thông tin khách trên website"
+                          "text": "và thu thập thông tin khách trên website"
                         }
                       ]
                     }
@@ -806,7 +796,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Sử dụng app mobile Subiz: "
+                          "text": "Sử dụng app mobile Subiz:"
                         },
                         {
                           "type": "link",
@@ -817,7 +807,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "/ "
+                          "text": "/"
                         },
                         {
                           "type": "link",
@@ -861,7 +851,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Quản lý danh sách "
+                          "text": "Quản lý danh sách"
                         },
                         {
                           "type": "link",
@@ -881,12 +871,7 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "content": []
                     }
                   ]
                 }
@@ -928,7 +913,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " hiệu quả tương tác khách hàng"
+                          "text": "hiệu quả tương tác khách hàng"
                         }
                       ]
                     }
@@ -941,12 +926,7 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "content": []
                     }
                   ]
                 }
@@ -956,12 +936,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",

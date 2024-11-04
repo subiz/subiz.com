@@ -1,16 +1,16 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "Quản lý kênh Google"
+    "vi_VN": "Quản lý kênh Google Business Profile trên Subiz"
   },
   "i18n_slug": {
-    "vi_VN": "quan-ly-kenh-google"
+    "vi_VN": "quan-ly-kenh-google-business-profile-tren-subiz"
   },
   "category": "5",
   "source_id": "984010358",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -18,16 +18,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Quản lý kênh Google"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
+              "text": "Quản lý kênh Google Business Profile trên Subiz"
             }
           ]
         },
@@ -52,12 +43,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -70,12 +56,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -119,12 +100,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -173,8 +149,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz > Mở Cài đặt "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz > Mở Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -182,19 +163,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/google-review",
-                  "title": "Tích hợp Google",
-                  "text": "Tích hợp Google",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " > Chọn Tích hợp location "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/google-review",
+                      "title": "Tích hợp Google",
+                      "text": "Tích hợp Google",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn Tích hợp location"
+                    }
+                  ]
                 }
               ]
             },
@@ -202,8 +188,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập email quản lý Trang Doanh nghiệp trên Google > Chọn Cho phép Subiz thực hiện các việc quản lý "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập email quản lý Trang Doanh nghiệp trên Google > Chọn Cho phép Subiz thực hiện các việc quản lý"
+                    }
+                  ]
                 }
               ]
             }
@@ -223,12 +214,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -241,12 +227,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -262,12 +243,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -281,12 +257,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -322,7 +293,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Bạn có thể tùy chọn nhận hoặc không nhận tin nhắn Google vào Subiz bằng cách "
+              "text": "Trả lời: Bạn có thể tùy chọn nhận hoặc không nhận tin nhắn Google vào Subiz bằng cách"
             },
             {
               "type": "link",
@@ -333,11 +304,7 @@
             },
             {
               "type": "text",
-              "text": " > Bật ON hoặc tắt OFF loại tin nhắn Google muốn nhận về Subiz > Lưu cài đặt"
-            },
-            {
-              "type": "text",
-              "text": " "
+              "text": "> Bật ON hoặc tắt OFF loại tin nhắn Google muốn nhận về Subiz > Lưu cài đặt"
             },
             {
               "type": "image",
@@ -360,19 +327,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Bạn sẽ cài đặt Rule phân phối để tự động phân luồng tin nhắn từ kênh Google cho agent phụ trách, "
+              "text": "Trả lời: Bạn sẽ cài đặt Rule phân phối để tự động phân luồng tin nhắn từ kênh Google cho agent phụ trách,"
             },
             {
               "type": "link",
@@ -395,30 +357,20 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Vì bài viết đánh giá sẽ trải qua giai đoạn kiểm duyệt của Google nên bài viết đánh giá chỉ được chuyển về Subiz sau khi Google duyệt xong. "
+              "text": "Trả lời: Vì bài viết đánh giá sẽ trải qua giai đoạn kiểm duyệt của Google nên bài viết đánh giá chỉ được chuyển về Subiz sau khi Google duyệt xong."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -432,12 +384,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -455,8 +402,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đưa đường liên kết vào email cảm ơn."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đưa đường liên kết vào email cảm ơn."
+                    }
+                  ]
                 }
               ]
             },
@@ -464,8 +416,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm đường liên kết vào cuối cuộc trò chuyện."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm đường liên kết vào cuối cuộc trò chuyện."
+                    }
+                  ]
                 }
               ]
             },
@@ -473,8 +430,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm đường liên kết vào thông báo xác nhận."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm đường liên kết vào thông báo xác nhận."
+                    }
+                  ]
                 }
               ]
             }
@@ -482,12 +444,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -505,8 +462,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Chuyển đến Trang doanh nghiệp của bạn. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Chuyển đến Trang doanh nghiệp của bạn."
+                    }
+                  ]
                 }
               ]
             },
@@ -514,8 +476,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Cách tìm đường liên kết đến bài đánh giá của bạn:"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Cách tìm đường liên kết đến bài đánh giá của bạn:"
+                    }
+                  ]
                 }
               ]
             }
@@ -528,8 +495,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đối với Google Tìm kiếm, hãy chọn Yêu cầu đánh giá."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đối với Google Tìm kiếm, hãy chọn Yêu cầu đánh giá."
+                    }
+                  ]
                 }
               ]
             },
@@ -537,8 +509,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đối với Google Maps, hãy chọn Khách hàng > Bài đánh giá > Tăng số lượng bài đánh giá."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đối với Google Maps, hãy chọn Khách hàng > Bài đánh giá > Tăng số lượng bài đánh giá."
+                    }
+                  ]
                 }
               ]
             }
@@ -551,8 +528,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Chia sẻ trực tiếp đường liên kết này với khách hàng hoặc sử dụng các chế độ chia sẻ được cung cấp."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Chia sẻ trực tiếp đường liên kết này với khách hàng hoặc sử dụng các chế độ chia sẻ được cung cấp."
+                    }
+                  ]
                 }
               ]
             }
@@ -572,12 +554,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -605,24 +582,29 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lịch sự và không xúc phạm",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Câu trả lời của bạn phải hữu ích, dễ hiểu và lịch sự. Giống như bài đánh giá, câu trả lời cũng phải tuân thủ chính sách của chúng tôi. "
-                },
-                {
-                  "type": "link",
-                  "href": "https://support.google.com/contributionpolicy/answer/7400114",
-                  "title": "Tìm hiểu thêm về nội dung được đóng góp",
-                  "text": "Tìm hiểu thêm về nội dung được đóng góp",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lịch sự và không xúc phạm",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Câu trả lời của bạn phải hữu ích, dễ hiểu và lịch sự. Giống như bài đánh giá, câu trả lời cũng phải tuân thủ chính sách của chúng tôi."
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://support.google.com/contributionpolicy/answer/7400114",
+                      "title": "Tìm hiểu thêm về nội dung được đóng góp",
+                      "text": "Tìm hiểu thêm về nội dung được đóng góp",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -630,13 +612,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời ngắn gọn và dễ nghe",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Người dùng muốn có câu trả lời hữu ích và trung thực, nhưng những câu trả lời dài có thể dễ dàng khiến họ ngừng đọc."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời ngắn gọn và dễ nghe",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Người dùng muốn có câu trả lời hữu ích và trung thực, nhưng những câu trả lời dài có thể dễ dàng khiến họ ngừng đọc."
+                    }
+                  ]
                 }
               ]
             },
@@ -644,13 +631,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cảm ơn người đánh giá",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Trả lời những bài đánh giá tích cực khi bạn có tin tức mới hoặc thông tin liên quan muốn chia sẻ. Bạn không cần phải công khai cảm ơn tất cả những người đánh giá vì mỗi câu trả lời sẽ tiếp cận được nhiều khách hàng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cảm ơn người đánh giá",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Trả lời những bài đánh giá tích cực khi bạn có tin tức mới hoặc thông tin liên quan muốn chia sẻ. Bạn không cần phải công khai cảm ơn tất cả những người đánh giá vì mỗi câu trả lời sẽ tiếp cận được nhiều khách hàng."
+                    }
+                  ]
                 }
               ]
             },
@@ -658,13 +650,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hãy là một người bạn, chứ không phải là người bán hàng",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Những người đánh giá đã là khách hàng của bạn, vì vậy, bạn không cần phải thuyết phục họ bằng các ưu đãi hay quảng cáo. Thay vào đó, bạn có thể cung cấp cho người đánh giá những thông tin mới mẻ về doanh nghiệp của bạn hoặc chia sẻ điều mà họ có thể chưa biết trong lần ghé thăm đầu tiên."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hãy là một người bạn, chứ không phải là người bán hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Những người đánh giá đã là khách hàng của bạn, vì vậy, bạn không cần phải thuyết phục họ bằng các ưu đãi hay quảng cáo. Thay vào đó, bạn có thể cung cấp cho người đánh giá những thông tin mới mẻ về doanh nghiệp của bạn hoặc chia sẻ điều mà họ có thể chưa biết trong lần ghé thăm đầu tiên."
+                    }
+                  ]
                 }
               ]
             }
@@ -684,93 +681,43 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": " "
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

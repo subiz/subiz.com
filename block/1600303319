@@ -10,7 +10,7 @@
   "source_id": "1600303319",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -50,7 +45,7 @@
             },
             {
               "type": "text",
-              "text": " “Gộp khách hàng” xuyên kênh."
+              "text": "“Gộp khách hàng” xuyên kênh."
             }
           ]
         },
@@ -81,7 +76,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Khi người dùng 1 nhắn tin qua website và cung cấp số điện thoại, sẽ tạo thành thành khách A trên Subiz . Sau đó, người dùng 2 nhắn tin qua Zalo và cũng cho số điện thoại, sẽ tạo thành khách B trên Subiz. "
+              "text": "Khi người dùng 1 nhắn tin qua website và cung cấp số điện thoại, sẽ tạo thành thành khách A trên Subiz . Sau đó, người dùng 2 nhắn tin qua Zalo và cũng cho số điện thoại, sẽ tạo thành khách B trên Subiz."
             }
           ]
         },
@@ -120,8 +115,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trường số điện thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trường số điện thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -129,8 +129,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trường địa chỉ email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trường địa chỉ email"
+                    }
+                  ]
                 }
               ]
             },
@@ -138,8 +143,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mã khách hàng (mã khách hàng trên hệ thống riêng của doanh nghiệp)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mã khách hàng (mã khách hàng trên hệ thống riêng của doanh nghiệp)"
+                    }
+                  ]
                 }
               ]
             }
@@ -150,7 +160,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Mỗi giá trị của trường dữ liệu trên được gọi là một "
+              "text": "Mỗi giá trị của trường dữ liệu trên được gọi là một"
             },
             {
               "type": "text",
@@ -210,8 +220,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng khách hàng giảm do gộp nhiều hồ sơ khách hàng có cùng số điện thoại hoặc email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng khách hàng giảm do gộp nhiều hồ sơ khách hàng có cùng số điện thoại hoặc email"
+                    }
+                  ]
                 }
               ]
             },
@@ -219,8 +234,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Các trường thông tin khách sẽ tự động gộp chung"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Các trường thông tin khách sẽ tự động gộp chung"
+                    }
+                  ]
                 }
               ]
             },
@@ -228,8 +248,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lịch sử hội thoại của khách sẽ hiển thị đa kênh"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lịch sử hội thoại của khách sẽ hiển thị đa kênh"
+                    }
+                  ]
                 }
               ]
             },
@@ -237,8 +262,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Ghi chú khách được gộp chung"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ghi chú khách được gộp chung"
+                    }
+                  ]
                 }
               ]
             },
@@ -246,8 +276,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đơn hàng được gộp chung"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đơn hàng được gộp chung"
+                    }
+                  ]
                 }
               ]
             }
@@ -296,12 +331,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -317,12 +347,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -350,8 +375,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút hồ sơ khách bên phải tên khách hàng "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút hồ sơ khách bên phải tên khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -359,8 +389,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại cửa sổ “HỒ SƠ KHÁCH”, bạn chọn “Xóa khỏi hồ sơ này”"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại cửa sổ “HỒ SƠ KHÁCH”, bạn chọn “Xóa khỏi hồ sơ này”"
+                    }
+                  ]
                 }
               ]
             }
@@ -368,12 +403,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -389,57 +419,27 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

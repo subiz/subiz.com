@@ -72,9 +72,15 @@ async function fetchGoogleTree() {
 			p = fileP.parents[0]
 		}
 		file.path_lower = path_lowers.join('') + '/' + sluggy(file.name)
+		if (file.path_lower.startsWith('/Tài Liệu')) return
+		if (file.path_lower.startsWith('/Subiz.')) return
+
 		onlyFiles.push(file)
 	})
 
+		console.log("FFFFFFFFFFF", onlyFiles)
+
+		
 	return onlyFiles
 }
 
@@ -145,6 +151,8 @@ async function main() {
 
 	let docM = {}
 	lo.map(hot, (entry) => {
+		if (entry.path_lower.startsWith('/Tài Liệu')) return
+		if (entry.path_lower.startsWith('/Subiz.')) return
 		let out = extractFilename(entry)
 		let pathlowers = entry.path_lower.split('/')
 		pathlowers.pop() // remove file name
@@ -177,8 +185,10 @@ async function main() {
 				}
 
 				let data = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
+
 				let markdown = await html2md(data, docM)
 				let block = await html2Block(data, docM)
+				fs.writeFileSync('./raw/' + entry.id + '.html', data, {encoding: 'utf8'})
 				blockM[entry.id] = block
 				entry.block = block
 				fs.writeFileSync('./data' + entry.path_lower, markdown, {encoding: 'utf8'})
@@ -196,6 +206,7 @@ async function main() {
 
 	console.log('[5/4] copy to docs')
 	fs.rmSync('./docs', {recursive: true, force: true})
+	fs.rmSync('./trainingdocs', {recursive: true, force: true})
 	fs.rmSync('./i18n/en/docusaurus-plugin-content-docs/current', {recursive: true, force: true})
 
 	let vnfilemap = {}
@@ -278,6 +289,7 @@ last_update:
 			i18n_content: {vi_VN: blockM[entry.id]},
 		}
 		fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
+		fs.writeFileSync('./trainingdata/' + hashCode(entry.id) + '-' + sluggy(title) + '.md', data, {encoding: 'utf8'})
 
 		// auto gen index directory
 		let categoryIndex = genFolderIndex(categoryPath, docM)

@@ -10,7 +10,7 @@
   "source_id": "628554948",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -64,7 +59,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn quản lý được danh sách tất cả agent trên Subiz tại trang "
+              "text": "Bạn quản lý được danh sách tất cả agent trên Subiz tại trang"
             },
             {
               "type": "link",
@@ -144,8 +139,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -153,15 +153,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột chức năng bên trái màn hình, tìm "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "chức năng Agent",
-                  "text": "chức năng Agent",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột chức năng bên trái màn hình, tìm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "chức năng Agent",
+                      "text": "chức năng Agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -169,8 +174,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Mời agent"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Mời agent"
+                    }
+                  ]
                 }
               ]
             },
@@ -183,15 +193,6 @@
                     {
                       "type": "text",
                       "text": "Nhập địa chỉ email của agent mới và chọn Phân quyền cho agent"
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 }
@@ -218,8 +219,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent được mời sẽ nhận một email mời tham gia từ Subiz hoặc bạn gửi đường link cho agent tham gia vào Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent được mời sẽ nhận một email mời tham gia từ Subiz hoặc bạn gửi đường link cho agent tham gia vào Subiz."
+                    }
+                  ]
                 }
               ]
             },
@@ -227,8 +233,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent được mời sẽ tự nhập email và mật khẩu đăng nhập Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent được mời sẽ tự nhập email và mật khẩu đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -261,7 +272,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Phân quyền agent "
+              "text": "Phân quyền agent"
             },
             {
               "type": "text",
@@ -271,12 +282,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -294,13 +300,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chủ sở hữu",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Tất cả quyền gồm cài đặt chức năng, thanh toán, quản lý toàn bộ khách, toàn bộ hội thoại, toàn bộ đơn hàng. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chủ sở hữu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tất cả quyền gồm cài đặt chức năng, thanh toán, quản lý toàn bộ khách, toàn bộ hội thoại, toàn bộ đơn hàng."
+                    }
+                  ]
                 }
               ]
             },
@@ -308,13 +319,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quản lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bao gồm quyền cài đặt chức năng, quản lý toàn bộ khách, toàn bộ hội thoại, toàn bộ đơn hàng. Trừ quyền Thanh toán."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quản lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bao gồm quyền cài đặt chức năng, quản lý toàn bộ khách, toàn bộ hội thoại, toàn bộ đơn hàng. Trừ quyền Thanh toán."
+                    }
+                  ]
                 }
               ]
             },
@@ -322,13 +338,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Chỉ có quyền xem khách hàng được giao, xem hội thoại được giao, xem đơn hàng được giao cho mình."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Chỉ có quyền xem khách hàng được giao, xem hội thoại được giao, xem đơn hàng được giao cho mình."
+                    }
+                  ]
                 }
               ]
             }
@@ -336,12 +357,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -357,19 +373,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Đồng thời, bạn có thể chỉnh sửa riêng quyền sử dụng từng chức năng Subiz cho mỗi agent. "
+              "text": "Đồng thời, bạn có thể chỉnh sửa riêng quyền sử dụng từng chức năng Subiz cho mỗi agent."
             }
           ]
         },
@@ -384,12 +395,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -429,13 +435,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Active",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Agent được phép đăng nhập vào Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Active",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Agent được phép đăng nhập vào Subiz."
+                    }
+                  ]
                 }
               ]
             },
@@ -443,13 +454,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Inactive",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Agent không được phép đăng nhập vào Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inactive",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Agent không được phép đăng nhập vào Subiz."
+                    }
+                  ]
                 }
               ]
             }
@@ -460,7 +476,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn chỉnh sửa trạng thái agent: "
+              "text": "Hướng dẫn chỉnh sửa trạng thái agent:"
             }
           ]
         },
@@ -471,20 +487,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Vào trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "Cài đặt agent",
-                  "text": "Cài đặt agent",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "Cài đặt agent",
+                      "text": "Cài đặt agent",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -492,8 +509,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "chọn Chỉnh sửa agent"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "chọn Chỉnh sửa agent"
+                    }
+                  ]
                 }
               ]
             },
@@ -501,8 +523,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm mục Đổi trạng thái hoạt động - bật ON hoặc tắt OFF "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm mục Đổi trạng thái hoạt động - bật ON hoặc tắt OFF"
+                    }
+                  ]
                 }
               ]
             }
@@ -532,12 +559,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -550,12 +572,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -578,8 +595,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -587,19 +609,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents-group",
-                  "title": "Nhóm agent",
-                  "text": "Nhóm agent",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents-group",
+                      "title": "Nhóm agent",
+                      "text": "Nhóm agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -607,8 +630,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo nhóm"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo nhóm"
+                    }
+                  ]
                 }
               ]
             },
@@ -616,8 +644,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt tên nhóm và nhấp dấu + thêm thành viên agent"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên nhóm và nhấp dấu + thêm thành viên agent"
+                    }
+                  ]
                 }
               ]
             },
@@ -625,8 +658,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -689,15 +727,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz trên máy tính, đường link là "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz trên máy tính, đường link là"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -705,8 +748,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điền email đăng nhập Subiz, bấm tiếp tục"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điền email đăng nhập Subiz, bấm tiếp tục"
+                    }
+                  ]
                 }
               ]
             },
@@ -714,8 +762,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp nút Quên mật khẩu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp nút Quên mật khẩu"
+                    }
+                  ]
                 }
               ]
             },
@@ -723,8 +776,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Làm tiếp các bước xác nhận đổi mật khẩu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Làm tiếp các bước xác nhận đổi mật khẩu"
+                    }
+                  ]
                 }
               ]
             }
@@ -732,12 +790,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -753,19 +806,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Gợi ý: Ngoài cách điền mật khẩu đăng nhập Subiz, agent có thể chọn cách "
+              "text": "Gợi ý: Ngoài cách điền mật khẩu đăng nhập Subiz, agent có thể chọn cách"
             },
             {
               "type": "text",
@@ -787,12 +835,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -815,12 +858,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -833,31 +871,8 @@
               }
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "Lưu ý: Bạn cần tắt OFF trạng thái hoạt động của agent cũ nếu agent không còn làm việc nữa."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Lưu ý: Bạn cần tắt OFF trạng thái hoạt động của agent cũ nếu agent không còn làm việc nữa."
             }
           ]
         },
@@ -890,7 +905,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             }
           ]
         },
@@ -901,15 +916,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "Cài đặt agent",
-                  "text": "Cài đặt agent",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "Cài đặt agent",
+                      "text": "Cài đặt agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -917,8 +937,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Chỉnh sửa "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Chỉnh sửa"
+                    }
+                  ]
                 }
               ]
             },
@@ -926,8 +951,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp vào ảnh đại diện để tải ảnh mới lên"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp vào ảnh đại diện để tải ảnh mới lên"
+                    }
+                  ]
                 }
               ]
             },
@@ -935,8 +965,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sửa Họ tên "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa Họ tên"
+                    }
+                  ]
                 }
               ]
             },
@@ -949,15 +984,6 @@
                     {
                       "type": "text",
                       "text": "Nhấp lưu cài đặt"
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
                     }
                   ]
                 }
@@ -975,7 +1001,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             }
           ]
         },
@@ -995,8 +1021,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp vào ảnh đại diện ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp vào ảnh đại diện ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1004,8 +1035,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Hồ sơ và tùy biến"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Hồ sơ và tùy biến"
+                    }
+                  ]
                 }
               ]
             },
@@ -1013,8 +1049,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sửa các thông tin cần thiết"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa các thông tin cần thiết"
+                    }
+                  ]
                 }
               ]
             },
@@ -1022,8 +1063,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1050,12 +1096,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -1064,16 +1105,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: "
-                },
-                {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz b"
-                },
-                {
-                  "type": "text",
-                  "text": "ằng email chủ sở hữu đang có"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz b"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ằng email chủ sở hữu đang có"
+                    }
+                  ]
                 }
               ]
             },
@@ -1081,15 +1127,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "Cài đặt agent",
-                  "text": "Cài đặt agent",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "Cài đặt agent",
+                      "text": "Cài đặt agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1097,8 +1148,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Chọn Mời agent, nhập vào địa chỉ email mới và chọn phân quyền Chủ sở hữu."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Chọn Mời agent, nhập vào địa chỉ email mới và chọn phân quyền Chủ sở hữu."
+                    }
+                  ]
                 }
               ]
             },
@@ -1106,25 +1162,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Thêm xong, bạn chọn"
-                },
-                {
-                  "type": "text",
-                  "text": " Chỉnh sửa"
-                },
-                {
-                  "type": "text",
-                  "text": " ",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": "agent mới"
-                },
-                {
-                  "type": "text",
-                  "text": "> Tìm mục Thay đổi chủ sở hữu và chọn Thay đổi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Thêm xong, bạn chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chỉnh sửa"
+                    },
+                    {
+                      "type": "text",
+                      "text": "agent mới"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Tìm mục Thay đổi chủ sở hữu và chọn Thay đổi"
+                    }
+                  ]
                 }
               ]
             },
@@ -1132,8 +1188,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu cài đặt là xong. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu cài đặt là xong."
+                    }
+                  ]
                 }
               ]
             }
@@ -1141,12 +1202,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1171,12 +1227,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1195,8 +1246,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -1204,16 +1260,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "Agent",
-                  "text": "Agent",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "Agent",
+                      "text": "Agent",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -1221,8 +1282,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn chỉnh sửa agent"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn chỉnh sửa agent"
+                    }
+                  ]
                 }
               ]
             },
@@ -1230,8 +1296,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm mục Xóa khỏi doanh nghiệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm mục Xóa khỏi doanh nghiệp"
+                    }
+                  ]
                 }
               ]
             },
@@ -1239,8 +1310,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu cài đặt là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu cài đặt là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1248,12 +1324,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1282,7 +1353,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Agent giám sát viên được nhận và tham gia trả lời tất cả hội thoại của khách hàng. Bạn cài đặt agent giám sát viên tại trang "
+              "text": "Trả lời: Agent giám sát viên được nhận và tham gia trả lời tất cả hội thoại của khách hàng. Bạn cài đặt agent giám sát viên tại trang"
             },
             {
               "type": "link",
@@ -1299,12 +1370,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1320,12 +1386,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": " "
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1342,18 +1403,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Trên trang Tin nhắn, Agent mới chỉ nhận được các hội thoại mới của khách từ thời điểm agent được thêm vào Subiz. "
+              "text": "Trả lời: Trên trang Tin nhắn, Agent mới chỉ nhận được các hội thoại mới của khách từ thời điểm agent được thêm vào Subiz."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1366,12 +1422,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1389,8 +1440,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Thống kê"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Thống kê"
+                    }
+                  ]
                 }
               ]
             },
@@ -1398,8 +1454,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Thống kê hội thoại "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Thống kê hội thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -1407,19 +1468,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/new-reports/convo-list",
-                  "title": "Danh sách hội thoại",
-                  "text": "Danh sách hội thoại",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " và xem chi tiết."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/new-reports/convo-list",
+                      "title": "Danh sách hội thoại",
+                      "text": "Danh sách hội thoại",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "và xem chi tiết."
+                    }
+                  ]
                 }
               ]
             }
@@ -1427,12 +1493,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1449,7 +1510,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Bạn sẽ cài đặt chức năng Rule phân phối để tự động lọc hội thoại của khách và giao cho agent trả lời chăm sóc khách. "
+              "text": "Trả lời: Bạn sẽ cài đặt chức năng Rule phân phối để tự động lọc hội thoại của khách và giao cho agent trả lời chăm sóc khách."
             },
             {
               "type": "link",
@@ -1494,8 +1555,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trên trang Subiz, nhấp vào ảnh đại diện ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trên trang Subiz, nhấp vào ảnh đại diện ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1503,15 +1569,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/agent",
-                  "title": "Hồ sơ và tùy biến",
-                  "text": "Hồ sơ và tùy biến",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/agent",
+                      "title": "Hồ sơ và tùy biến",
+                      "text": "Hồ sơ và tùy biến",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1519,8 +1590,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Thông tin cá nhân"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Thông tin cá nhân"
+                    }
+                  ]
                 }
               ]
             },
@@ -1528,8 +1604,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi mục Ngôn ngữ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi mục Ngôn ngữ"
+                    }
+                  ]
                 }
               ]
             }
@@ -1568,12 +1649,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1589,12 +1665,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1608,12 +1679,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1626,19 +1692,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Agent cần trao đổi lại cấp trên để thay đổi phân quyền cho mình được xem toàn bộ khách nếu cần. "
+              "text": "Agent cần trao đổi lại cấp trên để thay đổi phân quyền cho mình được xem toàn bộ khách nếu cần."
             },
             {
               "type": "link",
@@ -1651,12 +1712,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1672,30 +1728,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1703,7 +1744,7 @@
           "content": [
             {
               "type": "text",
-              "text": "CH12: Sự khác nhau giữa agent thành viên hội thoại và agent phụ trách khách hàng? "
+              "text": "CH12: Sự khác nhau giữa agent thành viên hội thoại và agent phụ trách khách hàng?"
             }
           ]
         },
@@ -1721,12 +1762,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "table",
@@ -1885,7 +1921,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Quản lý quan hệ khách hàng "
+                          "text": "Quản lý quan hệ khách hàng"
                         }
                       ]
                     }
@@ -1906,7 +1942,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Tính chất công việc "
+                          "text": "Tính chất công việc"
                         }
                       ]
                     }
@@ -1979,10 +2015,6 @@
                           "title": "Rule phân phối",
                           "text": "Rule phân phối",
                           "target": "_blank"
-                        },
-                        {
-                          "type": "text",
-                          "text": " "
                         }
                       ]
                     }
@@ -2066,30 +2098,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

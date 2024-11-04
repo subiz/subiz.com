@@ -10,7 +10,7 @@
   "source_id": "1387158228",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,21 +24,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -51,19 +41,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bắt đầu ngày làm việc, bạn sẽ nhận và trả lời tư vấn khách hàng trên trang "
+              "text": "Bắt đầu ngày làm việc, bạn sẽ nhận và trả lời tư vấn khách hàng trên trang"
             },
             {
               "type": "link",
@@ -75,7 +60,7 @@
             },
             {
               "type": "text",
-              "text": " của Subiz."
+              "text": "của Subiz."
             }
           ]
         },
@@ -95,8 +80,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời nhanh với mẫu tin nhắn có sẵn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời nhanh với mẫu tin nhắn có sẵn"
+                    }
+                  ]
                 }
               ]
             },
@@ -104,8 +94,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem thông tin khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem thông tin khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -113,8 +108,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm Tag hội thoại phân biệt nhu cầu của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm Tag hội thoại phân biệt nhu cầu của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -122,8 +122,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tạo nhắc việc cần làm"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo nhắc việc cần làm"
+                    }
+                  ]
                 }
               ]
             },
@@ -131,8 +136,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tạo đơn hàng mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo đơn hàng mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -140,8 +150,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Ghi chú cho khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ghi chú cho khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -149,8 +164,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm agent đồng nghiệp vào hội thoại hoặc rời hội thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm agent đồng nghiệp vào hội thoại hoặc rời hội thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -158,8 +178,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hoàn thành hội thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành hội thoại"
+                    }
+                  ]
                 }
               ]
             }
@@ -167,12 +192,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -199,19 +219,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Việc trả lời tư vấn khách hàng qua tin nhắn chat khiến Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1 "
+              "text": "Việc trả lời tư vấn khách hàng qua tin nhắn chat khiến Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1"
             },
             {
               "type": "text",
@@ -220,7 +235,7 @@
             },
             {
               "type": "text",
-              "text": " hoặc nhấn "
+              "text": "hoặc nhấn"
             },
             {
               "type": "text",
@@ -229,7 +244,7 @@
             },
             {
               "type": "text",
-              "text": " trong ô nhập tin nhắn."
+              "text": "trong ô nhập tin nhắn."
             }
           ]
         },
@@ -273,7 +288,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn muốn biết khách hàng là khách mới hay khách cũ? "
+              "text": "Bạn muốn biết khách hàng là khách mới hay khách cũ?"
             }
           ]
         },
@@ -282,7 +297,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Khách có thông tin họ tên, sđt chưa? "
+              "text": "Khách có thông tin họ tên, sđt chưa?"
             }
           ]
         },
@@ -297,12 +312,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -327,12 +337,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -361,7 +366,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn "
+              "text": "Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn"
             },
             {
               "type": "text",
@@ -369,12 +374,12 @@
             },
             {
               "type": "text",
-              "text": " THÊM TAG",
+              "text": "THÊM TAG",
               "bold": true
             },
             {
               "type": "text",
-              "text": " hoặc gõ "
+              "text": "hoặc gõ"
             },
             {
               "type": "text",
@@ -383,7 +388,7 @@
             },
             {
               "type": "text",
-              "text": " tại ô nhập tin nhắn."
+              "text": "tại ô nhập tin nhắn."
             }
           ]
         },
@@ -402,12 +407,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -423,12 +423,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -444,22 +439,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc"
             },
             {
               "type": "link",
@@ -477,12 +458,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -583,7 +559,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click "
+              "text": "Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click"
             },
             {
               "type": "text",
@@ -592,7 +568,7 @@
             },
             {
               "type": "text",
-              "text": " hoặc nhập lệnh "
+              "text": "hoặc nhập lệnh"
             },
             {
               "type": "text",
@@ -604,29 +580,11 @@
               "content": [
                 {
                   "type": "text",
-                  "text": " trong ô nhập tin nhắn."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "text": "trong ô nhập tin nhắn."
                 },
                 {
                   "type": "text",
-                  "text": "Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút "
+                  "text": "Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút"
                 }
               ]
             },
@@ -637,7 +595,7 @@
             },
             {
               "type": "text",
-              "text": " > Chọn "
+              "text": "> Chọn"
             },
             {
               "type": "text",
@@ -648,12 +606,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -669,12 +622,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -688,12 +636,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -706,12 +649,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -729,31 +667,36 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1: Click nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hội thoại",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " góc trái màn hình > "
-                },
-                {
-                  "type": "text",
-                  "text": "Click chọn Hội thoại",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " sẽ hoàn thành > Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoàn thành",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Click nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "góc trái màn hình >"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Click chọn Hội thoại",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "sẽ hoàn thành > Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -761,26 +704,31 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: "
-                },
-                {
-                  "type": "text",
-                  "text": "Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Đang mở",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " bên góc phải hội thoại > Chọn "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoàn thành",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Đang mở",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên góc phải hội thoại > Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoàn thành",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -788,13 +736,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh "
-                },
-                {
-                  "type": "text",
-                  "text": "@complete",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh"
+                    },
+                    {
+                      "type": "text",
+                      "text": "@complete",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -814,19 +767,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Xem thêm "
+              "text": "Xem thêm"
             },
             {
               "type": "link",
@@ -840,12 +788,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -878,12 +821,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -902,7 +840,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang "
+              "text": "Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang"
             },
             {
               "type": "link",
@@ -913,7 +851,7 @@
             },
             {
               "type": "text",
-              "text": ", "
+              "text": ","
             },
             {
               "type": "link",
@@ -930,12 +868,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -970,12 +903,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1004,7 +932,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách: "
+              "text": "Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách:"
             }
           ]
         },
@@ -1015,8 +943,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở 1 khách hàng bất kỳ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở 1 khách hàng bất kỳ"
+                    }
+                  ]
                 }
               ]
             },
@@ -1024,8 +957,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem cột hồ sơ khách ở bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem cột hồ sơ khách ở bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1033,8 +971,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP"
+                    }
+                  ]
                 }
               ]
             }
@@ -1042,12 +985,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1072,12 +1010,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1105,8 +1038,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1: Chặn thủ công từng khách. Mở khách spam, xem cột hồ sơ khách hàng ở bên phải màn hình > dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Chặn thủ công từng khách. Mở khách spam, xem cột hồ sơ khách hàng ở bên phải màn hình > dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng."
+                    }
+                  ]
                 }
               ]
             }
@@ -1116,29 +1054,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/d978ad5f1f0c984a6fb0c6389173dcfe5a3b65b1c7615fc14a8305200e00b06e_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -1149,8 +1069,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Chặn theo địa chỉ IP, chặn SĐT hoặc email. Mở trang Cài đặt > chọn Danh sách chặn > Chọn Tạo mới và thêm phương thức chặn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Chặn theo địa chỉ IP, chặn SĐT hoặc email. Mở trang Cài đặt > chọn Danh sách chặn > Chọn Tạo mới và thêm phương thức chặn"
+                    }
+                  ]
                 }
               ]
             }
@@ -1158,12 +1083,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1179,39 +1099,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

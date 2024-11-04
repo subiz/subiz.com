@@ -10,7 +10,7 @@
   "source_id": "587325543",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -37,18 +32,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Phiếu ghi là gì? "
+              "text": "Phiếu ghi là gì?"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -71,12 +61,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -89,12 +74,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -107,12 +87,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -128,12 +103,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -158,12 +128,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -176,12 +141,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -207,12 +167,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "ordered_list",
@@ -221,8 +176,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tập trung danh sách phiếu ghi từ nhiều nguồn khác nhau như tin nhắn chat, email, cuộc gọi, bảng hỏi thông tin."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tập trung danh sách phiếu ghi từ nhiều nguồn khác nhau như tin nhắn chat, email, cuộc gọi, bảng hỏi thông tin."
+                    }
+                  ]
                 }
               ]
             },
@@ -230,8 +190,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Linh hoạt tạo phiếu ghi mới, tự động hàng loạt hoặc theo yêu cầu riêng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Linh hoạt tạo phiếu ghi mới, tự động hàng loạt hoặc theo yêu cầu riêng"
+                    }
+                  ]
                 }
               ]
             },
@@ -239,8 +204,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chia nhóm nhiều loại phiếu ghi. Ví dụ nhóm Hỗ trợ kỹ thuật, nhóm Giao Hàng, nhóm Thanh Toán, nhóm Khiếu Nại,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chia nhóm nhiều loại phiếu ghi. Ví dụ nhóm Hỗ trợ kỹ thuật, nhóm Giao Hàng, nhóm Thanh Toán, nhóm Khiếu Nại,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -248,8 +218,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thiết lập mẫu chung cho từng loại phiếu ghi để nhân viên biết cách thu thập thông tin cần thiết khi tạo phiếu ghi mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết lập mẫu chung cho từng loại phiếu ghi để nhân viên biết cách thu thập thông tin cần thiết khi tạo phiếu ghi mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -257,8 +232,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt mục tiêu SLA cho phiếu ghi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt mục tiêu SLA cho phiếu ghi"
+                    }
+                  ]
                 }
               ]
             },
@@ -266,8 +246,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động tạo phiếu ghi khi khách gửi email, khi có cuộc gọi nhỡ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động tạo phiếu ghi khi khách gửi email, khi có cuộc gọi nhỡ"
+                    }
+                  ]
                 }
               ]
             },
@@ -275,8 +260,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động phản hồi email yêu cầu hỗ trợ của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động phản hồi email yêu cầu hỗ trợ của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -284,8 +274,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Gửi khách hàng email khảo sát đánh giá hài lòng "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi khách hàng email khảo sát đánh giá hài lòng"
+                    }
+                  ]
                 }
               ]
             }
@@ -303,12 +298,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "ordered_list",
@@ -317,8 +307,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nội dung mô tả chi tiết về yêu cầu của khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nội dung mô tả chi tiết về yêu cầu của khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -326,8 +321,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Loại phiếu ghi để phân nhóm yêu cầu của khách hàng. Ví dụ báo lỗi kỹ thuật, hỗ trợ giao hàng, hoàn trả hàng, khiếu nại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Loại phiếu ghi để phân nhóm yêu cầu của khách hàng. Ví dụ báo lỗi kỹ thuật, hỗ trợ giao hàng, hoàn trả hàng, khiếu nại"
+                    }
+                  ]
                 }
               ]
             },
@@ -335,8 +335,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông tin khách hàng như họ tên, sđt, email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông tin khách hàng như họ tên, sđt, email"
+                    }
+                  ]
                 }
               ]
             },
@@ -344,8 +349,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Người phụ trách xử lý phiếu ghi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Người phụ trách xử lý phiếu ghi"
+                    }
+                  ]
                 }
               ]
             },
@@ -353,8 +363,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mức ưu tiên xử lý phiếu ghi và thời gian xử lý xong vấn đề của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mức ưu tiên xử lý phiếu ghi và thời gian xử lý xong vấn đề của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -362,12 +377,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -383,12 +393,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -412,12 +417,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -430,12 +430,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -467,12 +462,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -507,42 +497,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ví dụ tạo mẫu phiếu ghi về Thanh toán:"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Ví dụ tạo mẫu phiếu ghi về Thanh toán:"
             },
             {
               "type": "image",
@@ -555,12 +517,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -585,21 +542,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -607,7 +554,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt SLA "
+              "text": "Cài đặt SLA"
             }
           ]
         },
@@ -634,12 +581,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -656,18 +598,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Khi bạn có email chuyên nhận các yêu cầu hỗ trợ của khách hàng. "
+              "text": "Khi bạn có email chuyên nhận các yêu cầu hỗ trợ của khách hàng."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -680,30 +617,20 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Sau đó, bạn cài đặt thêm tự động trả lời cho phiếu ghi, khách hàng sẽ nhận được email trả lời tự động từ Subiz ngay lập tức. "
+              "text": "Sau đó, bạn cài đặt thêm tự động trả lời cho phiếu ghi, khách hàng sẽ nhận được email trả lời tự động từ Subiz ngay lập tức."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -717,12 +644,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -735,12 +657,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -759,8 +676,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -768,15 +690,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/rule-setting",
-                  "title": "Rule phân phối",
-                  "text": "Rule phân phối",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/rule-setting",
+                      "title": "Rule phân phối",
+                      "text": "Rule phân phối",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -784,8 +711,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn chỉnh sửa rule cuộc gọi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn chỉnh sửa rule cuộc gọi"
+                    }
+                  ]
                 }
               ]
             },
@@ -793,8 +725,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kéo xuống mục Agent xử lý cuộc gọi nhỡ, bật ON tự động tạo phiếu ghi khi có cuộc gọi nhỡ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kéo xuống mục Agent xử lý cuộc gọi nhỡ, bật ON tự động tạo phiếu ghi khi có cuộc gọi nhỡ"
+                    }
+                  ]
                 }
               ]
             },
@@ -802,8 +739,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -823,21 +765,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -864,8 +796,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở khách hàng cần hỗ trợ "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở khách hàng cần hỗ trợ"
+                    }
+                  ]
                 }
               ]
             },
@@ -873,8 +810,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem hồ sơ khách hàng, tìm mục Phiếu ghi và nhấp Tạo mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem hồ sơ khách hàng, tìm mục Phiếu ghi và nhấp Tạo mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -882,8 +824,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại cửa sổ tạo phiếu ghi, agent nhập các nội dung quan trọng như:"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại cửa sổ tạo phiếu ghi, agent nhập các nội dung quan trọng như:"
+                    }
+                  ]
                 }
               ]
             }
@@ -896,8 +843,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mô tả chi tiết vấn đề của khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mô tả chi tiết vấn đề của khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -905,8 +857,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Loại phiếu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Loại phiếu"
+                    }
+                  ]
                 }
               ]
             },
@@ -914,8 +871,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Người phụ trách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Người phụ trách"
+                    }
+                  ]
                 }
               ]
             },
@@ -923,8 +885,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn SLA và đặt thời hạn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn SLA và đặt thời hạn"
+                    }
+                  ]
                 }
               ]
             }
@@ -932,12 +899,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -946,8 +908,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp lưu là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp lưu là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -955,12 +922,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -976,12 +938,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -995,19 +952,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Agent nhận được thông báo khi phiếu ghi có thay đổi, cập nhật mới, hay khi quá thời hạn xử lý. "
+              "text": "Agent nhận được thông báo khi phiếu ghi có thay đổi, cập nhật mới, hay khi quá thời hạn xử lý."
             }
           ]
         },
@@ -1027,8 +979,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trên thanh công cụ, nhấp chọn hình chuông thông báo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trên thanh công cụ, nhấp chọn hình chuông thông báo"
+                    }
+                  ]
                 }
               ]
             },
@@ -1036,8 +993,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -1045,8 +1007,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm mục Phiếu Ghi và bật ON"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm mục Phiếu Ghi và bật ON"
+                    }
+                  ]
                 }
               ]
             }
@@ -1066,21 +1033,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

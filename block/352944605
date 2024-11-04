@@ -10,7 +10,7 @@
   "source_id": "352944605",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -43,19 +43,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Để bắt đầu sử dụng Subiz, bạn đăng ký tài khoản Subiz qua đường link "
+              "text": "Để bắt đầu sử dụng Subiz, bạn đăng ký tài khoản Subiz qua đường link"
             },
             {
               "type": "link",
@@ -72,19 +67,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Sau đó, bạn làm việc trên Subiz hàng ngày bằng cách đăng nhập qua đường link "
+              "text": "Sau đó, bạn làm việc trên Subiz hàng ngày bằng cách đăng nhập qua đường link"
             },
             {
               "type": "link",
@@ -101,12 +91,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -124,13 +109,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chăm sóc khách hàng",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Subiz hoạt động như một trung tâm chăm sóc khách hàng, tập hợp tất cả khách liên hệ từ website, Fanpage, Zalo OA, Email, tổng đài hotline,... để doanh nghiệp hỗ trợ khách hàng tốt nhất."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chăm sóc khách hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Subiz hoạt động như một trung tâm chăm sóc khách hàng, tập hợp tất cả khách liên hệ từ website, Fanpage, Zalo OA, Email, tổng đài hotline,... để doanh nghiệp hỗ trợ khách hàng tốt nhất."
+                    }
+                  ]
                 }
               ]
             },
@@ -138,13 +128,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quản lý thông tin khách hàng",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Thu thập thông tin khách hàng dễ dàng và có hệ thống để làm giàu cơ sở dữ liệu khách hàng và nâng cao chất lượng chăm sóc khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quản lý thông tin khách hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Thu thập thông tin khách hàng dễ dàng và có hệ thống để làm giàu cơ sở dữ liệu khách hàng và nâng cao chất lượng chăm sóc khách."
+                    }
+                  ]
                 }
               ]
             },
@@ -152,13 +147,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tăng cường tương tác chuyển đổi khách",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Tự động hóa xác định nhóm khách hàng mục tiêu và chủ động tiếp cận, chuyển đổi khách hàng đúng thời điểm."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tăng cường tương tác chuyển đổi khách",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tự động hóa xác định nhóm khách hàng mục tiêu và chủ động tiếp cận, chuyển đổi khách hàng đúng thời điểm."
+                    }
+                  ]
                 }
               ]
             },
@@ -166,13 +166,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Báo cáo hiệu quả chuyển đổi khách hàng",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Báo cáo chi tiết về khách hàng theo từng giai đoạn và hiệu suất hỗ trợ khách hàng của nhân viên."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Báo cáo hiệu quả chuyển đổi khách hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Báo cáo chi tiết về khách hàng theo từng giai đoạn và hiệu suất hỗ trợ khách hàng của nhân viên."
+                    }
+                  ]
                 }
               ]
             }
@@ -180,21 +185,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -210,12 +205,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -229,12 +219,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -251,18 +236,13 @@
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": " "
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -288,12 +268,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -309,21 +284,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

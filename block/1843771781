@@ -10,7 +10,7 @@
   "source_id": "1843771781",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -46,7 +41,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Thông báo mua hàng là cửa sổ thông báp được xuất hiện ở một số vị trí nhất định trên website, nhằm: "
+              "text": "Thông báo mua hàng là cửa sổ thông báp được xuất hiện ở một số vị trí nhất định trên website, nhằm:"
             }
           ]
         },
@@ -57,8 +52,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thu hút tối đa sự chú ý khách truy cập web"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thu hút tối đa sự chú ý khách truy cập web"
+                    }
+                  ]
                 }
               ]
             },
@@ -66,8 +66,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quảng cáo sản phẩm tới khách hàng mục tiêu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quảng cáo sản phẩm tới khách hàng mục tiêu"
+                    }
+                  ]
                 }
               ]
             },
@@ -75,8 +80,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kích thích khách hàng mua hàng online "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kích thích khách hàng mua hàng online"
+                    }
+                  ]
                 }
               ]
             }
@@ -94,37 +104,27 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Subiz có sẵn thư viện mẫu đa dạng lĩnh vực, mục tiêu kinh doanh. "
+              "text": "Subiz có sẵn thư viện mẫu đa dạng lĩnh vực, mục tiêu kinh doanh."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Trên trang "
+              "text": "Trên trang"
             },
             {
               "type": "link",
@@ -136,25 +136,20 @@
             },
             {
               "type": "text",
-              "text": " > chọn mục Thông báo đơn hàng > chọn Sử dụng"
+              "text": "> chọn mục Thông báo đơn hàng > chọn Sử dụng"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": " "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Để tạo 1 Thông báo đơn hàng hiệu quả, bạn sẽ thực hiện 2 bước chính: "
+              "text": "Để tạo 1 Thông báo đơn hàng hiệu quả, bạn sẽ thực hiện 2 bước chính:"
             }
           ]
         },
@@ -164,7 +159,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 1: Chức năng Điều kiện hiển thị "
+              "text": "Bước 1: Chức năng Điều kiện hiển thị"
             }
           ]
         },
@@ -184,8 +179,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thời điểm"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thời điểm"
+                    }
+                  ]
                 }
               ]
             },
@@ -193,8 +193,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tần suất"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tần suất"
+                    }
+                  ]
                 }
               ]
             },
@@ -202,8 +207,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đối tượng hiển thị"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đối tượng hiển thị"
+                    }
+                  ]
                 }
               ]
             }
@@ -215,7 +225,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 2: Chức năng Thiết kế "
+              "text": "Bước 2: Chức năng Thiết kế"
             }
           ]
         },
@@ -226,8 +236,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi tiêu đề và nội dung thông báo (nên ngắn gọn và rõ ràng)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi tiêu đề và nội dung thông báo (nên ngắn gọn và rõ ràng)"
+                    }
+                  ]
                 }
               ]
             },
@@ -235,8 +250,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Gắn trang đích để điều hướng khách hàng sau khi tương tác"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gắn trang đích để điều hướng khách hàng sau khi tương tác"
+                    }
+                  ]
                 }
               ]
             },
@@ -244,8 +264,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lựa chọn phông nền và vị trí hiển thị thông báo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lựa chọn phông nền và vị trí hiển thị thông báo"
+                    }
+                  ]
                 }
               ]
             }
@@ -253,21 +278,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

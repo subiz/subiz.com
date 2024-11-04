@@ -1,0 +1,853 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Nhắc việc cần làm - quản lý đầu công việc hiệu quả"
+  },
+  "i18n_slug": {
+    "vi_VN": "nhac-viec-can-lam---quan-ly-dau-cong-viec-hieu-qua"
+  },
+  "source_id": "264759171",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhắc việc cần làm - quản lý đầu công việc hiệu quả"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhắc việc là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhắc việc ("
+            },
+            {
+              "type": "text",
+              "text": "Subiz Task)",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "- Lên lịch/nhắc nhở công việc cần làm, quản lý công việc cá nhân/đội nhóm hiệu quả. Nắm bắt được từng đầu mục công việc, phân loại và điều phối. Dễ dàng quan sát được tiến độ công việc, nhằm đảm bảo tiến độ và hiệu quả công việc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/af7037be2042c280204e9ef7d08d8dea0e537d1053c8c3cf3c34988b0aefc79f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể làm gì với tính năng nhắc việc?"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ghi nhớ và tránh bỏ sót các việc cần làm để hỗ trợ khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lên kế hoạch cho các công việc của cá nhân tư vấn viên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giao việc cho người khác như quản lý giao cho nhân viên và đồng nghiệp giao việc nội bộ."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Ai có thể tạo nhắc việc?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tất cả các Agent đều có thẻ sử dụng được. Tùy vào từng mục đích sử dụng sẽ tạo ra những Task và phân chia người phụ trách/gia hạn thời gian phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo Nhắc việc mới?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Trường hợp 1: Agent cần xử lý sự vụ khách"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "S"
+            },
+            {
+              "type": "text",
+              "text": "au khi chat trả lời khách qua chat/gọi điện hay khi bạn được giao 1 khách mới, bạn cần thực hiện 1 công việc cụ thể để tiếp tục chăm sóc khách, bạn sẽ tạo nhắc việc cần làm như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mở thông tin khách hàng > chọn nút"
+            },
+            {
+              "type": "text",
+              "text": "Tạo mới - Nhắc việc",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Điền nội dung chi tiết cho công việc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b23b60572931205511ce3f93384d637c808b4a3346dacb4fadba0040f4391998_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Trường hợp 2: Agent lên lịch công việc cá nhân"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hàng ngày, agent cần lên kế hoạch công việc của cá nhân mình hay công việc nội bộ công ty, agent sẽ tạo nhắc việc mới như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Click"
+            },
+            {
+              "type": "text",
+              "text": "nút NHẮC VIỆC",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "ở góc phải trên cùng màn hình > chọn"
+            },
+            {
+              "type": "text",
+              "text": "Tạo mới",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và điền thông tin nhắc việc."
+            },
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/c288ed98900d743e617b55360edaf768a0458ef79a19601703b35bdc66071685_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo nhắc việc giao việc chủ động"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn là quản lý hay đơn giản là có một công việc cần sự hỗ trợ của đội nhóm khác để hoàn thành công việc. Bạn chỉ cần tạo nhắc việc và phân chia quyền phụ trách tới người được giao công việc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi tạo nhắc việc, tại mục phụ trách, thay vì để tên bạn thì sẽ là một lựa chọn khác tới người được phân công nhiệm vụ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b7816676549f85045ec7167a29fb85fc19eeb7cb0dd33dd71470a36070eae2eb_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi công việc đã hoàn thành, bạn tích vào mục Hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi thêm nhắc việc gắn với 1 khách hàng cụ thể thì agent sẽ xem được đầy đủ thông tin khách hàng khi mở nhắc việc này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm tiêu đề nhắc việc là hành động cụ thể cần làm giúp bạn nhanh chóng hành động hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nội dung mô tả chi tiết và thêm được hình ảnh ghi nhớ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi tên người phụ trách khi bạn giao việc cho đồng nghiệp, gõ @ để nhắc tới đồng nghiệp xem nhắc việc này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hạn chọn thời gian ngày giờ cụ thể để Subiz thông báo tới bạn trước khi hết hạn công việc, hay khi quá hạn mà chưa hoàn thành công việc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Giao việc tự động"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi nào sử dụng tự động nhắc việc?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Việc bỏ lỡ tin nhắn/cuộc gọi khách hàng không còn quá xa lạ với tư vấn viên do nhiều nguyên nhân như lượng chat/cuộc gọi nhiều, lý do cá nhân,.... Đây là lúc bạn cần tính năng tự động nhắc việc để đảm bảo không bỏ lỡ hội thoại nào của khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz hỗ trợ các công cụ tự động tạo nhắc việc, thông báo cho agent trong trường hợp:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi khách nhắn tin mà chưa được agent trả lời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi có cuộc gọi nhỡ của khách"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhắc việc tự động khi có khách nhắn tin/ gọi nhỡ chưa được hỗ trợ sẽ hiện như sau:"
+            },
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/effc2c97e5051daf3347112ecf177e48203a41c1f8ca0463a8e938fe16a9c29d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo Bot nhắc việc khách nhắn tin chưa được trả lời",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/bots",
+              "title": "Mở cài đặt",
+              "text": "Mở cài đặt",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">bot>Tạo bot> Bot chào khách/"
+            },
+            {
+              "type": "text",
+              "text": "Bot Offline> Sử dụng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mục Thiết kế kịch bản > Tại nhánh agent chưa trả lời, thêm hành động"
+            },
+            {
+              "type": "text",
+              "text": "Tạo nhắc",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "việc bằng việc tích vào"
+            },
+            {
+              "type": "text",
+              "text": "dấu (+)",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Chọn Tạo nhắc việc",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Điền nội dung công việc cần làm và thêm agent phụ trách công việc > Xuất bản là xong"
+            },
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2fc812fa5d15942949bb72d6567058b53a454e56ca6e079003d8dc7cfd1acbaa_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo tự động nhắc việc có cuộc gọi nhỡ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mở Cài đặt> Chọn Rule phân phối> Tạo rule phân phối> Gọi điện."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại"
+            },
+            {
+              "type": "text",
+              "text": "Agent xử lý cuộc gọi nhỡ, bạn thêm"
+            },
+            {
+              "type": "text",
+              "text": "agent xử lý cuộc gọi nhỡ và hạn xử lý cuộc gọi nhỡ > Cập nhật là xong."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/c639a3f0c0268ec132488e3a0f40cdac6b44a35b60d8a651ee938e92746dbe90_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý danh sách Nhắc việc"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo được nhắc việc thì cũng cần phải biết cách quản lý và xử lý công việc theo thời gian. Nếu không những nhắc việc được bạn tạo ra sẽ không mang lại giá trị."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên 1 giao diện, bạn vừa có thể tạo nhắc việc, vừa có thể quản lý hiệu quả:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/685c5ee3d2a0f199c7243e8c10bf2201305f5c221b94ccf8fdfc83807b477973_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem danh sách công việc cần làm của tôi"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn muốn xem mình có những công việc cần làm là gì?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hạn xử lý từng công việc?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn sẽ lọc danh sách nhắc việc theo nhóm"
+            },
+            {
+              "type": "text",
+              "text": "Của tôi",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và nút"
+            },
+            {
+              "type": "text",
+              "text": "Sắp xếp theo ngày hết hạn",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "như sau:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem danh sách công việc của đồng nghiệp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn đang cùng đồng nghiệp theo dõi và xử lý một sự vụ cụ thể, vậy để làm sao xem được trạng thái công việc và các hoạt động khác nếu có, bạn sẽ lọc nhắc việc theo tên agent phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý hay đồng nghiệp có thể nhìn thấy task cá nhân mà tôi tạo không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Không, agent khác không thể xem các task tạo cá nhân, trừ khi bạn tag họ vào task."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể giao task cho nhiều agent không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể. Khi tạo task, bạn chỉ có thể chọn 1 agent phụ trách. Nhưng bạn có thể tag thêm agent khác vào phần mô tả hay bình luận của task. Cả người tạo, người phụ trách và người được tag đều theo dõi được task đó."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi là quản lý, tôi có thể lọc task theo từng agent được không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể. Bạn có thể lọc tag theo từng agent, điều kiện đó phải là tag bạn giao việc chủ động, hoặc bạn được tag vào. Bạn không thể xem các task cá nhân của agent."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể chuyển việc cho agent khác sau khi tạo task không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể. Bạn chỉ cần chỉnh sửa người phụ trách task"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

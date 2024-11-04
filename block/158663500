@@ -10,7 +10,7 @@
   "source_id": "158663500",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -75,8 +65,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quan sát được tất cả khách truy cập trên tất cả website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quan sát được tất cả khách truy cập trên tất cả website"
+                    }
+                  ]
                 }
               ]
             },
@@ -84,8 +79,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời chat của khách liên hệ từ tất cả website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời chat của khách liên hệ từ tất cả website"
+                    }
+                  ]
                 }
               ]
             },
@@ -93,8 +93,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bot tự động gửi tin nhắn riêng trên mỗi website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bot tự động gửi tin nhắn riêng trên mỗi website"
+                    }
+                  ]
                 }
               ]
             },
@@ -102,8 +107,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động phân chia khách từ mỗi website cho nhân viên chăm sóc riêng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động phân chia khách từ mỗi website cho nhân viên chăm sóc riêng"
+                    }
+                  ]
                 }
               ]
             },
@@ -111,8 +121,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi hình ảnh và nội dung của cửa sổ chat khác nhau cho mỗi website "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi hình ảnh và nội dung của cửa sổ chat khác nhau cho mỗi website"
+                    }
+                  ]
                 }
               ]
             }
@@ -135,8 +150,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Kiểm soát danh sách website "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Kiểm soát danh sách website"
+                    }
+                  ]
                 }
               ]
             },
@@ -144,8 +164,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Mời thêm agent phụ trách mỗi website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mời thêm agent phụ trách mỗi website"
+                    }
+                  ]
                 }
               ]
             },
@@ -153,8 +178,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Tùy chỉnh cửa sổ chat Subiz cho website đầu tiên"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Tùy chỉnh cửa sổ chat Subiz cho website đầu tiên"
+                    }
+                  ]
                 }
               ]
             },
@@ -162,8 +192,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Sửa cửa sổ chat trên các website còn lại bằng mã API"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Sửa cửa sổ chat trên các website còn lại bằng mã API"
+                    }
+                  ]
                 }
               ]
             },
@@ -171,8 +206,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 5: Rule phân phối khách từ mỗi website cho nhân viên "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 5: Rule phân phối khách từ mỗi website cho nhân viên"
+                    }
+                  ]
                 }
               ]
             },
@@ -180,8 +220,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 6: Bot tự động trả lời riêng từng website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 6: Bot tự động trả lời riêng từng website"
+                    }
+                  ]
                 }
               ]
             },
@@ -189,8 +234,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 7: Báo cáo hội thoại của mỗi website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 7: Báo cáo hội thoại của mỗi website"
+                    }
+                  ]
                 }
               ]
             }
@@ -211,7 +261,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn có nhiều website khác nhau. Để biết cụ thể website nào đang tích hợp Subiz, bạn thêm tên miền website tại trang "
+              "text": "Bạn có nhiều website khác nhau. Để biết cụ thể website nào đang tích hợp Subiz, bạn thêm tên miền website tại trang"
             },
             {
               "type": "link",
@@ -224,12 +274,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -240,10 +285,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/ece436ca9609375983b47ed6f324c26a3fccc6e9e7dd175007490133d3bc3f6c_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "text",
-              "text": " "
             }
           ]
         },
@@ -268,19 +309,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn tạo thêm agent: Vào trang "
+              "text": "Hướng dẫn tạo thêm agent: Vào trang"
             },
             {
               "type": "link",
@@ -291,7 +327,7 @@
             },
             {
               "type": "text",
-              "text": " > chọn Mời agent > Điền tên và ảnh thương hiệu cho agent đó."
+              "text": "> chọn Mời agent > Điền tên và ảnh thương hiệu cho agent đó."
             }
           ]
         },
@@ -300,7 +336,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent > trên tab trình duyệt hiện “agent\\_id”. "
+              "text": "Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent > trên tab trình duyệt hiện “agent\\_id”."
             }
           ]
         },
@@ -331,7 +367,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn cần chỉnh sửa cửa sổ chat trên website đầu tiên tại trang "
+              "text": "Bạn cần chỉnh sửa cửa sổ chat trên website đầu tiên tại trang"
             },
             {
               "type": "link",
@@ -342,7 +378,7 @@
             },
             {
               "type": "text",
-              "text": " này. "
+              "text": "này."
             }
           ]
         },
@@ -357,12 +393,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -391,7 +422,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Từ website thứ 2, bạn cài đặt được tên, ảnh thương hiệu, lời giới thiệu, lời chào qua mã API đặt trực tiếp trong code web, trong mã API cần thay đổi “agent\\_id” và nội dung tin nhắn riêng cho từng website. "
+              "text": "Từ website thứ 2, bạn cài đặt được tên, ảnh thương hiệu, lời giới thiệu, lời chào qua mã API đặt trực tiếp trong code web, trong mã API cần thay đổi “agent\\_id” và nội dung tin nhắn riêng cho từng website."
             }
           ]
         },
@@ -406,12 +437,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -425,12 +451,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -706,12 +727,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 }
               ]
             }
@@ -719,12 +735,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -738,12 +749,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -981,12 +987,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1188,12 +1189,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 },
                 {
                   "type": "paragraph",
@@ -1299,12 +1295,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1492,12 +1483,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 }
               ]
             }
@@ -1509,7 +1495,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 5: Rule phân phối khách từ mỗi website cho nhân viên "
+              "text": "Bước 5: Rule phân phối khách từ mỗi website cho nhân viên"
             }
           ]
         },
@@ -1518,7 +1504,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ "
+              "text": "Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ"
             },
             {
               "type": "link",
@@ -1540,8 +1526,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt tên rule dễ phân biệt website và agent trực chat"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên rule dễ phân biệt website và agent trực chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -1549,8 +1540,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điều kiện rule: chọn Kênh tương tác - Website - Tên miền website "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điều kiện rule: chọn Kênh tương tác - Website - Tên miền website"
+                    }
+                  ]
                 }
               ]
             },
@@ -1558,8 +1554,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân phối tới: chọn thêm agent trực chat"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân phối tới: chọn thêm agent trực chat"
+                    }
+                  ]
                 }
               ]
             }
@@ -1601,7 +1602,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bot tự động chào đón và trả lời riêng cho từng website. Bạn "
+              "text": "Bot tự động chào đón và trả lời riêng cho từng website. Bạn"
             },
             {
               "type": "link",
@@ -1612,18 +1613,13 @@
             },
             {
               "type": "text",
-              "text": " và tại mục 2 cài đặt > Chọn “Trên các website có chứa” - điền “tên miền website” "
+              "text": "và tại mục 2 cài đặt > Chọn “Trên các website có chứa” - điền “tên miền website”"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1639,12 +1635,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1661,7 +1652,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn cần báo cáo, so sánh số lượng hội thoại khách nhắn tin trên mỗi website, bạn sẽ vào thống kê hội thoại và xem mục Theo website” - “Nguồn hội thoại” "
+              "text": "Bạn cần báo cáo, so sánh số lượng hội thoại khách nhắn tin trên mỗi website, bạn sẽ vào thống kê hội thoại và xem mục Theo website” - “Nguồn hội thoại”"
             }
           ]
         },
@@ -1670,7 +1661,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý: "
+              "text": "Lưu ý:"
             },
             {
               "type": "link",
@@ -1681,7 +1672,7 @@
             },
             {
               "type": "text",
-              "text": " tại trang tích hợp website để Subiz thống kê "
+              "text": "tại trang tích hợp website để Subiz thống kê"
             },
             {
               "type": "image",
@@ -1698,7 +1689,7 @@
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": " "
             }
           ]
         },
@@ -1708,90 +1699,45 @@
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": " "
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

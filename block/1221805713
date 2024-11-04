@@ -10,7 +10,7 @@
   "source_id": "1221805713",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -75,8 +65,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Khách có SĐT hoặc email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách có SĐT hoặc email"
+                    }
+                  ]
                 }
               ]
             },
@@ -84,8 +79,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hoặc khách nhắn tin trên Fanpage, Zalo OA"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hoặc khách nhắn tin trên Fanpage, Zalo OA"
+                    }
+                  ]
                 }
               ]
             }
@@ -93,19 +93,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn sẽ quản lý chi tiết danh sách khách tiềm năng tại trang "
+              "text": "Bạn sẽ quản lý chi tiết danh sách khách tiềm năng tại trang"
             },
             {
               "type": "link",
@@ -117,7 +112,7 @@
             },
             {
               "type": "text",
-              "text": ". "
+              "text": "."
             }
           ]
         },
@@ -157,7 +152,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Trang "
+              "text": "Trang"
             },
             {
               "type": "text",
@@ -166,7 +161,7 @@
             },
             {
               "type": "text",
-              "text": " hỗ trợ bạn 6 chức năng chính để quản lý thông tin khách hàng hiệu quả hơn."
+              "text": "hỗ trợ bạn 6 chức năng chính để quản lý thông tin khách hàng hiệu quả hơn."
             }
           ]
         },
@@ -191,19 +186,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn chỉnh sửa cột thông tin khách: "
+              "text": "Hướng dẫn chỉnh sửa cột thông tin khách:"
             }
           ]
         },
@@ -214,17 +204,22 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Chỉnh sửa cột",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " ở góc phải màn hình "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chỉnh sửa cột",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -232,8 +227,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tích chọn thông tin bạn muốn hiển thị"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tích chọn thông tin bạn muốn hiển thị"
+                    }
+                  ]
                 }
               ]
             },
@@ -241,8 +241,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click vào nút Sắp xếp để kéo thả thứ tự các thông tin "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click vào nút Sắp xếp để kéo thả thứ tự các thông tin"
+                    }
+                  ]
                 }
               ]
             },
@@ -250,8 +255,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Đặt làm mặc định để áp dụng cách sắp xếp cột cho các tệp khách hàng khác"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Đặt làm mặc định để áp dụng cách sắp xếp cột cho các tệp khách hàng khác"
+                    }
+                  ]
                 }
               ]
             }
@@ -271,12 +281,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -296,7 +301,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lọc khách hàng "
+              "text": "Lọc khách hàng"
             }
           ]
         },
@@ -311,12 +316,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -329,12 +329,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -353,8 +348,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Chọn tệp “Tất cả khách” ở cột bên phải"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Chọn tệp “Tất cả khách” ở cột bên phải"
+                    }
+                  ]
                 }
               ]
             },
@@ -362,8 +362,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Nhập chọn điều kiện lọc tương ứng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Nhập chọn điều kiện lọc tương ứng"
+                    }
+                  ]
                 }
               ]
             },
@@ -371,8 +376,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Chọn “Lưu vào bộ lọc khác” để lưu lại bộ lọc và sử dụng khi cần"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Chọn “Lưu vào bộ lọc khác” để lưu lại bộ lọc và sử dụng khi cần"
+                    }
+                  ]
                 }
               ]
             }
@@ -392,12 +402,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -429,12 +434,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -472,7 +472,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách 1: Nhập thủ công từng khách ",
+              "text": "Cách 1: Nhập thủ công từng khách",
               "bold": true
             }
           ]
@@ -484,8 +484,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Vào trang Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -493,8 +498,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn nút Thêm Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn nút Thêm Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -502,8 +512,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điền các thông tin của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điền các thông tin của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -511,12 +526,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -532,12 +542,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -555,8 +560,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Vào trang Khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang Khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -564,8 +574,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp nút Khác ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp nút Khác ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -573,8 +588,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tải lên khách từ file"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tải lên khách từ file"
+                    }
+                  ]
                 }
               ]
             }
@@ -582,12 +602,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -603,12 +618,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -617,19 +627,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz. "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
-                  "title": "Xem cách thêm trường thông tin mới trên Subiz",
-                  "text": "Xem cách thêm trường thông tin mới trên Subiz",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz."
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
+                      "title": "Xem cách thêm trường thông tin mới trên Subiz",
+                      "text": "Xem cách thêm trường thông tin mới trên Subiz",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -637,12 +652,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -658,12 +668,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -682,8 +687,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm nút Khác ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm nút Khác ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -691,8 +701,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tải xuống toàn bộ khách "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tải xuống toàn bộ khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -712,10 +727,14 @@
         },
         {
           "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": "Chú thích:"
             }
           ]
         },
@@ -724,16 +743,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Chú thích: "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Danh sách khách tải về định dạng .csv, "
+              "text": "Danh sách khách tải về định dạng .csv,"
             },
             {
               "type": "link",
@@ -759,22 +769,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tệp khách hàng là việc phân chia nhóm khách hàng riêng biệt dựa trên các đặc điểm hoặc hành vi giống nhau. "
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Tệp khách hàng là việc phân chia nhóm khách hàng riêng biệt dựa trên các đặc điểm hoặc hành vi giống nhau."
             }
           ]
         },
@@ -783,7 +779,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lợi ích của việc tạo tệp khách hàng? ",
+              "text": "Lợi ích của việc tạo tệp khách hàng?",
               "bold": true
             }
           ]
@@ -795,8 +791,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tăng sự hài lòng của khách hàng: Khi thấu hiểu sâu sắc về một nhóm khách hàng mục tiêu, doanh nghiệp sẽ chủ động kịch bản chăm sóc nuôi dưỡng phù hợp và tối ưu hóa trải nghiệm khách hàng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tăng sự hài lòng của khách hàng: Khi thấu hiểu sâu sắc về một nhóm khách hàng mục tiêu, doanh nghiệp sẽ chủ động kịch bản chăm sóc nuôi dưỡng phù hợp và tối ưu hóa trải nghiệm khách hàng."
+                    }
+                  ]
                 }
               ]
             },
@@ -804,8 +805,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thúc đẩy tăng doanh thu: Doanh nghiệp điều chỉnh chiến dịch marketing nhắm đúng khách hàng mục tiêu, tiết kiệm chi phí quảng cáo và tăng cơ hội bán hàng hiệu quả."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thúc đẩy tăng doanh thu: Doanh nghiệp điều chỉnh chiến dịch marketing nhắm đúng khách hàng mục tiêu, tiết kiệm chi phí quảng cáo và tăng cơ hội bán hàng hiệu quả."
+                    }
+                  ]
                 }
               ]
             }
@@ -813,12 +819,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -837,8 +838,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "1 là thông tin định danh khách. Ví dụ phân loại khách đã có SĐT hoặc email hay chưa?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "1 là thông tin định danh khách. Ví dụ phân loại khách đã có SĐT hoặc email hay chưa?"
+                    }
+                  ]
                 }
               ]
             },
@@ -846,8 +852,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "2 là giai đoạn vòng đời khách hàng. Thể hiện trạng thái khách hàng từ lúc bắt đầu tìm kiếm doanh nghiệp đến lúc khách đã mua hàng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "2 là giai đoạn vòng đời khách hàng. Thể hiện trạng thái khách hàng từ lúc bắt đầu tìm kiếm doanh nghiệp đến lúc khách đã mua hàng."
+                    }
+                  ]
                 }
               ]
             },
@@ -855,8 +866,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "3 là nhu cầu khách hàng. Tập hợp khách có chung 1 nhu cầu về sản phẩm/ dịch hay có đặc điểm chung theo từng ngành hàng. Ví dụ ngành BĐS chia tệp khách theo nhu cầu mua để ở hay mua để đầu tư, lĩnh vực nha khoa thì chia tệp khách theo nhu cầu nhổ răng sâu hay làm implant,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "3 là nhu cầu khách hàng. Tập hợp khách có chung 1 nhu cầu về sản phẩm/ dịch hay có đặc điểm chung theo từng ngành hàng. Ví dụ ngành BĐS chia tệp khách theo nhu cầu mua để ở hay mua để đầu tư, lĩnh vực nha khoa thì chia tệp khách theo nhu cầu nhổ răng sâu hay làm implant,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -864,8 +880,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "4 là nguồn khách hàng. Nguồn là nơi đầu tiên khách hàng tìm đến doanh nghiệp như website hay Fanpage,... Việc chia tệp khách theo nguồn sẽ giúp biết được doanh thu của doanh nghiệp đến từ đâu và có sự phân bổ nguồn lực cho phù hợp."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "4 là nguồn khách hàng. Nguồn là nơi đầu tiên khách hàng tìm đến doanh nghiệp như website hay Fanpage,... Việc chia tệp khách theo nguồn sẽ giúp biết được doanh thu của doanh nghiệp đến từ đâu và có sự phân bổ nguồn lực cho phù hợp."
+                    }
+                  ]
                 }
               ]
             }
@@ -888,19 +909,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/lead",
-                  "title": "Khách",
-                  "text": "Khách",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ", xem cột Tệp khách hàng và nhấp chọn + Tạo tệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/lead",
+                      "title": "Khách",
+                      "text": "Khách",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", xem cột Tệp khách hàng và nhấp chọn + Tạo tệp"
+                    }
+                  ]
                 }
               ]
             },
@@ -908,8 +934,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập tên tệp và thêm agent có quyền xem, chỉnh sửa tệp,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập tên tệp và thêm agent có quyền xem, chỉnh sửa tệp,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -917,8 +948,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn loại tệp là “Bộ lọc” để tự động thêm khách vào tệp khi có khách mới thỏa mãn điều kiện lọc khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn loại tệp là “Bộ lọc” để tự động thêm khách vào tệp khi có khách mới thỏa mãn điều kiện lọc khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -926,8 +962,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn điều kiện lọc khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn điều kiện lọc khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -935,8 +976,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bấm nút “Tạo tệp” để hoàn thành. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bấm nút “Tạo tệp” để hoàn thành."
+                    }
+                  ]
                 }
               ]
             }
@@ -944,12 +990,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -974,12 +1015,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1028,8 +1064,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Tạo Nhãn phân loại theo tên sản phẩm/ dịch vụ "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Tạo Nhãn phân loại theo tên sản phẩm/ dịch vụ"
+                    }
+                  ]
                 }
               ]
             },
@@ -1037,8 +1078,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Đào tạo agent cập nhật nhãn phân loại khi trả lời tư vấn khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Đào tạo agent cập nhật nhãn phân loại khi trả lời tư vấn khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -1046,8 +1092,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Tạo tệp khách được lọc theo điều kiện nhãn phân loại. Như vậy, khi có một khách mới được gắn nhãn sản phản/dịch vụ thì khách sẽ tự động được thêm vào tệp khách vừa tạo."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Tạo tệp khách được lọc theo điều kiện nhãn phân loại. Như vậy, khi có một khách mới được gắn nhãn sản phản/dịch vụ thì khách sẽ tự động được thêm vào tệp khách vừa tạo."
+                    }
+                  ]
                 }
               ]
             }
@@ -1056,15 +1107,6 @@
         {
           "type": "paragraph",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "image",
               "alt_text": "",
@@ -1119,12 +1161,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1137,12 +1174,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1161,8 +1193,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại trang Khách, nhấp chọn nút Khác ở bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại trang Khách, nhấp chọn nút Khác ở bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -1170,8 +1207,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tải khách lên từ file"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tải khách lên từ file"
+                    }
+                  ]
                 }
               ]
             },
@@ -1179,8 +1221,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt tên tệp và thêm agent phụ trách khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên tệp và thêm agent phụ trách khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -1188,30 +1235,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1227,38 +1259,28 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bước 2: Nối ghép thông tin khách ",
+              "text": "Bước 2: Nối ghép thông tin khách",
               "bold": true
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz. "
+              "text": "Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz."
             },
             {
               "type": "link",
@@ -1275,12 +1297,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1296,48 +1313,23 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

@@ -10,7 +10,7 @@
   "source_id": "1968656234",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,19 +34,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trên trang "
+              "text": "Trên trang"
             },
             {
               "type": "link",
@@ -58,7 +53,7 @@
             },
             {
               "type": "text",
-              "text": ", bạn quan sát được hoạt động của khách truy cập website tại thời gian thực (real-time), biết được khách là ai? Đến từ đâu? Đang xem trang sản phẩm/dịch vụ nào? "
+              "text": ", bạn quan sát được hoạt động của khách truy cập website tại thời gian thực (real-time), biết được khách là ai? Đến từ đâu? Đang xem trang sản phẩm/dịch vụ nào?"
             }
           ]
         },
@@ -82,12 +77,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -113,22 +103,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Trên trang Subiz live, bạn xem được có bao nhiêu khách đang mở website của bạn tại thời điểm thực: khách mới hay khách cũ, khách ở tỉnh/thành phố nào, khách đang xem trang nào trên website."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Trên trang Subiz live, bạn xem được có bao nhiêu khách đang mở website của bạn tại thời điểm thực: khách mới hay khách cũ, khách ở tỉnh/thành phố nào, khách đang xem trang nào trên website."
             }
           ]
         },
@@ -195,7 +171,7 @@
             },
             {
               "type": "text",
-              "text": "” thì khi nhấn chuột vào nút "
+              "text": "” thì khi nhấn chuột vào nút"
             },
             {
               "type": "text",
@@ -259,13 +235,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Organic",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khách tìm kiếm thông tin trên trình duyệt như Google Chrome, sau đó hiện kết quả là website của bạn và khách click mở website."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Organic",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khách tìm kiếm thông tin trên trình duyệt như Google Chrome, sau đó hiện kết quả là website của bạn và khách click mở website."
+                    }
+                  ]
                 }
               ]
             },
@@ -273,13 +254,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Direct",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khách đã biết rõ tên miền website và nhập tên miền website trên thanh trình duyệt để truy cập website của bạn."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Direct",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khách đã biết rõ tên miền website và nhập tên miền website trên thanh trình duyệt để truy cập website của bạn."
+                    }
+                  ]
                 }
               ]
             },
@@ -287,13 +273,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Referring",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khách xem các trang web khách và click vào đường link dẫn về website của bạn."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Referring",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khách xem các trang web khách và click vào đường link dẫn về website của bạn."
+                    }
+                  ]
                 }
               ]
             },
@@ -301,13 +292,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Social",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khách đang xem trên các trang mạng xã hội và click vào đường link dẫn về website của bạn."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Social",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khách đang xem trên các trang mạng xã hội và click vào đường link dẫn về website của bạn."
+                    }
+                  ]
                 }
               ]
             },
@@ -315,24 +311,29 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Advertising",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khách click vào các đường link chạy quảng cáo Google Ads và truy cập vào website của bạn. Đặc biệt, Subiz tự động nhận biết được mã UTM\\_campaign qua đường link khách truy cập web. Lưu ý: Bạn cần "
-                },
-                {
-                  "type": "link",
-                  "href": "https://support.google.com/analytics/answer/1033981?hl=vi#zippy=%2Cn%E1%BB%99i-dung-c%E1%BB%A7a-b%C3%A0i-vi%E1%BA%BFt-n%C3%A0y",
-                  "title": "gắn mã glicd hay gắn mã utm\\_campaign theo hướng dẫn tại đây",
-                  "text": "gắn mã glicd hay gắn mã utm\\_campaign theo hướng dẫn tại đây",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Advertising",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khách click vào các đường link chạy quảng cáo Google Ads và truy cập vào website của bạn. Đặc biệt, Subiz tự động nhận biết được mã UTM\\_campaign qua đường link khách truy cập web. Lưu ý: Bạn cần"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://support.google.com/analytics/answer/1033981?hl=vi#zippy=%2Cn%E1%BB%99i-dung-c%E1%BB%A7a-b%C3%A0i-vi%E1%BA%BFt-n%C3%A0y",
+                      "title": "gắn mã glicd hay gắn mã utm\\_campaign theo hướng dẫn tại đây",
+                      "text": "gắn mã glicd hay gắn mã utm\\_campaign theo hướng dẫn tại đây",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -352,30 +353,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

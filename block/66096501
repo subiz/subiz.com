@@ -10,7 +10,7 @@
   "source_id": "66096501",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -42,18 +42,13 @@
             },
             {
               "type": "text",
-              "text": " là một công cụ mạnh mẽ trên nền tảng Subiz, giúp doanh nghiệp quản lý hiệu quả hoạt động gọi điện thoại tiếp thị và bán hàng. "
+              "text": "là một công cụ mạnh mẽ trên nền tảng Subiz, giúp doanh nghiệp quản lý hiệu quả hoạt động gọi điện thoại tiếp thị và bán hàng."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -96,13 +91,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tạo nhiều chiến dịch gọi điện cùng lúc:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Mỗi chiến dịch có thể nhắm đến một nhóm khách hàng khác nhau, với các mục tiêu và kịch bản gọi điện riêng biệt."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo nhiều chiến dịch gọi điện cùng lúc:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mỗi chiến dịch có thể nhắm đến một nhóm khách hàng khác nhau, với các mục tiêu và kịch bản gọi điện riêng biệt."
+                    }
+                  ]
                 }
               ]
             },
@@ -110,13 +110,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chia cấp bậc quản lý và thành viên:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Phân quyền rõ ràng cho từng người, giúp quản lý hiệu quả quá trình gọi điện."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chia cấp bậc quản lý và thành viên:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Phân quyền rõ ràng cho từng người, giúp quản lý hiệu quả quá trình gọi điện."
+                    }
+                  ]
                 }
               ]
             },
@@ -124,13 +129,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hỗ trợ tải file khách hàng lên Subiz:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Dễ dàng nhập danh sách khách hàng tiềm năng để thực hiện cuộc gọi."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỗ trợ tải file khách hàng lên Subiz:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dễ dàng nhập danh sách khách hàng tiềm năng để thực hiện cuộc gọi."
+                    }
+                  ]
                 }
               ]
             },
@@ -138,13 +148,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Giao việc cho nhân viên đồng đều hoặc theo tỷ lệ:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Phân chia công việc một cách linh hoạt và công bằng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giao việc cho nhân viên đồng đều hoặc theo tỷ lệ:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Phân chia công việc một cách linh hoạt và công bằng."
+                    }
+                  ]
                 }
               ]
             },
@@ -152,13 +167,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thiết kế kịch bản gọi điện thoại:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Chuẩn bị sẵn các kịch bản để nhân viên có thể tham khảo và tuân theo."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết kế kịch bản gọi điện thoại:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chuẩn bị sẵn các kịch bản để nhân viên có thể tham khảo và tuân theo."
+                    }
+                  ]
                 }
               ]
             },
@@ -166,13 +186,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click gọi nhanh - không cần bấm số:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Tiết kiệm thời gian và tăng hiệu quả làm việc."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click gọi nhanh - không cần bấm số:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tiết kiệm thời gian và tăng hiệu quả làm việc."
+                    }
+                  ]
                 }
               ]
             },
@@ -180,13 +205,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động đảo số gọi đi:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Tiết kiệm chi phí khi gọi điện cùng mạng và hạn chế tình trạng chặn số do gọi đi quá nhiều cùng 1 số."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động đảo số gọi đi:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tiết kiệm chi phí khi gọi điện cùng mạng và hạn chế tình trạng chặn số do gọi đi quá nhiều cùng 1 số."
+                    }
+                  ]
                 }
               ]
             }
@@ -209,40 +239,31 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/telesale-list",
-                  "title": "Telesale",
-                  "text": "Telesale",
-                  "target": "_blank"
-                },
-                {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": ". Trên thanh công cụ, chọn mở Công cụ và nhấp chọn Telesales "
+                      "text": "Bước 1: Mở chức năng"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/telesale-list",
+                      "title": "Telesale",
+                      "text": "Telesale",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Trên thanh công cụ, chọn mở Công cụ và nhấp chọn Telesales"
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/657729dc9c9bfa2724be8266c7644190db531b0911706ff8bf3ae9a3d79c827b_acpxkgumifuoofoosble"
+                      }
                     }
                   ]
-                },
-                {
-                  "type": "image",
-                  "alt_text": "",
-                  "image": {
-                    "url": "https://vcdn.subiz-cdn.com/file/657729dc9c9bfa2724be8266c7644190db531b0911706ff8bf3ae9a3d79c827b_acpxkgumifuoofoosble"
-                  }
                 }
               ]
             }
@@ -255,8 +276,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Tạo chiến dịch mới. Rồi nhập các thông tin tên chiến dịch, người quản lý và các agent thành viên"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Tạo chiến dịch mới. Rồi nhập các thông tin tên chiến dịch, người quản lý và các agent thành viên"
+                    }
+                  ]
                 }
               ]
             }
@@ -264,12 +290,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -285,12 +306,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -299,8 +315,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Nhập danh sách SĐT cần gọi điện telesale.Có thể chọn khách đang có trên Subiz hoặc tải file khách hàng lên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Nhập danh sách SĐT cần gọi điện telesale.Có thể chọn khách đang có trên Subiz hoặc tải file khách hàng lên Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -308,12 +329,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -322,8 +338,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Chọn Phân phối số điện thoại cho các thành viên"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Chọn Phân phối số điện thoại cho các thành viên"
+                    }
+                  ]
                 }
               ]
             }
@@ -355,22 +376,13 @@
                       "text": "Bước 5: Thiết kế kịch bản telesale. Quản lý thêm các câu hỏi để thành viên nói chuyện và hỏi thông tin khách hàng theo quy trình có sẵn."
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/90397674fc9c65428f696513abe5ceaf28a2565bb249ffe7a60cac10d66d51f8_acpxkgumifuoofoosble"
+                      }
                     }
                   ]
-                },
-                {
-                  "type": "image",
-                  "alt_text": "",
-                  "image": {
-                    "url": "https://vcdn.subiz-cdn.com/file/90397674fc9c65428f696513abe5ceaf28a2565bb249ffe7a60cac10d66d51f8_acpxkgumifuoofoosble"
-                  }
                 }
               ]
             },
@@ -378,8 +390,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Tạo mới là cài đặt xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Tạo mới là cài đặt xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -406,12 +423,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -420,19 +432,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/telesale-list",
-                  "title": "Telesale",
-                  "text": "Telesale",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ", bấm nút Chỉnh sửa chiến dịch"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/telesale-list",
+                      "title": "Telesale",
+                      "text": "Telesale",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", bấm nút Chỉnh sửa chiến dịch"
+                    }
+                  ]
                 }
               ]
             }
@@ -440,12 +457,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -456,15 +468,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/b840802c16fe8b556faa972163be017eb012b1e03e2aeaecc2e9df9768c05e22_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -475,8 +478,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Agent bấm nút Gọi điện lần lượt cho từng khách hàng. Nhập các thông tin khách theo kịch bản. Chọn kết quả cuộc gọi và đặt lịch gọi lại nếu cần."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Agent bấm nút Gọi điện lần lượt cho từng khách hàng. Nhập các thông tin khách theo kịch bản. Chọn kết quả cuộc gọi và đặt lịch gọi lại nếu cần."
+                    }
+                  ]
                 }
               ]
             }
@@ -484,12 +492,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -500,15 +503,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/078dbb9fef3562afff82d7e1836195f8a55b9abddc89e3a2c82018815cadc5c8_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -526,31 +520,13 @@
                       "text": "Bước 3: Agent tạo đơn hàng và tạo nhắc việc tiếp tục chăm sóc nuôi dưỡng khách nếu cần"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/82f4dfc19bdd92eb46e058f1f2180e879999fe7ecf38ced3d1c510a87f391204_acpxkgumifuoofoosble"
+                      }
                     }
                   ]
-                },
-                {
-                  "type": "image",
-                  "alt_text": "",
-                  "image": {
-                    "url": "https://vcdn.subiz-cdn.com/file/82f4dfc19bdd92eb46e058f1f2180e879999fe7ecf38ced3d1c510a87f391204_acpxkgumifuoofoosble"
-                  }
                 }
               ]
             }
@@ -592,8 +568,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi thực hiện trong tổng số điện thoại đã có trong chiến dịch"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi thực hiện trong tổng số điện thoại đã có trong chiến dịch"
+                    }
+                  ]
                 }
               ]
             },
@@ -601,8 +582,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi đạt mục tiêu chiến dịch "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi đạt mục tiêu chiến dịch"
+                    }
+                  ]
                 }
               ]
             },
@@ -610,8 +596,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tổng thời lượng cuộc gọi đã thực hiện"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tổng thời lượng cuộc gọi đã thực hiện"
+                    }
+                  ]
                 }
               ]
             },
@@ -619,8 +610,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kết quả cuộc gọi theo 4 cấp độ: Trả lời - Đạt mục tiêu - Không trả lời/nhầm số - Gọi xấu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kết quả cuộc gọi theo 4 cấp độ: Trả lời - Đạt mục tiêu - Không trả lời/nhầm số - Gọi xấu"
+                    }
+                  ]
                 }
               ]
             }
@@ -653,8 +649,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent đã thực hiện bao nhiêu cuộc gọi?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent đã thực hiện bao nhiêu cuộc gọi?"
+                    }
+                  ]
                 }
               ]
             },
@@ -662,8 +663,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi đạt mục tiêu là bao nhiêu?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi đạt mục tiêu là bao nhiêu?"
+                    }
+                  ]
                 }
               ]
             },
@@ -671,8 +677,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tổng thời gian gọi điện cho agent?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tổng thời gian gọi điện cho agent?"
+                    }
+                  ]
                 }
               ]
             },
@@ -680,8 +691,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trung bình thời gian gọi điện thoại/ tổng số cuộc gọi đã thực hiện của agent?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trung bình thời gian gọi điện thoại/ tổng số cuộc gọi đã thực hiện của agent?"
+                    }
+                  ]
                 }
               ]
             },
@@ -689,8 +705,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi đã có khách trả lời nói chuyện?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi đã có khách trả lời nói chuyện?"
+                    }
+                  ]
                 }
               ]
             },
@@ -698,8 +719,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi thất bại không được khách trả lời?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi thất bại không được khách trả lời?"
+                    }
+                  ]
                 }
               ]
             },
@@ -707,8 +733,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Số lượng cuộc gọi báo xấu?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Số lượng cuộc gọi báo xấu?"
+                    }
+                  ]
                 }
               ]
             }
@@ -738,22 +769,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Có. Subiz có phát hiện được hồ sơ khách bị trùng lặp theo SĐT hoặc email."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Có. Subiz có phát hiện được hồ sơ khách bị trùng lặp theo SĐT hoặc email."
             },
             {
               "type": "image",
@@ -797,12 +814,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -818,31 +830,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Có, quản lý có quyền xem được tất cả công việc của nhân viên và có trang báo cáo đo lường chi tiết."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Có, quản lý có quyền xem được tất cả công việc của nhân viên và có trang báo cáo đo lường chi tiết."
             },
             {
               "type": "image",
@@ -876,15 +865,6 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
@@ -895,48 +875,23 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

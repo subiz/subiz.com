@@ -10,7 +10,7 @@
   "source_id": "1540866648",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -37,18 +37,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Bot Subiz là công cụ chatbot chạy theo kịch bản có sẵn, tự động nhắn tin trả lời khách hàng từ website, Fanpage, Zalo OA, Instagram. "
+              "text": "Bot Subiz là công cụ chatbot chạy theo kịch bản có sẵn, tự động nhắn tin trả lời khách hàng từ website, Fanpage, Zalo OA, Instagram."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -64,12 +59,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -88,8 +78,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động chào khách truy cập website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động chào khách truy cập website"
+                    }
+                  ]
                 }
               ]
             }
@@ -99,29 +94,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/ab511073d98327bb92c18b4ce3e6946f0f972a03bba32caa4c851e4c3b03f041_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -132,8 +109,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời tin nhắn khách từ messenger Fanpage, Zalo OA, Instagram"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời tin nhắn khách từ messenger Fanpage, Zalo OA, Instagram"
+                    }
+                  ]
                 }
               ]
             }
@@ -158,8 +140,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kịch bản bot được thiết kế theo điều kiện nếu thì. Nếu thỏa mãn một điều kiện nhất định thì bot sẽ thực hiện một hành động cụ thể. Ví dụ nếu khách vào website trong giờ làm việc thì bot sẽ gửi tin nhắn chào. Nếu khách chưa có SĐT thì bot sẽ hỏi SĐT của khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kịch bản bot được thiết kế theo điều kiện nếu thì. Nếu thỏa mãn một điều kiện nhất định thì bot sẽ thực hiện một hành động cụ thể. Ví dụ nếu khách vào website trong giờ làm việc thì bot sẽ gửi tin nhắn chào. Nếu khách chưa có SĐT thì bot sẽ hỏi SĐT của khách."
+                    }
+                  ]
                 }
               ]
             },
@@ -167,8 +154,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hướng dẫn khách hàng theo các nút gợi ý phản hồi nhanh"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hướng dẫn khách hàng theo các nút gợi ý phản hồi nhanh"
+                    }
+                  ]
                 }
               ]
             }
@@ -188,12 +180,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -202,8 +189,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hỏi thông tin khách hàng như Họ tên, SĐT,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỏi thông tin khách hàng như Họ tên, SĐT,..."
+                    }
+                  ]
                 }
               ]
             }
@@ -228,8 +220,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân luồng khách hàng và giao cho nhân viên phụ trách (Agent)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân luồng khách hàng và giao cho nhân viên phụ trách (Agent)"
+                    }
+                  ]
                 }
               ]
             }
@@ -249,12 +246,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -283,8 +275,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt trên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt trên Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -292,15 +289,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/bots",
-                  "title": "chức năng Bot",
-                  "text": "chức năng Bot",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/bots",
+                      "title": "chức năng Bot",
+                      "text": "chức năng Bot",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -308,8 +310,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo Bot"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo Bot"
+                    }
+                  ]
                 }
               ]
             },
@@ -317,8 +324,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp mở Bot chào khách, chọn Sử dụng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp mở Bot chào khách, chọn Sử dụng"
+                    }
+                  ]
                 }
               ]
             }
@@ -326,12 +338,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -350,8 +357,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kịch bản bot gồm nhiều hành động nối tiếp nhau theo điều kiện Nếu - Thì. Nếu một điều kiện được thỏa mãn thì bot sẽ chạy hành động."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kịch bản bot gồm nhiều hành động nối tiếp nhau theo điều kiện Nếu - Thì. Nếu một điều kiện được thỏa mãn thì bot sẽ chạy hành động."
+                    }
+                  ]
                 }
               ]
             },
@@ -359,8 +371,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Các hành động của bot như: Gửi tin nhắn, Hỏi thông tin SĐT, Gửi cho agent tư vấn viên, Gắn Tag Hội thoại,...."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Các hành động của bot như: Gửi tin nhắn, Hỏi thông tin SĐT, Gửi cho agent tư vấn viên, Gắn Tag Hội thoại,...."
+                    }
+                  ]
                 }
               ]
             },
@@ -368,8 +385,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bấm dấu + để thêm hành động mới cho bot"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bấm dấu + để thêm hành động mới cho bot"
+                    }
+                  ]
                 }
               ]
             }
@@ -389,12 +411,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -413,8 +430,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sửa tên và ảnh bot hiển thị khi nhắn tin với khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa tên và ảnh bot hiển thị khi nhắn tin với khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -422,8 +444,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn bot chạy trên website hay Fanpage hay Zalo OA"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn bot chạy trên website hay Fanpage hay Zalo OA"
+                    }
+                  ]
                 }
               ]
             },
@@ -431,8 +458,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn bot chạy với một nhóm khách hàng cụ thể hay theo thời gian làm việc,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn bot chạy với một nhóm khách hàng cụ thể hay theo thời gian làm việc,..."
+                    }
+                  ]
                 }
               ]
             }
@@ -440,12 +472,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -461,21 +488,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -533,12 +550,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -603,12 +615,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -621,12 +628,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -670,19 +672,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Nếu chỉ cho bot chạy trên trang sản phẩm có Url là "
+              "text": "Ví dụ: Nếu chỉ cho bot chạy trên trang sản phẩm có Url là"
             },
             {
               "type": "text",
@@ -690,7 +687,7 @@
             },
             {
               "type": "text",
-              "text": " thì nhập có chứa “product”."
+              "text": "thì nhập có chứa “product”."
             }
           ]
         },
@@ -721,18 +718,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot. Tìm mục Bot chạy khi nào, chọn Khách gửi tin nhắn. "
+              "text": "Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot. Tìm mục Bot chạy khi nào, chọn Khách gửi tin nhắn."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -745,12 +737,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -766,165 +753,75 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

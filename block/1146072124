@@ -1,0 +1,632 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Gửi hàng loạt Email Marketing"
+  },
+  "i18n_slug": {
+    "vi_VN": "gui-hang-loat-email-marketing"
+  },
+  "source_id": "1146072124",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Gửi hàng loạt Email Marketing"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Gửi Email hàng loạt là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tính năng Gửi hàng loạt Email của Subiz giúp Doanh nghiệp thực hiện các chiến dịch quảng cáo và chăm sóc khách hàng bằng cách tự động gửi email cho một tệp khách hàng mục tiêu."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Email Marketing hoạt động như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Đây là chức năng nổi bật của Subiz, cho phép người sử dụng gửi một nội dung thư tới nhiều tài khoản Email cùng một lúc. Tức chỉ cần một lần soạn nội dung Email và một lần gửi sẽ tới được tất cả những khách hàng mà bạn mong muốn."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi nào nên sử dụng tính năng này?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gửi Email hàng loạt được ứng dụng trong nhiều trường hợp khác nhau, tiêu biểu như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi quảng cáo giới thiệu sản phẩm mới hay chương trình khuyến mãi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi thông báo về cập nhật mới về chính sách mua hàng hay chức năng phần mềm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi bản tin hàng tuần cho các đăng ký nhận tin tức"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi lời chúc mừng ngày lễ cho đối tác"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn gửi Email Marketing hàng loạt trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt gửi Email Marketing"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Đăng nhập Subiz > Công cụ> Gửi hàng loạt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Chọn nút “Tạo chiến dịch”"
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/a4315f97d0afc0f7d291ad51099fc9c56f260a9d69215ea40b3dca1a403b95e4_acpxkgumifuoofoosble"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Chọn đối tượng chạy cho chiến dịch bằng 1 trong 2 cách là “Chọn tệp khách hàng đã có trên Subiz” hoặc “Chọn Import từ file”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Chọn thiết kế chiến dịch."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 5: Chọn kênh email và thời gian là gửi ngay sau khi tạo hoặc hẹn giờ chạy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/546941e59c0ea7592f0fc0acff11aaeb6a1f678c0894d008cc8cdb9501fdce01_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 6: Soạn nội dung email"
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/21cdaef3bb779c08ce3f347e77ee9c8ce9f77e23f0935b492decd9d05a69648a_acpxkgumifuoofoosble"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 7: Chọn “Gửi"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ngay"
+                    },
+                    {
+                      "type": "text",
+                      "text": "” hoặc “Lưu” khi bạn đã hẹn giờ chạy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Đọc thống kê gửi email Marketing"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê chiến dịch email hỗ trợ Doanh nghiệp tổng quan được hiệu quả tương tác khách hàng qua kênh email, từ đó có những sự điều chỉnh phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mở trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/campaign-list",
+              "title": "Cài đặt Gửi hàng loạt",
+              "text": "Cài đặt Gửi hàng loạt",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "> tìm tới tên chiến dịch bạn muốn. Bạn xem được chi tiết số liệu thống kê và khách hàng bằng cách chọn nút THỐNG KÊ bên phải."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ca309b73c61e01be404978354a76f48e00f79e0bc8db9e56194d2270e56c9268_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại đây, bạn sẽ thấy tổng quan 3 số liệu chính là:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "KHÁCH HÀNG",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tổng số khách hàng mục tiêu của chiến dịch vụ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ĐÃ GỬI",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tổng số lượng email đã gửi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ĐÃ ĐỌC",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số lượng khách hàng đã đọc email trong tổng số khách hàng đã được gửi email"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "GỬI THẤT BẠI",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số email không gửi được tới khách hàng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cách đọc thống kê."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ Thống kê chiến dịch “Chúc Tết 2024” cho thấy có khoảng 26,000 email đã gửi đi, trong đó có 26,000 khách hàng đã nhận được email và 8,600 khách hàng đã đọc email. Xem khách hàng đã đọc mail là ai? Họ có điểm gì chung để điều chỉnh chiến dịch email cho phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/e820359307f7cfa80c31453a0107acdbf60869ba5d6675e0049e26c214c44906_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH1: Chức năng gửi email hàng loạt có mất phí không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Gửi email hàng loạt là chức năng có tính phí riêng với phí gói dịch vụ Subiz., khoảng 10đ-30đ cho 1 email."
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/subscription-info",
+              "title": "Nạp tiền để gửi email hàng loạt",
+              "text": "Nạp tiền để gửi email hàng loạt",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể chọn địa chỉ email của Doanh nghiệp để gửi đi không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Có. Bạn sử dụng địa chỉ email của Doanh nghiệp để gửi đi."
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/email",
+              "title": "Tích hợp thêm email của bạn vào Subiz.",
+              "text": "Tích hợp thêm email của bạn vào Subiz.",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách hàng nhận email sẽ nhìn thấy địa chỉ email của Doanh nghiệp hay địa chỉ email của Subiz?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời: Khách hàng sẽ nhìn thấy địa chỉ email và tên thương hiệu của Doanh nghiệp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6c222787ca29117b0486c81e4b5db90e33c0df2b9fc2b59ca66254478b211b48_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

@@ -10,7 +10,7 @@
   "source_id": "1954376476",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -67,30 +67,35 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Mở "
-                },
-                {
-                  "type": "text",
-                  "text": "Cài đặt",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/business-hours",
-                  "title": "Giờ làm việc",
-                  "text": "Giờ làm việc",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/business-hours",
+                      "title": "Giờ làm việc",
+                      "text": "Giờ làm việc",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -98,22 +103,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm khung thời gian",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " làm việc trong ngày và "
-                },
-                {
-                  "type": "text",
-                  "text": "Thêm ngày nghỉ lễ",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " trong năm"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm khung thời gian",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "làm việc trong ngày và"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Thêm ngày nghỉ lễ",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "trong năm"
+                    }
+                  ]
                 }
               ]
             },
@@ -121,13 +131,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -170,7 +185,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt bot tự động chào đón và trả lời tin nhắn khách hàng tại trang BOT: "
+              "text": "Cài đặt bot tự động chào đón và trả lời tin nhắn khách hàng tại trang BOT:"
             },
             {
               "type": "link",
@@ -209,7 +224,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt Rule phân phối hội thoại của khách cho các agent trực chat tại trang Rule phân phối: "
+              "text": "Cài đặt Rule phân phối hội thoại của khách cho các agent trực chat tại trang Rule phân phối:"
             },
             {
               "type": "link",
@@ -248,7 +263,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt bảng hỏi thông tin trước khi chat tại trang Chỉnh sửa cửa sổ chat: "
+              "text": "Cài đặt bảng hỏi thông tin trước khi chat tại trang Chỉnh sửa cửa sổ chat:"
             },
             {
               "type": "link",
@@ -274,75 +289,35 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

@@ -10,7 +10,7 @@
   "source_id": "1276788659",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -43,12 +43,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -64,12 +59,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -82,12 +72,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -122,12 +107,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -141,12 +121,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -171,37 +146,22 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Cách 2: Tạo đơn mới trên trang ",
+              "text": "Cách 2: Tạo đơn mới trên trang",
               "bold": true
             },
             {
@@ -218,15 +178,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Agent mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/orders",
-                  "title": "Đơn hàng",
-                  "text": "Đơn hàng",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Agent mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/orders",
+                      "title": "Đơn hàng",
+                      "text": "Đơn hàng",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -234,12 +199,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "C"
-                },
-                {
-                  "type": "text",
-                  "text": "họn nút Tạo đơn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "C"
+                    },
+                    {
+                      "type": "text",
+                      "text": "họn nút Tạo đơn"
+                    }
+                  ]
                 }
               ]
             },
@@ -247,8 +217,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điền các thông tin cần thiết của đơn hàng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điền các thông tin cần thiết của đơn hàng."
+                    }
+                  ]
                 }
               ]
             },
@@ -256,8 +231,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Xác nhận đơn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Xác nhận đơn"
+                    }
+                  ]
                 }
               ]
             }
@@ -290,7 +270,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn theo dõi quản lý tất cả đơn hàng tại trang "
+              "text": "Bạn theo dõi quản lý tất cả đơn hàng tại trang"
             },
             {
               "type": "link",
@@ -305,7 +285,7 @@
             },
             {
               "type": "text",
-              "text": " xử lý các công việc như gọi điện xác nhận đơn, nuôi dưỡng khách tiềm năng mua hàng, nhắc khách thanh toán, hỗ trợ giao hàng,... "
+              "text": "xử lý các công việc như gọi điện xác nhận đơn, nuôi dưỡng khách tiềm năng mua hàng, nhắc khách thanh toán, hỗ trợ giao hàng,..."
             }
           ]
         },
@@ -320,12 +300,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -341,19 +316,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Để quản lý bán hàng hiệu quả, bạn cần thiết kế quy trình bán hàng theo từng bước, từng hành động cần làm. Nhấp chọn "
+              "text": "Để quản lý bán hàng hiệu quả, bạn cần thiết kế quy trình bán hàng theo từng bước, từng hành động cần làm. Nhấp chọn"
             },
             {
               "type": "text",
@@ -364,12 +334,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -394,12 +359,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -424,12 +384,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -442,12 +397,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -476,7 +426,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn xem được chi tiết thống kê doanh số tại trang "
+              "text": "Bạn xem được chi tiết thống kê doanh số tại trang"
             },
             {
               "type": "link",
@@ -495,12 +445,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -525,111 +470,51 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

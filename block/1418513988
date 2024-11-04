@@ -10,7 +10,7 @@
   "source_id": "1418513988",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -67,7 +62,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Bạn muốn biết trong tháng qua phòng tổng đài đã nghe gọi bao nhiêu cuộc gọi tư vấn khách. Bạn click chọn thời gian để xem "
+              "text": "Ví dụ: Bạn muốn biết trong tháng qua phòng tổng đài đã nghe gọi bao nhiêu cuộc gọi tư vấn khách. Bạn click chọn thời gian để xem"
             },
             {
               "type": "text",
@@ -76,7 +71,7 @@
             },
             {
               "type": "text",
-              "text": ", "
+              "text": ","
             },
             {
               "type": "text",
@@ -107,7 +102,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Tổng quan tình hình khách qua Tag hội thoại "
+              "text": "Tổng quan tình hình khách qua Tag hội thoại"
             }
           ]
         },
@@ -116,7 +111,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Khách điện thoại tới yêu cầu hỗ trợ nhiều vấn đề khác nhau, nhân viên tư vấn sẽ "
+              "text": "Ví dụ: Khách điện thoại tới yêu cầu hỗ trợ nhiều vấn đề khác nhau, nhân viên tư vấn sẽ"
             },
             {
               "type": "link",
@@ -127,7 +122,7 @@
             },
             {
               "type": "text",
-              "text": " yêu cầu khách và bạn sẽ tổng quan được tình hình khách hàng tại thống kê cuộc gọi "
+              "text": "yêu cầu khách và bạn sẽ tổng quan được tình hình khách hàng tại thống kê cuộc gọi"
             },
             {
               "type": "text",
@@ -154,12 +149,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -258,7 +248,7 @@
             },
             {
               "type": "text",
-              "text": "” ở góc phải màn hình trang thống kê để mở trang chi tiết danh sách cuộc gọi. "
+              "text": "” ở góc phải màn hình trang thống kê để mở trang chi tiết danh sách cuộc gọi."
             }
           ]
         },
@@ -267,7 +257,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Tại đây, bạn có thể lọc tìm kiếm nhanh cuộc gọi hoặc xuất file exel về máy tính để phân tích chuyên sâu theo nhu cầu. Lưu ý file dữ liệu tải về định dạng .csv, bạn "
+              "text": "Tại đây, bạn có thể lọc tìm kiếm nhanh cuộc gọi hoặc xuất file exel về máy tính để phân tích chuyên sâu theo nhu cầu. Lưu ý file dữ liệu tải về định dạng .csv, bạn"
             },
             {
               "type": "link",
@@ -309,7 +299,7 @@
           "content": [
             {
               "type": "text",
-              "text": "File ghi âm cuộc gọi sẽ được lưu trữ trên Subiz tối đa 12 tháng. Bạn muốn lưu trữ file ghi âm, bạn cần tải file "
+              "text": "File ghi âm cuộc gọi sẽ được lưu trữ trên Subiz tối đa 12 tháng. Bạn muốn lưu trữ file ghi âm, bạn cần tải file"
             },
             {
               "type": "link",
@@ -320,7 +310,7 @@
             },
             {
               "type": "text",
-              "text": " về máy tính rồi tìm cột “Ghi âm cuộc gọi” để lấy link ghi âm và tải về."
+              "text": "về máy tính rồi tìm cột “Ghi âm cuộc gọi” để lấy link ghi âm và tải về."
             }
           ]
         },
@@ -329,7 +319,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý file dữ liệu tải về định dạng .csv, bạn "
+              "text": "Lưu ý file dữ liệu tải về định dạng .csv, bạn"
             },
             {
               "type": "link",
@@ -346,12 +336,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -367,48 +352,23 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

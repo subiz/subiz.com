@@ -10,7 +10,7 @@
   "source_id": "900316123",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,30 +24,20 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn sử dụng phần mềm Subiz như một thiết bị điện thoại để thực hiện cuộc gọi đi và trả lời cuộc gọi đến tổng đài. "
+              "text": "Bạn sử dụng phần mềm Subiz như một thiết bị điện thoại để thực hiện cuộc gọi đi và trả lời cuộc gọi đến tổng đài."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -63,12 +53,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -86,8 +71,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Gọi điện thoại trên Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gọi điện thoại trên Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -95,8 +85,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xem hồ sơ khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem hồ sơ khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -104,8 +99,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Gắn Tag phân loại cuộc gọi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gắn Tag phân loại cuộc gọi"
+                    }
+                  ]
                 }
               ]
             },
@@ -113,8 +113,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhắc việc sau khi gọi điện"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhắc việc sau khi gọi điện"
+                    }
+                  ]
                 }
               ]
             },
@@ -122,8 +127,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tạo đơn hàng mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo đơn hàng mới"
+                    }
+                  ]
                 }
               ]
             }
@@ -131,12 +141,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -183,19 +188,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trên máy tính, agent đăng nhập Subiz qua đường link "
+              "text": "Trên máy tính, agent đăng nhập Subiz qua đường link"
             },
             {
               "type": "link",
@@ -206,18 +206,13 @@
             },
             {
               "type": "text",
-              "text": " và bấm nút GỌI điện thoại ở góc phải dưới cùng > Nhập số của khách > Nhấn gọi đi"
+              "text": "và bấm nút GỌI điện thoại ở góc phải dưới cùng > Nhập số của khách > Nhấn gọi đi"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -230,12 +225,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -251,12 +241,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -269,12 +254,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -290,19 +270,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trên điện thoại smartphone, agent tải "
+              "text": "Trên điện thoại smartphone, agent tải"
             },
             {
               "type": "link",
@@ -313,7 +288,7 @@
             },
             {
               "type": "text",
-              "text": " về và bấm số gọi đi như sau:"
+              "text": "về và bấm số gọi đi như sau:"
             }
           ]
         },
@@ -331,21 +306,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -362,18 +327,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Khách hàng trên phần mềm Subiz sẽ hiển thị hồ sơ thông tin ở cột bên phải màn hình. "
+              "text": "Khách hàng trên phần mềm Subiz sẽ hiển thị hồ sơ thông tin ở cột bên phải màn hình."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -402,12 +362,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -450,21 +405,12 @@
               "text": "Xem thêm quản lý Tag hội thoại",
               "target": "_blank",
               "bold": true
-            },
-            {
-              "type": "text",
-              "text": " "
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -480,12 +426,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -501,22 +442,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc"
             },
             {
               "type": "link",
@@ -534,12 +461,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -555,12 +477,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -583,12 +500,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -626,39 +538,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -691,19 +583,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ bạn kiểm tra cài đặt trình duyệt bằng cách click nút cài đặt bên trái đường link "
+              "text": "Ví dụ bạn kiểm tra cài đặt trình duyệt bằng cách click nút cài đặt bên trái đường link"
             },
             {
               "type": "link",
@@ -714,7 +601,7 @@
             },
             {
               "type": "text",
-              "text": " và bật ON các quyền “Thông báo”."
+              "text": "và bật ON các quyền “Thông báo”."
             }
           ]
         },
@@ -732,12 +619,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -766,7 +648,7 @@
           "content": [
             {
               "type": "text",
-              "text": "App mobile không có thông báo âm thanh thường xảy ra khi điện thoại cá nhân chưa cài đặt cho phép Subiz thông báo, "
+              "text": "App mobile không có thông báo âm thanh thường xảy ra khi điện thoại cá nhân chưa cài đặt cho phép Subiz thông báo,"
             },
             {
               "type": "link",
@@ -789,12 +671,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -812,8 +689,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Công ty mua thêm điện thoại bàn voip chuyên dụng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Công ty mua thêm điện thoại bàn voip chuyên dụng"
+                    }
+                  ]
                 }
               ]
             },
@@ -821,8 +703,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhân viên thay đổi vị trí làm việc cần đổi từ điện thoại bàn sang laptop để trực điện thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhân viên thay đổi vị trí làm việc cần đổi từ điện thoại bàn sang laptop để trực điện thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -830,8 +717,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điện thoại bàn hay máy tính của nhân viên bị hỏng, cần thay thế thiết bị gọi điện thoại nhanh chóng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điện thoại bàn hay máy tính của nhân viên bị hỏng, cần thay thế thiết bị gọi điện thoại nhanh chóng"
+                    }
+                  ]
                 }
               ]
             }
@@ -839,12 +731,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -888,12 +775,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -918,21 +800,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -957,12 +829,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -985,12 +852,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1008,19 +870,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "cài đặt tổng đài",
-                  "text": "cài đặt tổng đài",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " > Tại mục Số tổng đài, chọn nút Cài đặt ở bên phải của đầu số và đặt tên cho đầu số này"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "cài đặt tổng đài",
+                      "text": "cài đặt tổng đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Tại mục Số tổng đài, chọn nút Cài đặt ở bên phải của đầu số và đặt tên cho đầu số này"
+                    }
+                  ]
                 }
               ]
             }
@@ -1028,21 +895,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1058,12 +915,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -1072,8 +924,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Agent khi gọi điện cho khách thì sẽ dễ dàng chọn SĐT gọi đi theo tên của đầu số. Chọn 1 lần và mặc định các lần gọi điện tiếp theo sẽ sử dụng số này."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Agent khi gọi điện cho khách thì sẽ dễ dàng chọn SĐT gọi đi theo tên của đầu số. Chọn 1 lần và mặc định các lần gọi điện tiếp theo sẽ sử dụng số này."
+                    }
+                  ]
                 }
               ]
             }
@@ -1093,30 +950,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1148,19 +990,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang "
+              "text": "Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang"
             },
             {
               "type": "link",
@@ -1171,18 +1008,13 @@
             },
             {
               "type": "text",
-              "text": " như sau:"
+              "text": "như sau:"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1198,12 +1030,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1220,7 +1047,7 @@
           "content": [
             {
               "type": "text",
-              "text": "CH7: Cách phân luồng cuộc gọi chia cho nhiều nhân viên "
+              "text": "CH7: Cách phân luồng cuộc gọi chia cho nhiều nhân viên"
             }
           ]
         },
@@ -1259,12 +1086,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1292,15 +1114,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "Cài đặt tổng đài",
-                  "text": "Cài đặt tổng đài",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Cài đặt tổng đài",
+                      "text": "Cài đặt tổng đài",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1308,8 +1135,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này."
+                    }
+                  ]
                 }
               ]
             },
@@ -1317,8 +1149,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz."
+                    }
+                  ]
                 }
               ]
             }
@@ -1328,22 +1165,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết."
             }
           ]
         },
@@ -1373,12 +1196,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1394,219 +1212,99 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

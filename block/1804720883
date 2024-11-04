@@ -10,7 +10,7 @@
   "source_id": "1804720883",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -18,18 +18,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Ứng dụng Tết 2023 "
+              "text": "Ứng dụng Tết 2023"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -56,8 +51,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cửa sổ chat: Nút chat, màu sắc Tết."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cửa sổ chat: Nút chat, màu sắc Tết."
+                    }
+                  ]
                 }
               ]
             },
@@ -65,8 +65,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Pop-up: Thông báo lịch nghỉ Tết, Chúc Tết khách hàng, Khuyến mãi Tết."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pop-up: Thông báo lịch nghỉ Tết, Chúc Tết khách hàng, Khuyến mãi Tết."
+                    }
+                  ]
                 }
               ]
             },
@@ -74,8 +79,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bot: Trả lời tin nhắn tự động khi khách nhắn tin"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bot: Trả lời tin nhắn tự động khi khách nhắn tin"
+                    }
+                  ]
                 }
               ]
             },
@@ -83,8 +93,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tổng đài: Trả lời tự động khách gọi điện tới."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tổng đài: Trả lời tự động khách gọi điện tới."
+                    }
+                  ]
                 }
               ]
             },
@@ -92,8 +107,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "App Mobile: Sẵn sàng online mọi lúc, mọi nơi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "App Mobile: Sẵn sàng online mọi lúc, mọi nơi"
+                    }
+                  ]
                 }
               ]
             }
@@ -114,7 +134,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn thêm ngày nghỉ Lễ tại trang "
+              "text": "Bạn thêm ngày nghỉ Lễ tại trang"
             },
             {
               "type": "link",
@@ -126,7 +146,7 @@
             },
             {
               "type": "text",
-              "text": ". Như vậy, Subiz tự động nhận diện Ngày lễ là ngày không làm việc để bạn cài đặt điều kiện cho các chức năng khác chạy khi ngoài giờ làm việc như cửa sổ chat, bot, popup. "
+              "text": ". Như vậy, Subiz tự động nhận diện Ngày lễ là ngày không làm việc để bạn cài đặt điều kiện cho các chức năng khác chạy khi ngoài giờ làm việc như cửa sổ chat, bot, popup."
             },
             {
               "type": "link",
@@ -204,7 +224,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             }
           ]
         },
@@ -215,16 +235,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/",
-                  "title": "Đăng nhập Subiz",
-                  "text": "Đăng nhập Subiz",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/",
+                      "title": "Đăng nhập Subiz",
+                      "text": "Đăng nhập Subiz",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -232,20 +253,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt cửa sổ chat > Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Chỉnh sửa nút chat",
-                  "text": "Chỉnh sửa nút chat",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt cửa sổ chat > Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Chỉnh sửa nút chat",
+                      "text": "Chỉnh sửa nút chat",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -253,8 +275,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút chat và sử dụng mẫu phù hợp với website của bạn > Cập nhật để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút chat và sử dụng mẫu phù hợp với website của bạn > Cập nhật để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -274,21 +301,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -311,26 +328,8 @@
                   "text": "Bạn muốn quảng cáo chương trình khuyến mãi Tết?"
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "Bạn muốn chúc mừng năm mới khách truy cập website?"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
                 },
                 {
                   "type": "text",
@@ -354,35 +353,8 @@
               "type": "paragraph",
               "content": [
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "Sử dụng ngay Popup của Subiz."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
                 },
                 {
                   "type": "text",
@@ -399,10 +371,6 @@
               "type": "text",
               "text": "Hướng dẫn cài đặt:",
               "bold": true
-            },
-            {
-              "type": "text",
-              "text": " "
             }
           ]
         },
@@ -413,16 +381,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/web_plugin/create#",
-                  "title": "Mở cài đặt popup",
-                  "text": "Mở cài đặt popup",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Chọn mẫu Năm mới "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/web_plugin/create#",
+                      "title": "Mở cài đặt popup",
+                      "text": "Mở cài đặt popup",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn mẫu Năm mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -430,8 +403,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục thiết kế kịch bản, bạn sửa được nội dung thông điệp muốn gửi tới khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục thiết kế kịch bản, bạn sửa được nội dung thông điệp muốn gửi tới khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -439,8 +417,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục Cài đặt, chọn thời gian chạy popup"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục Cài đặt, chọn thời gian chạy popup"
+                    }
+                  ]
                 }
               ]
             },
@@ -448,8 +431,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Xuất bản để hoàn thành "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Xuất bản để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -488,30 +476,12 @@
                   "text": "Khách hàng luôn muốn được hỗ trợ ngay khi liên hệ tới Doanh nghiệp."
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "Để khách hàng được phản hồi ngay tức thì, bạn hãy sử dụng thêm bot tự động trả lời."
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
-                  "text": "Bot tự động giúp bạn: "
+                  "text": "Bot tự động giúp bạn:"
                 }
               ]
             }
@@ -524,8 +494,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông báo lịch nghỉ Tết của tư vấn viên"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo lịch nghỉ Tết của tư vấn viên"
+                    }
+                  ]
                 }
               ]
             },
@@ -533,8 +508,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Trả lời các câu hỏi thường gặp của khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trả lời các câu hỏi thường gặp của khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -542,8 +522,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hỏi số điện thoại khách và hẹn lịch tư vấn sau"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỏi số điện thoại khách và hẹn lịch tư vấn sau"
+                    }
+                  ]
                 }
               ]
             },
@@ -551,8 +536,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cảm ơn khách đã liên hệ tới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cảm ơn khách đã liên hệ tới"
+                    }
+                  ]
                 }
               ]
             }
@@ -575,7 +565,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn cài đặt: ",
+              "text": "Hướng dẫn cài đặt:",
               "italic": true,
               "bold": true
             }
@@ -588,8 +578,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt bot "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt bot"
+                    }
+                  ]
                 }
               ]
             },
@@ -597,8 +592,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo bot trống > Thiết kế kịch bản "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo bot trống > Thiết kế kịch bản"
+                    }
+                  ]
                 }
               ]
             },
@@ -606,8 +606,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cài đặt sửa tên bot và ảnh bot > Xuất bản để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cài đặt sửa tên bot và ảnh bot > Xuất bản để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -680,20 +685,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "đầu số tổng đài",
-                  "text": "đầu số tổng đài",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " vào Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "đầu số tổng đài",
+                      "text": "đầu số tổng đài",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "vào Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -701,8 +711,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thiết lập đấu nối đầu số từ nhà mạng vào Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết lập đấu nối đầu số từ nhà mạng vào Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -710,12 +725,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/rule-setting",
-                  "title": "Cài đặt rule cuộc gọi",
-                  "text": "Cài đặt rule cuộc gọi",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/rule-setting",
+                      "title": "Cài đặt rule cuộc gọi",
+                      "text": "Cài đặt rule cuộc gọi",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -728,8 +748,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Điều kiện: Ngoài giờ làm việc"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Điều kiện: Ngoài giờ làm việc"
+                    }
+                  ]
                 }
               ]
             },
@@ -737,8 +762,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hành động Cúp máy và Thay đổi lời thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hành động Cúp máy và Thay đổi lời thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -746,8 +776,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn agent xử lý cuộc gọi nhỡ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn agent xử lý cuộc gọi nhỡ"
+                    }
+                  ]
                 }
               ]
             }
@@ -786,15 +821,6 @@
                   "text": "Tư vấn viên vẫn trực tết sẵn sàng hỗ trợ khách hàng mọi lúc, mọi nơi với app mobile Subiz."
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "Tải app Subiz ngay!!!"
                 }
@@ -816,12 +842,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

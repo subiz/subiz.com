@@ -10,7 +10,7 @@
   "source_id": "357827687",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,19 +24,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh Zalo OA và cách xử lý. "
+              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh Zalo OA và cách xử lý."
             }
           ]
         },
@@ -57,36 +52,41 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Zalo OA chưa trả phí hoặc hết hạn gói đã trả phí. "
-                },
-                {
-                  "type": "text",
-                  "text": "Cách kiểm tra gói dịch vụ của Zalo: Đăng nhập Zalo OA > Quản lý "
-                },
-                {
-                  "type": "text",
-                  "text": ">"
-                },
-                {
-                  "type": "link",
-                  "href": "https://oa.zalo.me/manage/account",
-                  "title": " Quản lý tài khoản",
-                  "text": " Quản lý tài khoản",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " >"
-                },
-                {
-                  "type": "text",
-                  "text": " trong Quản lý gói xem gói nâng cao hay premium chưa?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Zalo OA chưa trả phí hoặc hết hạn gói đã trả phí."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cách kiểm tra gói dịch vụ của Zalo: Đăng nhập Zalo OA > Quản lý"
+                    },
+                    {
+                      "type": "text",
+                      "text": ">"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://oa.zalo.me/manage/account",
+                      "title": "Quản lý tài khoản",
+                      "text": "Quản lý tài khoản",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ">"
+                    },
+                    {
+                      "type": "text",
+                      "text": "trong Quản lý gói xem gói nâng cao hay premium chưa?"
+                    }
+                  ]
                 }
               ]
             },
@@ -94,28 +94,33 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": "
-                },
-                {
-                  "type": "text",
-                  "text": "Nếu chưa,, bạn cần mua gói Nâng cao hoặc premium của Zalo OA. "
-                },
-                {
-                  "type": "link",
-                  "href": "https://oa.zalo.me/home/resources/policy/-trien-khai-goi-dich-vu-tra-phi-voi-zalo-oa-doanh-nghiep_4326077009372661188",
-                  "title": "Xem hướng dẫn trả phí",
-                  "text": "Xem hướng dẫn trả phí",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ". "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ":"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nếu chưa,, bạn cần mua gói Nâng cao hoặc premium của Zalo OA."
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://oa.zalo.me/home/resources/policy/-trien-khai-goi-dich-vu-tra-phi-voi-zalo-oa-doanh-nghiep_4326077009372661188",
+                      "title": "Xem hướng dẫn trả phí",
+                      "text": "Xem hướng dẫn trả phí",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -123,12 +128,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -147,13 +147,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Do Zalo giới hạn quyền nhận gửi tin nhắn cho Subiz trong 1 khoảng thời gian nên Quản trị viên Zalo cần cấp lại quyền cho Subiz bằng cách tích hợp lại Zalo vào Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Do Zalo giới hạn quyền nhận gửi tin nhắn cho Subiz trong 1 khoảng thời gian nên Quản trị viên Zalo cần cấp lại quyền cho Subiz bằng cách tích hợp lại Zalo vào Subiz."
+                    }
+                  ]
                 }
               ]
             },
@@ -161,24 +166,29 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bạn thao tác lại các bước Tích hợp Zalo OA vào Subiz tại trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/zalo",
-                  "title": "Cài đặt > Tích hợp Zalo",
-                  "text": "Cài đặt > Tích hợp Zalo",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ". "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bạn thao tác lại các bước Tích hợp Zalo OA vào Subiz tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/zalo",
+                      "title": "Cài đặt > Tích hợp Zalo",
+                      "text": "Cài đặt > Tích hợp Zalo",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -198,12 +208,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -222,8 +227,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Token Zalo OA hết hạn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Token Zalo OA hết hạn"
+                    }
+                  ]
                 }
               ]
             },
@@ -231,19 +241,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/docs/297964546-ket-noi-zalo-oa",
-                  "title": "Tích hợp lại Zalo OA vào Subiz",
-                  "text": "Tích hợp lại Zalo OA vào Subiz",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " để cấp lại các quyền nhắn tin cho Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý:"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/docs/297964546-ket-noi-zalo-oa",
+                      "title": "Tích hợp lại Zalo OA vào Subiz",
+                      "text": "Tích hợp lại Zalo OA vào Subiz",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "để cấp lại các quyền nhắn tin cho Subiz."
+                    }
+                  ]
                 }
               ]
             }
@@ -278,8 +293,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân: Do khách hàng không có tương tác nhắn tin tới Zalo OA trong 7 ngày gần nhất."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân: Do khách hàng không có tương tác nhắn tin tới Zalo OA trong 7 ngày gần nhất."
+                    }
+                  ]
                 }
               ]
             },
@@ -287,8 +307,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách xử lý: Liên hệ khách qua kênh khác như gọi điện thoại, gửi email, nhắn tin messenger "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Liên hệ khách qua kênh khác như gọi điện thoại, gửi email, nhắn tin messenger"
+                    }
+                  ]
                 }
               ]
             }
@@ -296,12 +321,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -317,12 +337,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

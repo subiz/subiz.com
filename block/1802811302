@@ -10,7 +10,7 @@
   "source_id": "1802811302",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -57,8 +52,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tổng hợp thông tin khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tổng hợp thông tin khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -66,8 +66,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Phân loại các nhóm khách hàng mục tiêu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân loại các nhóm khách hàng mục tiêu"
+                    }
+                  ]
                 }
               ]
             },
@@ -75,8 +80,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thực hiện các chiến dịch chăm sóc, bán hàng cho khách hàng mục tiêu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thực hiện các chiến dịch chăm sóc, bán hàng cho khách hàng mục tiêu"
+                    }
+                  ]
                 }
               ]
             }
@@ -97,7 +107,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Xem nhãn phân loại khách tại tại trang "
+              "text": "Xem nhãn phân loại khách tại tại trang"
             },
             {
               "type": "link",
@@ -110,12 +120,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -131,19 +136,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Xem nhãn phân loại khách tại trang "
+              "text": "Xem nhãn phân loại khách tại trang"
             },
             {
               "type": "link",
@@ -156,12 +156,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -201,16 +196,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz > Mở Cài đặt > Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/label",
-                  "title": "Nhãn phân loại",
-                  "text": "Nhãn phân loại",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz > Mở Cài đặt > Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/label",
+                      "title": "Nhãn phân loại",
+                      "text": "Nhãn phân loại",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -218,8 +218,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo nhãn > Nhập thông tin nhãn phân loại > Lưu để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo nhãn > Nhập thông tin nhãn phân loại > Lưu để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -239,30 +244,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

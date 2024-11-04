@@ -10,7 +10,7 @@
   "source_id": "1957649110",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -46,7 +41,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Chỉnh sửa cửa sổ chat "
+              "text": "Chỉnh sửa cửa sổ chat"
             }
           ]
         },
@@ -65,7 +60,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ mã API sửa tiêu đề, lời chào "
+              "text": "Ví dụ mã API sửa tiêu đề, lời chào"
             }
           ]
         },
@@ -343,12 +338,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 }
               ]
             }
@@ -356,12 +346,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -375,12 +360,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -618,12 +598,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -637,12 +612,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -796,12 +766,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1003,12 +968,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 },
                 {
                   "type": "paragraph",
@@ -1114,12 +1074,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1657,12 +1612,7 @@
                 },
                 {
                   "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
+                  "content": []
                 }
               ]
             }
@@ -1670,12 +1620,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1703,60 +1648,48 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Thiết kế riêng nút chat mới và đặt nút chat lên website"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Thiết kế riêng nút chat mới và đặt nút chat lên website"
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bước 2: Gắn API đặt lệnh mở cửa sổ chat khi khách click nút chat vừa thiết kế"
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bước 3: "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Tắt OFF nút chat Subiz",
-                  "text": "Tắt OFF nút chat Subiz",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "paragraph",
               "content": [
                 {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": ""
+                      "text": "Bước 2: Gắn API đặt lệnh mở cửa sổ chat khi khách click nút chat vừa thiết kế"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
                 {
-                  "type": "text",
-                  "text": "Một số mã API mở cửa sổ chat:"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3:"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Tắt OFF nút chat Subiz",
+                      "text": "Tắt OFF nút chat Subiz",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             }
@@ -1767,9 +1700,13 @@
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": "Một số mã API mở cửa sổ chat:"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "pre",
@@ -1839,21 +1776,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -1895,21 +1822,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -1951,21 +1868,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -2035,12 +1942,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -2063,12 +1965,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -2138,12 +2035,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -2213,21 +2105,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -2297,21 +2179,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -2329,16 +2201,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Key: là khóa trường thông tin, xem tại trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/user-attributes",
-                  "title": "cài đặt Trường thông tin",
-                  "text": "cài đặt Trường thông tin",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Key: là khóa trường thông tin, xem tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/user-attributes",
+                      "title": "cài đặt Trường thông tin",
+                      "text": "cài đặt Trường thông tin",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -2346,15 +2223,11 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Định dạng trường thông tin: Text, Number, Boolean, List, Date Time"
-                },
-                {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": ""
+                      "text": "Định dạng trường thông tin: Text, Number, Boolean, List, Date Time"
                     }
                   ]
                 }

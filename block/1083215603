@@ -10,7 +10,7 @@
   "source_id": "1083215603",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -46,18 +41,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Pop-up là một cửa sổ quảng cáo, bằng cách tự động hiện cửa sổ nổi bật trên website với mục đích kêu gọi khách hàng hành động. "
+              "text": "Pop-up là một cửa sổ quảng cáo, bằng cách tự động hiện cửa sổ nổi bật trên website với mục đích kêu gọi khách hàng hành động."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -75,8 +65,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thu thập thông tin của khách như họ tên, số điện thoại, ..hoặc tổng hợp ý kiến đánh giá của khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thu thập thông tin của khách như họ tên, số điện thoại, ..hoặc tổng hợp ý kiến đánh giá của khách."
+                    }
+                  ]
                 }
               ]
             },
@@ -84,8 +79,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quảng cáo thu hút và điều hướng khách sang trang khuyến mãi hay sản phẩm mới."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quảng cáo thu hút và điều hướng khách sang trang khuyến mãi hay sản phẩm mới."
+                    }
+                  ]
                 }
               ]
             },
@@ -93,8 +93,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông báo sự kiện hoặc thông tin quan trọng của Doanh nghiệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo sự kiện hoặc thông tin quan trọng của Doanh nghiệp"
+                    }
+                  ]
                 }
               ]
             }
@@ -133,12 +138,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -156,30 +156,35 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Nhấp chuột "
-                },
-                {
-                  "type": "text",
-                  "text": "ô màu sắc xem thêm",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/web_plugin",
-                  "title": "Tiện ích web",
-                  "text": "Tiện ích web",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Nhấp chuột"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ô màu sắc xem thêm",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/web_plugin",
+                      "title": "Tiện ích web",
+                      "text": "Tiện ích web",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -187,17 +192,22 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn "
-                },
-                {
-                  "type": "text",
-                  "text": "Tạo mới ",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": "> Chọn mẫu popup đang có"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tạo mới",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn mẫu popup đang có"
+                    }
+                  ]
                 }
               ]
             }
@@ -210,13 +220,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Thiết kế popup sinh động bằng cách nhập nội dung thông điệp và thay đổi hình ảnh quảng cáo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Thiết kế popup sinh động bằng cách nhập nội dung thông điệp và thay đổi hình ảnh quảng cáo"
+                    }
+                  ]
                 }
               ]
             },
@@ -224,13 +239,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Cài đặt điều kiện chạy Popup khi nào, với nhóm khách hàng nào"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Cài đặt điều kiện chạy Popup khi nào, với nhóm khách hàng nào"
+                    }
+                  ]
                 }
               ]
             }
@@ -238,12 +258,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -288,12 +303,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -309,21 +319,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -346,12 +346,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -398,12 +393,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -444,7 +434,7 @@
             },
             {
               "type": "text",
-              "text": ": Ngay sau khi khách nhập thông tin vào popup thì khách sẽ nhận được thông báo mã khuyến mãi. "
+              "text": ": Ngay sau khi khách nhập thông tin vào popup thì khách sẽ nhận được thông báo mã khuyến mãi."
             }
           ]
         },
@@ -462,12 +452,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -511,44 +496,20 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/2ea3ed3675cf34d86792d35665ad85d3246ba745d9f3724f17f327a63197c1cf_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -572,12 +533,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -626,12 +582,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -648,12 +599,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -689,12 +635,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -723,66 +664,31 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

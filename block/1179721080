@@ -1,16 +1,16 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "Thông báo tin nhắn mới"
+    "vi_VN": "Không có thông báo tin nhắn mới phải làm sao?"
   },
   "i18n_slug": {
-    "vi_VN": "thong-bao-tin-nhan-moi"
+    "vi_VN": "khong-co-thong-bao-tin-nhan-moi-phai-lam-sao-"
   },
   "category": "3",
   "source_id": "1179721080",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -18,7 +18,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Thông báo tin nhắn mới"
+              "text": "Không có thông báo tin nhắn mới phải làm sao?"
             }
           ]
         },
@@ -48,19 +48,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/profile/setting-notification",
-                  "title": "nút chuông thông báo",
-                  "text": "nút chuông thông báo",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/profile/setting-notification",
+                      "title": "nút chuông thông báo",
+                      "text": "nút chuông thông báo",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -68,12 +73,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -81,8 +91,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON thông báo Tin nhắn mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON thông báo Tin nhắn mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -90,8 +105,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn lặp lại và kiểu chuông nếu cần"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn lặp lại và kiểu chuông nếu cần"
+                    }
+                  ]
                 }
               ]
             }
@@ -99,12 +119,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -130,12 +145,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -158,19 +168,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/profile/setting-notification",
-                  "title": "nút chuông thông báo",
-                  "text": "nút chuông thông báo",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/profile/setting-notification",
+                      "title": "nút chuông thông báo",
+                      "text": "nút chuông thông báo",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -178,8 +193,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -187,8 +207,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tắt OFT thông báo khách mới và khách quay lại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tắt OFT thông báo khách mới và khách quay lại"
+                    }
+                  ]
                 }
               ]
             }
@@ -196,12 +221,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -232,19 +252,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/profile/setting-notification",
-                  "title": "nút chuông thông báo",
-                  "text": "nút chuông thông báo",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " bên phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/profile/setting-notification",
+                      "title": "nút chuông thông báo",
+                      "text": "nút chuông thông báo",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bên phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -252,8 +277,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn nút Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -261,8 +291,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm mục âm thanh thông báo và thay đổi loại chuông, âm lượng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm mục âm thanh thông báo và thay đổi loại chuông, âm lượng"
+                    }
+                  ]
                 }
               ]
             }
@@ -270,12 +305,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -310,12 +340,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -343,8 +368,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -352,15 +382,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click vào icon Khóa “Xem thông tin trang web” bên trái đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click vào icon Khóa “Xem thông tin trang web” bên trái đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -368,8 +403,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON (Cho phép) thông báo, bật ON (Cho phép) âm thanh"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON (Cho phép) thông báo, bật ON (Cho phép) âm thanh"
+                    }
+                  ]
                 }
               ]
             }
@@ -377,12 +417,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -411,7 +446,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ với window 10 trở lên: "
+              "text": "Ví dụ với window 10 trở lên:"
             }
           ]
         },
@@ -422,8 +457,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Nhấn tổ hợp phím Windows + I để mở Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Nhấn tổ hợp phím Windows + I để mở Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -438,22 +478,13 @@
                       "text": "Bước 2: Tìm kiếm “Notifications & actions”. Trên giao diện có mục “Get notifications from apps and other senders”, bật ON thông báo cho trình duyệt bạn đang sử dụng. (Google Chrome, Cốc Cốc, Firefox,...)"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "link",
+                      "href": "https://www.youtube.com/watch?v=usDLQp7IqHE",
+                      "title": "Xem video hướng dẫn khi không nhận được thông báo tin nhắn mới",
+                      "text": "Xem video hướng dẫn khi không nhận được thông báo tin nhắn mới",
+                      "target": "_blank"
                     }
                   ]
-                },
-                {
-                  "type": "link",
-                  "href": "https://www.youtube.com/watch?v=usDLQp7IqHE",
-                  "title": "Xem video hướng dẫn khi không nhận được thông báo tin nhắn mới",
-                  "text": "Xem video hướng dẫn khi không nhận được thông báo tin nhắn mới",
-                  "target": "_blank"
                 }
               ]
             }
@@ -461,57 +492,27 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

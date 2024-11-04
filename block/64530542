@@ -10,7 +10,7 @@
   "source_id": "64530542",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -18,7 +18,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Danh sách sản phẩm "
+              "text": "Danh sách sản phẩm"
             }
           ]
         },
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -55,25 +50,7 @@
           "content": [
             {
               "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
               "text": "Chức năng Sản phẩm của Subiz giúp bạn lưu trữ thông tin sản phẩm phục vụ chính cho việc chat tư vấn khách hàng và có thể đồng bộ dữ liệu đơn hàng về phần mềm quản lý kho của bạn."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         },
@@ -92,12 +69,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -123,12 +95,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -156,19 +123,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz > "
-                },
-                {
-                  "type": "text",
-                  "text": "Chọn ô màu sắc Xem thêm > chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/products",
-                  "title": "SẢN PHẨM",
-                  "text": "SẢN PHẨM",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz >"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn ô màu sắc Xem thêm > chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/products",
+                      "title": "SẢN PHẨM",
+                      "text": "SẢN PHẨM",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -176,17 +148,22 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn "
-                },
-                {
-                  "type": "text",
-                  "text": "Nhập Sản phẩm",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " > Cập nhật các thông tin của sản phẩm "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nhập Sản phẩm",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Cập nhật các thông tin của sản phẩm"
+                    }
+                  ]
                 }
               ]
             }
@@ -221,15 +198,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz > Chọn ô màu sắc Xem thêm > chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/products",
-                  "title": "SẢN PHẨM",
-                  "text": "SẢN PHẨM",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz > Chọn ô màu sắc Xem thêm > chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/products",
+                      "title": "SẢN PHẨM",
+                      "text": "SẢN PHẨM",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -237,8 +219,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập Sản phẩm > Chọn đồng bộ dữ liệu từ file excel > Tải file exel sản phẩm của bạn lên > Nối các cột dữ liệu trong file excel với các trường dữ liệu của Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập Sản phẩm > Chọn đồng bộ dữ liệu từ file excel > Tải file exel sản phẩm của bạn lên > Nối các cột dữ liệu trong file excel với các trường dữ liệu của Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -258,12 +245,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -297,12 +279,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "heading",
-                  "level": 2,
+                  "type": "paragraph",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Trường hợp 1: Gửi thông tin sản phẩm trong khi chat"
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 1: Gửi thông tin sản phẩm trong khi chat"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -315,7 +302,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Agent trong khi chat tư vấn khách hàng trên trang "
+              "text": "Agent trong khi chat tư vấn khách hàng trên trang"
             },
             {
               "type": "link",
@@ -326,7 +313,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             },
             {
               "type": "text",
@@ -334,7 +321,7 @@
             },
             {
               "type": "text",
-              "text": " > Tìm sản phẩm > Gửi thẻ sản phẩm cho khách"
+              "text": "> Tìm sản phẩm > Gửi thẻ sản phẩm cho khách"
             }
           ]
         },
@@ -357,12 +344,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "heading",
-                  "level": 2,
+                  "type": "paragraph",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Trường hợp 2: Mời mua hàng và tạo đơn hàng mới"
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 2: Mời mua hàng và tạo đơn hàng mới"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -375,16 +367,12 @@
           "content": [
             {
               "type": "text",
-              "text": "Agent trong khi chat tư vấn khách hàng, gửi thông tin sản phẩm và có thể click "
+              "text": "Agent trong khi chat tư vấn khách hàng, gửi thông tin sản phẩm và có thể click"
             },
             {
               "type": "text",
               "text": "Tạo đơn với sp này",
               "bold": true
-            },
-            {
-              "type": "text",
-              "text": " "
             },
             {
               "type": "text",
@@ -411,12 +399,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "heading",
-                  "level": 2,
+                  "type": "paragraph",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Trường hợp 3: Bot tự động quảng cáo sản phẩm"
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 3: Bot tự động quảng cáo sản phẩm"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -443,7 +436,7 @@
             },
             {
               "type": "text",
-              "text": ": Mở trang Bot > Tạo bot > Bot trống > Tại mục Thiết kế kịch bản, soạn tin nhắn chào khách và chọn Thêm thẻ sản phẩm "
+              "text": ": Mở trang Bot > Tạo bot > Bot trống > Tại mục Thiết kế kịch bản, soạn tin nhắn chào khách và chọn Thêm thẻ sản phẩm"
             }
           ]
         },
@@ -474,111 +467,51 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -586,45 +519,25 @@
           "content": [
             {
               "type": "text",
-              "text": ""
+              "text": " "
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

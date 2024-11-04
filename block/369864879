@@ -10,7 +10,7 @@
   "source_id": "369864879",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -43,12 +38,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -61,28 +51,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn muốn chuyển dữ liệu khách hàng điền bảng hỏi thông tin trên website về phần mềm Subiz, nhằm giúp tư vấn viên tập trung chăm sóc khách hàng. Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách từ bảng hỏi website vào Subiz."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
+              "text": "Bạn muốn chuyển dữ liệu khách hàng điền bảng hỏi thông tin trên website về phần mềm Subiz, nhằm giúp tư vấn viên tập trung chăm sóc khách hàng. Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz."
             }
           ]
         },
@@ -103,13 +79,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bảng hỏi",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bảng hỏi thông tin khách hàng trên website. Subiz ghi nhận đây là 1 kênh tương tác khách hàng, giúp agent thống kê chuyển đổi khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bảng hỏi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bảng hỏi thông tin khách hàng trên website. Subiz ghi nhận đây là 1 kênh tương tác khách hàng, giúp agent thống kê chuyển đổi khách."
+                    }
+                  ]
                 }
               ]
             },
@@ -117,13 +98,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Popup",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Chức năng trên Subiz cho trung chuyển thông tin khách điền bảng hỏi vào Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Popup",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Chức năng trên Subiz cho trung chuyển thông tin khách điền bảng hỏi vào Subiz."
+                    }
+                  ]
                 }
               ]
             },
@@ -131,24 +117,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "API JS",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Một mã lệnh được đặt vào code website, cho phép chuyển dữ liệu đi khi khách điền bảng hỏi."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "API JS",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Một mã lệnh được đặt vào code website, cho phép chuyển dữ liệu đi khi khách điền bảng hỏi."
+                    }
+                  ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         },
@@ -168,18 +150,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 1: Kiểm tra thông tin khách trên Subiz"
+              "text": "Bước 1: Kiểm tra trường thông tin khách trên Subiz"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -192,19 +169,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn kiểm tra trên Subiz có các trường lưu trữ thông tin khách điền chưa tại trang "
+              "text": "Bạn kiểm tra trên Subiz có các trường lưu trữ thông tin khách điền chưa tại trang"
             },
             {
               "type": "link",
@@ -221,12 +193,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -242,12 +209,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -258,15 +220,6 @@
               "title": "Xem hướng dẫn sử dụng thông tin khách hàng",
               "text": "Xem hướng dẫn sử dụng thông tin khách hàng",
               "target": "_blank"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": " "
             }
           ]
         },
@@ -285,12 +238,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Mục đích tạo Popup",
-              "bold": true
-            },
-            {
-              "type": "text",
-              "text": ": Khách điền thông tin qua bảng hỏi website sẽ được chuyển vào Subiz thông qua popup này. Bạn chỉ cần tạo popup để có mã định danh popup, lưu ý cần tắt OFF tạm ngưng hoạt động của popup."
+              "text": "Khách điền thông tin qua bảng hỏi website sẽ được chuyển vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup (ID popup) thêm vào API JavaScript tại bước 3."
             }
           ]
         },
@@ -308,12 +256,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -325,7 +268,7 @@
             },
             {
               "type": "text",
-              "text": ": Giúp agent nhận được thông báo tức thì ngay khi khách điền bảng hỏi website, bạn sẽ cài đặt điều kiện chạy popup cho phép “tạo hội thoại sau khi điền bảng hỏi”"
+              "text": ": Giúp agent nhận được thông báo tức thì ngay khi khách điền bảng hỏi website, bạn cài đặt thêm cho popup cho phép “tạo hội thoại sau khi điền bảng hỏi”"
             }
           ]
         },
@@ -343,16 +286,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
-          "level": 1,
+          "level": 2,
           "content": [
             {
               "type": "text",
@@ -362,12 +300,33 @@
         },
         {
           "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "API js dưới đây cho phép gửi dữ liệu khách điền bảng hỏi về phần mềm Subiz. Vị trí đặt API js: Lệnh API js được thực hiện sau khi khách click vào nút CTA trên bảng hỏi website. Ví dụ như nút Gửi yêu cầu, gửi đăng ký,... "
+              "text": "Bạn cần viết hàm API JavaScript để gửi dữ liệu từ bảng hỏi thông tin trên website đến Subiz sau khi khách hàng nhập xong thông tin."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ mẫu API JavaScript Subiz có cấu trúc như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "pre",
@@ -415,7 +374,25 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "', 'cprsxvtpgbiiedribdzcj', ["
+                          "text": "', '"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "cprsxvtpgbiiedribdzcj"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "', ["
                         }
                       ]
                     }
@@ -429,7 +406,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": " {key: 'message', value: 'Có dịch vụ vệ sinh máy tính tại nhà không ạ?' },"
+                          "text": " {key: 'message', value: 'mesagevalue' },"
                         }
                       ]
                     }
@@ -443,7 +420,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": " {key: 'fullname', value: 'Le Thien Luc' },"
+                          "text": " {key: 'fullname', value: 'namevalue' },"
                         }
                       ]
                     }
@@ -457,7 +434,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": " {key: 'email', value: 'leluc.vnu2015@gmail.com' },"
+                          "text": " {key: 'email', value: 'emailvalue' },"
                         }
                       ]
                     }
@@ -471,7 +448,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": " {key: 'phones', value: \"0917284xxx\"}])"
+                          "text": " {key: 'phones', value: \"phonevalue\"}])"
                         }
                       ]
                     }
@@ -508,12 +485,83 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 1,
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bước 4: Agent nhận thông tin khách từ bảng hỏi "
+              "text": "Ví dụ bảng hỏi trên website thiết kế như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/91d67ae24eb5112cac7a6a4b2947878e30519be7b4182beb303e8e0247a35cb8_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã API JavaScript Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút \"Gửi\"."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dưới đây là cách bạn nối bảng hỏi trên với Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/adc73683909f611470cde2e5ed3327c9a1d73071c5acad36c910d828499b77f2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Agent nhận thông tin khách trên Subiz"
             }
           ]
         },
@@ -522,7 +570,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Các agent sẽ nhận được thông tin khách điền bảng hỏi tại trang "
+              "text": "Các agent sẽ nhận được thông tin khách điền bảng hỏi tại trang"
             },
             {
               "type": "link",
@@ -539,12 +587,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -560,12 +603,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -581,12 +619,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -617,15 +650,6 @@
               "bold": true
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "text",
               "text": "Trả lời",
               "bold": true
@@ -636,15 +660,6 @@
                 {
                   "type": "text",
                   "text": ": Hoàn toàn làm được."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
                 },
                 {
                   "type": "text",
@@ -668,12 +683,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -689,12 +699,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -715,15 +720,6 @@
               "bold": true
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "text",
               "text": "Trả lời",
               "bold": true
@@ -738,22 +734,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup (Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên) và chọn xuất file dữ liệu về. "
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup (Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên) và chọn xuất file dữ liệu về."
             },
             {
               "type": "link",
@@ -766,12 +748,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",

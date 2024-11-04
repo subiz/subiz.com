@@ -1,0 +1,962 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Chatbot Hybrid - tự động hóa chào/hỏi, thu thập thông tin khách hàng"
+  },
+  "i18n_slug": {
+    "vi_VN": "chatbot-hybrid---tu-dong-hoa-chao/hoi,-thu-thap-thong-tin-khach-hang"
+  },
+  "source_id": "335756680",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot Hybrid - tự động hóa chào/hỏi, thu thập thông tin khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot Hybrid là gì?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot Hybrid là sự kết hợp giữa live chat và chatbot, trong đó sẽ có một robot được thiết lập theo kịch bản và một hoặc nhiều nhân viên cùng tham gia nói chuyện với khách hàng. Chatbot thông thường sẽ làm việc một mình, chatbot hybrid khác ở chỗ con người tham gia cùng với chatbot."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi nào nên sử dụng Chatbot Subiz, dùng để làm gì?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi doanh nghiệp bạn có tương tác với khách hàng. Khi bạn không thể trực chat 24/24 mà vẫn muốn mang lại trải nghiệm hài lòng cho khách hàng. Chatbot Hybrid Subiz sẽ giúp bạn làm điều này, chào hỏi ngay khi khách vào Website, trả lời tức thì, phân luồng tới đúng người phụ trách và hơn thế, chatbot còn khéo léo giúp bạn thu thập thông tin khách hàng hiệu quả."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot Subiz hoạt động như thế nào?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để bot hoạt động, bạn cần phải thiết lập kịch bản có sẵn. Sau đó bot sẽ"
+            },
+            {
+              "type": "text",
+              "text": "tự động nhắn tin trả lời khách hàng từ website, Fanpage, Zalo OA, Instagram,... theo kịch bản đã xây dựng trước đó."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản bot được thiết kế theo điều kiện nếu thì. Nếu thỏa mãn một điều kiện nhất định thì bot sẽ thực hiện một hành động cụ thể. Ví dụ nếu khách vào website trong giờ làm việc thì bot sẽ gửi tin nhắn chào. Nếu khách chưa có SĐT thì bot sẽ hỏi SĐT của khách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn khách hàng theo các nút gợi ý phản hồi nhanh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0a6c995e08ebb9fa26adb5acab794440a811b6910f93f5cb54cdd2681c0d7484_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỏi thông tin khách hàng như Họ tên, SĐT,..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/8f054f23ca1d366753ae13d1d72b221d4755a64ccec4ee905d43592b7b6d710b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân luồng khách hàng và giao cho nhân viên phụ trách (Agent)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d927f0e703301bedc54efc988f7975d750a69da97a40eeeac61fc018fa03150a_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt bot mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên Subiz, bạn có thể sử dụng các mẫu bot theo từng ngành đã được cài đặt trước đó. Tuy nhiên, bạn cũng có thể tự tạo nội dung bot cho mình theo hướng dẫn dưới đây:n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Mở trang cài đặt bot"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt trên Subiz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/bots",
+                      "title": "chức năng Bot",
+                      "text": "chức năng Bot",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo Bot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chào khách, chọn Sử dụng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Thiết kế kịch bản cho bot mới",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kịch bản bot gồm nhiều hành động nối tiếp nhau theo điều kiện Nếu - Thì. Nếu một điều kiện được thỏa mãn thì bot sẽ chạy hành động."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Các hành động của bot như: Gửi tin nhắn, Hỏi thông tin SĐT, Gửi cho agent tư vấn viên, Gắn Tag Hội thoại,...."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bấm dấu + để thêm hành động mới cho bot"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/823da01b7f7323ca2845967b6e4758e77e2c02a36b17bfa1bed6d60e56509edf_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Cài đặt điều kiện nâng cao cho bot",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa tên và ảnh"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "hiển thị khi nhắn tin với khách"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chạy trên website hay Fanpage hay Zalo OA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chạy với một nhóm khách hàng cụ thể hay theo thời gian làm việc,..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a2f33a8e1edea100b8feb5e495ee270abb57cc2f068af2b063f0ac36a9f6544d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s",
+              "title": "Xem video hướng dẫn cài đặt bot",
+              "text": "Xem video hướng dẫn cài đặt bot",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số ví dụ kịch bản bot"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot chào đón khách vào website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản bot gửi tin nhắn kèm hình ảnh và các nút gợi ý mời gọi khách nhắn tin nhanh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/bc5954ed37ed2441f9f99341589722e2bedd9372749fbe4dcae28195648e306d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt nâng cao cho bot chọn, sửa tên bot và thay đổi ảnh"
+            },
+            {
+              "type": "text",
+              "text": "bot"
+            },
+            {
+              "type": "text",
+              "text": "hiển thị phía khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại mục Bot chạy khi nào, nhấp chọn Khách xem website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b00f5b1a20ec6fa1a606465716228b723ad792583d1708c688ff321d95715b89_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot quảng cáo sản phẩm mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trong kịch bản bot, bạn nhấn sửa tin nhắn và chọn đính kèm Thêm thẻ Sản phẩm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/6f281d862bfb6092f494ce0de8ba6b05293ca4f3afc9978da6d93a8aa1d110c1_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau đó, bạn thay đổi hình ảnh, nhập mô tả ngắn gọn về sản phẩm, sửa nút chuyển về website, nút gọi điện nếu cần."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/abaf80087c024619bd6e5b7e4e95737442be0e27629e6627924d47241532f744_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot trả lời riêng trên 1 website cụ thể"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tìm mục Chạy trên website nào, nhấn nút + để thêm từ khóa trong URL website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Nếu chỉ cho bot chạy trên trang sản phẩm có Url là https://subiz.com.vn/product thì nhập có chứa “product”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/72e1d7286e5055fa6198363ca3f0d7e10b8271a8b56bcf2d8d01ef1e726e28a9_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot trả lời riêng trên Fanpage hoặc Zalo OA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot. Tìm mục"
+            },
+            {
+              "type": "text",
+              "text": "Bot"
+            },
+            {
+              "type": "text",
+              "text": "chạy khi nào, chọn Khách gửi tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể"
+            },
+            {
+              "type": "text",
+              "text": "nhấp"
+            },
+            {
+              "type": "text",
+              "text": "nút - bỏ kênh website nếu không muốn"
+            },
+            {
+              "type": "text",
+              "text": "bot"
+            },
+            {
+              "type": "text",
+              "text": "chạy trên website. Hoặc bạn nhấp nút + để chọn cụ thể tên 1 Fanpage hoặc Zalo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f2eb498aceca045688b17f71317cf09e95561a8b2dc3900e64eb28032e7f6aa4_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot hybrid có gì tối ưu hơn bot thông thường?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot thông thường hoạt động độc lập, cứng nhắc và không thể xử lý câu hỏi khó, điều này khiến khách hàng cảm thấy chán và không muốn tương tác tiếp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hybrid chatbot tương tác tự nhiên như người thật, khách hàng sẽ khó phân biệt được là đang nói chuyện với bot bởi sự kết hợp giữ phản hồi tự động của chatbot cùng với sự can thiệp của con người. Khi chatbot không thể phản hồi câu trả lời của khách hàng, bot sẽ ngay lập tức chuyển cuộc chat đó cho tư vấn viên để tiếp tục hỗ trợ khách. Hybrid chatbot là lựa chọn lý tưởng để tạo cuộc hội thoại liền mạch và tối ưu quá trình hỗ trợ khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot Hybrid hỗ trợ những ngôn ngữ nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chatbot Hybrid hỗ trợ nhiều ngôn ngữ khác nhau. Bạn chỉ cần lựa chọn ngôn phù hợp trong phần cài đặt bot là được. Bạn có thể sử dụng 1 ngôn ngữ cho nhiều kênh khác nhau hoặc mỗi kênh sử dụng riêng một ngôn ngữ. Điều đó sẽ phụ thuộc vào phần cài đặt của bạn."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể tạo nhiều kịch bản cho các khung giờ cách nhau được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với chatbot Subiz bạn hoàn toàn có thể làm được. Hãy tạo kịch bản như bình thường và khi cài đặt thời gian. Chi tiết hơn hãy chọn tùy chỉnh thời gian phù hợp."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể chọn Bot chạy với nhóm khách hàng chi tiết không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn toàn có thể."
+            },
+            {
+              "type": "text",
+              "text": "Ví dụ",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Bạn chỉ muốn bot chào hỏi với khách mới. Hãy lựa chọn loại khách hàng trong phần cài đặt bot. Lúc đó, bot sẽ chạy theo đúng mục tiêu của bạn là khách lần đầu mới vào web, nhưng khách hàng cũ quay lại bot sẽ không xuất hiện."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tần suất hiển thị của chatbot như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một lần với mỗi phiên truy cập, một lần duy nhất với mỗi người dùng, tối đa một lần mỗi giờ hoặc tối đa một lần trong 3 giờ. Ngoài ra, nếu bạn muốn hiển thị với tần suất khác với những lựa chọn trên, hãy liên hệ với chúng tôi!"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm sao để biết được bot đã tương tác với bao nhiêu khách hàng và tỷ lệ chuyển đổi thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vào"
+            },
+            {
+              "type": "text",
+              "text": "cài đặt"
+            },
+            {
+              "type": "text",
+              "text": "bot"
+            },
+            {
+              "type": "text",
+              "text": ", vào phần Thống kê. Tại đây, bạn sẽ thấy được thống kê chi tiết bot đã tương tác với bao nhiêu khách hàng/ngày/tuần/tháng qua. Các chi tiết về tỷ lệ chuyển đổi các hội thoại có"
+            },
+            {
+              "type": "text",
+              "text": "bot"
+            },
+            {
+              "type": "text",
+              "text": "cũng sẽ hiển thị chi tiết."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

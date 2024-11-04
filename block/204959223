@@ -1,0 +1,594 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Popup chuyển đổi khách hàng"
+  },
+  "i18n_slug": {
+    "vi_VN": "popup-chuyen-doi-khach-hang"
+  },
+  "source_id": "204959223",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Popup chuyển đổi khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Popup là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Popup - cửa sổ nhỏ tự động xuất hiện trên màn hình khi khách hàng đang truy cập Website, chứa nội dung đa dạng như quảng cáo, khuyến mãi, giới thiệu sản phẩm, thu thập thông tin khách hàng…"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Popup"
+            },
+            {
+              "type": "text",
+              "text": "tự động hiện cửa sổ nổi bật trên website với mục đích kêu gọi khách hàng hành động."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi nào nên sử dụng Popup?",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Khi bạn có Website. Sử dụng"
+            },
+            {
+              "type": "text",
+              "text": "Popup"
+            },
+            {
+              "type": "text",
+              "text": "giúp bạn xây dựng cầu nối khách hàng vào Website từ đó gia tăng lợi nhuận."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn sử dụng được popup chuyển đổi khách với 3 mục tiêu chính:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thu thập thông tin của khách như họ tên, số điện thoại, ..hoặc tổng hợp ý kiến đánh giá của khách."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quảng cáo thu hút và điều hướng khách sang trang khuyến mãi hay sản phẩm mới."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo sự kiện hoặc thông tin quan trọng của Doanh nghiệp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a845e4a9b9271bd4b0e4a8abe6d017881cde888c4a576ff918bedb76efc85fe3_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài Popup mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có sẵn thư viện Popup mẫu theo lĩnh vực kinh doanh và mục tiêu để bạn chọn sử dụng nhanh chóng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt popup:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đăng nhập Subiz",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Cài đặt> Popup trong mục “TIỆN ÍCH WEB”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Tạo mới",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Chọn mẫu popup đang có"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Thiết kế popup sinh động bằng cách nhập nội dung thông điệp và thay đổi hình ảnh quảng cáo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Cài đặt điều kiện chạy Popup khi nào, với nhóm khách hàng nào"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f7631254e0302322ff8e362c8dba7eadf755d78ea9c092e5e1645a9fe3d01a78_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Nhấn xuất bản để chạy Popup."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số mẫu thiết kế popup Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản popup đăng ký tư vấn cho tất cả khách truy cập website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ khi bạn muốn tự động hóa kết nối với tất cả khách hàng trên website và mời khách điền thông tin nhận tư vấn hoặc nhận khuyến mãi. Bạn sẽ sử dụng popup chạy sau X giây khách truy cập vào website và đề nghị khách điền thông tin để nhận tư vấn nhanh chóng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/8fb76187b1a3d6dbb4b59c06de3a46398caa715df1a5c88967b568ec8dba86aa_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản popup gửi yêu cầu tư vấn khi khách click vào nút CTA trên website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ trên website, bạn muốn hiển thị bảng hỏi thông tin khách khi khách click vào các nút hành động như Yêu cầu tư vấn, Liên hệ, Nhận ưu đãi ngay,... Bạn sẽ sử dụng mẫu popup hỏi thông tin trên Subiz và cài đặt tự động chạy popup khi khách click chuột."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/85acaf68614d4987bdbb31261f0e6d995789802b3dfd78878827f523cb5b5bae_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản popup thông báo sự kiện trên 1 website cụ thể"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Bạn quản lý nhiều website khác nhau trên Subiz. Trong thời gian này, bạn cần quảng cáo sự kiện thăm khám trực tiếp với bác sĩ da liễu cho khách truy cập website “"
+            },
+            {
+              "type": "text",
+              "text": "lamdepchuanthiennhien"
+            },
+            {
+              "type": "text",
+              "text": "” và có nguồn truy cập từ quảng cáo Google ads. Bạn sẽ cài đặt popup trên Subiz như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/94b81d1e338cca4ee596eb0ccfccddc18c426662761d29c5995cb233a41f98ec_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi muốn khách hàng nhận được mã khuyến mãi ngay sau khi nhận điền popup được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngay sau khi khách nhập thông tin vào popup thì khách sẽ nhận được thông báo mã khuyến mãi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0b19ee90e2ae985262b630233cbcdaac86c20e9b2b90a2ab79afbca81af4bb3f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể cài đặt hỏi thêm nhiều thông tin khác trên popup không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn làm được. Bạn có thể cài đặt popup hỏi nhiều thông tin khách theo yêu cầu của bạn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2ea3ed3675cf34d86792d35665ad85d3246ba745d9f3724f17f327a63197c1cf_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể tạo nhiều Popup cho các Website không và chạy đồng thời nhiều popup cùng lúc trên một website?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn có thể tạo nhiều popup cho từng trang Website riêng. Đặc biệt, có thể cài đặt hiển thị riêng cho từng trường hợp popup."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz không giới hạn số lượng popup chạy cùng lúc. Tuy nhiên để tránh gây cảm giác khó chịu cho người xem và hiển thị sai, bạn chú ý cài đặt thời gian hiển thị giữa các popup khác nhau trên một Website."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chỉ cài đặt popup chạy khi khách click vào nút CTA trên website được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể kích hoạt popup chạy khi khách click vào nút CTA bất kỳ trên website của bạn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/951f163f307704f7bc4a771f5758a23a068056e29135af4c4da0bf17c598ca34_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem được thông tin khách hàng điền popup trên app mobile không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem được thông tin khách điền popup trên app mobile, bằng cách cài đặt popup cho phép tạo hội thoại sau khi khách điền bảng hỏi popup."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ce3f5e4a7a7036fb00e45f7b4595c5c032a11cf02642beef38e66aacf16f2c3b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có xuất được file dữ liệu khách hàng thu thập từ popup không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có. Bạn hoàn toàn có thể tải danh sách khách hàng thu thập từ popup về máy tính. Vào Cài đặt>Popup>Thống kê>Xuất dữ liệu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b57136b8dd3144a06f0e45f3b70263d2670d6c3ac2275c1938c979f745e0e825_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

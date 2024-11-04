@@ -1,0 +1,1727 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Tích hợp trên Website"
+  },
+  "i18n_slug": {
+    "vi_VN": "tich-hop-tren-website"
+  },
+  "source_id": "259274855",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp trên Website"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kênh Website hoạt động như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi khách hàng truy cập website, cửa sổ chat Subiz ở góc màn hình hiện ra, cho phép người dùng liên hệ tới tư vấn viên ngay tức thì bằng những tin nhắn trực tiếp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chỉnh sửa kiết kế cửa sổ"
+            },
+            {
+              "type": "text",
+              "text": "phù hợp với website và nhóm khách hàng mục tiêu kết hợp nút chat, bot chào khách, tự động gửi tin nhắn quảng cáo, hỏi thông tin khách hàng trước khi chat,... là một cách để tạo ấn tượng và tăng tương tác với khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2a6bbaec5d4e24e01502411b75f3f7ded5c390a8c3aa0c561f4e7fe017014930_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tích hợp Website trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "(Biểu tượng bánh răng góc màn hình trên bên phải)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Website",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "ở mục “"
+                    },
+                    {
+                      "type": "text",
+                      "text": "TÍCH HỢP",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Cài lên website ở góc phải màn hình"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tiếp tục điền thêm tên miền website để biết bạn cài đặt cửa sổ chat trên website nào. Ví dụ: Subiz.com.vn."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sao chép mã nhúng Subiz và dán vào code website trong thẻ"
+                    },
+                    {
+                      "type": "text",
+                      "text": "body",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra cài đặt thành công chưa? Vào website, F5 tải trang để cập nhật thay đổi và thấy cửa sổ chat ở góc phải màn hình là cài đặt thành công."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=cIA8Zp_B2gg",
+              "title": "XEM VIDEO CÀI ĐẶT LÊN WEBSITE",
+              "text": "XEM VIDEO CÀI ĐẶT LÊN WEBSITE",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b74c53d61abc7d9795eebc99af58f9d31f3354bd7f4212c4561f312235aed9ba_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách cài đặt Subiz trên Website"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz và Wordpress"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ":"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Lấy ID tài khoản",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đăng nhập"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo?uid=usrynmbnhmmubtpfelypg&cid=csrynmbnhnzqjahiyr",
+              "title": "app.subiz.com.vn",
+              "text": "app.subiz.com.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "bằng tài khoản đã đăng ký, vào"
+            },
+            {
+              "type": "text",
+              "text": "Cài đặt",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Copy ID tài khoản"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/66f02395b370f727a0a825fc47c655d75de241f88545152d5d509d053007486d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2:"
+            },
+            {
+              "type": "text",
+              "text": "Cài đặt Plugin Subiz",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://login.wordpress.org/?locale=en_US",
+              "title": "Đăng nhập",
+              "text": "Đăng nhập",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "tài khoản WordPress >"
+            },
+            {
+              "type": "text",
+              "text": "Mở Plugins",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Add new Plugin",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">Gõ chữ Subiz > click chuột tới"
+            },
+            {
+              "type": "text",
+              "text": "Install and activate",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> Manage Plugin."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Thêm cửa sổ Chat vào Subiz",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi cài đặt và kích hoạt plugin Subiz > chọn “Subiz” trên thanh công cụ> nhập ID tài khoản đã copy ở bước 1> Cài đặt."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Truy cập vào website và xem cửa sổ chat của bạn",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để kiểm tra Subiz cài đặt vào Website thành công hay chưa, bạn sẽ truy cập vào trang Website, nếu thấy cửa sổ chat Subiz hiển thị ở góc màn hình tức đã cài đặt thành công."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz trên Ladipage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Đăng nhập tài khoản"
+            },
+            {
+              "type": "link",
+              "href": "https://ladipage.vn",
+              "title": "https://ladipage.vn",
+              "text": "https://ladipage.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://ladipage.vn",
+              "title": "Ladipage",
+              "text": "Ladipage",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và chọn Landing page bạn muốn đặt Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Trên Ladipage, bạn vào"
+            },
+            {
+              "type": "text",
+              "text": "Tích hợp",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Mã Tracking Global",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Tạo mã ngay",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lúc này sẽ có một bản thông tin hiển thị bạn tiếp tục chọn: Pixel cá nhân> kéo chuột xuống dưới cùng vào Clik"
+            },
+            {
+              "type": "text",
+              "text": "Trước thẻ </body>",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "rồi dán"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/website/install",
+              "title": "mã nhúng Subiz",
+              "text": "mã nhúng Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Sau đó Save."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/92d7abc6b16b7651ee85d034a75d9e05eed0f421e47ca0df4fbd53364b814ae2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "("
+            },
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Lấy mã nhúng Subiz ở bước tích hợp Website)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4:"
+            },
+            {
+              "type": "text",
+              "text": "Bạn xuất bản, và truy cập vào Landing Page để xem sự kết hợp sửa Subiz và Ladipage. Ngoài ra, bạn cũng có thể tùy chỉnh màu, button,ngôn ngữ cho cửa sổ Subiz này ngay tại Ladipage."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz trên website Sapo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Đăng nhập trang quản trị website của Sapo > Chọn Website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Giao diện",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Thao tác",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Chỉnh sửa HTML/CSS",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Them.bwt",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "text",
+              "text": "Tìm thẻ “body”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ">"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com/settings/install",
+              "title": "https://app.subiz.com/settings/install",
+              "text": "https://app.subiz.com/settings/install",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com/settings/install",
+              "title": "Sao chép mã nhúng Subiz",
+              "text": "Sao chép mã nhúng Subiz",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và dán trước thẻ “body” > Lưu để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a12a9d8d1b5eea9005a2a77da96827a014502c1716a65172b8af0a24bb0c5431_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz trên website Haravan"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1:"
+            },
+            {
+              "type": "link",
+              "href": "https://myharavan.com/admin/auth/login",
+              "title": "https://myharavan.com/admin/auth/login",
+              "text": "https://myharavan.com/admin/auth/login",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://myharavan.com/admin/auth/login",
+              "title": "Đăng nhập",
+              "text": "Đăng nhập",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "trang quản lý website của Haravan"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Chọn"
+            },
+            {
+              "type": "text",
+              "text": "Website > chọn Giao diện",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> chọn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Chọn"
+            },
+            {
+              "type": "text",
+              "text": "theme.liquid",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "trong Layouts > Tìm thẻ “head” >"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com/settings/install",
+              "title": "https://app.subiz.com/settings/install",
+              "text": "https://app.subiz.com/settings/install",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com/settings/install",
+              "title": "Sao chép mã nhúng Subiz",
+              "text": "Sao chép mã nhúng Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "và dán ngay sau thẻ “head” > chọn"
+            },
+            {
+              "type": "text",
+              "text": "Lưu",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "để hoàn thành"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/9152ea2c4949a70600aa3ecb2b0dd55d803198ae1ced9075c2f4c4b964d8de01_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tình huống thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau tích hợp, cửa sổ chat không hiển thị trên Website do đâu và xử lý thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cửa sổ chat Subiz không hiện trên website, thường có 4 nguyên nhân chính:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 1: Chưa lưu thành công mã nhúng Subiz trong code web",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách kiểm tra",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Mở tab trình duyệt mới rồi mở lại website. Chọn Ctrl U, rồi Ctrl F và nhập tìm Subiz. Có tìm được mã nhúng không? Nếu không, thì do chưa lưu thành công sau khi dán mã nhúng Subiz vào code web."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Quay lại trang admin code web tìm xem có sử dụng plugin cache nào không? Nếu có xóa cache để lưu thành công cài đặt Subiz."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 2: Sai mã nhúng khi đặt vào code website",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": So sánh mã nhúng gốc của Subiz sao chép trên trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/website/install",
+                      "title": "Cài lên website",
+                      "text": "Cài lên website",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "và mã nhúng đang đặt trong code web tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://www.diffnow.com/",
+                      "title": "https://www.diffnow.com/",
+                      "text": "https://www.diffnow.com/",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "này."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Sao chép lại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/website/install",
+                      "title": "mã nhúng Subiz đúng",
+                      "text": "mã nhúng Subiz đúng",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "và dán vào code website. Nếu mã nhúng Subiz vẫn bị thay đổi khác hãy sử dụng đoạn mã nhúng dưới đây:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pre",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "<script>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  window._sbzaccid = '"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "acpzooihzhalzeskamky"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  window.subiz = function () {"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "    window.subiz.q.push(arguments)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  }"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  window.subiz.q = []"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  window.subiz('setAccount', window._sbzaccid)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "</script>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "<script src=\""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "https://widget.subiz.net/sbz/app.js?account_id="
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "acpzooihzhalzeskamky"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "\"></script>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Đổi mã tài khoản Subiz của bạn vào đoạn mã trên (sbzaccid = '"
+            },
+            {
+              "type": "text",
+              "text": "acpzooihzhalzeskamky"
+            },
+            {
+              "type": "text",
+              "text": "',"
+            },
+            {
+              "type": "link",
+              "href": "https://widget.subiz.net/sbz/app.js?account_id=acqopvkzjjsmiamcmvwf",
+              "title": "account\\_id=",
+              "text": "account\\_id=",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "acpzooihzhalzeskamky"
+            },
+            {
+              "type": "text",
+              "text": "),"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/",
+              "title": "Xem mã tài khoản Subiz của bạn",
+              "text": "Xem mã tài khoản Subiz của bạn",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 3: Sai vị trí mã nhúng Subiz trong code website.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xem mã nhúng Subiz đã đặt đúng trong thẻ “body” chưa? Trong code web sẽ có thẻ “body” mở và thẻ “body” đóng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Chuyển mã nhúng từ vị trí sai vào vị trí trong thẻ “body” của code web."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân 4: Có nhiều mã nhúng Subiz khác nhau trong code web",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra: Mở tab trình duyệt mới. Mở website lên, chọn Ctrl U, chọn Ctrl F và điền Subiz. Hiện ra từ 2 mã nhúng Subiz trở lên trong code web."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý: Giữ 1 mã nhúng đúng đang đặt trong thẻ “body” và xóa tất cả mã nhúng Subiz còn lại."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Dùng Google Tag Manager để cài đặt Subiz lên website được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có.",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Bạn cài đặt Subiz qua Google Tag Manager được."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi bạn sử dụng Google Tag Manager trên website, có thể tích hợp Subiz chat vào website thông qua Google Tag Manager."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Đăng nhập"
+            },
+            {
+              "type": "link",
+              "href": "https://tagmanager.google.com/#/home",
+              "title": "https://tagmanager.google.com/#/home",
+              "text": "https://tagmanager.google.com/#/home",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://tagmanager.google.com/#/home",
+              "title": "Tagmanager.google.com",
+              "text": "Tagmanager.google.com",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2:"
+            },
+            {
+              "type": "text",
+              "text": "Chọn account quản lý website",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "sẽ tích hợp Subiz chat tại All account."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Tạo Tag mới"
+            },
+            {
+              "type": "text",
+              "text": "Tại WORKSPACE chọn Tags, nhấp NEW",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4:"
+            },
+            {
+              "type": "text",
+              "text": "Untitled Tag",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Điền tên Tag để phân biệt các Tag và chức năng của Tag"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5:"
+            },
+            {
+              "type": "text",
+              "text": "Tag Configuration:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Chọn Custom HTML,"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/website/install",
+              "title": "Sao chép mã nhúng Subiz",
+              "text": "Sao chép mã nhúng Subiz",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và dán vào ô HTML"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chọn (tick) Support document.write",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5:"
+            },
+            {
+              "type": "text",
+              "text": "Triggering:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Chọn All Pages nếu muốn hiển thị cửa sổ chat Subiz trên tất cả các trang của website"
+            },
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tất cả các trang của website (All Pages) sẽ hiển thị cửa sổ Subiz chat."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chỉ một số trang (Some Pages) sẽ hiển thị cửa sổ Subiz chat."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 6: Chọn"
+            },
+            {
+              "type": "text",
+              "text": "SAVE",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ", chọn"
+            },
+            {
+              "type": "text",
+              "text": "SUBMIT",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "ở góc phải màn hình > Điền thông tin mô tả trong mục"
+            },
+            {
+              "type": "text",
+              "text": "Publish and Create Version",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "> chọn"
+            },
+            {
+              "type": "text",
+              "text": "PUBLISH",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 7: Đăng nhập vào website và F5 để tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3873a39bdb9fba924e7db9527d96515684eba67d32738050592761fb1708ccb3_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để được hỗ trợ hãy liên hệ:"
+            },
+            {
+              "type": "text",
+              "text": "+84 247 302 1368"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

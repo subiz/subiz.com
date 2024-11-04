@@ -10,7 +10,7 @@
   "source_id": "2070353377",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -70,12 +60,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -91,12 +76,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -104,10 +84,6 @@
             {
               "type": "text",
               "text": "Tham khảo website:"
-            },
-            {
-              "type": "text",
-              "text": " "
             },
             {
               "type": "link",
@@ -121,12 +97,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -158,12 +129,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -181,8 +147,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -190,20 +161,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở Cài đặt, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/language/",
-                  "title": "chọn Ngôn ngữ",
-                  "text": "chọn Ngôn ngữ",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở Cài đặt,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/language/",
+                      "title": "chọn Ngôn ngữ",
+                      "text": "chọn Ngôn ngữ",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -211,8 +183,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục Đa ngôn ngữ, chọn Chỉnh sửa, tìm kiếm ngôn ngữ bạn cần"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục Đa ngôn ngữ, chọn Chỉnh sửa, tìm kiếm ngôn ngữ bạn cần"
+                    }
+                  ]
                 }
               ]
             },
@@ -220,8 +197,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sau đó, sang mục Dịch, tìm ngôn ngữ mới thêm và nhập lại các tin nhắn theo ngôn ngữ mới."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau đó, sang mục Dịch, tìm ngôn ngữ mới thêm và nhập lại các tin nhắn theo ngôn ngữ mới."
+                    }
+                  ]
                 }
               ]
             }
@@ -241,12 +223,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -293,8 +270,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -302,16 +284,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở Cài đặt, chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Chỉnh sửa cửa sổ chat",
-                  "text": "Chỉnh sửa cửa sổ chat",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở Cài đặt, chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Chỉnh sửa cửa sổ chat",
+                      "text": "Chỉnh sửa cửa sổ chat",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -319,8 +306,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục 2. Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ hiển thị trên cửa sổ chat"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục 2. Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ hiển thị trên cửa sổ chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -328,8 +320,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chuyển sang mục 1. Thiết kế, chọn ngôn ngữ hiển thị trên cửa sổ chat và sửa các nội dung theo ngôn ngữ đó"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyển sang mục 1. Thiết kế, chọn ngôn ngữ hiển thị trên cửa sổ chat và sửa các nội dung theo ngôn ngữ đó"
+                    }
+                  ]
                 }
               ]
             },
@@ -337,8 +334,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -346,12 +348,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -379,21 +376,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -421,8 +408,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -430,20 +422,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở Cài đặt, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/bots",
-                  "title": "chọn Bot",
-                  "text": "chọn Bot",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở Cài đặt,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/bots",
+                      "title": "chọn Bot",
+                      "text": "chọn Bot",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -451,8 +444,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ theo yêu cầu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ theo yêu cầu"
+                    }
+                  ]
                 }
               ]
             },
@@ -460,8 +458,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sang mục thiết kế kịch bản, chọn nút Ngôn ngữ và dịch các nội dung theo ngôn ngữ đó"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sang mục thiết kế kịch bản, chọn nút Ngôn ngữ và dịch các nội dung theo ngôn ngữ đó"
+                    }
+                  ]
                 }
               ]
             },
@@ -469,8 +472,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xuất bản để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -490,12 +498,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -509,12 +512,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -532,8 +530,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -541,16 +544,21 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở Cài đặt "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/web_plugin",
-                  "title": "Tiện ích web",
-                  "text": "Tiện ích web",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở Cài đặt"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/web_plugin",
+                      "title": "Tiện ích web",
+                      "text": "Tiện ích web",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             },
@@ -558,8 +566,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại mục Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ theo yêu cầu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại mục Cài đặt, tìm Đa ngôn ngữ và thêm ngôn ngữ theo yêu cầu"
+                    }
+                  ]
                 }
               ]
             },
@@ -567,8 +580,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sang mục thiết kế kịch bản, chọn nút Ngôn ngữ và nhập các nội dung theo ngôn ngữ đó"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sang mục thiết kế kịch bản, chọn nút Ngôn ngữ và nhập các nội dung theo ngôn ngữ đó"
+                    }
+                  ]
                 }
               ]
             },
@@ -576,8 +594,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xuất bản đề hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản đề hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -585,12 +608,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -619,7 +637,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Agent có thể thay đổi ngôn ngữ trang làm việc "
+              "text": "Agent có thể thay đổi ngôn ngữ trang làm việc"
             },
             {
               "type": "link",
@@ -630,7 +648,7 @@
             },
             {
               "type": "text",
-              "text": " là tiếng Việt hoặc English tại trang Hồ sơ và tùy biên / My profile như sau: "
+              "text": "là tiếng Việt hoặc English tại trang Hồ sơ và tùy biên / My profile như sau:"
             }
           ]
         },
@@ -641,8 +659,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp vào ảnh đại diện ở góc phải màn hình"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp vào ảnh đại diện ở góc phải màn hình"
+                    }
+                  ]
                 }
               ]
             },
@@ -650,8 +673,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Hồ sơ và tùy biến (My profile)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Hồ sơ và tùy biến (My profile)"
+                    }
+                  ]
                 }
               ]
             },
@@ -659,8 +687,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Sửa ngôn ngữ (Language)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa ngôn ngữ (Language)"
+                    }
+                  ]
                 }
               ]
             },
@@ -668,8 +701,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cập nhật là xong (Update)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong (Update)"
+                    }
+                  ]
                 }
               ]
             }

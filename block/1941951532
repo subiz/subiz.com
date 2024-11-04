@@ -10,7 +10,7 @@
   "source_id": "1941951532",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -39,8 +39,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tăng tốc độ trả lời khách hàng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tăng tốc độ trả lời khách hàng"
+                    }
+                  ]
                 }
               ]
             },
@@ -48,8 +53,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Giảm công sức nhập tin nhắn lặp đi lặp lại như lời chào khách, gửi thông tin sản phẩm, hướng dẫn thanh toán,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giảm công sức nhập tin nhắn lặp đi lặp lại như lời chào khách, gửi thông tin sản phẩm, hướng dẫn thanh toán,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -57,8 +67,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chuyên nghiệp hóa dịch vụ chăm sóc khách hàng. Tất cả nhân viên thống nhất nội dung và văn phong gửi tin nhắn cho khách."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyên nghiệp hóa dịch vụ chăm sóc khách hàng. Tất cả nhân viên thống nhất nội dung và văn phong gửi tin nhắn cho khách."
+                    }
+                  ]
                 }
               ]
             }
@@ -102,13 +117,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Tại ô nhập tin nhắn, gõ dấu gạch chéo “/” +”ký tự tắt”"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, gõ dấu gạch chéo “/” +”ký tự tắt”"
+                    }
+                  ]
                 }
               ]
             },
@@ -116,13 +136,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Tại ô nhập tin nhắn, nhấp nút “Mẫu tin nhắn” > Tìm kiếm ký tự tắt hay từ khóa liên quan"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, nhấp nút “Mẫu tin nhắn” > Tìm kiếm ký tự tắt hay từ khóa liên quan"
+                    }
+                  ]
                 }
               ]
             }
@@ -157,20 +182,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/?message_template=true",
-                  "title": "trang Mẫu tin nhắn",
-                  "text": "trang Mẫu tin nhắn",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Hoặc click ảnh đại diện ở góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/?message_template=true",
+                      "title": "trang Mẫu tin nhắn",
+                      "text": "trang Mẫu tin nhắn",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Hoặc click ảnh đại diện ở góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn"
+                    }
+                  ]
                 }
               ]
             }
@@ -180,29 +210,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/224a432713e2f5175d4a18e4b366b92681f5593bc6b30ad8465a922b71f02d75_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -213,8 +225,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo mới "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -222,8 +239,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập ký tự tắt ngắn gọn, dễ nhớ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập ký tự tắt ngắn gọn, dễ nhớ"
+                    }
+                  ]
                 }
               ]
             },
@@ -231,8 +253,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tùy chọn chia sẻ với đồng nghiệp cùng dùng chung mẫu tin nhắn hoặc dùng riêng cá nhân."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp cùng dùng chung mẫu tin nhắn hoặc dùng riêng cá nhân."
+                    }
+                  ]
                 }
               ]
             },
@@ -240,8 +267,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu thay đổi là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -276,48 +308,44 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/?message_template=true",
-                  "title": "trang Mẫu tin nhắn",
-                  "text": "trang Mẫu tin nhắn",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
                   "type": "paragraph",
                   "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/?message_template=true",
+                      "title": "trang Mẫu tin nhắn",
+                      "text": "trang Mẫu tin nhắn",
+                      "target": "_blank",
+                      "bold": true
+                    },
                     {
                       "type": "text",
                       "text": ". Hoặc click ảnh đại diện góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/224a432713e2f5175d4a18e4b366b92681f5593bc6b30ad8465a922b71f02d75_acpxkgumifuoofoosble"
+                      }
                     }
                   ]
-                },
-                {
-                  "type": "image",
-                  "alt_text": "",
-                  "image": {
-                    "url": "https://vcdn.subiz-cdn.com/file/224a432713e2f5175d4a18e4b366b92681f5593bc6b30ad8465a922b71f02d75_acpxkgumifuoofoosble"
-                  }
-                },
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
                 {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": ""
+                      "text": "Chọn Tạo mới - Mẫu tin nhắn Email"
                     }
                   ]
                 }
@@ -327,8 +355,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Tạo mới - Mẫu tin nhắn Email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập địa chỉ email gửi đi, tiêu đề email, nội dung chi tiết"
+                    }
+                  ]
                 }
               ]
             },
@@ -336,8 +369,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập địa chỉ email gửi đi, tiêu đề email, nội dung chi tiết "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập Ký tự tắt ngắn gọn, dễ nhớ"
+                    }
+                  ]
                 }
               ]
             },
@@ -345,8 +383,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập Ký tự tắt ngắn gọn, dễ nhớ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp dùng chung mẫu email hoặc dùng riêng cho cá nhân"
+                    }
+                  ]
                 }
               ]
             },
@@ -354,17 +397,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tùy chọn chia sẻ với đồng nghiệp dùng chung mẫu email hoặc dùng riêng cho cá nhân "
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lưu thay đổi là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -384,39 +423,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

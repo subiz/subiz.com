@@ -1,0 +1,726 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Sử dụng mẫu tin nhắn hiệu quả"
+  },
+  "i18n_slug": {
+    "vi_VN": "su-dung-mau-tin-nhan-hieu-qua"
+  },
+  "source_id": "349607120",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Sử dụng mẫu tin nhắn hiệu quả"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Mẫu tin nhắn là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Có một khách hàng nhắn tin hỏi bạn “Chiếc váy này bao nhiêu tiền?” Cách thông thường bạn sẽ nhắn tin báo giá sản phẩm và những nội dung chi tiết khác để hấp dẫn người mua. Điều này không khó, không mất nhiều thời gian."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhưng"
+            },
+            {
+              "type": "text",
+              "text": "trường hợp mỗi ngày có hàng trăm thậm chí hơn con số này nhắn tin thì sẽ như thế nào? Hãy bỏ qua bước nhập tin nhắn thủ công. Khi sử dụng Subiz, bạn chỉ cần tạo một nội dung mẫu như:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "“"
+            },
+            {
+              "type": "text",
+              "text": "Dạ váy giá 685k c nha",
+              "italic": true
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "italic": true
+            },
+            {
+              "type": "text",
+              "text": "Chị cho ZAMO xin chiều cao, cân nặng và Size thường mặc. Bên em tư vấn cho chị kĩ hơn nha? ZAMO gửi chị bảng size tham khảo ạ ^^",
+              "italic": true
+            },
+            {
+              "type": "text",
+              "text": "”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi cần sử dụng, tư vấn viên chỉ cần thao tác khẩu lệnh là có thể gửi mẫu tin chứa nội dung cần gửi cho khách hàng mà không mất thời gian gõ lại thì đó chính là mẫu tin nhắn/tin nhắn mẫu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đây là dạng tin nhắn mẫu được thiết lập sẵn có nội dung thường gặp như báo giá, thông tin sản phẩm, địa chỉ cửa hàng,..."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lợi ích của mẫu tin nhắn"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "H"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ỗ trợ quá trình chat với khách hàng diễn ra nhanh chóng, g"
+                    },
+                    {
+                      "type": "text",
+                      "text": "iảm công sức nhập tin nhắn lặp đi lặp lại."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyên nghiệp hóa dịch vụ chăm sóc khách hàng. Tất cả nhân viên thống nhất nội dung và văn phong gửi tin nhắn cho khách."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Sử dụng mẫu tin nhắn ở đâu?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nơi nào có khách hàng của bạn Subiz đều cung cấp mẫu tin nhắn giúp tiết kiệm thời gian, tăng tốc phản hồi mang lại sự hài lòng cho người cùng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cụ thể bạn có thể cài đặt mẫu tin nhắn trên Chat bao gồm Website, Zalo, Instagram,... và kênh Email. Bạn có thể cài đặt mẫu tin và dùng chung cho tất cả các kênh hoặc mỗi kênh một mẫu tin nhắn riêng."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt và sử dụng mẫu tin nhắn trong chat"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo mới mẫu tin nhắn chat"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại Dashboard Subiz, bạn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "m"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ở Cài đặt> Mẫu tin nhắn trong mục HỘI THOẠI."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hoặc click ảnh đại diện ở góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn."
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/db83f227a0662951f2ea3e0588ba381f6625a581f75f451cf4786f814f8d3c34_acpxkgumifuoofoosble"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tiếp theo, Subiz sẽ hiển thị bảng để tạo mẫu tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn tạo mới và kênh sử dụng mẫu tin nhắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập ký tự tắt ngắn gọn, dễ nhớ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp cùng dùng chung mẫu tin nhắn hoặc dùng riêng cá nhân."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/89fb1b8f8c5739607c46d47d91701b8b41f87a6902354513e5ba585a7018e288_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo mẫu tin nhắn email"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cũng như trên, bạn m"
+            },
+            {
+              "type": "text",
+              "text": "ở"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/?message_template=true",
+              "title": "trang Mẫu tin nhắn",
+              "text": "trang Mẫu tin nhắn",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Hoặc click ảnh đại diện góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo mới - Mẫu tin nhắn Email."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập địa chỉ email gửi đi, tiêu đề email, nội dung chi tiết ."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập Ký tự tắt ngắn gọn, dễ nhớ."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp dùng chung mẫu email hoặc dùng riêng cho cá nhân."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3bda8857bd6dd6e7e39a2415906d16de2f9ad8632c49eb623958f7bf50670299_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách sử dụng mẫu tin nhắn trả lời khách"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có 2 cách sử dụng mẫu tin nhắn trong khi chat trả lời khách:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, gõ dấu gạch chéo “/” +”ký tự tắt”. Ví dụ ký tự viết tắt của bạn là @. Cách sử dụng sẽ là /@. Mẫu tin nhắn sẽ hiển thị, bạn chỉ cần nhấn gửi tin nhắn sẽ được chuyển tới khách hàng tức khắc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, nhấp nút “Mẫu tin nhắn” > Tìm kiếm ký tự tắt hay từ khóa liên quan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4a37178b2cfab91cb4571672a7a377cdaaa69220618abf109c116c521d366a7f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi có thể tạo và sử dụng bao nhiêu mẫu tin nhắn?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể tạo ra nhiều mẫu tin nhắn khác nhau để sử dụng cho từng trường hợp cụ thể. Subiz gợi ý cho bạn một số chủ đề như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 3,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mẫu tin nhắn giới thiệu sản phẩm, dịch vụ"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 3,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mẫu tin nhắn trả lời khiếu nại"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 3,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mẫu tin nhắn thông báo, khuyến mãi"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 3,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mẫu tin nhắn khi shop vắng mặt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cũng có thể sử dụng nhiều mẫu tin nhắn cùng một lúc. Tuy nhiên để mang lại cuộc trò chuyện tự nhiên, trải nghiệm tốt cho người dùng Subiz khuyên bạn không nên lạm dụng quá nhiều mẫu tin nhắn. Hãy tương tác với khách hàng với những câu hỏi cụ thể hơn giúp họ nhanh đưa ra quyết định chốt đơn hơn là những mẫu tin chung chung."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm sao để sử dụng mẫu tin nhắn tự động?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần sử dụng mẫu tin nhắn trả lời tự động bằng chatbot. Chi tiết:"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1540866648-bot-tu-dong-nhan-tin",
+              "title": "Cài đặt chatbot trả lời tự động",
+              "text": "Cài đặt chatbot trả lời tự động",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Mẫu tin nhắn có thời gian sử dụng không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Không. Khi bạn tạo mẫu tin nhắn, mẫu đó sẽ tồn tại tới khi bạn xóa thì thôi. Tuy nhiên, bạn nên cập nhật thường xuyên để phù hợp với sản phẩm/dịch vụ theo từng giai đoạn để đồng nhất thông tin."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhiều Agent có sử dụng chung một mẫu tin nhắn được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Được. Chỉ cần trong khi cài đặt mẫu tin nhắn, bạn tích chọn \\[Chia sẻ với đồng nghiệp\\] thì những người được phân công chat cùng với bạn cũng sẽ sử dụng được mẫu tin nhắn này."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

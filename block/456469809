@@ -10,16 +10,11 @@
   "source_id": "456469809",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -33,12 +28,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -55,18 +45,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Tổng đài Subiz là một dịch vụ tổng đài ảo do Subiz cung cấp và phát triển dựa trên công nghệ điện toán đám mây, cho phép thực hiện các cuộc gọi thông qua kết nối internet. "
+              "text": "Tổng đài Subiz là một dịch vụ tổng đài ảo do Subiz cung cấp và phát triển dựa trên công nghệ điện toán đám mây, cho phép thực hiện các cuộc gọi thông qua kết nối internet."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -79,12 +64,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -124,15 +104,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Đăng nhập Subiz qua đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -140,23 +125,28 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Mở trang cài đặt, tìm chức năng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "Tổng Đài",
-                  "text": "Tổng Đài",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ". "
-                },
-                {
-                  "type": "text",
-                  "text": "Chọn nút Thêm đầu số và nhập vào đầu số tổng đài."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mở trang cài đặt, tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Tổng Đài",
+                      "text": "Tổng Đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Thêm đầu số và nhập vào đầu số tổng đài."
+                    }
+                  ]
                 }
               ]
             }
@@ -166,29 +156,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "alt_text": "",
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/3c7ef2d037ce48543bb1bb45b4d51c0dff8970a69d60cc6a9f300c65457ece7d_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -199,24 +171,15 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là "
-                },
-                {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": "27.71.226.145:5060 và gửi lại Subiz các thông số cấu hình của đầu số này."
+                      "text": "Bước 3: Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "text",
+                      "text": "27.71.226.145:5060 và gửi lại Subiz các thông số cấu hình của đầu số này."
                     }
                   ]
                 }
@@ -226,40 +189,31 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 4: Sau khi cài đặt cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấp nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Thử kết nối"
-                },
-                {
-                  "type": "text",
-                  "text": ". Khi trạng thái chuyển "
-                },
-                {
-                  "type": "text",
-                  "text": "Hoạt động"
-                },
-                {
-                  "type": "text",
-                  "text": " l"
-                },
-                {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": "à cài đặt thành công."
+                      "text": "Bước 4: Sau khi cài đặt cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấp nút"
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "text",
+                      "text": "Thử kết nối"
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Khi trạng thái chuyển"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoạt động"
+                    },
+                    {
+                      "type": "text",
+                      "text": "l"
+                    },
+                    {
+                      "type": "text",
+                      "text": "à cài đặt thành công."
                     }
                   ]
                 }
@@ -281,12 +235,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -302,19 +251,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý: Nếu trạng thái vẫn”Chờ kết nối”, hãy "
+              "text": "Lưu ý: Nếu trạng thái vẫn”Chờ kết nối”, hãy"
             },
             {
               "type": "link",
@@ -325,7 +269,7 @@
             },
             {
               "type": "text",
-              "text": " hỗ trợ bạn tốt nhất. "
+              "text": "hỗ trợ bạn tốt nhất."
             }
           ]
         },
@@ -344,18 +288,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Tổng đài Subiz cho phép bạn tự thiết kế lời chào cuộc gọi đến, ghi âm cuộc gọi, tự động chia luồng cuộc gọi cho nhân viên. "
+              "text": "Tổng đài Subiz cho phép bạn tự thiết kế lời chào cuộc gọi đến, ghi âm cuộc gọi, tự động chia luồng cuộc gọi cho nhân viên."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -371,19 +310,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Tại trang "
+              "text": "Tại trang"
             },
             {
               "type": "link",
@@ -405,8 +339,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt tên cho đầu số để phân biệt các số khác nhau"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên cho đầu số để phân biệt các số khác nhau"
+                    }
+                  ]
                 }
               ]
             },
@@ -414,8 +353,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi lời thoại cho cuộc gọi đến"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi lời thoại cho cuộc gọi đến"
+                    }
+                  ]
                 }
               ]
             },
@@ -423,8 +367,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cài đặt rule phân luồng cuộc gọi đến và giao đúng nhân viên phụ trách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cài đặt rule phân luồng cuộc gọi đến và giao đúng nhân viên phụ trách"
+                    }
+                  ]
                 }
               ]
             },
@@ -432,8 +381,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật On cho phép ghi âm cuộc gọi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật On cho phép ghi âm cuộc gọi"
+                    }
+                  ]
                 }
               ]
             },
@@ -441,8 +395,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm giám sát viên theo dõi được tất cả lịch sử cuộc gọi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm giám sát viên theo dõi được tất cả lịch sử cuộc gọi"
+                    }
+                  ]
                 }
               ]
             }
@@ -450,12 +409,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -485,7 +439,7 @@
           "content": [
             {
               "type": "text",
-              "text": "CH1: Lợi ích của phần mềm tổng đài là gì? "
+              "text": "CH1: Lợi ích của phần mềm tổng đài là gì?"
             }
           ]
         },
@@ -505,13 +459,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tăng hiệu suất của nhân viên:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Thay vì dùng số cá nhân, tại 1 thời điểm chỉ có 1 nhân viên nghe gọi được và chỉ có 1 khách hàng được hỗ trợ. Tổng đài cho phép nhiều nhân viên sử dụng cùng 1 số điện thoại để gọi đi cho khách hàng hay trả lời nhiều khách hàng gọi đến cùng lúc."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tăng hiệu suất của nhân viên:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Thay vì dùng số cá nhân, tại 1 thời điểm chỉ có 1 nhân viên nghe gọi được và chỉ có 1 khách hàng được hỗ trợ. Tổng đài cho phép nhiều nhân viên sử dụng cùng 1 số điện thoại để gọi đi cho khách hàng hay trả lời nhiều khách hàng gọi đến cùng lúc."
+                    }
+                  ]
                 }
               ]
             },
@@ -519,13 +478,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Làm chủ thông tin khách hàng:",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " Thay vì việc 1 nhân viên tự chịu trách nhiệm về việc liên hệ tư vấn khách hàng qua số điện thoại, thì tổng đài cho phép doanh nghiệp theo dõi và kiểm soát được thông tin khách hàng liên hệ hotline. Khách gọi đến hotline được trả lời hay bị gọi nhỡ nhiều, nhân viên tư vấn khách hàng đã đúng quy tắc của công ty chưa?"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Làm chủ thông tin khách hàng:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Thay vì việc 1 nhân viên tự chịu trách nhiệm về việc liên hệ tư vấn khách hàng qua số điện thoại, thì tổng đài cho phép doanh nghiệp theo dõi và kiểm soát được thông tin khách hàng liên hệ hotline. Khách gọi đến hotline được trả lời hay bị gọi nhỡ nhiều, nhân viên tư vấn khách hàng đã đúng quy tắc của công ty chưa?"
+                    }
+                  ]
                 }
               ]
             }
@@ -554,12 +518,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -595,7 +554,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Không. Subiz hỗ trợ bạn giá trọn gói sử dụng được nhiều máy nhánh. "
+              "text": "Không. Subiz hỗ trợ bạn giá trọn gói sử dụng được nhiều máy nhánh."
             },
             {
               "type": "link",
@@ -663,19 +622,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang "
+              "text": "Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang"
             },
             {
               "type": "link",
@@ -686,18 +640,13 @@
             },
             {
               "type": "text",
-              "text": " như sau:"
+              "text": "như sau:"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -713,12 +662,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -735,7 +679,7 @@
           "content": [
             {
               "type": "text",
-              "text": "CH6: Cách phân luồng cuộc gọi chia cho nhiều nhân viên "
+              "text": "CH6: Cách phân luồng cuộc gọi chia cho nhiều nhân viên"
             }
           ]
         },
@@ -774,12 +718,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -807,15 +746,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "Cài đặt tổng đài",
-                  "text": "Cài đặt tổng đài",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Cài đặt tổng đài",
+                      "text": "Cài đặt tổng đài",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -823,8 +767,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này."
+                    }
+                  ]
                 }
               ]
             },
@@ -832,8 +781,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz."
+                    }
+                  ]
                 }
               ]
             }
@@ -843,22 +797,8 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết."
             }
           ]
         },
@@ -888,12 +828,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -909,120 +844,55 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

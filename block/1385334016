@@ -10,16 +10,11 @@
   "source_id": "1385334016",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -33,12 +28,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -51,19 +41,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Trước hết, bạn cần xác định bạn đang muốn thu thập "
+              "text": "Trước hết, bạn cần xác định bạn đang muốn thu thập"
             },
             {
               "type": "text",
@@ -72,7 +57,7 @@
             },
             {
               "type": "text",
-              "text": "? "
+              "text": "?"
             }
           ]
         },
@@ -83,19 +68,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Loại thông tin đó đã có trên Subiz chưa? tìm tại trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/user-attributes",
-                  "title": "Cài đặt trường thông tin",
-                  "text": "Cài đặt trường thông tin",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Loại thông tin đó đã có trên Subiz chưa? tìm tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/user-attributes",
+                      "title": "Cài đặt trường thông tin",
+                      "text": "Cài đặt trường thông tin",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -103,19 +93,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nếu chưa, hãy tạo trường thông tin bạn muốn thu thập tại trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/user-attributes",
-                  "title": "Cài đặt trường thông tin",
-                  "text": "Cài đặt trường thông tin",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ". "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nếu chưa, hãy tạo trường thông tin bạn muốn thu thập tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/user-attributes",
+                      "title": "Cài đặt trường thông tin",
+                      "text": "Cài đặt trường thông tin",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -123,12 +118,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -160,12 +150,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -178,7 +163,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             }
           ]
         },
@@ -189,8 +174,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở Cài đặt Subiz "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở Cài đặt Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -198,11 +188,16 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Click Cửa sổ chat ",
-                  "text": "Click Cửa sổ chat ",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Click Cửa sổ chat",
+                      "text": "Click Cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -210,8 +205,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Hỏi thông tin trước khi chat "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Hỏi thông tin trước khi chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -219,8 +219,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON và click Hỏi thêm thông tin, Ví dụ hỏi Họ tên, SĐT, Thành phố"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON và click Hỏi thêm thông tin, Ví dụ hỏi Họ tên, SĐT, Thành phố"
+                    }
+                  ]
                 }
               ]
             },
@@ -228,8 +233,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -237,12 +247,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -272,8 +277,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hỏi thông tin trước khi chat: chạy khi có tư vấn viên online"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỏi thông tin trước khi chat: chạy khi có tư vấn viên online"
+                    }
+                  ]
                 }
               ]
             },
@@ -281,8 +291,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Hỏi thông tin khi offline: chạy khi tư vấn viên offline hoặc ngoài giờ làm việc"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỏi thông tin khi offline: chạy khi tư vấn viên offline hoặc ngoài giờ làm việc"
+                    }
+                  ]
                 }
               ]
             }
@@ -294,7 +309,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bot nhắn tin hỏi thông tin "
+              "text": "Bot nhắn tin hỏi thông tin"
             }
           ]
         },
@@ -323,8 +338,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bot chạy theo kịch bản được thiết kế sẵn"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bot chạy theo kịch bản được thiết kế sẵn"
+                    }
+                  ]
                 }
               ]
             },
@@ -332,8 +352,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kịch bản bot là một quy trình gồm nhiều hành động có mục đích: Gửi tin nhắn chào, Hỏi thông tin sđt, Hỏi thông tin sản phẩm cần tư vấn, Gửi cho agent để tư vấn viên biết và kết hợp trả lời khách khi cần, Gắn tag hội thoại để đánh dấu và phân loại sự vụ khách hàng,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kịch bản bot là một quy trình gồm nhiều hành động có mục đích: Gửi tin nhắn chào, Hỏi thông tin sđt, Hỏi thông tin sản phẩm cần tư vấn, Gửi cho agent để tư vấn viên biết và kết hợp trả lời khách khi cần, Gắn tag hội thoại để đánh dấu và phân loại sự vụ khách hàng,..."
+                    }
+                  ]
                 }
               ]
             }
@@ -378,8 +403,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -387,11 +417,16 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/bots",
-                  "title": "Click Bot",
-                  "text": "Click Bot",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/bots",
+                      "title": "Click Bot",
+                      "text": "Click Bot",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -399,8 +434,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Tạo Mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Tạo Mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -408,8 +448,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Bot trống"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Bot trống"
+                    }
+                  ]
                 }
               ]
             },
@@ -417,8 +462,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thiết kế kịch bản: Luồng bot cần có gửi tin nhắn chào khách, click dấu + thêm hành động Hỏi thông tin khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết kế kịch bản: Luồng bot cần có gửi tin nhắn chào khách, click dấu + thêm hành động Hỏi thông tin khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -426,8 +476,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cài đặt điều kiện bot: Thay đổi tên và ảnh chuyên nghiệp cho bot, chọn bot chạy trên website hay Fanpage hay Zalo,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cài đặt điều kiện bot: Thay đổi tên và ảnh chuyên nghiệp cho bot, chọn bot chạy trên website hay Fanpage hay Zalo,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -435,8 +490,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Xuất bản để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản để hoàn thành"
+                    }
+                  ]
                 }
               ]
             },
@@ -444,27 +504,32 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click nút "
-                },
-                {
-                  "type": "text",
-                  "text": "Xem thử"
-                },
-                {
-                  "type": "text",
-                  "text": " để biết bot chạy như thế nào với khách hàng và sang trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/convo",
-                  "title": "TIN NHẮN",
-                  "text": "TIN NHẮN",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " để biết tư vấn viên nhận được chat như thế nào."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Xem thử"
+                    },
+                    {
+                      "type": "text",
+                      "text": "để biết bot chạy như thế nào với khách hàng và sang trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/convo",
+                      "title": "TIN NHẮN",
+                      "text": "TIN NHẮN",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "để biết tư vấn viên nhận được chat như thế nào."
+                    }
+                  ]
                 }
               ]
             }
@@ -484,12 +549,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -524,12 +584,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -547,8 +602,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bảng hỏi thông tin khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bảng hỏi thông tin khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -556,8 +616,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Giới thiệu chương trình khuyến mãi hay sản phẩm mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giới thiệu chương trình khuyến mãi hay sản phẩm mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -565,8 +630,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông báo sự kiện quan trọng"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo sự kiện quan trọng"
+                    }
+                  ]
                 }
               ]
             }
@@ -599,8 +669,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -608,11 +683,16 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/web_plugin?type=popup",
-                  "title": "Click Popup",
-                  "text": "Click Popup",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/web_plugin?type=popup",
+                      "title": "Click Popup",
+                      "text": "Click Popup",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -620,8 +700,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Tạo mới "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Tạo mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -629,8 +714,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Sử dụng mẫu popup Thu thập thông tin khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Sử dụng mẫu popup Thu thập thông tin khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -638,8 +728,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thiết kế kịch bản: Sửa nội dung thông điệp trên popup, xóa ô hỏi không cần, thêm hỏi thông tin theo nhu cầu của bạn, sửa ảnh,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết kế kịch bản: Sửa nội dung thông điệp trên popup, xóa ô hỏi không cần, thêm hỏi thông tin theo nhu cầu của bạn, sửa ảnh,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -647,8 +742,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cài đặt điều kiện popup: cho phép popup chạy khi nào, chạy ở trang website nào, chạy với nhóm khách nào"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cài đặt điều kiện popup: cho phép popup chạy khi nào, chạy ở trang website nào, chạy với nhóm khách nào"
+                    }
+                  ]
                 }
               ]
             },
@@ -656,8 +756,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click Xuất bản để hoàn thành"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Xuất bản để hoàn thành"
+                    }
+                  ]
                 }
               ]
             }
@@ -665,12 +770,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -698,75 +798,35 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

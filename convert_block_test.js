@@ -1,7 +1,7 @@
 var html2Block = require('./convert_block.js')
 const fs = require('fs')
 
-const rawhtml = fs.readFileSync('./full.html', 'utf8')
+const rawhtml = fs.readFileSync('./test.html', 'utf8')
 
 async function main() {
 	let docM = {}

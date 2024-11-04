@@ -10,7 +10,7 @@
   "source_id": "955316801",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -70,12 +60,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -92,12 +77,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -132,12 +112,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -150,12 +125,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -168,12 +138,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -202,7 +167,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn được chủ động mua dịch vụ Subiz ngay trên tài khoản Subiz của bạn bằng cách mở trang "
+              "text": "Bạn được chủ động mua dịch vụ Subiz ngay trên tài khoản Subiz của bạn bằng cách mở trang"
             },
             {
               "type": "link",
@@ -219,12 +184,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -235,30 +195,16 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/ad3c880682d8e890dcf589048d5e3f57f7931dfc4e41fcf4f0330868a899561e_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "text",
-              "text": " "
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -281,12 +227,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -297,15 +238,6 @@
               "image": {
                 "url": "https://vcdn.subiz-cdn.com/file/432c02fcdb8f7b1cbc64b743bda172bd9841461b343f570a52fdf6b05a22cc19_acpxkgumifuoofoosble"
               }
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": ""
-                }
-              ]
             }
           ]
         },
@@ -324,7 +256,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn gửi yêu cầu xuất hóa đơn VAT và nhập chính xác thông tin của Doanh nghiệp tại trang "
+              "text": "Bạn gửi yêu cầu xuất hóa đơn VAT và nhập chính xác thông tin của Doanh nghiệp tại trang"
             },
             {
               "type": "link",
@@ -335,7 +267,7 @@
             },
             {
               "type": "text",
-              "text": " này."
+              "text": "này."
             }
           ]
         },
@@ -362,26 +294,8 @@
                   "text": "Lưu ý:"
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
                   "text": "+ Dịch vụ Subiz không chịu thuế VAT"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
                 },
                 {
                   "type": "text",
@@ -412,12 +326,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -430,19 +339,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bạn chủ động quản lý thông tin gói dịch vụ và hóa đơn thanh toán tại trang "
+              "text": "Bạn chủ động quản lý thông tin gói dịch vụ và hóa đơn thanh toán tại trang"
             },
             {
               "type": "link",
@@ -480,8 +384,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Gửi email tới địa chỉ email chủ sở hữu tài khoản"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi email tới địa chỉ email chủ sở hữu tài khoản"
+                    }
+                  ]
                 }
               ]
             },
@@ -489,19 +398,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông báo trên trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/subscription-info",
-                  "title": "Thanh toán",
-                  "text": "Thanh toán",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo trên trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/subscription-info",
+                      "title": "Thanh toán",
+                      "text": "Thanh toán",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Subiz"
+                    }
+                  ]
                 }
               ]
             }
@@ -524,20 +438,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Subiz hỗ trợ ưu đãi giảm tới 30% khi thanh toán chu kỳ dài, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/vi/calculator.html",
-                  "title": "xem chi tiết tại bảng tính giá",
-                  "text": "xem chi tiết tại bảng tính giá",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subiz hỗ trợ ưu đãi giảm tới 30% khi thanh toán chu kỳ dài,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/vi/calculator.html",
+                      "title": "xem chi tiết tại bảng tính giá",
+                      "text": "xem chi tiết tại bảng tính giá",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -545,8 +464,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Subiz hỗ trợ giảm 40% chi phí cho các đơn vị giáo dục công lập, tổ chức phi lợi nhuận."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subiz hỗ trợ giảm 40% chi phí cho các đơn vị giáo dục công lập, tổ chức phi lợi nhuận."
+                    }
+                  ]
                 }
               ]
             }
@@ -586,7 +510,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Không. Bạn hoàn toàn chịu trách nhiệm về việc đơn phương kết thúc tài khoản của bạn. Subiz không có chính sách hoàn thanh toán, áp dụng cho tất cả khách hàng. "
+              "text": "Không. Bạn hoàn toàn chịu trách nhiệm về việc đơn phương kết thúc tài khoản của bạn. Subiz không có chính sách hoàn thanh toán, áp dụng cho tất cả khách hàng."
             },
             {
               "type": "link",
@@ -600,21 +524,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

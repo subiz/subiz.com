@@ -10,7 +10,7 @@
   "source_id": "583253150",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -42,42 +37,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bạn có thể tùy chỉnh các thông tin trên cửa sổ chat sao cho hòa hợp với hình ảnh chuyên nghiệp của website."
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Bạn có thể tùy chỉnh các thông tin trên cửa sổ chat sao cho hòa hợp với hình ảnh chuyên nghiệp của website."
             },
             {
               "type": "text",
@@ -86,7 +53,7 @@
             },
             {
               "type": "text",
-              "text": ": "
+              "text": ":"
             }
           ]
         },
@@ -97,15 +64,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đăng nhập Subiz qua đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "http://app.subiz.com.vn",
-                  "title": "App.subiz.com.vn",
-                  "text": "App.subiz.com.vn",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "http://app.subiz.com.vn",
+                      "title": "App.subiz.com.vn",
+                      "text": "App.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -113,8 +85,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -122,8 +99,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm chức năng Cửa sổ chat"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng Cửa sổ chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -131,8 +113,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tại đây, bạn sửa được màu sắc, hình ảnh và các nội dung đang có"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại đây, bạn sửa được màu sắc, hình ảnh và các nội dung đang có"
+                    }
+                  ]
                 }
               ]
             },
@@ -140,8 +127,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -149,12 +141,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -189,19 +176,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn thay đổi nút chat: "
+              "text": "Hướng dẫn thay đổi nút chat:"
             }
           ]
         },
@@ -212,15 +194,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "cài đặt cửa sổ chat ",
-                  "text": "cài đặt cửa sổ chat ",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "cài đặt cửa sổ chat",
+                      "text": "cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -228,8 +215,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp Nút chat "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Nút chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -237,8 +229,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Click vào ảnh nút chat để thay đổi, bạn có thể tùy chọn ảnh nút chat có sẵn trong thư viện Subiz hoặc tải ảnh bạn thiết kế lên. "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click vào ảnh nút chat để thay đổi, bạn có thể tùy chọn ảnh nút chat có sẵn trong thư viện Subiz hoặc tải ảnh bạn thiết kế lên."
+                    }
+                  ]
                 }
               ]
             }
@@ -246,12 +243,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -267,12 +259,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -288,12 +275,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -316,12 +298,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -340,19 +317,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tắt OFF nút chat Subiz tại trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " (nếu cần)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tắt OFF nút chat Subiz tại trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "(nếu cần)"
+                    }
+                  ]
                 }
               ]
             },
@@ -360,8 +342,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Đặt mã API mở cửa sổ chat dưới đây vào code website, để ra lệnh mở cửa sổ chat khi khách click vào hình ảnh hoặc đường link trên website."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt mã API mở cửa sổ chat dưới đây vào code website, để ra lệnh mở cửa sổ chat khi khách click vào hình ảnh hoặc đường link trên website."
+                    }
+                  ]
                 }
               ]
             }
@@ -369,12 +356,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "pre",
@@ -483,12 +465,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -506,19 +483,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -526,8 +504,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Vị trí và Kích thước "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Vị trí và Kích thước"
+                    }
+                  ]
                 }
               ]
             },
@@ -535,8 +518,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tùy chọn Vị trí bên trái hoặc bên phải, sửa cách lề, cách chân website."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn Vị trí bên trái hoặc bên phải, sửa cách lề, cách chân website."
+                    }
+                  ]
                 }
               ]
             }
@@ -556,12 +544,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -575,12 +558,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -598,15 +576,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -614,8 +597,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Vị trí và Kích thước "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Vị trí và Kích thước"
+                    }
+                  ]
                 }
               ]
             },
@@ -623,8 +611,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn px chiều rộng và chiều cao"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn px chiều rộng và chiều cao"
+                    }
+                  ]
                 }
               ]
             }
@@ -632,12 +625,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -653,12 +641,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -679,12 +662,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -707,12 +685,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -728,12 +701,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -752,8 +720,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang Cài đặt"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
                 }
               ]
             },
@@ -761,15 +734,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tìm "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/agents",
-                  "title": "chức năng Agent",
-                  "text": "chức năng Agent",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/agents",
+                      "title": "chức năng Agent",
+                      "text": "chức năng Agent",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -777,8 +755,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Chỉnh sửa Agent"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Chỉnh sửa Agent"
+                    }
+                  ]
                 }
               ]
             },
@@ -786,8 +769,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi Họ tên và Nhấp ảnh đại diện để tải lên ảnh mới"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi Họ tên và Nhấp ảnh đại diện để tải lên ảnh mới"
+                    }
+                  ]
                 }
               ]
             },
@@ -795,8 +783,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Lưu Cài đặt là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu Cài đặt là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -835,12 +828,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -868,15 +856,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt Cửa sổ chat",
-                  "text": "Cài đặt Cửa sổ chat",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt Cửa sổ chat",
+                      "text": "Cài đặt Cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -884,8 +877,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn Hiển thị hồ sơ người chat theo Doanh nghiệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn Hiển thị hồ sơ người chat theo Doanh nghiệp"
+                    }
+                  ]
                 }
               ]
             }
@@ -905,21 +903,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -937,15 +925,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/",
-                  "title": "Cài đặt Thông tin",
-                  "text": "Cài đặt Thông tin",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/",
+                      "title": "Cài đặt Thông tin",
+                      "text": "Cài đặt Thông tin",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -953,8 +946,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhập các thông tin, thay đổi ảnh đại diện là logo Doanh nghiệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập các thông tin, thay đổi ảnh đại diện là logo Doanh nghiệp"
+                    }
+                  ]
                 }
               ]
             }
@@ -974,12 +972,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -993,12 +986,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1020,31 +1008,8 @@
               }
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "Hướng dẫn cách thay đổi tên và thông điệp trên cửa sổ chat:"
-                }
-              ]
+              "type": "text",
+              "text": "Hướng dẫn cách thay đổi tên và thông điệp trên cửa sổ chat:"
             }
           ]
         },
@@ -1055,15 +1020,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1071,8 +1041,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn Tiêu đề"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn Tiêu đề"
+                    }
+                  ]
                 }
               ]
             },
@@ -1080,8 +1055,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thay đổi nội dung tiêu đề và lời giới thiệu"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi nội dung tiêu đề và lời giới thiệu"
+                    }
+                  ]
                 }
               ]
             },
@@ -1089,8 +1069,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1123,7 +1108,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn cài đặt: "
+              "text": "Hướng dẫn cài đặt:"
             }
           ]
         },
@@ -1134,15 +1119,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1150,12 +1140,17 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn"
-                },
-                {
-                  "type": "text",
-                  "text": " Tiêu đề"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tiêu đề"
+                    }
+                  ]
                 }
               ]
             },
@@ -1163,8 +1158,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Hiển thị logo doanh nghiệp"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Hiển thị logo doanh nghiệp"
+                    }
+                  ]
                 }
               ]
             },
@@ -1172,8 +1172,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thêm liên kết Facebook và Zalo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm liên kết Facebook và Zalo"
+                    }
+                  ]
                 }
               ]
             },
@@ -1181,8 +1186,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": " Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1190,12 +1200,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1237,12 +1242,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1260,19 +1260,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở trang "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1280,8 +1281,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Chọn Lời chào "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Lời chào"
+                    }
+                  ]
                 }
               ]
             },
@@ -1289,8 +1295,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON Lời chào và sửa nội dung"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON Lời chào và sửa nội dung"
+                    }
+                  ]
                 }
               ]
             },
@@ -1298,8 +1309,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1307,12 +1323,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1328,12 +1339,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1361,23 +1367,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": " "
-                },
-                {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1385,8 +1388,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn Hỏi thông tin trước khi chat"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn Hỏi thông tin trước khi chat"
+                    }
+                  ]
                 }
               ]
             },
@@ -1394,8 +1402,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON và chọn hỏi thông tin cần thiết của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON và chọn hỏi thông tin cần thiết của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -1403,8 +1416,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cập nhật là xong"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong"
+                    }
+                  ]
                 }
               ]
             }
@@ -1424,12 +1442,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1441,7 +1454,7 @@
             },
             {
               "type": "text",
-              "text": ": Bạn muốn hỏi nhiều thông tin khác theo đặc thù riêng của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang "
+              "text": ": Bạn muốn hỏi nhiều thông tin khác theo đặc thù riêng của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang"
             },
             {
               "type": "link",
@@ -1487,19 +1500,20 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/chatbox/design",
-                  "title": "Cài đặt cửa sổ chat",
-                  "text": "Cài đặt cửa sổ chat",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/chatbox/design",
+                      "title": "Cài đặt cửa sổ chat",
+                      "text": "Cài đặt cửa sổ chat",
+                      "target": "_blank"
+                    }
+                  ]
                 }
               ]
             },
@@ -1507,8 +1521,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhấp chọn Hỏi thông tin khi offline "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn Hỏi thông tin khi offline"
+                    }
+                  ]
                 }
               ]
             },
@@ -1516,8 +1535,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bật ON và chọn hỏi thông tin cần thiết của khách "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON và chọn hỏi thông tin cần thiết của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -1537,12 +1561,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1554,7 +1573,7 @@
             },
             {
               "type": "text",
-              "text": ": Bạn muốn hỏi nhiều thông tin khác theo đặc thù riêng của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang "
+              "text": ": Bạn muốn hỏi nhiều thông tin khác theo đặc thù riêng của Doanh nghiệp, bạn sẽ cần tạo trường thông tin mới tại trang"
             },
             {
               "type": "link",
@@ -1572,12 +1591,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1609,12 +1623,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -1663,12 +1672,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

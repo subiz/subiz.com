@@ -10,7 +10,7 @@
   "source_id": "1245788391",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -34,12 +34,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -48,8 +43,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nhận và gửi email cho khách hàng từ phần mềm Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhận và gửi email cho khách hàng từ phần mềm Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -57,8 +57,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Quản lý được tất cả email từ nhiều địa chỉ email khác nhau trên 1 trang Subiz"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quản lý được tất cả email từ nhiều địa chỉ email khác nhau trên 1 trang Subiz"
+                    }
+                  ]
                 }
               ]
             },
@@ -66,8 +71,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tạo và sử dụng được mẫu email "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo và sử dụng được mẫu email"
+                    }
+                  ]
                 }
               ]
             }
@@ -79,7 +89,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn cài đặt email "
+              "text": "Hướng dẫn cài đặt email"
             }
           ]
         },
@@ -99,19 +109,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1. Điền thêm địa chỉ email của Doanh nghiệp vào Subiz. Mở trang Cài đặt > chọn "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/email",
-                  "title": "Tích hợp Email",
-                  "text": "Tích hợp Email",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " > chọn nút Thêm Email > Nhập địa chỉ email và tên hiển thị thay cho địa chỉ email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1. Điền thêm địa chỉ email của Doanh nghiệp vào Subiz. Mở trang Cài đặt > chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/email",
+                      "title": "Tích hợp Email",
+                      "text": "Tích hợp Email",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> chọn nút Thêm Email > Nhập địa chỉ email và tên hiển thị thay cho địa chỉ email"
+                    }
+                  ]
                 }
               ]
             },
@@ -119,30 +134,35 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Bật ON cho phép nhận mail và vào email của Doanh nghiệp để cài đặt tự động chuyển tiếp email cho email Subiz, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://support.google.com/mail/answer/10957?hl=vi#zippy=%2Cb%E1%BA%ADt-ho%E1%BA%B7c-t%E1%BA%AFt-t%C3%ADnh-n%C4%83ng-t%E1%BB%B1-%C4%91%E1%BB%99ng-chuy%E1%BB%83n-ti%E1%BA%BFp",
-                  "title": "xem hướng dẫn Gmail",
-                  "text": "xem hướng dẫn Gmail",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ", "
-                },
-                {
-                  "type": "link",
-                  "href": "https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-7f2670a1-7fff-4475-8a3c-5822d63b0c8e",
-                  "title": "xem hướng dẫn mail Outlook",
-                  "text": "xem hướng dẫn mail Outlook",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Bật ON cho phép nhận mail và vào email của Doanh nghiệp để cài đặt tự động chuyển tiếp email cho email Subiz,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://support.google.com/mail/answer/10957?hl=vi#zippy=%2Cb%E1%BA%ADt-ho%E1%BA%B7c-t%E1%BA%AFt-t%C3%ADnh-n%C4%83ng-t%E1%BB%B1-%C4%91%E1%BB%99ng-chuy%E1%BB%83n-ti%E1%BA%BFp",
+                      "title": "xem hướng dẫn Gmail",
+                      "text": "xem hướng dẫn Gmail",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ","
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-7f2670a1-7fff-4475-8a3c-5822d63b0c8e",
+                      "title": "xem hướng dẫn mail Outlook",
+                      "text": "xem hướng dẫn mail Outlook",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -150,8 +170,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3: Bật On cho phép gửi email và cài đặt xác thực email người gửi. Lưu ý xác thực qua tên miền sẽ tăng độ uy tín của email và hạn chế tỷ lệ vào hòm spam."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Bật On cho phép gửi email và cài đặt xác thực email người gửi. Lưu ý xác thực qua tên miền sẽ tăng độ uy tín của email và hạn chế tỷ lệ vào hòm spam."
+                    }
+                  ]
                 }
               ]
             }
@@ -159,12 +184,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -184,7 +204,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn nhận và gửi email "
+              "text": "Hướng dẫn nhận và gửi email"
             }
           ]
         },
@@ -212,21 +232,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -274,102 +284,47 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

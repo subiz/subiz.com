@@ -1,0 +1,218 @@
+---
+id: 1387158228
+slug: /1387158228-quan-ly-hoi-thoai-cua-khach
+title: Quản lý hội thoại của khách
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2024-10-03T07:11:02.108Z
+---
+
+# Quản lý hội thoại của khách
+
+
+
+
+
+
+Hội thoại là cuộc trò chuyện trực tiếp giữa khách hàng và nhân viên hỗ trợ của doanh nghiệp. Hội thoại có thể khởi tạo từ khách nhắn tin trên website, bình luận bài viết Fanpage, chat messenger, chat Zalo OA, gửi email hoặc gọi điện thoại,...
+
+
+
+Bắt đầu ngày làm việc, bạn sẽ nhận và trả lời tư vấn khách hàng trên trang **[TIN NHẮN](https://app.subiz.com.vn/convo)** của Subiz.
+
+Một số công cụ hỗ trợ quản lý hội thoại của khách hàng như sau:
+
+01. Trả lời nhanh với mẫu tin nhắn có sẵn
+11. Xem thông tin khách hàng
+21. Thêm Tag hội thoại phân biệt nhu cầu của khách
+31. Tạo nhắc việc cần làm
+41. Tạo đơn hàng mới
+51. Ghi chú cho khách hàng
+61. Thêm agent đồng nghiệp vào hội thoại hoặc rời hội thoại
+71. Hoàn thành hội thoại
+
+
+
+**[Xem video 6 công cụ cần biết trong chat online](https://www.youtube.com/watch?v=oi6nmPYPAPk&t=1s)**
+## Bước 1: Trả lời nhanh với mẫu tin nhắn
+
+
+
+
+Việc trả lời tư vấn khách hàng qua tin nhắn chat khiến Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1 **click lệnh “/”** hoặc nhấn **nút MẪU TIN NHẮN** trong ô nhập tin nhắn.
+
+**[Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh](https://subiz.com.vn/docs/1941951532-mau-tin-nhan)**
+
+
+![](https://vcdn.subiz-cdn.com/file/e64aca01ffb86bdd5024a61600cf17defe27ed0d49586612d5403366a303a6bc_acpxkgumifuoofoosble)
+
+## Bước 2: Xem thông tin khách hàng
+
+
+Bạn muốn biết khách hàng là khách mới hay khách cũ? 
+
+Khách có thông tin họ tên, sđt chưa? 
+
+Khách đang xem trang sản phẩm nào trên website? Khách có lịch sử chat tư vấn chưa?,...
+
+
+
+Bạn xem được tất cả thông tin khách hàng ở cột bên phải màn hình.
+
+[Xem thêm hướng dẫn quản lý hồ sơ khách hàng](https://subiz.com.vn/docs/777741175-ho-so-khach-hang)
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/34d77cefccde4def0481ef47efb56ccd6a1fc6f9708562da60fe25df3c3807b7_acpxkgumifuoofoosble)
+
+## Bước 3: Thêm Tag hội thoại
+
+
+Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn nút** THÊM TAG** hoặc gõ **lệnh “@tag”** tại ô nhập tin nhắn.
+
+**[Hướng dẫn chi tiết cài đặt Tag hội thoại](https://subiz.com.vn/docs/662546069-tag-hoi-thoai)**
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/bbb15f2186c3f4bec88b3a90f9d9d65a3ce67f83d610dd782335d49fdd287875_acpxkgumifuoofoosble)
+
+
+
+## Bước 4: Tạo nhắc việc cần làm
+
+
+Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc
+
+**[Xem thêm hướng dẫn sử dụng nhắc việc](https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam)**.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/92a82f323317c9a64e7beeb24bbc5b5de15360b28ec9f6db615030484b376e1d_acpxkgumifuoofoosble)
+
+## Bước 5: Tạo đơn hàng mới
+
+
+Bạn gọi điện và chốt được đơn hàng mới, bạn ghi nhận được đơn hàng ngay trên Subiz.
+
+Hướng dẫn tạo đơn mới: Click nút Tạo đơn tại mục Đơn hàng > Điền thông tin khách, thêm sản phẩm > Chọn Xác nhận đơn là xong
+
+**[Xem hướng dẫn quản lý đơn hàng](https://subiz.com.vn/docs/1276788659-don-hang)**
+
+
+![](https://vcdn.subiz-cdn.com/file/b7c65146cd0684dd37aa2732d53dff89db4efaead5e09a96922ae9b9edf50b4c_acpxkgumifuoofoosble)
+
+## Bước 6: Ghi chú cho khách hàng
+
+
+Bạn cần lưu ý thêm về khách hàng, cập nhật nội dung ngay mục ghi chú giúp bạn và đồng nghiệp chủ động tiếp cận hỗ trợ khách hàng phù hợp
+## Bước 7: Thêm agent vào hội thoại hoặc rời hội thoại
+
+
+Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click **nút THÊM AGENT** hoặc nhập lệnh **@agent** trong ô nhập tin nhắn.
+
+
+
+Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút **THÊM AGENT** > Chọn **Rời**
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/0ec90c8ea16e409d60f80cb12666cec8f927ea4a565de25af3d4b9a126e283b8_acpxkgumifuoofoosble)
+
+
+
+## Bước 8: Hoàn thành hội thoại
+
+
+
+
+Hoàn thành hội thoại giúp bạn kiểm soát được công việc trả lời tư vấn khách hàng, đảm bảo bạn đã giải quyết xong yêu cầu của khách hay hết nhiệm vụ trong ca làm việc của mình.
+
+
+
+Hướng dẫn hoàn thành hội thoại:
+
+- Cách 1: Click nút **Hội thoại** góc trái màn hình > **Click chọn Hội thoại** sẽ hoàn thành > Chọn nút **Hoàn thành**
+- Cách 2: Chọn nút **Đang mở** bên góc phải hội thoại > Chọn **Hoàn thành**
+- Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
+
+
+![](https://vcdn.subiz-cdn.com/file/8f9d220ae0b55906362ad14a39572f8855d8d00d442ab99a5492a6618c554a06_acpxkgumifuoofoosble)
+
+
+
+
+Xem thêm **[hướng dẫn hoàn thành hội thoại](https://subiz.com.vn/docs/573485226-tu-dong-hoan-thanh-hoi-thoai)**
+
+
+## Câu hỏi thường gặp
+
+### CH1: Tôi lọc tìm chat từ 1 website hay 1 Fanpage cụ thể được không?
+
+
+Trả lời: Có. Bạn lọc tìm nhanh hội thoại của khách theo kênh website, Fanpage hay nhiều tiêu chí khác bằng cách chọn nút Lọc trên trang Tin nhắn
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/f9936ed1fe9a4e4e959d628bad0038b50887a3c90c27e3ca084ceada23a70ec0_acpxkgumifuoofoosble)
+
+
+Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang [Danh sách hội thoại](https://app.subiz.com.vn/new-reports/convo-list), [xem hướng dẫn chi tiết](https://subiz.com.vn/docs/329849664-thong-ke-hoi-thoai#danh-s%C3%A1ch-h%E1%BB%99i-tho%E1%BA%A1i).
+
+
+### CH2: Subiz có app mobile không?
+
+
+Trả lời: Có. Bạn tải app mobile Subiz về điện thoại để sẵn sàng trả lời khách hàng 24/7.
+
+[Xem video hướng dẫn sử dụng app mobile](https://www.youtube.com/watch?v=S9wVGrxhYks)
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble)
+
+### CH3: Xem địa chỉ IP của khách như thế nào?
+
+
+Trả lời: Với khách truy cập website, bạn xem được địa chỉ IP bằng cách: 
+
+- Mở 1 khách hàng bất kỳ
+- Xem cột hồ sơ khách ở bên phải màn hình
+- Tại mục “Phiên truy cập”, bạn click chuột trái vào tên tỉnh/thành phố để xem và sao chép địa chỉ IP
+
+
+
+Ví dụ khách đến từ thành phố Hà Nội và click xem địa chỉ IP như sau:
+
+
+![](https://vcdn.subiz-cdn.com/file/ca3eb5d7c97882b30739d626773bd27bc015b50d172e1a3dab9353960b6c5221_acpxkgumifuoofoosble)
+
+
+
+### CH4: Chặn khách spam trên Subiz như thế nào?
+
+
+Trả lời: Bạn có 2 cách để chặn khách spam như sau:
+
+- Cách 1: Chặn thủ công từng khách. Mở khách spam, xem cột hồ sơ khách hàng ở bên phải màn hình > dưới mục tên khách, chọn nút 3 chấm “...” để chọn chặn người dùng.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/d978ad5f1f0c984a6fb0c6389173dcfe5a3b65b1c7615fc14a8305200e00b06e_acpxkgumifuoofoosble)
+
+
+
+
+- Cách 2: Chặn theo địa chỉ IP, chặn SĐT hoặc email. Mở trang Cài đặt > chọn Danh sách chặn > Chọn Tạo mới và thêm phương thức chặn
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/6b1ffab0f20089d0665c5b8b664dfd22b499709d2411e3a49671335d36dd629b_acpxkgumifuoofoosble)

@@ -10,7 +10,7 @@
   "source_id": "883847443",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,19 +24,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh tổng đài và cách xử lý. "
+              "text": "Bài viết tổng hợp một số lỗi gửi tin nhắn thường gặp trên kênh tổng đài và cách xử lý."
             }
           ]
         },
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -70,19 +60,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Nguyên nhân 1: Agent không được phân phối cuộc gọi. ",
+              "text": "Nguyên nhân 1: Agent không được phân phối cuộc gọi.",
               "bold": true
             }
           ]
@@ -92,18 +77,13 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách xử lý: "
+              "text": "Cách xử lý:"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "bullet_list",
@@ -112,20 +92,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1: Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "cài đặt số tổng đài",
-                  "text": "cài đặt số tổng đài",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " rồi kiểm tra danh sách các agent tiếp nhận cuộc gọi => Thêm agent nếu chưa có"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "cài đặt số tổng đài",
+                      "text": "cài đặt số tổng đài",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "rồi kiểm tra danh sách các agent tiếp nhận cuộc gọi => Thêm agent nếu chưa có"
+                    }
+                  ]
                 }
               ]
             },
@@ -133,20 +118,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2: Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/rule-setting",
-                  "title": "cài đặt rule phân phối cuộc goi đến",
-                  "text": "cài đặt rule phân phối cuộc goi đến",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " và kiểm tra danh sách agent được đổ chuông cuộc gọi đến => Thêm agent nếu chưa có"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/rule-setting",
+                      "title": "cài đặt rule phân phối cuộc goi đến",
+                      "text": "cài đặt rule phân phối cuộc goi đến",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "và kiểm tra danh sách agent được đổ chuông cuộc gọi đến => Thêm agent nếu chưa có"
+                    }
+                  ]
                 }
               ]
             }
@@ -166,12 +156,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -188,7 +173,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách xử lý: Mở "
+              "text": "Cách xử lý: Mở"
             },
             {
               "type": "link",
@@ -200,7 +185,7 @@
             },
             {
               "type": "text",
-              "text": " và kiểm tra điều kiện cài đặt là gì? Cuộc gọi đổ chuông có chạy theo rule cài đặt hay không? => Nếu không, sửa điều kiện rule"
+              "text": "và kiểm tra điều kiện cài đặt là gì? Cuộc gọi đổ chuông có chạy theo rule cài đặt hay không? => Nếu không, sửa điều kiện rule"
             }
           ]
         },
@@ -231,7 +216,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Khi có cuộc gọi đến, điện thoại bàn VOIP của bạn không đổ chuông, "
+              "text": "Khi có cuộc gọi đến, điện thoại bàn VOIP của bạn không đổ chuông,"
             },
             {
               "type": "text",
@@ -246,22 +231,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Điện thoại mất kết nối internet. => "
-                },
-                {
-                  "type": "text",
-                  "text": "Cách xử lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Khởi động các dây kết nối internet trên điện thoại và test gọi điện."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Điện thoại mất kết nối internet. =>"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Khởi động các dây kết nối internet trên điện thoại và test gọi điện."
+                    }
+                  ]
                 }
               ]
             },
@@ -269,42 +259,47 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Cài đặt điện thoại trên Subiz ngừng hoạt động. => "
-                },
-                {
-                  "type": "text",
-                  "text": "Cách xử lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Kiểm tra trạng thái hoạt động của điện thoại trong "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "Cài đặt điện thoại bàn",
-                  "text": "Cài đặt điện thoại bàn",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Nếu trạng thái là “Tắt”, bạn cần chỉnh sửa và "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/docs/456469809-ket-noi-tong-dai#b%C6%B0%E1%BB%9Bc-3-k%E1%BA%BFt-n%E1%BB%91i-c%C3%A1c-%C4%91i%E1%BB%87n-tho%E1%BA%A1i-v%C3%A0o-subiz",
-                  "title": "cài đặt các bước kết nối điện thoại VOIP vào Subiz",
-                  "text": "cài đặt các bước kết nối điện thoại VOIP vào Subiz",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Cài đặt điện thoại trên Subiz ngừng hoạt động. =>"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Kiểm tra trạng thái hoạt động của điện thoại trong"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Cài đặt điện thoại bàn",
+                      "text": "Cài đặt điện thoại bàn",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Nếu trạng thái là “Tắt”, bạn cần chỉnh sửa và"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/docs/456469809-ket-noi-tong-dai#b%C6%B0%E1%BB%9Bc-3-k%E1%BA%BFt-n%E1%BB%91i-c%C3%A1c-%C4%91i%E1%BB%87n-tho%E1%BA%A1i-v%C3%A0o-subiz",
+                      "title": "cài đặt các bước kết nối điện thoại VOIP vào Subiz",
+                      "text": "cài đặt các bước kết nối điện thoại VOIP vào Subiz",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -329,42 +324,47 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 3",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Máy nhánh agent không được phân chia cuộc gọi. => "
-                },
-                {
-                  "type": "text",
-                  "text": "Cách xử lý",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bạn kiểm tra danh sách agent tiếp nhận cuộc gọi trong "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "Cài đặt số tổng đài",
-                  "text": "Cài đặt số tổng đài",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " hoặc "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/rule-setting",
-                  "title": "Rule phân phối cuộc gọi",
-                  "text": "Rule phân phối cuộc gọi",
-                  "target": "_blank",
-                  "bold": true
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 3",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Máy nhánh agent không được phân chia cuộc gọi. =>"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cách xử lý",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bạn kiểm tra danh sách agent tiếp nhận cuộc gọi trong"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Cài đặt số tổng đài",
+                      "text": "Cài đặt số tổng đài",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "hoặc"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/rule-setting",
+                      "title": "Rule phân phối cuộc gọi",
+                      "text": "Rule phân phối cuộc gọi",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
                 }
               ]
             }
@@ -394,12 +394,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -426,62 +421,28 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bật ON thông báo tin nhắn trên Subiz: Đăng nhập Subiz => Mở "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/profile/setting-notification",
-                  "title": "trang cài đặt thông báo tin nhắn",
-                  "text": "trang cài đặt thông báo tin nhắn",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": " và bật ON thông báo tin nhắn mới"
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bước 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Bật ON CHO PHÉP thông báo trên trình duyệt: Đăng nhập Subiz => click vào icon Khóa “Xem thông tin trang web” bên trái đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
-                },
-                {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": " => Bật ON (Cho phép) thông báo + bật ON (Cho phép) âm thanh"
+                      "text": "Bước 1",
+                      "bold": true
                     },
                     {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": ""
-                        }
-                      ]
+                      "type": "text",
+                      "text": ": Bật ON thông báo tin nhắn trên Subiz: Đăng nhập Subiz => Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/profile/setting-notification",
+                      "title": "trang cài đặt thông báo tin nhắn",
+                      "text": "trang cài đặt thông báo tin nhắn",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "và bật ON thông báo tin nhắn mới"
                     }
                   ]
                 }
@@ -491,13 +452,48 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3",
-                  "bold": true
-                },
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bật ON CHO PHÉP thông báo trên trình duyệt: Đăng nhập Subiz => click vào icon Khóa “Xem thông tin trang web” bên trái đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "=> Bật ON (Cho phép) thông báo + bật ON (Cho phép) âm thanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
                 {
-                  "type": "text",
-                  "text": ": Bật ON CHO PHÉP thông báo trên máy tính. Với window 10 trở lên: Nhấn tổ hợp phím Windows + I để mở Cài đặt => Tìm kiếm “Notifications & actions” => Trên giao diện có mục “Get notifications from apps and other senders”, bật ON thông báo cho trình duyệt bạn đang sử dụng. (Google Chrome, Cốc Cốc, Firefox,...)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bật ON CHO PHÉP thông báo trên máy tính. Với window 10 trở lên: Nhấn tổ hợp phím Windows + I để mở Cài đặt => Tìm kiếm “Notifications & actions” => Trên giao diện có mục “Get notifications from apps and other senders”, bật ON thông báo cho trình duyệt bạn đang sử dụng. (Google Chrome, Cốc Cốc, Firefox,...)"
+                    }
+                  ]
                 }
               ]
             }
@@ -537,12 +533,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -554,7 +545,7 @@
             },
             {
               "type": "text",
-              "text": ": Bạn cài đặt trình duyệt cho phép "
+              "text": ": Bạn cài đặt trình duyệt cho phép"
             },
             {
               "type": "link",
@@ -565,7 +556,7 @@
             },
             {
               "type": "text",
-              "text": " kết nối micro"
+              "text": "kết nối micro"
             }
           ]
         },
@@ -574,7 +565,7 @@
           "content": [
             {
               "type": "text",
-              "text": " => Click nút Khóa bên phải đường link "
+              "text": "=> Click nút Khóa bên phải đường link"
             },
             {
               "type": "link",
@@ -591,21 +582,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -645,8 +626,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cuộc gọi chỉ nghe được một chiều"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cuộc gọi chỉ nghe được một chiều"
+                    }
+                  ]
                 }
               ]
             },
@@ -654,8 +640,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cuộc gọi chập chờn, bị ngắt quãng, âm thanh không rõ"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cuộc gọi chập chờn, bị ngắt quãng, âm thanh không rõ"
+                    }
+                  ]
                 }
               ]
             },
@@ -663,8 +654,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Kết thúc cuộc gọi nhưng màn hình cuộc gọi vẫn đếm giây"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kết thúc cuộc gọi nhưng màn hình cuộc gọi vẫn đếm giây"
+                    }
+                  ]
                 }
               ]
             },
@@ -672,8 +668,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cuộc gọi tự động kết thúc"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cuộc gọi tự động kết thúc"
+                    }
+                  ]
                 }
               ]
             }
@@ -684,7 +685,7 @@
           "content": [
             {
               "type": "text",
-              "text": " Tổng đài VOIP được kết nối qua hệ thống internet. Vì vậy, băng thông và tốc độ đường truyền của mạng internet sẽ đóng vai trò quan quyết định chất lượng tín hiệu điện thoại."
+              "text": "Tổng đài VOIP được kết nối qua hệ thống internet. Vì vậy, băng thông và tốc độ đường truyền của mạng internet sẽ đóng vai trò quan quyết định chất lượng tín hiệu điện thoại."
             }
           ]
         },
@@ -718,13 +719,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Thay đổi đường truyền internet bằng cách dùng mạng internet có dây (mạng Ethernet)"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Thay đổi đường truyền internet bằng cách dùng mạng internet có dây (mạng Ethernet)"
+                    }
+                  ]
                 }
               ]
             },
@@ -732,13 +738,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Giảm tải CPU trên máy tính. Khi CPU máy tính bị quá tải khi máy tính sử dụng nhiều công việc khác nhau thì chất lượng cuộc gọi cũng bị ảnh hưởng."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Giảm tải CPU trên máy tính. Khi CPU máy tính bị quá tải khi máy tính sử dụng nhiều công việc khác nhau thì chất lượng cuộc gọi cũng bị ảnh hưởng."
+                    }
+                  ]
                 }
               ]
             },
@@ -746,25 +757,30 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Bước 3",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Sử dụng "
-                },
-                {
-                  "type": "link",
-                  "href": "https://subiz.com.vn/blog/dien-thoai-voip.html",
-                  "title": "điện thoại IP chuyên dụng",
-                  "text": "điện thoại IP chuyên dụng",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ". Điện thoại bàn IP chuyên sử dụng gọi điện sẽ ổn định và đảm bảo chất lượng cuộc gọi"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Sử dụng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/blog/dien-thoai-voip.html",
+                      "title": "điện thoại IP chuyên dụng",
+                      "text": "điện thoại IP chuyên dụng",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Điện thoại bàn IP chuyên sử dụng gọi điện sẽ ổn định và đảm bảo chất lượng cuộc gọi"
+                    }
+                  ]
                 }
               ]
             }
@@ -785,7 +801,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Micro của bạn không hoạt động thường có 2 nguyên nhân chính: "
+              "text": "Micro của bạn không hoạt động thường có 2 nguyên nhân chính:"
             }
           ]
         },
@@ -796,13 +812,18 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Micro của headphone bị lỗi. Kiểm tra bằng cách bạn thử gọi điện thoại hoặc gọi điện Zalo xem có có nói chuyện bình thường không? => Nếu không, bạn cần thay đổi headphone mới."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Micro của headphone bị lỗi. Kiểm tra bằng cách bạn thử gọi điện thoại hoặc gọi điện Zalo xem có có nói chuyện bình thường không? => Nếu không, bạn cần thay đổi headphone mới."
+                    }
+                  ]
                 }
               ]
             },
@@ -810,39 +831,44 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Trình duyệt bạn đang sử dụng chưa cho phép "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/",
-                  "title": "app.subiz.com.vn",
-                  "text": "app.subiz.com.vn",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": " kết nối micro. Cách xử lý: "
-                },
-                {
-                  "type": "text",
-                  "text": "Click nút Khóa bên phải đường link "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn",
-                  "title": "https://app.subiz.com.vn",
-                  "text": "https://app.subiz.com.vn",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": ", chọn Micro và bật ON cho phép. Hoặc mở cài đặt Quyền riêng tư và bảo mật > chọn Micro và bật ON cho phép"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Trình duyệt bạn đang sử dụng chưa cho phép"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/",
+                      "title": "app.subiz.com.vn",
+                      "text": "app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "kết nối micro. Cách xử lý:"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Click nút Khóa bên phải đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", chọn Micro và bật ON cho phép. Hoặc mở cài đặt Quyền riêng tư và bảo mật > chọn Micro và bật ON cho phép"
+                    }
+                  ]
                 }
               ]
             }
@@ -850,21 +876,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -880,21 +896,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -922,22 +928,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 1",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Đường truyền internet bị chập chờn khi thực hiện cuộc gọi. "
-                },
-                {
-                  "type": "text",
-                  "text": "Giải pháp",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Kiểm tra đường truyền internet cần ổn định."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Đường truyền internet bị chập chờn khi thực hiện cuộc gọi."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giải pháp",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Kiểm tra đường truyền internet cần ổn định."
+                    }
+                  ]
                 }
               ]
             },
@@ -945,22 +956,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 2",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Số điện thoại thuê bao, sai số điện thoại. "
-                },
-                {
-                  "type": "text",
-                  "text": "Giải pháp",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Dùng điện thoại cá nhân của bạn gọi đi tới số điện thoại của khách xem có thông báo là gì."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số điện thoại thuê bao, sai số điện thoại."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giải pháp",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Dùng điện thoại cá nhân của bạn gọi đi tới số điện thoại của khách xem có thông báo là gì."
+                    }
+                  ]
                 }
               ]
             },
@@ -968,22 +984,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 3",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Số điện thoại của bạn bị hết gói cước trả trước. "
-                },
-                {
-                  "type": "text",
-                  "text": "Giải pháp",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Liên hệ hotline nhà mạng để kiểm tra gói cước thuê bao và thanh toán nếu cần."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 3",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số điện thoại của bạn bị hết gói cước trả trước."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giải pháp",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Liên hệ hotline nhà mạng để kiểm tra gói cước thuê bao và thanh toán nếu cần."
+                    }
+                  ]
                 }
               ]
             },
@@ -991,22 +1012,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 4",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Mạng viễn thông của nhà mạng chập chờn. "
-                },
-                {
-                  "type": "text",
-                  "text": "Giải pháp",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Nhân viên bình tĩnh và chờ khoảng 3-5 phút rồi gọi lại."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 4",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Mạng viễn thông của nhà mạng chập chờn."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giải pháp",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Nhân viên bình tĩnh và chờ khoảng 3-5 phút rồi gọi lại."
+                    }
+                  ]
                 }
               ]
             },
@@ -1014,22 +1040,27 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 5",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Máy chủ Subiz bị quá tải. "
-                },
-                {
-                  "type": "text",
-                  "text": "Giải pháp",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": ": Nhân viên bình tĩnh và chờ khoảng 3-5 phút rồi gọi lại."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 5",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Máy chủ Subiz bị quá tải."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giải pháp",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Nhân viên bình tĩnh và chờ khoảng 3-5 phút rồi gọi lại."
+                    }
+                  ]
                 }
               ]
             }
@@ -1037,21 +1068,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -1079,19 +1100,24 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 1: Do tài khoản chưa bật ON cho phép ghi âm cuộc gọi, xem lại "
-                },
-                {
-                  "type": "link",
-                  "href": "https://app.subiz.com.vn/settings/call-center",
-                  "title": "cài đặt của số tổng đài",
-                  "text": "cài đặt của số tổng đài",
-                  "target": "_blank"
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 1: Do tài khoản chưa bật ON cho phép ghi âm cuộc gọi, xem lại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "cài đặt của số tổng đài",
+                      "text": "cài đặt của số tổng đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             },
@@ -1099,91 +1125,15 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Nguyên nhân 2: Do máy chủ dữ liệu gián đoạn kết nối tại thời điểm cuộc gọi diễn ra. Khi đó, cuộc gọi sẽ không có file ghi âm trên hệ thống Subiz."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân 2: Do máy chủ dữ liệu gián đoạn kết nối tại thời điểm cuộc gọi diễn ra. Khi đó, cuộc gọi sẽ không có file ghi âm trên hệ thống Subiz."
+                    }
+                  ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
             }
           ]
         }

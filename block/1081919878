@@ -10,7 +10,7 @@
   "source_id": "1081919878",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,19 +24,14 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Ngay khi bạn đăng ký tài khoản Subiz, bạn sẽ có 30 ngày dùng thử tất cả "
+              "text": "Ngay khi bạn đăng ký tài khoản Subiz, bạn sẽ có 14 ngày dùng thử tất cả"
             },
             {
               "type": "link",
@@ -47,18 +42,13 @@
             },
             {
               "type": "text",
-              "text": " như gói trả phí."
+              "text": "như gói trả phí."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -69,22 +59,17 @@
             },
             {
               "type": "text",
-              "text": " Subiz được thiết kế linh hoạt phù hợp với từng nhu cầu của Doanh nghiệp"
+              "text": "Subiz được thiết kế linh hoạt phù hợp với từng nhu cầu của Doanh nghiệp"
             },
             {
               "type": "text",
-              "text": ". Dưới đây là đơn giá dịch vụ Subiz tính cho 1 agent: "
+              "text": ". Dưới đây là đơn giá dịch vụ Subiz tính cho 1 agent:"
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -93,26 +78,21 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisaklsnaveqhbmgkenu"
+                "url": "https://vcdn.subiz-cdn.com/file/326d6d930cbf13cb2829dfaeba5938d661d98766825e7c3600d4058632e13c60_acpxkgumifuoofoosble"
               }
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Chi phí dịch vụ Subiz được tính theo số lượng agent làm việc trên Subiz. Doanh nghiệp có thể tính phí dịch vụ Subiz theo nhu cầu tại "
+              "text": "Chi phí dịch vụ Subiz được tính theo số lượng agent làm việc trên Subiz. Doanh nghiệp có thể tính phí dịch vụ Subiz theo nhu cầu tại"
             },
             {
               "type": "link",
@@ -129,30 +109,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

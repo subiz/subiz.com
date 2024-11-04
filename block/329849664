@@ -10,7 +10,7 @@
   "source_id": "329849664",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -70,12 +60,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -93,8 +78,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Theo Tag hội thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Theo Tag hội thoại"
+                    }
+                  ]
                 }
               ]
             },
@@ -102,8 +92,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Theo kênh tương tác như website, Facebook, Zalo, Email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Theo kênh tương tác như website, Facebook, Zalo, Email"
+                    }
+                  ]
                 }
               ]
             },
@@ -111,8 +106,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Theo nguồn cụ thể tên Fanpage, tên website,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Theo nguồn cụ thể tên Fanpage, tên website,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -120,8 +120,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Theo đánh giá hội thoại của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Theo đánh giá hội thoại của khách"
+                    }
+                  ]
                 }
               ]
             }
@@ -200,12 +205,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -262,7 +262,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn đang đầu tư quảng cáo trên website, Fanpage, Zalo. Vậy kênh nào có nhiều khách nhắn tin hơn? "
+              "text": "Bạn đang đầu tư quảng cáo trên website, Fanpage, Zalo. Vậy kênh nào có nhiều khách nhắn tin hơn?"
             }
           ]
         },
@@ -329,12 +329,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -351,7 +346,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn là một người quản lý, bạn muốn xem, lọc và phân tích dữ liệu cuộc chat chuyên sâu hơn. "
+              "text": "Bạn là một người quản lý, bạn muốn xem, lọc và phân tích dữ liệu cuộc chat chuyên sâu hơn."
             },
             {
               "type": "link",
@@ -362,7 +357,7 @@
             },
             {
               "type": "text",
-              "text": " chính là công cụ phân tích hội thoại dành cho bạn."
+              "text": "chính là công cụ phân tích hội thoại dành cho bạn."
             }
           ]
         },
@@ -408,17 +403,8 @@
                   "text": "Ví du: Bạn cần biết có bao nhiêu khách hàng nhắn tin tới mà chưa được hỗ trợ trả lời."
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
-                  "text": "Hướng dẫn: Mở "
+                  "text": "Hướng dẫn: Mở"
                 }
               ]
             },
@@ -431,7 +417,7 @@
             },
             {
               "type": "text",
-              "text": " => Thêm điều kiện “Agent trả lời” - chọn “Chưa có agent trả lời”"
+              "text": "=> Thêm điều kiện “Agent trả lời” - chọn “Chưa có agent trả lời”"
             }
           ]
         },
@@ -468,17 +454,8 @@
                   "text": "Ví dụ: Bạn quản lý nhiều website và nhiều Fanpage trên Subiz, bạn cần phân tích hiệu quả nhắn tin tư vấn khách trên 1 website hay 1 Fanpage cụ thể"
                 },
                 {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
                   "type": "text",
-                  "text": "Hướng dẫn: Mở "
+                  "text": "Hướng dẫn: Mở"
                 }
               ]
             },
@@ -490,22 +467,8 @@
               "target": "_blank"
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": " => Thêm điều kiện “Nguồn hội thoại” - chọn “Website” + tên website"
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "=> Thêm điều kiện “Nguồn hội thoại” - chọn “Website” + tên website"
             },
             {
               "type": "image",
@@ -518,12 +481,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -540,7 +498,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Bạn cần báo cáo số lượng hội thoại ngoài giờ làm việc để điều phối nhân sự trực chat hỗ trợ khách liên hệ ngoài giờ làm việc. Lưu ý: bạn cần "
+              "text": "Ví dụ: Bạn cần báo cáo số lượng hội thoại ngoài giờ làm việc để điều phối nhân sự trực chat hỗ trợ khách liên hệ ngoài giờ làm việc. Lưu ý: bạn cần"
             },
             {
               "type": "link",
@@ -551,7 +509,7 @@
             },
             {
               "type": "text",
-              "text": " của Doanh nghiệp."
+              "text": "của Doanh nghiệp."
             }
           ]
         },
@@ -560,7 +518,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn: Mở "
+              "text": "Hướng dẫn: Mở"
             },
             {
               "type": "link",
@@ -571,7 +529,7 @@
             },
             {
               "type": "text",
-              "text": " => Thêm điều kiện “Giờ làm việc” - chọn “Ngoài giờ làm việc”"
+              "text": "=> Thêm điều kiện “Giờ làm việc” - chọn “Ngoài giờ làm việc”"
             }
           ]
         },
@@ -611,7 +569,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn: Mở "
+              "text": "Hướng dẫn: Mở"
             },
             {
               "type": "link",
@@ -622,7 +580,7 @@
             },
             {
               "type": "text",
-              "text": " => Thêm điều kiện “Tag” - chọn “Có gắn Tag cụ thể”"
+              "text": "=> Thêm điều kiện “Tag” - chọn “Có gắn Tag cụ thể”"
             }
           ]
         },
@@ -640,12 +598,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -662,7 +615,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn có thể xuất file "
+              "text": "Bạn có thể xuất file"
             },
             {
               "type": "link",
@@ -673,7 +626,7 @@
             },
             {
               "type": "text",
-              "text": " có dạng excel để đọc chi tiết từng dữ liệu của hội thoại, cụ thể như sau:"
+              "text": "có dạng excel để đọc chi tiết từng dữ liệu của hội thoại, cụ thể như sau:"
             }
           ]
         },
@@ -684,8 +637,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thông tin khách đã nhắn tin như Họ tên, SĐT, Địa chỉ email"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông tin khách đã nhắn tin như Họ tên, SĐT, Địa chỉ email"
+                    }
+                  ]
                 }
               ]
             },
@@ -693,8 +651,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": " Dữ liệu truy cập website của khách như: Nguồn truy cập, Địa chỉ IP, Trang khách đang xem, Thiết bị,..."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Dữ liệu truy cập website của khách như: Nguồn truy cập, Địa chỉ IP, Trang khách đang xem, Thiết bị,..."
+                    }
+                  ]
                 }
               ]
             },
@@ -702,8 +665,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tên agent đã trả lời tin nhắn của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tên agent đã trả lời tin nhắn của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -711,8 +679,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thời gian trả lời tin nhắn đầu tiên của khách"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thời gian trả lời tin nhắn đầu tiên của khách"
+                    }
+                  ]
                 }
               ]
             },
@@ -720,8 +693,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Thời gian bắt đầu của hội thoại"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thời gian bắt đầu của hội thoại"
+                    }
+                  ]
                 }
               ]
             }
@@ -729,12 +707,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -750,12 +723,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -773,8 +741,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 1: Bạn tải tệp dữ liệu lên Google Drive và chọn mở tệp bằng Google Sheet"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Bạn tải tệp dữ liệu lên Google Drive và chọn mở tệp bằng Google Sheet"
+                    }
+                  ]
                 }
               ]
             },
@@ -782,20 +755,25 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Cách 2: Mở Microsoft Excel làm theo hướng dẫn: Mở Microsoft Excel > chọn menu Data > From Text > Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên, "
-                },
-                {
-                  "type": "link",
-                  "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
-                  "title": "xem video hướng dẫn đọc file .csv",
-                  "text": "xem video hướng dẫn đọc file .csv",
-                  "target": "_blank",
-                  "bold": true
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Mở Microsoft Excel làm theo hướng dẫn: Mở Microsoft Excel > chọn menu Data > From Text > Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên,"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
+                      "title": "xem video hướng dẫn đọc file .csv",
+                      "text": "xem video hướng dẫn đọc file .csv",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
                 }
               ]
             }
@@ -803,66 +781,31 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }

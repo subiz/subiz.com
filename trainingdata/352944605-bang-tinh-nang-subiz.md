@@ -1,0 +1,64 @@
+---
+id: 352944605
+slug: /352944605-bang-tinh-nang-subiz
+title: Bảng tính năng Subiz
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2024-08-12T10:19:38.603Z
+---
+
+# Bảng tính năng Subiz
+
+## Subiz là gì?
+
+
+Subiz cung cấp giải pháp quản lý mối quan hệ khách hàng trên nền tảng tin nhắn, giúp Doanh nghiệp nâng cao trải nghiệm khách hàng và tăng chuyển đổi khách tiềm năng.
+
+
+
+Để bắt đầu sử dụng Subiz, bạn đăng ký tài khoản Subiz qua đường link [https://app.subiz.com.vn/register](https://app.subiz.com.vn/register).
+
+
+
+Sau đó, bạn làm việc trên Subiz hàng ngày bằng cách đăng nhập qua đường link [https://app.subiz.com.vn](https://app.subiz.com.vn/).
+
+
+
+Tại đây, Doanh nghiệp sẽ:
+
+- **Chăm sóc khách hàng**: Subiz hoạt động như một trung tâm chăm sóc khách hàng, tập hợp tất cả khách liên hệ từ website, Fanpage, Zalo OA, Email, tổng đài hotline,... để doanh nghiệp hỗ trợ khách hàng tốt nhất.
+- **Quản lý thông tin khách hàng**: Thu thập thông tin khách hàng dễ dàng và có hệ thống để làm giàu cơ sở dữ liệu khách hàng và nâng cao chất lượng chăm sóc khách.
+- **Tăng cường tương tác chuyển đổi khách**: Tự động hóa xác định nhóm khách hàng mục tiêu và chủ động tiếp cận, chuyển đổi khách hàng đúng thời điểm.
+- **Báo cáo hiệu quả chuyển đổi khách hàng**: Báo cáo chi tiết về khách hàng theo từng giai đoạn và hiệu suất hỗ trợ khách hàng của nhân viên.
+
+
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/a8484e285c8bda2be41d2d549aacbe6176c1514057c2283562e23c0aff768752_acpxkgumifuoofoosble)
+
+
+
+## Bảng tính năng Subiz
+
+
+
+
+Chức năng Subiz được thiết kế tối ưu phù hợp với mục tiêu kinh doanh và mô hình hoạt động của nhiều Doanh nghiệp đa ngành nghề.
+## 
+
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/57caa78abb02fe7a6a379515369ebd7c7c0f073fb0dca3a434f55ecbf76036ad_acpxkgumifuoofoosble)
+
+## Chú thích một số tính năng
+
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/c8f1996b9417b06281ff8345400899599d0f0bf9b6571bfb69f571dacb41172a_acpxkgumifuoofoosble)

@@ -10,7 +10,7 @@
   "source_id": "171095673",
   "i18n_content": {
     "vi_VN": {
-      "type": "paragraph",
+      "type": "div",
       "content": [
         {
           "type": "heading",
@@ -24,12 +24,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -52,12 +47,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -97,12 +87,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -131,12 +116,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -149,12 +129,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -175,30 +150,7 @@
             },
             {
               "type": "text",
-              "text": " => Subiz hiển thị nguồn truy cập là “Advertising” "
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": ""
-                    }
-                  ]
-                }
-              ]
+              "text": "=> Subiz hiển thị nguồn truy cập là “Advertising”"
             },
             {
               "type": "link",
@@ -209,7 +161,7 @@
             },
             {
               "type": "text",
-              "text": " => Subiz hiển thị nguồn truy cập là “Sumer-sale”"
+              "text": "=> Subiz hiển thị nguồn truy cập là “Sumer-sale”"
             }
           ]
         },
@@ -228,7 +180,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Với mục tiêu “Khách truy cập website” bạn sẽ xem "
+              "text": "Với mục tiêu “Khách truy cập website” bạn sẽ xem"
             },
             {
               "type": "link",
@@ -246,30 +198,15 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -285,21 +222,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "heading",
@@ -322,12 +249,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -345,8 +267,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động nhận diện khách nhắn tin đến từ nguồn quảng cáo "
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động nhận diện khách nhắn tin đến từ nguồn quảng cáo"
+                    }
+                  ]
                 }
               ]
             },
@@ -354,8 +281,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động gắn Tag hội thoại giúp thống kê hội thoại của khách từ nguồn quảng cáo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động gắn Tag hội thoại giúp thống kê hội thoại của khách từ nguồn quảng cáo"
+                    }
+                  ]
                 }
               ]
             },
@@ -363,8 +295,13 @@
               "type": "list_item",
               "content": [
                 {
-                  "type": "text",
-                  "text": "Tự động gắn Nhãn phân loại giúp phân nhóm khách tiềm năng từ nguồn quảng cáo"
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động gắn Nhãn phân loại giúp phân nhóm khách tiềm năng từ nguồn quảng cáo"
+                    }
+                  ]
                 }
               ]
             }
@@ -372,12 +309,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -394,7 +326,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 1: ",
+              "text": "Bước 1:",
               "bold": true
             },
             {
@@ -407,7 +339,7 @@
             },
             {
               "type": "text",
-              "text": " theo chiến dịch quảng cáo",
+              "text": "theo chiến dịch quảng cáo",
               "bold": true
             }
           ]
@@ -423,12 +355,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -447,7 +374,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 2: ",
+              "text": "Bước 2:",
               "bold": true
             },
             {
@@ -460,7 +387,7 @@
             },
             {
               "type": "text",
-              "text": " theo chiến dịch quảng cáo",
+              "text": "theo chiến dịch quảng cáo",
               "bold": true
             }
           ]
@@ -491,7 +418,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 3: ",
+              "text": "Bước 3:",
               "bold": true
             },
             {
@@ -504,7 +431,7 @@
             },
             {
               "type": "text",
-              "text": " nhận diện khách từ quảng cáo ",
+              "text": "nhận diện khách từ quảng cáo",
               "bold": true
             }
           ]
@@ -523,12 +450,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -545,12 +467,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -576,7 +493,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Để biết cụ thể danh sách khách hàng đã nhắn tin, bạn nhấp vào nút Danh sách hội thoại góc phải màn hình. Tại đây, bạn sẽ lọc phân tích và "
+              "text": "Để biết cụ thể danh sách khách hàng đã nhắn tin, bạn nhấp vào nút Danh sách hội thoại góc phải màn hình. Tại đây, bạn sẽ lọc phân tích và"
             },
             {
               "type": "link",
@@ -587,18 +504,13 @@
             },
             {
               "type": "text",
-              "text": " về máy tính nếu cần."
+              "text": "về máy tính nếu cần."
             }
           ]
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -614,12 +526,7 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -636,7 +543,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Khách tiềm năng là khách đã có số điện thoại hoặc email và được tổng hợp tại trang "
+              "text": "Khách tiềm năng là khách đã có số điện thoại hoặc email và được tổng hợp tại trang"
             },
             {
               "type": "link",
@@ -675,21 +582,11 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
@@ -702,7 +599,7 @@
             },
             {
               "type": "text",
-              "text": ": Bạn cần đo lường chuyển đổi khách nhắn tin Subiz trên phần mềm Google Ads. Tuy nhiên, Subiz không liên kết dữ liệu trực tiếp với Google Ads, Subiz chỉ kết nối tự động tới Google Analytics. Bạn có thể phân tích dữ liệu SUBIZ chat trên Google Analytics, sau đó đồng bộ số liệu từ Google Analytics sang Google Ads. "
+              "text": ": Bạn cần đo lường chuyển đổi khách nhắn tin Subiz trên phần mềm Google Ads. Tuy nhiên, Subiz không liên kết dữ liệu trực tiếp với Google Ads, Subiz chỉ kết nối tự động tới Google Analytics. Bạn có thể phân tích dữ liệu SUBIZ chat trên Google Analytics, sau đó đồng bộ số liệu từ Google Analytics sang Google Ads."
             },
             {
               "type": "link",
@@ -720,39 +617,19 @@
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         },
         {
           "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": ""
-            }
-          ]
+          "content": []
         }
       ]
     }
