@@ -7,30 +7,5 @@
     "vi_VN": "chao-mung-ban-den-voi-trang-docs-cua-subiz"
   },
   "source_id": "321138315",
-  "i18n_content": {
-    "vi_VN": {
-      "type": "div",
-      "content": [
-        {
-          "type": "heading",
-          "level": 1,
-          "content": [
-            {
-              "type": "text",
-              "text": "Chào mừng bạn đến với trang docs của Subiz"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Xin chào Subiz docs"
-            }
-          ]
-        }
-      ]
-    }
-  }
+  "i18n_content": {}
 }
