@@ -72,15 +72,8 @@ async function fetchGoogleTree() {
 			p = fileP.parents[0]
 		}
 		file.path_lower = path_lowers.join('') + '/' + sluggy(file.name)
-		if (file.path_lower.startsWith('/Tài Liệu')) return
-		if (file.path_lower.startsWith('/Subiz.')) return
-
 		onlyFiles.push(file)
 	})
-
-		console.log("FFFFFFFFFFF", onlyFiles)
-
-		
 	return onlyFiles
 }
 
@@ -151,8 +144,6 @@ async function main() {
 
 	let docM = {}
 	lo.map(hot, (entry) => {
-		if (entry.path_lower.startsWith('/Tài Liệu')) return
-		if (entry.path_lower.startsWith('/Subiz.')) return
 		let out = extractFilename(entry)
 		let pathlowers = entry.path_lower.split('/')
 		pathlowers.pop() // remove file name
