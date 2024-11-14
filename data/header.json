@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1730955787144,
-  "updated": 1730955787144,
+  "fetched": 1731569157433,
+  "updated": 1731569157433,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -101,6 +101,17 @@
       "modifiedTime": "2024-04-25T07:04:44.935Z",
       "version": "21",
       "path_lower": "/index"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
+      "name": "Giám sát viên hội thoại ",
+      "modifiedTime": "2024-11-12T05:10:23.091Z",
+      "version": "68",
+      "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -395,8 +406,8 @@
       ],
       "id": "1_hre5y5WD4VVaVmL82GQiOYBWuEciGlbXl8yWuQmVyM",
       "name": "3. Thanh toán",
-      "modifiedTime": "2024-11-07T05:01:42.829Z",
-      "version": "140",
+      "modifiedTime": "2024-11-07T05:01:44.537Z",
+      "version": "143",
       "path_lower": "/110 Xử lý tình huống/3.-thanh-toan"
     },
     {
