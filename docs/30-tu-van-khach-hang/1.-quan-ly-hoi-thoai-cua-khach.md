@@ -5,7 +5,7 @@ title: Quản lý hội thoại của khách
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-10-03T07:11:02.108Z
+  date: 2024-11-14T11:00:28.881Z
 ---
 
 # Quản lý hội thoại của khách
@@ -15,52 +15,54 @@ last_update:
 
 
 
-Hội thoại là cuộc trò chuyện trực tiếp giữa khách hàng và nhân viên hỗ trợ của doanh nghiệp. Hội thoại có thể khởi tạo từ khách nhắn tin trên website, bình luận bài viết Fanpage, chat messenger, chat Zalo OA, gửi email hoặc gọi điện thoại,...
+Hội thoại là cuộc trò chuyện giữa khách hàng và nhân viên tư vấn của doanh nghiệp. Hội thoại có thể được bắt đầu từ tin nhắn trên website, bình luận trên Fanpage, tin nhắn qua Messenger, Zalo OA, email, hoặc cuộc gọi.
+
+Khi bắt đầu ngày làm việc, bạn sẽ tiếp nhận và trả lời khách hàng qua trang [TIN NHẮN](https://app.subiz.com.vn/convo) trên Subiz.
 
 
 
 Bắt đầu ngày làm việc, bạn sẽ nhận và trả lời tư vấn khách hàng trên trang **[TIN NHẮN](https://app.subiz.com.vn/convo)** của Subiz.
 
-Một số công cụ hỗ trợ quản lý hội thoại của khách hàng như sau:
 
-01. Trả lời nhanh với mẫu tin nhắn có sẵn
-11. Xem thông tin khách hàng
-21. Thêm Tag hội thoại phân biệt nhu cầu của khách
+
+Một số chức năng hỗ trợ quản lý hội thoại của khách hàng như sau:
+
+01. Tin nhắn mẫu trả lời nhanh
+11. Xem hồ sơ khách hàng
+21. Thêm Tag hội thoại
 31. Tạo nhắc việc cần làm
 41. Tạo đơn hàng mới
 51. Ghi chú cho khách hàng
-61. Thêm agent đồng nghiệp vào hội thoại hoặc rời hội thoại
+61. Thêm agent hoặc rời agent khỏi hội thoại
 71. Hoàn thành hội thoại
 
 
 
 **[Xem video 6 công cụ cần biết trong chat online](https://www.youtube.com/watch?v=oi6nmPYPAPk&t=1s)**
-## Bước 1: Trả lời nhanh với mẫu tin nhắn
+## Bước 1: Tin nhắn mẫu trả lời nhanh
+
+
+Sử dụng các tin nhắn mẫu đã tạo sẵn như lời chào, câu hỏi về thông tin khách, báo giá,... giúp agent trả lời nhanh hơn. 
 
 
 
+Bạn có thể sử dụng tin nhắn mẫu bằng cách nhập lệnh “/” hoặc nhấn nút Tin nhắn mẫu**.**
 
-Việc trả lời tư vấn khách hàng qua tin nhắn chat khiến Với những tin nhắn chat trả lời phổ biến như câu chào khách, câu hỏi tên và số điện thoại, câu báo giá, ….. bạn có thể tạo sẵn mẫu tin nhắn và gửi nhanh tới khách hàng bằng 1 **click lệnh “/”** hoặc nhấn **nút MẪU TIN NHẮN** trong ô nhập tin nhắn.
 
-**[Hướng dẫn chi tiết cài đặt mẫu tin nhắn trả lời nhanh](https://subiz.com.vn/docs/1941951532-mau-tin-nhan)**
+
+[Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=d4Fo9eOcgp4)
 
 
 ![](https://vcdn.subiz-cdn.com/file/e64aca01ffb86bdd5024a61600cf17defe27ed0d49586612d5403366a303a6bc_acpxkgumifuoofoosble)
 
-## Bước 2: Xem thông tin khách hàng
+## Bước 2: Xem hồ sơ khách hàng
 
 
-Bạn muốn biết khách hàng là khách mới hay khách cũ? 
-
-Khách có thông tin họ tên, sđt chưa? 
-
-Khách đang xem trang sản phẩm nào trên website? Khách có lịch sử chat tư vấn chưa?,...
+Bạn có thể kiểm tra khách là người mới hay cũ, thông tin liên hệ, trang sản phẩm đang xem, lịch sử chat,… ngay trên cột bên phải màn hình.
 
 
 
-Bạn xem được tất cả thông tin khách hàng ở cột bên phải màn hình.
-
-[Xem thêm hướng dẫn quản lý hồ sơ khách hàng](https://subiz.com.vn/docs/777741175-ho-so-khach-hang)
+[Xem video quản lý hồ sơ khách](https://www.youtube.com/watch?v=mgdD4D_OXv8)
 
 
 
@@ -70,7 +72,9 @@ Bạn xem được tất cả thông tin khách hàng ở cột bên phải màn
 ## Bước 3: Thêm Tag hội thoại
 
 
-Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc chat, hãy nhấn nút** THÊM TAG** hoặc gõ **lệnh “@tag”** tại ô nhập tin nhắn.
+Để phân loại yêu cầu tư vấn của khách hàng trong mỗi cuộc chat, bạn chọn Thêm Tag hoặc gõ “@tag” trong ô nhập tin nhắn.
+
+
 
 **[Hướng dẫn chi tiết cài đặt Tag hội thoại](https://subiz.com.vn/docs/662546069-tag-hoi-thoai)**
 
@@ -84,9 +88,9 @@ Bạn cần phân biệt các yêu cầu của khách hàng trong mỗi cuộc c
 ## Bước 4: Tạo nhắc việc cần làm
 
 
-Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công việc hỗ trợ khách hàng sau đó, bạn tạo nhắc việc cần làm như sau: Xem thông tin khách > Click nút Tạo mới - Nhắc việc
+Nếu agent cần ghi nhớ công việc cần làm, agent có thể tạo nhắc việc: Xem Thông tin khách, rồi chọn tại mới Nhắc việc.
 
-**[Xem thêm hướng dẫn sử dụng nhắc việc](https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam)**.
+[Xem thêm hướng dẫn sử dụng nhắc việc](https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam).
 
 
 
@@ -96,11 +100,9 @@ Bạn có nhiều cuộc gọi liên tục và cần ghi nhớ một số công 
 ## Bước 5: Tạo đơn hàng mới
 
 
-Bạn gọi điện và chốt được đơn hàng mới, bạn ghi nhận được đơn hàng ngay trên Subiz.
+Khi chốt được đơn hàng, bạn có thể tạo đơn ngay trên Subiz bằng cách: chọn Tạo đơn tại mục Đơn hàng, điền thông tin khách và sản phẩm, sau đó Xác nhận đơn.
 
-Hướng dẫn tạo đơn mới: Click nút Tạo đơn tại mục Đơn hàng > Điền thông tin khách, thêm sản phẩm > Chọn Xác nhận đơn là xong
-
-**[Xem hướng dẫn quản lý đơn hàng](https://subiz.com.vn/docs/1276788659-don-hang)**
+[Xem hướng dẫn quản lý đơn hàng](https://subiz.com.vn/docs/1276788659-don-hang)
 
 
 ![](https://vcdn.subiz-cdn.com/file/b7c65146cd0684dd37aa2732d53dff89db4efaead5e09a96922ae9b9edf50b4c_acpxkgumifuoofoosble)
@@ -108,15 +110,21 @@ Hướng dẫn tạo đơn mới: Click nút Tạo đơn tại mục Đơn hàng
 ## Bước 6: Ghi chú cho khách hàng
 
 
-Bạn cần lưu ý thêm về khách hàng, cập nhật nội dung ngay mục ghi chú giúp bạn và đồng nghiệp chủ động tiếp cận hỗ trợ khách hàng phù hợp
-## Bước 7: Thêm agent vào hội thoại hoặc rời hội thoại
-
-
-Nhiều agent có thể cùng chat tư vấn khách hàng, thêm agent bằng cách click **nút THÊM AGENT** hoặc nhập lệnh **@agent** trong ô nhập tin nhắn.
+Agent thêm ghi chú về khách hàng để có thông tin chính xác hỗ trợ khách hàng tốt hơn.
 
 
 
-Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằng cách click nút **THÊM AGENT** > Chọn **Rời**
+
+![](https://vcdn.subiz-cdn.com/file/79b17170e1de39af16e04b1b5e9993b521572279d2bc39b0817c90655636dc0b_acpxkgumifuoofoosble)
+
+## Bước 7: Thêm agent hoặc rời agent khỏi hội thoại
+
+
+Nhiều agent có thể cùng tham gia tư vấn khách hàng. Để thêm agent, nhấp mở ô Thành viên và chọn Thêm agent hoặc nhập lệnh “@agent” trong ô nhập tin nhắn. 
+
+
+
+Agent có thể rời khỏi hội thoại bằng cách chọn Rời.
 
 
 
@@ -128,17 +136,11 @@ Rời hội thoại khi agent không muốn theo dõi xem chat này nữa, bằn
 ## Bước 8: Hoàn thành hội thoại
 
 
+Hoàn thành hội thoại giúp agent theo dõi và đảm bảo các yêu cầu khách hàng đã được giải quyết.
 
-
-Hoàn thành hội thoại giúp bạn kiểm soát được công việc trả lời tư vấn khách hàng, đảm bảo bạn đã giải quyết xong yêu cầu của khách hay hết nhiệm vụ trong ca làm việc của mình.
-
-
-
-Hướng dẫn hoàn thành hội thoại:
-
-- Cách 1: Click nút **Hội thoại** góc trái màn hình > **Click chọn Hội thoại** sẽ hoàn thành > Chọn nút **Hoàn thành**
-- Cách 2: Chọn nút **Đang mở** bên góc phải hội thoại > Chọn **Hoàn thành**
-- Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
+- Cách 1: Nhấn vào nút Hội thoại bên cột trái màn hình. Tích chọn hội thoại và bấm Kết thúc
+- Cách 2: Mở hội thoại. Tại nút Đang mở, chọn Kết thúc.
+- Cách 3: Nhập lệnh “@complete” trong ô tin nhắn.
 
 
 ![](https://vcdn.subiz-cdn.com/file/8f9d220ae0b55906362ad14a39572f8855d8d00d442ab99a5492a6618c554a06_acpxkgumifuoofoosble)
@@ -154,7 +156,7 @@ Xem thêm **[hướng dẫn hoàn thành hội thoại](https://subiz.com.vn/doc
 ### CH1: Tôi lọc tìm chat từ 1 website hay 1 Fanpage cụ thể được không?
 
 
-Trả lời: Có. Bạn lọc tìm nhanh hội thoại của khách theo kênh website, Fanpage hay nhiều tiêu chí khác bằng cách chọn nút Lọc trên trang Tin nhắn
+Trả lời: Có. Bạn chọn nút Lọc trên trang Tin nhắn để tìm nhanh theo kênh và các tiêu chí khác. Để báo cáo và phân tích dữ liệu hội thoại, bạn có thể vào trang [Danh sách hội thoại](https://app.subiz.com.vn/new-reports/convo-list).
 
 
 
@@ -162,19 +164,15 @@ Trả lời: Có. Bạn lọc tìm nhanh hội thoại của khách theo kênh w
 ![](https://vcdn.subiz-cdn.com/file/f9936ed1fe9a4e4e959d628bad0038b50887a3c90c27e3ca084ceada23a70ec0_acpxkgumifuoofoosble)
 
 
-Đồng thời, bạn có thể làm báo cáo và phân tích dữ liệu hội thoại chuyên sâu tại trang [Danh sách hội thoại](https://app.subiz.com.vn/new-reports/convo-list), [xem hướng dẫn chi tiết](https://subiz.com.vn/docs/329849664-thong-ke-hoi-thoai#danh-s%C3%A1ch-h%E1%BB%99i-tho%E1%BA%A1i).
+
 
 
 ### CH2: Subiz có app mobile không?
 
 
-Trả lời: Có. Bạn tải app mobile Subiz về điện thoại để sẵn sàng trả lời khách hàng 24/7.
+Trả lời: Có. Bạn tải app mobile Subiz về điện thoại để sẵn sàng trả lời khách mọi lúc, mọi nơi.
 
-[Xem video hướng dẫn sử dụng app mobile](https://www.youtube.com/watch?v=S9wVGrxhYks)
-
-
-
-
+[Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=S9wVGrxhYks)
 ![](https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble)
 
 ### CH3: Xem địa chỉ IP của khách như thế nào?

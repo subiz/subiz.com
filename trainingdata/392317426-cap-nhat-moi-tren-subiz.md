@@ -5,7 +5,7 @@ title: Cập nhật mới trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-12T12:09:04.827Z
+  date: 2024-11-14T10:42:10.785Z
 ---
 
 # Cập nhật mới trên Subiz
@@ -36,7 +36,7 @@ Bài viết này tổng hợp các cập nhật, thay đổi trên phần mềm 
 
 
 
-- Ngày 08/3/2023. Thêm chức năng “Tệp khách hàng” và thay đổi giao diện trang Khách tiềm năng**.** [Xem hướng dẫn sử dụng](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
+- Ngày 08/3/2023. Thêm chức năng “Tệp khách hàng” và thay đổi giao diện trang Khách. [Xem hướng dẫn sử dụng](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
 
 
 

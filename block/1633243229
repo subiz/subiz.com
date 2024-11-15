@@ -8,5 +8,427 @@
   },
   "category": "3",
   "source_id": "1633243229",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "App mobile Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có app trên điện thoại không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz có hỗ trợ app trên điện thoại, bạn tải app qua đường link sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://play.google.com/store/apps/details?id=com.subiz.mobile4",
+                      "title": "Tải app trên điện thoại Android",
+                      "text": "Tải app trên điện thoại Android",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://apps.apple.com/vn/app/subiz/id1414797772",
+                      "title": "Tải app trên điện thoại IOS",
+                      "text": "Tải app trên điện thoại IOS",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=LM1lzc6649I",
+              "title": "Xem video trả lời tin nhắn trên app Subiz",
+              "text": "Xem video trả lời tin nhắn trên app Subiz",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=S9wVGrxhYks",
+              "title": "Xem video nghe gọi điện thoại trên app Subiz",
+              "text": "Xem video nghe gọi điện thoại trên app Subiz",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý khi app mobile không có thông báo tin nhắn mới?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tình trạng",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Bạn không nhận được thông báo âm thanh từ app mobile Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Kiểm tra cài đặt thông báo của ứng dụng mobile Subiz theo 2 bước:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Đăng nhập vào Subiz trên máy tính tại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Vào"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/profile/setting-notification",
+                      "title": "Cài đặt thông báo",
+                      "text": "Cài đặt thông báo",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ", bật ON cho Ứng dụng di động."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/83cae91be3babee4f8db9cebfc26396949082a9f220f9fc4763e453a26277d3b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Kiểm tra cài đặt thông báo của ứng dụng Subiz trên điện thoại, đảm bảo đã bật cho phép thông báo. Cụ thể, với từng hệ điều hành:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cac05d7ef5ae4949a2080dcbc03931fda29616f3ababe8afc1e88caba307903f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3ff1f988b39145a4d522f3694e96d888cde061c5a4af289095c096564c4313ed_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ba5cb41661d9f0365ed1052972ae1e8b4d98489b9a33b48660b29a7ca08f21d5_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau đó, bạn thử gửi tin nhắn trên cửa sổ chat của website để kiểm tra xem đã nhận được thông báo từ app mobile Subiz chưa?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Nếu agent đăng nhập Subiz trên nhiều thiết bị cùng lúc, khi xem tin nhắn mới trên một thiết bị, các thiết bị khác sẽ không còn nhận thông báo cho tin nhắn đó nữa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/shorts/i7Fyhh3LPoY",
+              "title": "Xem video cài đặt thông báo cho app mobile Subiz",
+              "text": "Xem video cài đặt thông báo cho app mobile Subiz",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý khi app mobile thông báo sai mật khẩu đăng nhập?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nếu bạn không đăng nhập được bằng mật khẩu, bạn có thể c"
+            },
+            {
+              "type": "text",
+              "text": "họn Đăng nhập với Google"
+            },
+            {
+              "type": "text",
+              "text": "hoặc Sign in with Apple."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/67f802db33cd2909e3532fa90803ccea0cb303c2353340fed9f0fb0185754d78_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nếu bạn muốn đăng nhập bằng mật khẩu, hãy truy cập Subiz trên máy tính tại"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "và thực hiện"
+            },
+            {
+              "type": "text",
+              "text": "thay đổi mật khẩu mới qua email."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/071c16d80ce2523828b725e00e8a1cc1ca9d446848431b01c4cdccfb21f1d647_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

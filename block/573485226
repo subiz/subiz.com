@@ -8,5 +8,395 @@
   },
   "category": "7",
   "source_id": "573485226",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lợi ích của việc hoàn thành hội thoại?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hội thoại đem lại 3 lợi ích chính:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giúp agent kiểm soát tình trạng hội thoại, biết được cuộc nào đã hoàn tất và cuộc nào cần tiếp tục hỗ trợ."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hỗ trợ báo cáo thống kê số lượng hội thoại đã xử lý theo ca làm việc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo hội thoại mới khi khách quay lại nhắn tin, đảm bảo phân phối đúng agent đang sẵn sàng trả lời khách."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/380c7f9230c97aa17a0833c479cc9e67fc0aab540871895399a09a22937ea538_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách hoàn thành hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Mở hội thoại và xem trạng thái “Đang mở” ở cột trả lời tin nhắn. Bấm chọn Kết thúc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4d536500a2e119c907db0c0412068d1ced4cffa60ee77e3bcd6fbd54ea57605b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Tích chọn nút Hội thoại trên đầu danh sách hội thoại, rồi chọn tiếp các hội thoại cần hoàn thành và bấm nút Kết thúc"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/dcfd31ffa90d8369a2bdab6aa8bf8f90812480dcc3095e49e8b02952445061ab_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 3",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Tạo ô trả lời tin nhắn, gõ lệnh “@c” và chọn Complete conversation để hoàn thành"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/1eccb003d8d2dbad19dec08c772f71a9d4450a5e476d46ba8c24932b934dbb69_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tự động hoàn thành hội thoại mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Chỉ những hội thoại được tạo sau thời điểm cài đặt chức năng tự động hoàn thành mới áp dụng tính năng này."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách cài đặt:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/auto-endchat",
+                      "title": "Hoàn thành hội thoại",
+                      "text": "Hoàn thành hội thoại",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn thời gian hoàn thành tự động"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cập nhật là xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/0ee2e9e177e14fd7f6e71f87a8959c90baad387dbc53f7a340a74013cb1034ec_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoàn thành hàng loạt hội thoại cũ"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với các hội thoại cũ, bạn muốn hoàn thành cùng lúc thì bạn thực hiện như sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tích chọn nút Hội thoại trên đầu danh sách hội thoại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giữ phím “Shift” trên bàn phím."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn hội thoại đầu tiên, kéo xuống chọn hội thoại cuối cùng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn nút Kết thúc để xử lý hàng loạt."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f17990cb55a7e5da3d0b5fc01c8b5793390d534ff1b61ba8e54fb9337f761ebb_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

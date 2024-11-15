@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1731569157433,
-  "updated": 1731569157433,
+  "fetched": 1731670305811,
+  "updated": 1731670305811,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -94,6 +94,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
+      "name": "Quản lý đội nhóm",
+      "modifiedTime": "2024-11-15T11:02:50.850Z",
+      "version": "110",
+      "path_lower": "/40 Quản lý làm việc nhóm/quan-ly-doi-nhom"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
       ],
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
@@ -109,8 +120,8 @@
       ],
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "Giám sát viên hội thoại ",
-      "modifiedTime": "2024-11-12T05:10:23.091Z",
-      "version": "68",
+      "modifiedTime": "2024-11-15T11:20:37.108Z",
+      "version": "83",
       "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
     },
     {
@@ -142,8 +153,8 @@
       ],
       "id": "1JWBP7wpsoEi2aiJcyZEUVs4ngLrKEyPjH5H7dV6cZ78",
       "name": "2. App mobile Subiz",
-      "modifiedTime": "2024-10-03T06:51:00.863Z",
-      "version": "119",
+      "modifiedTime": "2024-11-14T10:41:18.849Z",
+      "version": "130",
       "path_lower": "/110 Xử lý tình huống/2.-app-mobile-subiz"
     },
     {
@@ -164,8 +175,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại của khách",
-      "modifiedTime": "2024-10-03T07:11:02.108Z",
-      "version": "352",
+      "modifiedTime": "2024-11-14T11:00:28.881Z",
+      "version": "383",
       "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-khach"
     },
     {
@@ -285,8 +296,8 @@
       ],
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "4. Cập nhật mới trên Subiz",
-      "modifiedTime": "2024-08-12T12:09:04.827Z",
-      "version": "91",
+      "modifiedTime": "2024-11-14T10:42:10.785Z",
+      "version": "98",
       "path_lower": "/110 Xử lý tình huống/4.-cap-nhat-moi-tren-subiz"
     },
     {
@@ -340,8 +351,8 @@
       ],
       "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
       "name": "4 Tự động hoàn thành hội thoại",
-      "modifiedTime": "2023-07-20T08:13:57.496Z",
-      "version": "105",
+      "modifiedTime": "2024-11-15T08:38:31.719Z",
+      "version": "138",
       "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
     },
     {
@@ -395,8 +406,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2024-08-12T11:00:35.140Z",
-      "version": "285",
+      "modifiedTime": "2024-11-15T10:11:28.347Z",
+      "version": "321",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -527,8 +538,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
-      "modifiedTime": "2024-08-30T07:38:53.344Z",
-      "version": "557",
+      "modifiedTime": "2024-11-15T11:19:07.550Z",
+      "version": "610",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {
