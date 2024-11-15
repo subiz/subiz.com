@@ -5,7 +5,7 @@ title: App mobile Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-10-03T06:51:00.863Z
+  date: 2024-11-14T10:41:18.849Z
 ---
 
 # App mobile Subiz
@@ -26,17 +26,19 @@ Subiz có hỗ trợ app trên điện thoại, bạn tải app qua đường li
 
 
 
-**[Xem video online tư vấn khách hàng trên app mobile](https://www.youtube.com/watch?v=LM1lzc6649I)**
-## Cách xử lý khi app mobile không có thông báo tin nhắn mới
+[Xem video trả lời tin nhắn trên app Subiz](https://www.youtube.com/watch?v=LM1lzc6649I)
+
+[Xem video nghe gọi điện thoại trên app Subiz](https://www.youtube.com/watch?v=S9wVGrxhYks)
+## Cách xử lý khi app mobile không có thông báo tin nhắn mới?
 
 
 **Tình trạng**: Bạn không nhận được thông báo âm thanh từ app mobile Subiz. 
 
 
 
-**Giải pháp**: Kiểm tra cài đặt thông báo của app mobile Subiz theo 2 bước.
+**Cách xử lý**: Kiểm tra cài đặt thông báo của ứng dụng mobile Subiz theo 2 bước:
 
-- Bước 1: Đăng nhập Subiz trên máy tính qua đường link **[App.subiz.com.vn](https://app.subiz.com.vn/profile/setting-notification)**.Mở cài đặt thông báo tin nhắn, bật ON cho Ứng dụng di động
+- Bước 1: Đăng nhập vào Subiz trên máy tính tại[ ](https://app.subiz.com.vn)[https://app.subiz.com.vn](https://app.subiz.com.vn). Vào [Cài đặt thông báo](https://app.subiz.com.vn/profile/setting-notification), bật ON cho Ứng dụng di động.
 
 
 
@@ -44,7 +46,7 @@ Subiz có hỗ trợ app trên điện thoại, bạn tải app qua đường li
 ![](https://vcdn.subiz-cdn.com/file/83cae91be3babee4f8db9cebfc26396949082a9f220f9fc4763e453a26277d3b_acpxkgumifuoofoosble)
 
 
-- Bước 2: Cài đặt trên điện thoại cho phép app mobile Subiz thông báo. Cụ thể hướng dẫn cho điện thoại IOS và Android như sau:
+- Bước 2: Kiểm tra cài đặt thông báo của ứng dụng Subiz trên điện thoại, đảm bảo đã bật cho phép thông báo. Cụ thể, với từng hệ điều hành:
 
 
 
@@ -66,17 +68,17 @@ Subiz có hỗ trợ app trên điện thoại, bạn tải app qua đường li
 
 
 
-Sau đó, bạn test gửi tin nhắn trên cửa sổ chat website xem đã nhận được thông báo từ app mobile Subiz chưa? 
+Sau đó, bạn thử gửi tin nhắn trên cửa sổ chat của website để kiểm tra xem đã nhận được thông báo từ app mobile Subiz chưa?
 
-***Lưu ý***: Nếu agent online Subiz trên nhiều thiết bị khác nhau cùng lúc thì khi agent mở xem tin nhắn mới trên 1 thiết bị rồi thì các thiết bị khác sẽ không có thông báo nữa. 
+**Lưu ý**: Nếu agent đăng nhập Subiz trên nhiều thiết bị cùng lúc, khi xem tin nhắn mới trên một thiết bị, các thiết bị khác sẽ không còn nhận thông báo cho tin nhắn đó nữa.
 
-[Xem video hướng dẫn kiểm tra cài đặt thông báo của app mobile Subiz](https://www.youtube.com/shorts/i7Fyhh3LPoY)
-
-
-## Cách xử lý khi app mobile thông báo sai mật khẩu đăng nhập
+[Xem video cài đặt thông báo cho app mobile Subiz](https://www.youtube.com/shorts/i7Fyhh3LPoY)
 
 
-Khi bạn không đăng nhập được bằng mật khẩu thì hãy chọn đăng nhập với Google hoặc Apple mail.
+## Cách xử lý khi app mobile thông báo sai mật khẩu đăng nhập?
+
+
+Nếu bạn không đăng nhập được bằng mật khẩu, bạn có thể chọn Đăng nhập với Google hoặc Sign in with Apple.
 
 
 ![](https://vcdn.subiz-cdn.com/file/67f802db33cd2909e3532fa90803ccea0cb303c2353340fed9f0fb0185754d78_acpxkgumifuoofoosble)
@@ -84,7 +86,7 @@ Khi bạn không đăng nhập được bằng mật khẩu thì hãy chọn đ�
 
 
 
-Nếu bạn vẫn muốn đăng nhập dùng mật khẩu, bạn cần đăng nhập Subiz trên máy tính qua đường link [https://app.subiz.com.vn](https://app.subiz.com.vn) và thực hiện thay đổi mật khẩu qua email. 
+Nếu bạn muốn đăng nhập bằng mật khẩu, hãy truy cập Subiz trên máy tính tại[ ](https://app.subiz.com.vn)[https://app.subiz.com.vn](https://app.subiz.com.vn) và thực hiện thay đổi mật khẩu mới qua email.
 
 
 ![](https://vcdn.subiz-cdn.com/file/071c16d80ce2523828b725e00e8a1cc1ca9d446848431b01c4cdccfb21f1d647_acpxkgumifuoofoosble)

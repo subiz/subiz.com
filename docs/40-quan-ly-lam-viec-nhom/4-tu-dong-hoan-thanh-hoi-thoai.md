@@ -5,59 +5,73 @@ title: Hoàn thành hội thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-20T08:13:57.496Z
+  date: 2024-11-15T08:38:31.719Z
 ---
 
 # Hoàn thành hội thoại
 
-## Mục đích hoàn thành hội thoại?
+## Lợi ích của việc hoàn thành hội thoại?
 
 
-Hoàn thành hội thoại sẽ có 3 lợi ích sau:
+Hoàn thành hội thoại đem lại 3 lợi ích chính:
 
-01. Giúp agent kiểm soát được cuộc chat nào đã trả lời khách xong, cuộc chat nào đang cần trả lời tiếp
-11. Giúp agent báo cáo thống kê được số lượng chat đã trả lời khách trong ca từng ngày làm việc
-21. Khi khách quay lại nhắn tin sẽ tạo hội thoại mới và hội thoại mới sẽ được phân chia cho đúng agent đang sẵn sàng trả lời khách. Lưu ý: Hội thoại mới sẽ được phân phối cho agent theo rule đang cài đặt.
-
-Lưu ý:
-
-- Trạng thái hoàn thành hội thoại chỉ hiển thị với khách trên kênh website; Không hiển thị với khách trên Fanpage, Zalo, Instagram.
-- Sau khi hội thoại hoàn thành, agent có thể tiếp tục nhắn tin với khách bằng cách Tạo hội thoại mới
-- Sau khi hội thoại hoàn thành, agent và khách hàng vẫn xem được tin nhắn cũ.
-
-**Hướng dẫn hoàn thành hội thoại:**
-
-- Cách 1: Click nút **Hội thoại** góc trái màn hình > **Click chọn Hội thoại** cần hoàn thành > Chọn nút **Hoàn thành**
-- Cách 2: Chọn nút **Đang mở** bên góc phải hội thoại > Chọn **Hoàn thành**
-- Cách 2: Cách 3: Tại ô nhập tin nhắn, gõ lệnh **@complete**
+- Giúp agent kiểm soát tình trạng hội thoại, biết được cuộc nào đã hoàn tất và cuộc nào cần tiếp tục hỗ trợ.
+- Hỗ trợ báo cáo thống kê số lượng hội thoại đã xử lý theo ca làm việc.
+- Tạo hội thoại mới khi khách quay lại nhắn tin, đảm bảo phân phối đúng agent đang sẵn sàng trả lời khách.
 
 
-![](https://vcdn.subiz-cdn.com/file/8f9d220ae0b55906362ad14a39572f8855d8d00d442ab99a5492a6618c554a06_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/380c7f9230c97aa17a0833c479cc9e67fc0aab540871895399a09a22937ea538_acpxkgumifuoofoosble)
 
-## Tự động hoàn thành hội thoại mới
-
-
-Tự động hoàn thành hội thoại chỉ áp dụng với hội thoại mới.
-
-**Hướng dẫn cài đặt:**
-
-- **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **[Hoàn thành hội thoại](https://app.subiz.com.vn/settings/auto-endchat)**
-- Chọn thời gian hoàn thành, khuyến nghị tối đa sau 1 ngày
+## Cách hoàn thành hội thoại
 
 
-![](https://vcdn.subiz-cdn.com/file/30b7628fd8b205e712bfb370cd019e4a883b3183174174d9d874948669c2f7e8_acpxkgumifuoofoosble)
-
-## 4 click hoàn thành hội thoại hàng loạt
+**Cách 1**: Mở hội thoại và xem trạng thái “Đang mở” ở cột trả lời tin nhắn. Bấm chọn Kết thúc.
 
 
-Với các hội thoại cũ, bạn cần thủ công hoàn thành hàng loạt với 4 bước sau:
+![](https://vcdn.subiz-cdn.com/file/4d536500a2e119c907db0c0412068d1ced4cffa60ee77e3bcd6fbd54ea57605b_acpxkgumifuoofoosble)
 
-- Click nút **Hội thoại**
-- **Nhấn phím Shift** trên bàn phím
-- **Click chọn hội thoại đầu** + kéo chuột xuống + **Click chọn hội thoại cuối**
-- Chọn nút **Hoàn thành**
+
+**Cách 2**: Tích chọn nút Hội thoại trên đầu danh sách hội thoại, rồi chọn tiếp các hội thoại cần hoàn thành và bấm nút Kết thúc
+
+
+![](https://vcdn.subiz-cdn.com/file/dcfd31ffa90d8369a2bdab6aa8bf8f90812480dcc3095e49e8b02952445061ab_acpxkgumifuoofoosble)
+
+
+**Cách 3**: Tạo ô trả lời tin nhắn, gõ lệnh “@c” và chọn Complete conversation để hoàn thành
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/f7f19659424f419ea2284db65a3f154c83aa364d607566d15b82a6554996c504_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/1eccb003d8d2dbad19dec08c772f71a9d4450a5e476d46ba8c24932b934dbb69_acpxkgumifuoofoosble)
+
+
+
+## Tự động hoàn thành hội thoại mới 
+
+
+Lưu ý: Chỉ những hội thoại được tạo sau thời điểm cài đặt chức năng tự động hoàn thành mới áp dụng tính năng này.
+
+Cách cài đặt:
+
+- Mở trang Cài đặt
+- Tìm chức năng [Hoàn thành hội thoại](https://app.subiz.com.vn/settings/auto-endchat)
+- Chọn thời gian hoàn thành tự động
+- Cập nhật là xong
+
+
+![](https://vcdn.subiz-cdn.com/file/0ee2e9e177e14fd7f6e71f87a8959c90baad387dbc53f7a340a74013cb1034ec_acpxkgumifuoofoosble)
+
+## Hoàn thành hàng loạt hội thoại cũ 
+
+
+Với các hội thoại cũ, bạn muốn hoàn thành cùng lúc thì bạn thực hiện như sau:
+
+- Tích chọn nút Hội thoại trên đầu danh sách hội thoại
+- Giữ phím “Shift” trên bàn phím.
+- Nhấp chọn hội thoại đầu tiên, kéo xuống chọn hội thoại cuối cùng.
+- Nhấn nút Kết thúc để xử lý hàng loạt.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/f17990cb55a7e5da3d0b5fc01c8b5793390d534ff1b61ba8e54fb9337f761ebb_acpxkgumifuoofoosble)

@@ -3,7 +3,7 @@ title: Xử lý tình huống
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-11-07T05:01:44.537Z
+   date: 2024-11-14T10:42:10.785Z
 ---
 # Xử lý tình huống
 * [Thông báo tin nhắn mới](/110-xu-ly-tinh-huong/1.-thong-bao-tin-nhan-moi.md)
