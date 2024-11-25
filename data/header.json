@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1731670305811,
-  "updated": 1731670305811,
+  "fetched": 1732534184421,
+  "updated": 1732534184421,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
-      "modifiedTime": "2024-08-12T10:57:28.490Z",
-      "version": "764",
+      "modifiedTime": "2024-11-25T09:35:17.483Z",
+      "version": "794",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -99,7 +99,7 @@
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "Quản lý đội nhóm",
       "modifiedTime": "2024-11-15T11:02:50.850Z",
-      "version": "110",
+      "version": "112",
       "path_lower": "/40 Quản lý làm việc nhóm/quan-ly-doi-nhom"
     },
     {
@@ -121,7 +121,7 @@
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "Giám sát viên hội thoại ",
       "modifiedTime": "2024-11-15T11:20:37.108Z",
-      "version": "83",
+      "version": "84",
       "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
     },
     {
@@ -307,8 +307,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
-      "modifiedTime": "2024-03-20T10:41:47.910Z",
-      "version": "245",
+      "modifiedTime": "2024-11-18T10:16:42.256Z",
+      "version": "325",
       "path_lower": "/120 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
       "modifiedTime": "2023-12-19T10:06:45.172Z",
-      "version": "187",
+      "version": "190",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
     },
     {
@@ -406,8 +406,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2024-11-15T10:11:28.347Z",
-      "version": "321",
+      "modifiedTime": "2024-11-25T10:53:17.175Z",
+      "version": "365",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -539,7 +539,7 @@
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
       "modifiedTime": "2024-11-15T11:19:07.550Z",
-      "version": "610",
+      "version": "613",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {

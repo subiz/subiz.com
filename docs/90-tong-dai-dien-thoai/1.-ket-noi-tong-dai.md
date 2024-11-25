@@ -5,7 +5,7 @@ title: Tích hợp tổng đài
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-08-12T10:57:28.490Z
+  date: 2024-11-25T09:35:17.483Z
 ---
 
 # Tích hợp tổng đài
@@ -43,7 +43,7 @@ Khi bạn đã có đầu số tổng đài, bạn sẽ thêm đầu số này v
 
 
 - Bước 3: Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là 27.71.226.145:5060 và gửi lại Subiz các thông số cấu hình của đầu số này.
-- Bước 4: Sau khi cài đặt cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấp nút Thử kết nối. Khi trạng thái chuyển Hoạt động là cài đặt thành công.
+- Bước 4: Sau khi cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấp nút “**Thử kết nối**”. Khi trạng thái chuyển **Hoạt động** là cài đặt thành công.
 
 
 ![](https://vcdn.subiz-cdn.com/file/c3d70d4f9ddf27981fe6bed00989bc1884862bd4356a4689d924eecc026dbc7f_acpxkgumifuoofoosble)
@@ -69,72 +69,89 @@ Tổng đài Subiz cho phép bạn tự thiết kế lời chào cuộc gọi đ
 
 
 
-Tại trang [Cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center), bạn xem mục số tổng đài > chọn nút “Cài đặt” cho đầu số, rồi cấu hình các nội dung sau:
+Tại trang [Cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center), bạn xem mục số tổng đài, chọn nút “Cài đặt” cho đầu số, rồi cấu hình các nội dung sau:
 
 01. Đặt tên cho đầu số để phân biệt các số khác nhau
-11. Thay đổi lời thoại cho cuộc gọi đến
-21. Cài đặt rule phân luồng cuộc gọi đến và giao đúng nhân viên phụ trách
-31. Bật On cho phép ghi âm cuộc gọi
-41. Thêm giám sát viên theo dõi được tất cả lịch sử cuộc gọi
+
+
+![](https://vcdn.subiz-cdn.com/file/4284835ba1f741f02b76c1faa4a50e355cf503820b9a6463503106bf4324caf8_acpxkgumifuoofoosble)
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/3f1159cacd95855b09068a0e9e90cd8113afeb8bb7565a1bc23db7ce28e92c11_acpxkgumifuoofoosble)
+01. Thay đổi lời thoại cho cuộc gọi đến. 
 
+
+
+
+![](https://vcdn.subiz-cdn.com/file/321009adc50f387651b531ce52daee055b2b78ef00b97b9f0c05419625bbc391_acpxkgumifuoofoosble)
+11. Cài đặt rule phân luồng cuộc gọi đến và giao đúng nhân viên phụ trách
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/db1bc323283dff9a4b7690ac3a0ecb769f577bb2e55b21cd98e19ac8f89430fd_acpxkgumifuoofoosble)
+
+
+01. Bật On cho phép ghi âm cuộc gọi
+11. Thêm giám sát viên theo dõi được tất cả lịch sử cuộc gọi
+
+
+![](https://vcdn.subiz-cdn.com/file/7c6a18c29b460947abfd7989f69af43d0791615b4912e092fc8258c176d34c02_acpxkgumifuoofoosble)
 ## Câu hỏi thường gặp
 
 ### CH1: Lợi ích của phần mềm tổng đài là gì? 
 
 
-Hai lợi ích chính khi triển khai phần mềm tổng đài:
+Phần mềm tổng đài mang đến 2 lợi ích chính cho Doanh nghiệp là :
 
-- **Tăng hiệu suất của nhân viên:** Thay vì dùng số cá nhân, tại 1 thời điểm chỉ có 1 nhân viên nghe gọi được và chỉ có 1 khách hàng được hỗ trợ. Tổng đài cho phép nhiều nhân viên sử dụng cùng 1 số điện thoại để gọi đi cho khách hàng hay trả lời nhiều khách hàng gọi đến cùng lúc.
-- **Làm chủ thông tin khách hàng:** Thay vì việc 1 nhân viên tự chịu trách nhiệm về việc liên hệ tư vấn khách hàng qua số điện thoại, thì tổng đài cho phép doanh nghiệp theo dõi và kiểm soát được thông tin khách hàng liên hệ hotline. Khách gọi đến hotline được trả lời hay bị gọi nhỡ nhiều, nhân viên tư vấn khách hàng đã đúng quy tắc của công ty chưa?
+- **Tăng hiệu suất làm việc của nhân viên:** Với tổng đài, nhiều nhân viên có thể cùng sử dụng một số điện thoại để gọi đi hoặc trả lời khách hàng cùng lúc. Điều này khác biệt so với việc sử dụng số cá nhân, nơi chỉ một nhân viên có thể xử lý một cuộc gọi tại một thời điểm.
+- **Kiểm soát và quản lý thông tin khách hàng hiệu quả:** Doanh nghiệp có thể dễ dàng theo dõi, quản lý thông tin khách hàng liên hệ qua hotline. Ví dụ, bạn có thể biết khách hàng gọi đến được xử lý ra sao, cuộc gọi nhỡ có được gọi lại không, và nhân viên có tuân thủ quy trình tư vấn hay không?
 
-Dưới đây là hình ảnh lịch sử cuộc gọi trên phần mềm tổng đài Subiz.
+Dưới đây là hình ảnh về lịch sử cuộc gọi trên phần mềm tổng đài Subiz.
 
 
 ![](https://vcdn.subiz-cdn.com/file/1bac3afba449964931e83a8a3943b2b45e59ffd2393e9e76eecb85c0f395922a_acpxkgumifuoofoosble)
 
 
 
-### CH2: Có mất phí cước gọi khi dùng tổng đài Subiz?
+### CH2: Sử dụng tổng đài Subiz có mất phí cước gọi không?
 
 
-Có. Bạn sẽ mất phí cước gọi cho nhà mạng viễn thông (Viettel, MobiFone, Vinaphone,..). Vì cuộc gọi vẫn truyền đi qua đường viễn thông.
+Có, bạn cần trả phí cước gọi cho nhà mạng viễn thông (như Viettel, Mobifone, Vinaphone,...) vì các cuộc gọi vẫn được truyền qua hệ thống viễn thông.
 ### CH3: Tổng đài ảo Subiz có tính phí theo số lượng máy nhánh?
 
 
-Không. Subiz hỗ trợ bạn giá trọn gói sử dụng được nhiều máy nhánh. [Liên hệ Subiz tư vấn](https://zalo.me/935022139843821727).
-### CH4: Có miễn phí cuộc gọi nội bộ giữa các nhân viên sử dụng Subiz không?
+Không. Subiz áp dụng gói cước trọn gói, cho phép bạn sử dụng không giới hạn số lượng máy nhánh. Hãy [liên hệ Subiz tư vấn](https://zalo.me/935022139843821727) chi tiết.
+### CH4: Gọi nội bộ giữa các nhân viên sử dụng Subiz có miễn phí không?
 
 
-Có. Tất cả nhân viên sử dụng tổng đài Subiz được gọi điện nói chuyện miễn phí.
-### CH5: Thêm nhiều máy nhánh cho nhân viên bằng cách nào?
+Có. Tất cả nhân viên sử dụng tổng đài Subiz đều được miễn phí cước gọi nội bộ.
+### CH5: Làm thế nào để thêm máy nhánh cho nhân viên?
 
 
-Mỗi máy nhánh tổng đài tương ứng với 1 agent trên Subiz.
-
-Agent là người đăng nhập Subiz làm việc, có email và mật khẩu đăng nhập Subiz riêng.
+Mỗi máy nhánh trong tổng đài tương ứng với 1 agent trên Subiz. Agent là người làm việc trên Subiz, có email và mật khẩu đăng nhập Subiz riêng.
 
 
 
-Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang [cài đặt agent](https://app.subiz.com.vn/settings/agents) như sau:
+Để thêm nhiều máy nhánh, bạn mời thêm agent tại trang [cài đặt agent](https://app.subiz.com.vn/settings/agents):
+
+- Khi mời thêm agent, hệ thống sẽ tự động cấp số nhánh nội bộ.
+- Bạn có thể chỉnh sửa số máy nhánh này, đảm bảo số nhánh phải có 4 chữ số.
 
 
 
 
 ![](https://vcdn.subiz-cdn.com/file/a46c7ba3f338892a8feec15bec3368aede6eb595a072d12e95ef7d0521f8e382_acpxkgumifuoofoosble)
 
+### CH6: Làm sao để phân luồng cuộc gọi đến cho nhiều nhân viên?
 
 
+Bạn có thể cài đặt chức năng rule phân phối cuộc gọi trên Subiz để tự động chia các cuộc gọi đến theo các cách thức sau:
 
-Lưu ý: Agent được mời thêm sẽ tự động có số nhánh nội bộ. Bạn có thể chỉnh sửa số máy nhánh này và bắt buộc có 4 chữ số.
-### CH6: Cách phân luồng cuộc gọi chia cho nhiều nhân viên 
-
-
-Bạn sẽ cài đặt chức năng rule phân phối để tự động chia cuộc gọi đến cho nhân viên theo nhiều cách như đổ chuông lần lượt cho nhiều nhân viên, đổ chuông chia đều cho nhiều nhân viên, yêu cầu khách bấm số liên hệ phòng bạn.
+- Đổ chuông lần lượt qua từng nhân viên.
+- Đổ chuông chia đều cho nhiều nhân viên.
+- Menu thoại tự động yêu cầu khách hàng bấm số để chọn bộ phận muốn liên hệ.
 
 [Cài đặt rule ngay](https://app.subiz.com.vn/settings/rule-setting)
 
@@ -150,14 +167,11 @@ Hướng dẫn cài đặt:
 
 - Bước 1: Mở [Cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center)
 - Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này.
-- Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz.
-
-Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết.
-
-
 
 
 ![](https://vcdn.subiz-cdn.com/file/80951454853d613475cbf59c57f3365197cb56a6dde8a3bc3694a256dd723d0d_acpxkgumifuoofoosble)
+- Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz.
+
 
 
 
@@ -168,3 +182,8 @@ Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác t
 
 
 ![](https://vcdn.subiz-cdn.com/file/07bd3cbf4864152c1af832b33aab56e21ea78f54b7a642383932644ce7a40fa2_acpxkgumifuoofoosble)
+
+
+
+
+Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết.

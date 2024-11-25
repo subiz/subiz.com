@@ -5,7 +5,7 @@ title: Sử dụng tổng đài
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-11-15T10:11:28.347Z
+  date: 2024-11-25T10:53:17.175Z
 ---
 
 # Sử dụng tổng đài
@@ -138,78 +138,68 @@ Nhắc việc sẽ gửi thông báo cho agent trước khi hết hạn hoặc �
 
 Agent có thể gọi điện và chốt đơn hàng, sau đó ghi nhận đơn hàng ngay trên Subiz. Cụ thể các bước như sau:
 
-- Nhấn Tạo đơn tại mục Đơn hàng.
+- Nhấn “Tạo đơn” tại mục Đơn hàng.
 - Điền thông tin khách hàng, thêm sản phẩm.
 - Nhấn Xác nhận đơn để hoàn tất.
-
-
 
 **[Xem hướng dẫn quản lý đơn hàng](https://subiz.com.vn/docs/1276788659-don-hang)**
 
 
 ![](https://vcdn.subiz-cdn.com/file/b7c65146cd0684dd37aa2732d53dff89db4efaead5e09a96922ae9b9edf50b4c_acpxkgumifuoofoosble)
 
-
-
-
-
-
-
-
-
 ## Xử lý tình huống
 
 ### CH1: Máy tính không nhận thông báo cuộc gọi đến?
 
 
-Máy tính không có thông báo cuộc gọi đến nguyên nhân thường gặp là khi trình duyệt hoặc máy tính cá nhân của agent chưa cho phép Subiz gửi thông báo.
+Nguyên nhân thường gặp là trình duyệt hoặc máy tính cá nhân của agent chưa bật quyền gửi thông báo cho Subiz.
 
 
 
-Cách xử lý: Bạn kiểm tra cài đặt trình duyệt bằng cách click nút cài đặt bên trái đường link [App.subiz.com.vn](https://app.subiz.com.vn/) và bật ON các quyền “Thông báo”.
+Cách xử lý: 
 
-
+- Bên trái địa chỉ web App.subiz.com.vn, hãy chọn biểu tượng Xem thông tin trang web, Chọn Chế độ cài đặt trang web (Site setting).
+- Chọn Cho phép (Allow) các quyền Microphone, Thông báo, Âm thanh, Cửa sổ bật lên và liên kết chuyển hướng
 
 [Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=usDLQp7IqHE)
 
 
-![](https://vcdn.subiz-cdn.com/file/1fdda5fa31305c0484b681cada1a1eec61c477c6fc4f360ae23866968309d59d_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/aec21db0f6004e1aacfc66dd4a748b99fc2e34fc129f0e8987151bbc0b15d539_acpxkgumifuoofoosble)
 
 
 
-### CH2: App mobile không có thông báo cuộc gọi đến?
+### CH2: App mobile Subiz không có thông báo cuộc gọi đến?
 
 
-App mobile không có thông báo cuộc gọi đến thường do điện thoại của agent chưa bật quyền thông báo cho ứng dụng Subiz, [kiểm tra ngay theo video hướng dẫn.](https://www.youtube.com/@Subiz-live-chat/shorts)
-### CH3: Cách thay đổi thiết bị gọi đi bằng máy tính hay điện thoại voip?
-
-
-
-
-Khi nào cần thay đổi thiết bị?
-
-- Công ty bổ sung điện thoại bàn.
-- Nhân viên thay đổi vị trí làm việc.
-- Thiết bị cũ gặp sự cố.
-
-**Cách thay đổi thiết bị gọi đi: **Nhấp vào nút gọi trên trang Subiz và chọn cài đặt cho thiết bị muốn kết nối.
+Nguyên nhân thường gặp là điện thoại chưa bật quyền thông báo cho ứng dụng Subiz.
 
 
 
-
-![](https://vcdn.subiz-cdn.com/file/9b469dcae5fed6c5891d1257a4e3ff3b9aa30358482471ffc94b0035caedc5dd_acpxkgumifuoofoosble)
-
-### CH4: Agent có thể tùy chọn đầu số điện thoại gọi đi không?
+Cách xử lý: Kiểm tra và bật quyền thông báo cho ứng dụng Subiz theo hướng dẫn [trong video chi tiết](https://www.youtube.com/@Subiz-live-chat/shorts).
+### CH3: Cách thay đổi thiết bị gọi đi bằng máy tính hay điện thoại bạn voip?
 
 
-Agent có thể thay đổi chọn đầu số gọi đi.
+**Cách thay đổi thiết bị gọi đi: **
+
+- Nhấp vào NÚT GỌI ở góc phải màn hình trang Subiz
+- Bấm nút lựa chọn điện thoại để gọi là máy tính hay điện thoại bàn voip
+
+
+![](https://vcdn.subiz-cdn.com/file/3433d4fabdb15f78bb6b530941a45e709a42c86b620b575a0f741f20dbb261c5_acpxkgumifuoofoosble)
 
 
 
-Trên máy tính, bạn thay đổi đầu số gọi đi như sau:
+### CH4: Agent có thể thay đổi đầu số điện thoại gọi đi không?
 
 
-![](https://vcdn.subiz-cdn.com/file/636b75ad636d6600149dbc2868a4ad93ee3f84ed8d4630f33c10bb164137926c_acpxkgumifuoofoosble)
+Agent có thể thay đổi đầu số điện thoại gọi đi tùy theo nhu cầu.
+
+
+
+Trên máy tính, bạn nhấp vào NÚT GỌI ở góc phải màn hình trang Subiz. Bấm vào ô số điện thoại và chọn đầu số muốn thực hiện gọi đi.
+
+
+![](https://vcdn.subiz-cdn.com/file/c4cbdb8ea3562fa1ba619e410ca842578909b3158f97301ba49bff8f9a2aa714_acpxkgumifuoofoosble)
 
 
 
@@ -223,16 +213,16 @@ Trên app mobile, bạn thay đổi đầu số gọi đi như sau:
 
 
 
-### CH5: Cách phân biệt nhiều SĐT trên Subiz?
+### CH5: Cách phân biệt nhiều số điện thoại trên Subiz?
 
 
-Bạn đặt tên cho mỗi đầu số để dễ nhận biết khi có nhiều đầu số khác nhau.
+Bạn đặt tên cho từng đầu số để dễ nhận biết khi có nhiều đầu số khác nhau.
 
 
 
 **Hướng dẫn cài đặt:**
 
-- Bước 1: Mở trang [cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center). Tại mục Số tổng đài, chọn nút Cài đặt ở bên phải của đầu số và đặt tên cho đầu số này
+- Bước 1: Mở trang [cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center). Tại mục Số tổng đài, chọn nút Cài đặt bên cạnh đầu số và đặt tên cho đầu số này.
 
 
 
@@ -244,91 +234,22 @@ Bạn đặt tên cho mỗi đầu số để dễ nhận biết khi có nhiều
 
 
 
-- Bước 2: Agent khi gọi điện cho khách thì sẽ dễ dàng chọn SĐT gọi đi theo tên của đầu số. Chọn 1 lần và mặc định các lần gọi điện tiếp theo sẽ sử dụng số này.
+- Bước 2: Agent thực hiện cuộc gọi đi thì cần bấm NÚT GỌI và lựa chọn SĐT gọi đi theo tên của đầu số.
+![](https://vcdn.subiz-cdn.com/file/c4cbdb8ea3562fa1ba619e410ca842578909b3158f97301ba49bff8f9a2aa714_acpxkgumifuoofoosble)
+### CH6: Cách xử lý khi cuộc gọi đi thất bại liên tục
 
 
-![](https://vcdn.subiz-cdn.com/file/08c97084f5e2d4a89cfaa78baa3546c9b59e65c1d425042c6af768c7c4ef2214_acpxkgumifuoofoosble)
+Nếu cuộc gọi không thành công và agent bị văng khỏi ứng dụng Subiz trên di động, thường có hai nguyên nhân chính:
+
+- Một là đầu số điện thoại của công ty bị khóa, chặn không được phép thực hiện cuộc gọi đi. Cách xử lý: Bạn cần liên hệ nhà mạng cung cấp đầu số để yêu cầu hỗ trợ mở khóa. Trong trường hợp không khắc phục được, bạn có thể đăng ký mua thêm đầu số mới.
+- Hai là số điện thoại của khách hàng sai hoặc chặn cuộc gọi từ số lạ. Cách xử lý: Thử sử dụng số cá nhân của bạn để liên lạc với khách hàng nhằm xác nhận tình trạng.
+### CH7: Cách xử lý khi khách hàng không nghe được tiếng của agent
 
 
+Tình trạng này thường xuất phát từ hai nguyên nhân chính:
+
+- Khi dùng headphone trên máy tính thì nguyên nhân là trình duyệt không cấp quyền truy cập microphone cho Subiz. Cách xử lý: Nhấp vào biểu tượng Xem thông tin trang web bên trái địa chỉ App.subiz.com.vn. Chọn Cài đặt trang web (Site settings). Tìm mục Microphone và bật chế độ Cho phép (Allow).
 
 
-
-
-
-### CH6: Thêm nhiều máy nhánh cho nhân viên bằng cách nào?
-
-
-Mỗi agent trên Subiz mặc định được gắn một số máy nhánh riêng. 
-
-
-
-Để tạo nhiều máy nhánh, bạn mời thêm agent tại trang [cài đặt agent](https://app.subiz.com.vn/settings/agents). 
-
-
-
-Lưu ý rằng agent được mời thêm sẽ tự động có số nhánh. Bạn có thể chỉnh sửa số máy nhánh này và bắt buộc có 4 chữ số.
-
-
-
-
-![](https://vcdn.subiz-cdn.com/file/a46c7ba3f338892a8feec15bec3368aede6eb595a072d12e95ef7d0521f8e382_acpxkgumifuoofoosble)
-
-
-
-### CH7: Cách phân luồng cuộc gọi cho nhiều agent 
-
-
-Bạn cần cài đặt chức năng **Rule phân phối** để tự động chia cuộc gọi theo các quy tắc khác nhau, ví dụ như:
-
-- Đổ chuông lần lượt cho nhiều agent
-- Đổ chuông chia đều cuộc gọi cho nhiều agent
-- Cuộc gọi đến có thông báo yêu cầu khách bấm số chọn bộ phận hỗ trợ.
-
-[Cài đặt rule ngay](https://app.subiz.com.vn/settings/rule-setting)
-
-
-![](https://vcdn.subiz-cdn.com/file/f1daec9ad1d20de55afe699dafca981e4bfc7ee0d4159ff8857501cbd807c0cd_acpxkgumifuoofoosble)
-
-
-
-### CH8: Cách kết nối điện thoại bàn voip với tổng đài Subiz
-
-
-Hướng dẫn cài đặt:
-
-- Bước 1: Mở [Cài đặt tổng đài](https://app.subiz.com.vn/settings/call-center)
-- Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này.
-- Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz.
-
-Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết.
-
-
-
-
-![](https://vcdn.subiz-cdn.com/file/80951454853d613475cbf59c57f3365197cb56a6dde8a3bc3694a256dd723d0d_acpxkgumifuoofoosble)
-
-
-
-![](https://vcdn.subiz-cdn.com/file/9560ea232ca7fe22b2fa16eeb83d35742d2b4fed6b6d022de9139696f28ccd3e_acpxkgumifuoofoosble)
-
-
-
-
-
-![](https://vcdn.subiz-cdn.com/file/07bd3cbf4864152c1af832b33aab56e21ea78f54b7a642383932644ce7a40fa2_acpxkgumifuoofoosble)
-
-
-
-
-
-
-
-
-
-### CH9: Gọi điện thoại trên app mobile bị văng khỏi app?
-
-
-Cuộc gọi điện thoại thất bại và agent bị văng khỏi app mobile Subiz thì có 2 nguyên nhân thường gặp và cách xử lý như sau:
-
-- **Nguyên nhân 1**: Do đầu số điện thoại của công ty bị chặn khó, không được phép gọi đi nữa. Cách xử lý: Bạn cần liên hệ bên nhà mạng cung cấp đầu số để họ hỗ trợ bạn mở khóa đầu số hoặc mua thêm số mới.
-- **Nguyên nhân 2**: Do số điện thoại của khách hàng bị sai hoặc chặn cuộc gọi từ số lạ. Cách xử lý: Bạn có thể dùng số cá nhân để gọi thử cho khách.
+![](https://vcdn.subiz-cdn.com/file/aec21db0f6004e1aacfc66dd4a748b99fc2e34fc129f0e8987151bbc0b15d539_acpxkgumifuoofoosble)
+- Lỗi chức năng micro trên thiết bị (headphone hoặc điện thoại bàn VoIP). Micro của thiết bị có thể gặp vấn đề hoặc không hoạt động. Cách xử lý: Thử kiểm tra bằng cách thực hiện cuộc gọi nội bộ với một agent khác để xác nhận tình trạng.
