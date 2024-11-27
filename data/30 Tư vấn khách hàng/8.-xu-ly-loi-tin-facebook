@@ -22,12 +22,18 @@ Thông báo gián đoạn Fanpage có nghĩa là Fanpage ngừng cấp quyền n
 Cách xử lý:
 
 - Mở trang Cài đặt
-- Xem cột chức năng bên trái màn hình, tìm Facebook
+- Tìm chức năng [Tích hợp Facebook](https://app.subiz.com.vn/settings/messenger)
 - Nhấp nút Thêm Fanpage
 - Làm tiếp các bước cấp quyền cho Subiz
 
 
+
+[Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=kkzDSpR26dM&t=3s)
+
+
 ![](https://vcdn.subiz-cdn.com/file/f6916900f2aa2741b3bf31f58978d32799268c11bf68b364634aae6b4ef9f862_acpxkgumifuoofoosble)
+
+
 
 
 
@@ -77,7 +83,7 @@ Thông báo: (#10) This message is sent outside of allowed window. Learn more ab
 
 
 
-- Nguyên nhân: Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi, [xem chính sách gửi tin nhắn messenger.](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
+- Nguyên nhân: Do chính sách gửi tin nhắn messenger chỉ cho phép gửi tin nhắn cho khách trong vòng 7 ngày kể từ tin nhắn cuối cùng khách gửi.
 - Cách xử lý: Bạn chọn thử gửi lại tin nhắn cho khách. Nếu không gửi được, bạn cần liên hệ khách qua các kênh khác.
 ## Lỗi #551: Người này hiện không có mặt 
 

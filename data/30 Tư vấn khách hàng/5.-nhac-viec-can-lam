@@ -64,10 +64,18 @@ Nhắc việc tự động khi có khách nhắn tin/ gọi nhỡ chưa được
 
 
 
+#### Bot nhắc việc khách nhắn tin chưa được trả lời
 
-**Bot nhắc việc khách nhắn tin chưa được trả lời**
 
-Hướng dẫn cài đặt: **[Mở cài đặt bot](https://app.subiz.com.vn/bots)** > Thiết kế kịch bản > Tại nhánh agent chưa trả lời, thêm hành động **Tạo nhắc việc** > Điền nội dung công việc cần làm và thêm agent phụ trách công việc > Xuất bản là xong
+
+
+Hướng dẫn cài đặt: 
+
+- **[Mở cài đặt bot](https://app.subiz.com.vn/bots)**
+- Chỉnh sửa bot đang có hoặc tạo bot mới
+- Thiết kế kịch bản
+- Tại luồng agent chưa trả lời, thêm hành động **Tạo nhắc việc**, Điền nội dung công việc cần làm và thêm agent phụ trách công việc
+- Xuất bản là xong
 
 
 
@@ -78,12 +86,16 @@ Hướng dẫn cài đặt: **[Mở cài đặt bot](https://app.subiz.com.vn/bo
 
 
 
-
-**Tự động nhắc việc có cuộc gọi nhỡ **
-
-Hướng dẫn cài đặt: **[Tạo rule phân phối cuộc gọi đến](https://app.subiz.com.vn/settings/rule-setting)** > Thêm agent xử lý cuộc gọi nhỡ và hạn xử lý cuộc gọi nhỡ > Cập nhật là xong
+#### Tự động nhắc việc có cuộc gọi nhỡ 
 
 
+
+
+Hướng dẫn cài đặt: 
+
+- **[Tạo rule phân phối cuộc gọi đến](https://app.subiz.com.vn/settings/rule-setting)**
+- Thêm agent xử lý cuộc gọi nhỡ và hạn xử lý cuộc gọi nhỡ
+- Cập nhật là xong
 
 
 ![](https://vcdn.subiz-cdn.com/file/541e9a8a4a3a99e1715d291214781c3999024a00e8fbefe3dd8b9300e8f7cf7d_acpxkgumifuoofoosble)

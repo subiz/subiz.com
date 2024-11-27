@@ -1,75 +1,76 @@
 # Quản lý nhiều website
 
-## Lợi thế quản lý nhiều website trên Subiz
+## Lợi ích quản lý nhiều website trên Subiz
 
 
+Subiz hỗ trợ bạn quản lý và tương tác khách hàng trên nhiều website chỉ với một nền tảng duy nhất. Bạn có thể:
 
-
-Bạn tập trung quản lý được tất cả website và tương tác tư vấn khách hàng trên phần mềm Subiz.
-
-
-
-Chỉ cần đăng nhập 1 phần mềm Subiz, bạn sẽ:
-
-- Quan sát được tất cả khách truy cập trên tất cả website
-- Trả lời chat của khách liên hệ từ tất cả website
-- Bot tự động gửi tin nhắn riêng trên mỗi website
-- Tự động phân chia khách từ mỗi website cho nhân viên chăm sóc riêng
-- Thay đổi hình ảnh và nội dung của cửa sổ chat khác nhau cho mỗi website
+- Theo dõi toàn bộ khách truy cập trên tất cả website.
+- Trả lời nhanh chóng tất cả tin nhắn từ bất kỳ website nào.
+- Cá nhân hóa giao diện cửa sổ chat cho từng website khác nhau.
+- Tùy chỉnh Bot tự động gửi tin nhắn riêng biệt cho từng website.
+- Phân chia hội thoại theo từng website tới các nhân viên phụ trách.
 ## Hướng dẫn cài đặt
 
 
-- Bước 1: Kiểm soát danh sách website
-- Bước 2: Mời thêm agent phụ trách mỗi website
-- Bước 3: Tùy chỉnh cửa sổ chat Subiz cho website đầu tiên
-- Bước 4: Sửa cửa sổ chat trên các website còn lại bằng mã API
-- Bước 5: Rule phân phối khách từ mỗi website cho nhân viên
-- Bước 6: Bot tự động trả lời riêng từng website
-- Bước 7: Báo cáo hội thoại của mỗi website
-### Bước 1: Kiểm soát danh sách website
+- Bước 1: Quản lý danh sách website
+- Bước 2: Thêm Agent phụ trách từng website
+- Bước 3: Tùy chỉnh cửa sổ chat cho website đầu tiên
+- Bước 4: Cài đặt API sửa cửa sổ chat cho các website khác
+- Bước 5: Phân phối khách hàng theo từng website
+- Bước 6: Bot tự động trả lời theo từng website
+- Bước 7: Thống kê hội thoại từng website
+### Bước 1: Quản lý danh sách website
 
 
-Bạn có nhiều website khác nhau. Để biết cụ thể website nào đang tích hợp Subiz, bạn thêm tên miền website tại trang [Cài lên website](https://app.subiz.com.vn/website/install)
+Thêm danh sách tên miền website vào trang [Cài đặt website](https://app.subiz.com.vn/website/install) của Subiz để quản lý tất cả các website trên cùng một giao diện Subiz. 
+
+
+
+Sau đó bạn sao chép mã nhúng Subiz và dán vào code website.
 
 
 
 
 ![](https://vcdn.subiz-cdn.com/file/ece436ca9609375983b47ed6f324c26a3fccc6e9e7dd175007490133d3bc3f6c_acpxkgumifuoofoosble)
  
-### Bước 2: Mời thêm agent
+### Bước 2: Thêm Agent phụ trách từng website
 
 
-Để cửa sổ chat hiển thị tên và ảnh của thương hiệu/website, bạn sẽ tạo thêm agent có tên và ảnh của thương hiệu tương ứng.
+Để hiển thị thông tin thương hiệu trên cửa sổ chat, tạo Agent mới có họ tên và ảnh đại diện của thương hiệu.
 
 
 
-Hướng dẫn tạo thêm agent: Vào trang [cài đặt agent](https://app.subiz.com.vn/settings/agents) > chọn Mời agent > Điền tên và ảnh thương hiệu cho agent đó.
+Hướng dẫn tạo thêm agent: 
 
-Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent > trên tab trình duyệt hiện “agent\_id”. 
+- Vào trang [cài đặt agent](https://app.subiz.com.vn/settings/agents)
+- Chọn Mời agent
+- Nhập họ tên là tên thương hiệu, rồi chỉnh sửa agent để thay đổi ảnh đại diện là logo thương hiệu
+- Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent, xem trên tab trình duyệt hiện “agent\_id”.
 
 
 ![](https://vcdn.subiz-cdn.com/file/e16a26f5b8306627bc136b4bae5163716b1b0884447925e4db513eb274734d05_acpxkgumifuoofoosble)
 
-### Bước 3: Chỉnh sửa cửa sổ chat trên Subiz cho website đầu tiên
+### Bước 3: Tùy chỉnh cửa sổ chat cho website đầu tiên
 
 
-Bạn cần chỉnh sửa cửa sổ chat trên website đầu tiên tại trang [Cài đặt chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/design) này. 
+Tại trang [Chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/design), bạn thực hiện:
 
-Tại đây, bạn sửa: Tiêu đề chọn hiển thị agent và Lời chào chọn tên agent tương ứng với tên thương hiệu của website đầu tiên; Bảng hỏi thông tin khách trước khi chat và Bảng hỏi thông tin khi offline thì nhập nội dung chung không có tên thương hiệu.
+- Sửa lần lượt tiêu đề, lời chào phù hợp với thương hiệu của website.
+- Bật/ Tắt bảng hỏi thông tin trước khi chat và khi offline nếu cần
 
 
 
 
 ![](https://vcdn.subiz-cdn.com/file/2ff9ad825e11691d274e54ef9f81ea231b17f8794781b70d82e39601e5beb6de_acpxkgumifuoofoosble)
 
-### Bước 4: Sử dụng API chỉnh sửa cửa sổ chat trên website còn lại
+### Bước 4: Cài đặt API sửa cửa sổ chat cho các website khác
 
 
-Từ website thứ 2, bạn cài đặt được tên, ảnh thương hiệu, lời giới thiệu, lời chào qua mã API đặt trực tiếp trong code web, trong mã API cần thay đổi “agent\_id” và nội dung tin nhắn riêng cho từng website. 
+Sử dụng mã API để tùy chỉnh cửa sổ chat cho từng website khác nhau:
 
-Lưu ý nên đặt mã API ngay dưới mã nhúng Subiz để dễ quản lý.
-
-
+- Thay đổi tên thương hiệu, ảnh logo hiển thị theo thông tin của agent đã tạo ở bước 2 phía trên. Lưu ý: Trong đoạn mã API cần lấy “agent\_id” theo hướng dẫn tại bước 2. Sửa lời chào, màu sắc.
+- Đặt mã API sửa cửa sổ chat ngay dưới mã nhúng Subiz để dễ quản lý
 
 **Ví dụ mã API sửa tiêu đề, lời chào hiển thị tên/ ảnh thương hiệu**
 
@@ -94,6 +95,12 @@ Lưu ý nên đặt mã API ngay dưới mã nhúng Subiz để dễ quản lý.
     },
   })
 </script>
+
+// Lưu ý cần sửa các nội dung sau:
+agent_ids
+caption
+tagline
+greeting
 
 
 ```
@@ -121,6 +128,12 @@ subiz('overrideChatbox', {
     },
   })
 </script>
+
+// Lưu ý cần sửa các nội dung sau:
+caption
+greeting
+background
+
 
 ```
 
@@ -172,15 +185,20 @@ subiz('overrideChatbox', {
 </script>
 
 
+// Lưu ý cần sửa các nội dung sau:
+caption
+tagline
+greeting
+
 ```
 
-### Bước 5: Rule phân phối khách từ mỗi website cho nhân viên 
+### Bước 5: Phân phối khách hàng theo từng website
 
 
 Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting):
 
 - Đặt tên rule dễ phân biệt website và agent trực chat
-- Điều kiện rule: chọn Kênh tương tác - Website - Tên miền website
+- Điều kiện rule: chọn Kênh tương tác là Website và nhập tên miền website
 - Phân phối tới: chọn thêm agent trực chat
 
 Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
@@ -188,10 +206,13 @@ Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau
 
 ![](https://vcdn.subiz-cdn.com/file/b8ace8df8f00a40b1a5d1711d67e786890347092cf60c8d1a69131152880a608_acpxkgumifuoofoosble)
 
-### Bước 6: Bot tự động trả lời riêng từng website
+### Bước 6: Bot tự động trả lời theo từng website
 
 
-Bot tự động chào đón và trả lời riêng cho từng website. Bạn [tạo bot mới](https://app.subiz.com.vn/bots) và tại mục 2 cài đặt > Chọn “Trên các website có chứa” - điền “tên miền website” 
+Bot tự động chào đón và trả lời riêng cho từng website. 
+
+- [Tạo bot mới](https://app.subiz.com.vn/bots)
+- Tại mục 2 cài đặt, chọn “Trên các website có chứa” và điền “tên miền website”
 
 
 
@@ -203,9 +224,9 @@ Bot tự động chào đón và trả lời riêng cho từng website. Bạn [t
 ### Bước 7: Thống kê hội thoại của mỗi website
 
 
-Bạn cần báo cáo, so sánh số lượng hội thoại khách nhắn tin trên mỗi website, bạn sẽ vào thống kê hội thoại và xem mục Theo website” - “Nguồn hội thoại” 
+Vào [Thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo), chọn Theo website để xem chi tiết số lượng hội thoại từ từng nguồn.
 
-Lưu ý: [Cần thêm tên miền website](https://subiz.com.vn/docs/158663500-quan-ly-nhieu-website#b%C6%B0%E1%BB%9Bc-1-ki%E1%BB%83m-so%C3%A1t-danh-s%C3%A1ch-website) tại trang tích hợp website để Subiz thống kê 
+
 ![](https://vcdn.subiz-cdn.com/file/6c6ebfb5c636396147b236a6058af8a9bc755ab30483611b5522881fedec611d_acpxkgumifuoofoosble)
 
 ### 
