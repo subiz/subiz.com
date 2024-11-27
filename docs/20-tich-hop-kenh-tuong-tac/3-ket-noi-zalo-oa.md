@@ -1,0 +1,94 @@
+---
+id: 297964546
+slug: /297964546-ket-noi-zalo-oa
+title: Tích hợp Zalo OA
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2023-12-19T10:04:49.914Z
+---
+
+# Tích hợp Zalo OA 
+
+
+
+## Hoạt động của kênh Zalo trên Subiz
+
+
+
+
+- Bạn kết nối được nhiều Zalo OA trên Subiz
+- Bạn nhận được tin nhắn của khách hàng Zalo OA trên Subiz
+- Bạn có bot tự động trả lời tin nhắn từ Zalo OA
+- Bạn tự động phân chia khách từ Zalo OA cho nhân viên phụ trách
+- Bạn có báo cáo thống kê chi tiết khách hàng từ Zalo OA
+## Hướng dẫn cài đặt Zalo vào Subiz
+
+
+- Bước 1: Đăng nhập Subiz qua đường link https://app.subiz.com.vn
+- Bước 2: Mở Cài đặt > Chọn [Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)
+- Bước 3: Chọn Tích hợp Zalo Official Account và làm theo các bước cấp quyền
+
+
+
+[XEM VIDEO TÍCH HỢP ZALO](https://www.youtube.com/watch?v=67dyW9RBD3o)
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/72835de1cd493e0b9beeaf38a14978571507806820b3e003ed06d944195e0958_acpxkgumifuoofoosble)
+
+
+
+## Không thể kết nối Zalo OA vào Subiz?
+
+
+
+
+Có 3 nguyên nhân chính khiến Zalo OA không kết nối được vào Subiz?
+
+
+
+**Nguyên nhân 1: Zalo OA chưa xác thực**
+
+
+
+- Cách kiểm tra: Đăng nhập Zalo OA > Quản lý > [Quản lý tài khoản](https://oa.zalo.me/manage/account) > Xác thực OA
+- Cách xử lý: Thực hiện xác thực tài khoản Zalo OA của Doanh nghiệp. [Xem hướng dẫn xác thực Zalo OA](https://oa.zalo.me/home/resources/guides/huong-dan-xac-thuc-tai-khoan-official-account-cho-doanh-nghiep_70)
+
+
+
+
+
+**Nguyên nhân 2: Zalo OA chưa trả phí**
+
+
+
+Để sử dụng đầy đủ chức năng chat tư vấn, Zalo OA của Doanh nghiệp cần mua gói trả phí
+
+
+
+- Cách kiểm tra gói dịch vụ của Zalo: Đăng nhập Zalo OA > Quản lý >[ Quản lý tài khoản](https://oa.zalo.me/manage/account) > trong Quản lý gói xem gói trả phí hay miễn phí
+- Cách xử lý: Nếu Zalo OA đang ở gói miễn phí, bạn cần mua dịch vụ Zalo. [Xem hướng dẫn trả phí Zalo](https://oa.zalo.me/home/resources/policy/-trien-khai-goi-dich-vu-tra-phi-voi-zalo-oa-doanh-nghiep_4326077009372661188)
+
+
+
+**Nguyên nhân 3: Agent cài đặt không phải là Quản trị viên Zalo OA**
+
+
+
+- Cách kiểm tra phân quyền admin Zalo OA: Đăng nhập Zalo OA > Quản lý > [Quản lý admin](https://oa.zalo.me/manage/mnadmin). Chỉ Quản trị viên có quyền tích hợp Zalo vào Subiz
+
+- Cách xử lý : Cần thay đổi quyền quản trị viên cho agent cài đặt trên Subiz hoặc Quản trị viên Zalo OA trực tiếp thực hiện các bước kết nối Zalo OA vào Subiz
+## Câu hỏi thường gặp
+
+
+**Câu hỏi 1: Khách nhắn tin tới Zalo OA nhưng trên Subiz không hiện tên và ảnh đại diện Zalo cá nhân của khách?**
+
+- Trả lời: Do chính sách quản lý thông tin người dùng của Zalo, chỉ những khách quan tâm Zalo OA thì Zalo cho phép xem được thông tin khách, [xem chi tiết](https://developers.zalo.me/docs/official-account/quan-ly/quan-ly-thong-tin-nguoi-dung/lay-danh-sach-khach-hang-quan-tam-oa).
+
+
+
+**Câu hỏi 2: Làm cách nào để mời khách quan tâm Zalo OA?**
+
+- Trả lời: Bạn có thể mời khách quan tâm Zalo bằng theo cách khác nhau, [xem chi tiết](https://oa.zalo.me/home/resources/guides/huong-dan-hoat-dong-danh-cho-official-account-dang-ky-moi_6).
