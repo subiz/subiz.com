@@ -1,0 +1,171 @@
+---
+id: 1540866648
+slug: /1540866648-bot-tu-dong-nhan-tin
+title: Bot Subiz tự động hóa
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2024-08-15T11:29:11.999Z
+---
+
+# Bot Subiz tự động hóa
+
+## Bot Subiz hoạt động như thế nào?
+
+
+Bot Subiz là công cụ chatbot chạy theo kịch bản có sẵn, tự động nhắn tin trả lời khách hàng từ website, Fanpage, Zalo OA, Instagram. 
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/7b4c2c72a60f8c8a0dd8efeab3475101b93486e486ef4711227dc3220b70d04d_acpxkgumifuoofoosble)
+
+
+
+## Các tính năng nổi bật của bot Subiz là:
+
+
+- Tự động chào khách truy cập website
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/ab511073d98327bb92c18b4ce3e6946f0f972a03bba32caa4c851e4c3b03f041_acpxkgumifuoofoosble)
+
+
+
+
+- Trả lời tin nhắn khách từ messenger Fanpage, Zalo OA, Instagram
+
+
+![](https://vcdn.subiz-cdn.com/file/6013c65b50b3b4d60f0ff4a5a845aea90d36cc55cb2637dbfe4a21607a0d4b98_acpxkgumifuoofoosble)
+
+
+- Kịch bản bot được thiết kế theo điều kiện nếu thì. Nếu thỏa mãn một điều kiện nhất định thì bot sẽ thực hiện một hành động cụ thể. Ví dụ nếu khách vào website trong giờ làm việc thì bot sẽ gửi tin nhắn chào. Nếu khách chưa có SĐT thì bot sẽ hỏi SĐT của khách.
+- Hướng dẫn khách hàng theo các nút gợi ý phản hồi nhanh
+
+
+![](https://vcdn.subiz-cdn.com/file/0a6c995e08ebb9fa26adb5acab794440a811b6910f93f5cb54cdd2681c0d7484_acpxkgumifuoofoosble)
+
+
+
+
+- Hỏi thông tin khách hàng như Họ tên, SĐT,...
+
+
+![](https://vcdn.subiz-cdn.com/file/8f054f23ca1d366753ae13d1d72b221d4755a64ccec4ee905d43592b7b6d710b_acpxkgumifuoofoosble)
+
+
+- Phân luồng khách hàng và giao cho nhân viên phụ trách (Agent)
+
+
+![](https://vcdn.subiz-cdn.com/file/d927f0e703301bedc54efc988f7975d750a69da97a40eeeac61fc018fa03150a_acpxkgumifuoofoosble)
+
+
+
+## Hướng dẫn cài đặt bot mới
+
+
+**Bước 1: Mở trang cài đặt bot**
+
+- Mở trang Cài đặt trên Subiz
+- Tìm [chức năng Bot](https://app.subiz.com.vn/bots)
+- Chọn Tạo Bot
+- Nhấp mở Bot chào khách, chọn Sử dụng
+
+
+
+**Bước 2: Thiết kế kịch bản cho bot mới**
+
+- Kịch bản bot gồm nhiều hành động nối tiếp nhau theo điều kiện Nếu - Thì. Nếu một điều kiện được thỏa mãn thì bot sẽ chạy hành động.
+- Các hành động của bot như: Gửi tin nhắn, Hỏi thông tin SĐT, Gửi cho agent tư vấn viên, Gắn Tag Hội thoại,....
+- Bấm dấu + để thêm hành động mới cho bot
+
+
+![](https://vcdn.subiz-cdn.com/file/823da01b7f7323ca2845967b6e4758e77e2c02a36b17bfa1bed6d60e56509edf_acpxkgumifuoofoosble)
+
+
+
+
+**Bước 3: Cài đặt điều kiện nâng cao cho bot**
+
+- Sửa tên và ảnh bot hiển thị khi nhắn tin với khách
+- Chọn bot chạy trên website hay Fanpage hay Zalo OA
+- Chọn bot chạy với một nhóm khách hàng cụ thể hay theo thời gian làm việc,...
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/a2f33a8e1edea100b8feb5e495ee270abb57cc2f068af2b063f0ac36a9f6544d_acpxkgumifuoofoosble)
+
+
+
+
+
+
+**[Xem video hướng dẫn cài đặt bot](https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s)**
+## Một số ví dụ kịch bản bot
+
+### Bot chào đón khách vào website
+
+
+Kịch bản bot gửi tin nhắn kèm hình ảnh và các nút gợi ý mời gọi khách nhắn tin nhanh.
+
+
+![](https://vcdn.subiz-cdn.com/file/bc5954ed37ed2441f9f99341589722e2bedd9372749fbe4dcae28195648e306d_acpxkgumifuoofoosble)
+
+
+
+
+Cài đặt nâng cao cho bot chọn, sửa tên bot và thay đổi ảnh bot hiển thị phía khách hàng.
+
+Tại mục Bot chạy khi nào, nhấp chọn Khách xem website.
+
+
+![](https://vcdn.subiz-cdn.com/file/b00f5b1a20ec6fa1a606465716228b723ad792583d1708c688ff321d95715b89_acpxkgumifuoofoosble)
+
+### Bot quảng cáo sản phẩm mới
+
+
+Trong kịch bản bot, bạn nhấn sửa tin nhắn và chọn đính kèm Thêm thẻ Sản phẩm.
+
+
+![](https://vcdn.subiz-cdn.com/file/6f281d862bfb6092f494ce0de8ba6b05293ca4f3afc9978da6d93a8aa1d110c1_acpxkgumifuoofoosble)
+
+
+
+
+Sau đó, bạn thay đổi hình ảnh, nhập mô tả ngắn gọn về sản phẩm, sửa nút chuyển về website, nút gọi điện nếu cần.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/abaf80087c024619bd6e5b7e4e95737442be0e27629e6627924d47241532f744_acpxkgumifuoofoosble)
+
+### Bot trả lời riêng trên 1 website cụ thể
+
+
+Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot.
+
+Tìm mục Chạy trên website nào, nhấp nút + để thêm từ khóa trong URL website.
+
+
+
+Ví dụ: Nếu chỉ cho bot chạy trên trang sản phẩm có Url là https://subiz.com.vn/product thì nhập có chứa “product”.
+
+
+![](https://vcdn.subiz-cdn.com/file/72e1d7286e5055fa6198363ca3f0d7e10b8271a8b56bcf2d8d01ef1e726e28a9_acpxkgumifuoofoosble)
+
+### Bot trả lời riêng trên Fanpage hoặc Zalo OA
+
+
+Sau khi bạn thiết kế được kịch bản bot, bạn vào phần 2 cài đặt nâng cao cho bot. Tìm mục Bot chạy khi nào, chọn Khách gửi tin nhắn. 
+
+
+
+Bạn có thể nhấp nút - bỏ kênh website nếu không muốn bot chạy trên website. Hoặc bạn nhấp nút + để chọn cụ thể tên 1 Fanpage hoặc Zalo.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/f2eb498aceca045688b17f71317cf09e95561a8b2dc3900e64eb28032e7f6aa4_acpxkgumifuoofoosble)
