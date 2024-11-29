@@ -5,7 +5,7 @@ title: Giám sát viên hội thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-11-15T11:20:37.108Z
+  date: 2024-11-29T10:29:17.905Z
 ---
 
 # Giám sát viên hội thoại
@@ -90,8 +90,6 @@ Khi được mời, agent sẽ nhận thông báo về cuộc hội thoại mớ
 
 ![](https://vcdn.subiz-cdn.com/file/c8048c1b9976bf462d8d51106617a2bdd830ddec2285ed11d6b3e9a1aecefdca_acpxkgumifuoofoosble)
 
-
-
 ### Lọc hội thoại chưa trả lời
 
 
@@ -101,8 +99,6 @@ Giám sát viên có thể nhanh chóng lọc các cuộc hội thoại chưa đ
 
 
 ![](https://vcdn.subiz-cdn.com/file/fa223cc732afe6ab637daad638ef8e808056df2cedd1aa63c7b0b85c1208fc17_acpxkgumifuoofoosble)
-
-
 
 ### Lọc hội thoại theo tên agent đã trả lời khách
 

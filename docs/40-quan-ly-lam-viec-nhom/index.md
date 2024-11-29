@@ -3,7 +3,7 @@ title: Quản lý làm việc nhóm
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-11-15T11:20:37.108Z
+   date: 2024-11-29T10:29:17.905Z
 ---
 # Quản lý làm việc nhóm
 * [Giám sát viên hội thoại](/40-quan-ly-lam-viec-nhom/giam-sat-vien-hoi-thoai.md)

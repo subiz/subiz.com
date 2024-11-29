@@ -5,7 +5,7 @@ title: Quản lý hàng nghìn Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-11-27T18:36:21.840Z
+  date: 2024-11-29T10:34:56.284Z
 ---
 
 # Quản lý hàng nghìn Fanpage
@@ -93,7 +93,7 @@ Bot Subiz hoạt động theo kịch bản thiết kế sẵn, giúp tự độn
 Hướng dẫn tạo bot trả lời chat messenger: 
 
 - Mở trang Cài đặt của Subiz
-- Xem cột chức năng bên phải và chọn **[BOT](https://app.subiz.com.vn/bots)**** **
+- Xem cột chức năng bên trái và tìm chức năng [BOT](https://app.subiz.com.vn/bots)
 - Chọn Tạo bot, nhấp sử dụng Bot Chào khách
 
 
@@ -122,7 +122,7 @@ Hướng dẫn tạo bot trả lời chat messenger:
 
 
 
-Xem thêm **[hướng dẫn tạo bot tự động trả lời](https://subiz.com.vn/docs/1540866648-bot-tu-dong-nhan-tin)**
+Xem thêm [hướng dẫn tạo bot tự động trả lời](https://subiz.com.vn/docs/1540866648-bot-tu-dong-nhan-tin)
 
 **
 
@@ -232,4 +232,4 @@ Bạn lọc tìm nhanh được khách theo nhiều tiêu chí bằng cách clic
 Bạn tải app Subiz về điện thoại bằng cách quét mã QR sau.
 
 
-![](https://vcdn.subiz-cdn.com/file/9f021e50d89901ed11a48111f04362f9f65edf11916cd23f73684307145538be_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble)
