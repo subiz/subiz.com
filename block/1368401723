@@ -1,10 +1,10 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "https://docs.google.com/document/d/1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8"
+    "vi_VN": "Quản lý hàng nghìn Fanpage"
   },
   "i18n_slug": {
-    "vi_VN": "https://docs.google.com/document/d/1sp0feomowb_aputofsj49aeakdu9nbg26dl78zqo3c8"
+    "vi_VN": "quan-ly-hang-nghin-fanpage"
   },
   "source_id": "1368401723",
   "i18n_content": {
@@ -509,7 +509,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Sử dụng biến {tên khách} để cá nhân hóa tin nhắn inbox messenger."
+                      "text": "Sử dụng biến tên-khách để cá nhân hóa tin nhắn inbox messenger."
                     }
                   ]
                 }
@@ -659,15 +659,14 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Xem cột chức năng bên phải và chọn"
+                      "text": "Xem cột chức năng bên trái và tìm chức năng"
                     },
                     {
                       "type": "link",
                       "href": "https://app.subiz.com.vn/bots",
                       "title": "BOT",
                       "text": "BOT",
-                      "target": "_blank",
-                      "bold": true
+                      "target": "_blank"
                     }
                   ]
                 }
@@ -802,8 +801,7 @@
               "href": "https://subiz.com.vn/docs/1540866648-bot-tu-dong-nhan-tin",
               "title": "hướng dẫn tạo bot tự động trả lời",
               "text": "hướng dẫn tạo bot tự động trả lời",
-              "target": "_blank",
-              "bold": true
+              "target": "_blank"
             }
           ]
         },
@@ -1290,7 +1288,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/9f021e50d89901ed11a48111f04362f9f65edf11916cd23f73684307145538be_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/3f05f107baa45d84b1d3b6a9add59c21d93aca3d04d48a3e23b7a55a7c21d32c_acpxkgumifuoofoosble"
               }
             }
           ]

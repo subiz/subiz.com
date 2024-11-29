@@ -5,7 +5,7 @@ title: Quản lý đội nhóm
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-11-15T11:02:50.850Z
+  date: 2024-11-29T10:23:16.148Z
 ---
 
 # Quản lý đội nhóm
@@ -70,7 +70,7 @@ Mỗi hội thoại mới mặc định sẽ được phân phối cho tất c�
 - Xem trạng thái agent là chưa đọc hoặc đã xem hội thoại, thêm hoặc loại bỏ agent khỏi hội thoại.
 
 
-![](https://vcdn.subiz-cdn.com/file/c8048c1b9976bf462d8d51106617a2bdd830ddec2285ed11d6b3e9a1aecefdca_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/a91b6b51bbadb2d2177d0326f168d5a751ad612e37e9d066cd67fbfaa53fba38_acpxkgumifuoofoosble)
 
 ## Rule phân phối khách cho agent 
 

@@ -524,7 +524,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Kiểm soát và quản lý thông tin khách hàng hiệu quả:",
+                      "text": "Quản lý thông tin khách hàng hiệu quả:",
                       "bold": true
                     },
                     {
@@ -577,7 +577,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Có, bạn cần trả phí cước gọi cho nhà mạng viễn thông (như Viettel, Mobifone, Vinaphone,...) vì các cuộc gọi vẫn được truyền qua hệ thống viễn thông."
+              "text": "Bạn cần trả phí cước gọi cho nhà mạng viễn thông (như Viettel, Mobifone, Vinaphone,...) vì các cuộc gọi vẫn được truyền qua hệ thống viễn thông."
             }
           ]
         },
@@ -596,7 +596,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Không. Subiz áp dụng gói cước trọn gói, cho phép bạn sử dụng không giới hạn số lượng máy nhánh."
+              "text": "Subiz áp dụng gói cước trọn gói, cho phép bạn sử dụng không giới hạn số lượng máy nhánh."
             },
             {
               "type": "text",
@@ -630,7 +630,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Có. Tất cả nhân viên sử dụng tổng đài Subiz đều được miễn phí cước gọi nội bộ."
+              "text": "Tất cả nhân viên sử dụng tổng đài Subiz đều được miễn phí cước gọi nội bộ."
             }
           ]
         },

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1732732601696,
-  "updated": 1732732601696,
+  "fetched": 1732877013760,
+  "updated": 1732877013760,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -22,7 +22,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
       "modifiedTime": "2024-11-26T09:23:44.470Z",
-      "version": "801",
+      "version": "803",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -33,7 +33,7 @@
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "7. App mobile Subiz",
       "modifiedTime": "2024-11-26T04:02:48.507Z",
-      "version": "15",
+      "version": "17",
       "path_lower": "/30 Tư vấn khách hàng/7.-app-mobile-subiz"
     },
     {
@@ -94,6 +94,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "18tKj8WjsdCwJaJStiqQmHMdz-D9KIyyGsyz2MfLQYo4",
+      "name": "3. Rule phân phối cuộc gọi",
+      "modifiedTime": "2024-11-29T03:39:52.102Z",
+      "version": "112",
+      "path_lower": "/90 Tổng đài điện thoại/3.-rule-phan-phoi-cuoc-goi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
@@ -109,8 +120,8 @@
       ],
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "Quản lý đội nhóm",
-      "modifiedTime": "2024-11-15T11:02:50.850Z",
-      "version": "112",
+      "modifiedTime": "2024-11-29T10:23:16.148Z",
+      "version": "118",
       "path_lower": "/40 Quản lý làm việc nhóm/quan-ly-doi-nhom"
     },
     {
@@ -131,8 +142,8 @@
       ],
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "Giám sát viên hội thoại ",
-      "modifiedTime": "2024-11-15T11:20:37.108Z",
-      "version": "84",
+      "modifiedTime": "2024-11-29T10:29:17.905Z",
+      "version": "91",
       "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
     },
     {
@@ -152,10 +163,10 @@
         "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
-      "name": "1. Quản lý hội thoại của khách",
-      "modifiedTime": "2024-11-26T10:47:50.588Z",
-      "version": "414",
-      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-cua-khach"
+      "name": "1. Quản lý hội thoại tin nhắn",
+      "modifiedTime": "2024-11-29T10:28:56.062Z",
+      "version": "457",
+      "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-tin-nhan"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -240,10 +251,10 @@
         "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
       ],
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
-      "name": "3. Chiến dịch telesales",
-      "modifiedTime": "2024-08-12T11:49:00.339Z",
-      "version": "139",
-      "path_lower": "/90 Tổng đài điện thoại/3.-chien-dich-telesales"
+      "name": "4. Chiến dịch telesales",
+      "modifiedTime": "2024-11-28T07:28:31.355Z",
+      "version": "143",
+      "path_lower": "/90 Tổng đài điện thoại/4.-chien-dich-telesales"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -274,8 +285,8 @@
       ],
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "15. Cập nhật mới trên Subiz",
-      "modifiedTime": "2024-11-26T07:26:08.613Z",
-      "version": "120",
+      "modifiedTime": "2024-11-29T10:31:04.893Z",
+      "version": "126",
       "path_lower": "/100 Ứng dụng nâng cao/15.-cap-nhat-moi-tren-subiz"
     },
     {
@@ -285,8 +296,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
-      "modifiedTime": "2024-11-27T18:36:21.840Z",
-      "version": "339",
+      "modifiedTime": "2024-11-29T10:34:56.284Z",
+      "version": "350",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -395,8 +406,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2024-11-25T10:53:17.175Z",
-      "version": "367",
+      "modifiedTime": "2024-11-29T09:35:37.105Z",
+      "version": "417",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -484,7 +495,7 @@
       "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
       "name": "9 Tích hợp app mobile",
       "modifiedTime": "2023-07-12T04:10:28.805Z",
-      "version": "77",
+      "version": "79",
       "path_lower": "/100 Ứng dụng nâng cao/9-tich-hop-app-mobile"
     },
     {

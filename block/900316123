@@ -151,7 +151,35 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Ghi nhận và quản lý đơn hàng mới"
+                      "text": "Tạo đơn hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem thành viên trong cuộc gọi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nghe ghi âm cuộc gọi"
                     }
                   ]
                 }
@@ -255,7 +283,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/abe4318a91451356fc20a9d567c33eeae977c3799170ae410041d99e762123a6_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/237404584e5322862868a4e2f0e62bb79ce582fde7ec820a4e92f686c3ed03d1_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -284,7 +312,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/9380c5dad76a0046d80521b1645f7c2d63c6521935628387ff1395f592501e54_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/0e7c28d9806057e5fcc0d840b728ad057795ed0e2ea596377d855ef8dfb0cd1e_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -475,7 +503,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/38547064c47fb070984147cbfa0ee13fd8e6c2cc8b8ab3dd18dfb93df5ce4cce_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/d2a137cd72d3f2c4864dcaa388ab5665876b8eefcbffc7b40d1b0c95c7f5e873_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -527,7 +555,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/b4bef05309c5f7e6fa313f9ec38ad03680b5a109f7e9e938b9820cff9128efcf_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/ad2360c3f76e46d25fabe8b04a37693bca4ce2ef6391728132179d5a0be7b372_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -591,7 +619,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/33430ee9432e5fdce7c9f43c83dddfa97dd35aa02e4a8e418ef02089b5a3c13e_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/6eb23de1112f74587177e36199737a044bc68b1eb3caabdec79a201245394874_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -681,12 +709,107 @@
         },
         {
           "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
           "content": [
             {
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/b7c65146cd0684dd37aa2732d53dff89db4efaead5e09a96922ae9b9edf50b4c_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/063b96565897c4080e8b299dc7f25262902a56a71756e7b505565d9981be7de9_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem thành viên trong cuộc gọi"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để kiểm tra chi tiết về các agent tham gia cuộc gọi, bạn chỉ cần mở lịch sử cuộc gọi và nhấp vào nút “"
+            },
+            {
+              "type": "text",
+              "text": "Thành viên”"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại đây, bạn sẽ thấy thông tin về các agent, bao gồm trạng thái của họ trong cuộc gọi như: không nhấc máy, đã nghe máy hoặc giám sát viên."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/696fd8f817ecc3edb6bbf35c6fdb29ce5081d42dfe0bacc6b9ea6bcd74e437de_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nghe ghi âm cuộc gọi"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với mỗi cuộc gọi thành công, bạn sẽ nghe lại được file ghi âm cuộc gọi, tải xuống file ghi âm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/06639e97d61ec421d0c2e54e4a307ded1e0d90f229d54ebef08f941b86e2f4f0_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -856,8 +979,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách thay đổi thiết bị gọi đi:",
-              "bold": true
+              "text": "Cách thay đổi thiết bị gọi đi:"
             }
           ]
         },
@@ -1294,6 +1416,107 @@
               ]
             }
           ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH8: Cách xuất file danh sách cuộc gọi và hàng loạt file ghi âm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để xuất danh sách cuộc gọi cùng các file ghi âm hàng loạt, bạn thực hiện các bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Truy cập"
+                    },
+                    {
+                      "type": "text",
+                      "text": "trang Thống kê cuộc gọi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/new-reports/call-list",
+                      "title": "Danh sách cuộc gọi",
+                      "text": "Danh sách cuộc gọi",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thực hiện xuất dữ liệu theo nhu cầu."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: File tải xuống sẽ có định dạng .csv. Bạn có thể tham khảo hướng dẫn đọc file"
+            },
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
+              "title": "tại đây",
+              "text": "tại đây",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
         },
         {
           "type": "paragraph",

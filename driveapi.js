@@ -279,7 +279,7 @@ last_update:
 			source_id: hashCode(entry.id) + '',
 			i18n_content: {vi_VN: blockM[entry.id]},
 		}
-		// fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
+		fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
 		// fs.writeFileSync('./trainingdata/' + hashCode(entry.id) + '-' + sluggy(title) + '.md', data, {encoding: 'utf8'})
 
 		// auto gen index directory
