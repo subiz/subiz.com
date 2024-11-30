@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1732877013760,
-  "updated": 1732877013760,
+  "fetched": 1732934976440,
+  "updated": 1732934976440,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -121,7 +121,7 @@
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "Quản lý đội nhóm",
       "modifiedTime": "2024-11-29T10:23:16.148Z",
-      "version": "118",
+      "version": "119",
       "path_lower": "/40 Quản lý làm việc nhóm/quan-ly-doi-nhom"
     },
     {
@@ -143,7 +143,7 @@
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "Giám sát viên hội thoại ",
       "modifiedTime": "2024-11-29T10:29:17.905Z",
-      "version": "91",
+      "version": "92",
       "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại tin nhắn",
       "modifiedTime": "2024-11-29T10:28:56.062Z",
-      "version": "457",
+      "version": "461",
       "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-tin-nhan"
     },
     {
@@ -253,7 +253,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "4. Chiến dịch telesales",
       "modifiedTime": "2024-11-28T07:28:31.355Z",
-      "version": "143",
+      "version": "144",
       "path_lower": "/90 Tổng đài điện thoại/4.-chien-dich-telesales"
     },
     {
@@ -286,7 +286,7 @@
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "15. Cập nhật mới trên Subiz",
       "modifiedTime": "2024-11-29T10:31:04.893Z",
-      "version": "126",
+      "version": "127",
       "path_lower": "/100 Ứng dụng nâng cao/15.-cap-nhat-moi-tren-subiz"
     },
     {
@@ -297,7 +297,7 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
       "modifiedTime": "2024-11-29T10:34:56.284Z",
-      "version": "350",
+      "version": "351",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
