@@ -1,0 +1,719 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Bot phân loại khách của chi nhánh nào giao cho agent phụ trách chi nhánh đó?"
+  },
+  "i18n_slug": {
+    "vi_VN": "bot-phan-loai-khach-cua-chi-nhanh-nao-giao-cho-agent-phu-trach-chi-nhanh-do-"
+  },
+  "source_id": "2108449394",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot phân loại khách của chi nhánh nào giao cho agent phụ trách chi nhánh đó?"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot phân loại khách theo chi nhánh hoạt động như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot phân loại khách hàng theo chi nhánh là tính năng phân loại khách theo vị trí khu vực. Lợi ích mang lại:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân chia khách hàng ở khu vực nào tới đứng Agent phụ trách khu vực đó."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách hàng gặp đúng tư vấn viên hỗ trợ, tránh mất thời gian chờ đợi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Bạn có 3 cơ sở ở Miền Bắc, Miền Trung, Miền Nam. Bot tự động hỏi bạn ở khu vực nào và gợi ý các nút lựa chọn. Khi nhận được phản hồi từ khách, bot tự động phân tới các Agent phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đặc biệt, ngoài phân chia theo vùng miền. Bạn có thể phân chia theo bộ phận làm việc, phân loại sản phẩm để khách hàng lựa chọn và phân phối tới đúng Agetn phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt Bot theo chi nhánh và Agetn phụ trách"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Đăng nhập vào Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào Cài đặt (hình bánh răng)."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn Bot trong phần HỘI THOẠI ở cột dọc bên trái."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cfacff5e68a58b9a8d52c891f56a5f92e46932f01dbedf607264e3220cb08775_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chào khách, chọn Sử dụng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/839477c312cca18850cb1e3e8fa31544ba3203a49809139ae13e5d698af48f26_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "2. Thiết kế kịch bản Bot"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ1: Chào mừng khách",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phần luồng chính xác."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách thực hiện:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột vào ô tin nhắn và nhập nội dung tin nhắn. Ví dụ: “Anh chị đang ở khu vực nào ạ để tư vấn viên bên em hỗ trợ được chính xác nhất ạ?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn Thêm gợi ý và điền khu vực. Ví dụ: Miền Bắc, Miền Trung, Miền Nam."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/829eb0a0bc01bc3c232f54e320f4a2b537466ca78bd2aa79b0be49286d21a9a7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mỗi lần nhấp vào Thêm gợi ý Subiz sẽ hiển thị một ô thông tin để bạn điền khu vực bạn muốn phân loại. Bạn cũng có thể quan sát trong sơ đồ kịch bản."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/ff09b129d41c717eb1bddb27ad94d41a7d963016d0d206b064b2d0a65ac7b9d7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Để xóa bớt, nhấp chuột vào ô muốn xóa, đợi hiển thị biểu tượng thùng rác, kích chuột vào đó để xóa."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/00705d8e1a6acb3b4dd163a1fa001e13d8284eb9605693cb212dac1580e95957_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Luôn tích chọn Bắt buộc khách lựa chọn gợi ý để đảm bảo phân loại được khách hàng và phân chia chat tới đúng Agetn phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ 2: Phân phối tới Agent phụ trách.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị chưa phân phối như dưới hình. Để phân phối bạn nhấp chuộ vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/7cde3a9bc5e79144514787d7e7f11031179abf4c34c042bdb669eb1c113c98b5_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ:Miền Bắc phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a1e80b1a85645991b4144397d42fa60775dcbdaac37e36007c5ea71cd864be28_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào dấu (+) và lựa chọn Agent là Hà My."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/808306997012752bf379f5fde33609d15e62fc1897b1d6dea71f4330ea038f5d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thêm Hành động"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ 3: Hỏi số điện thoại.",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Tự động hỏi số điện thoại/Email khách hàng và lưu lại trên hệ thống để tư vấn viên dễ dàng theo dõi và liên hệ lại để hỗ trợ."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột sang cột thông tin bên phải, nhấp chuột vào ô tin nhắn để soạn nội dung hỏi thông tin phù hợp."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/37ef1f72a31d5db8406126b6ba345f131654a970ba983eacd190acb534e044d7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột xuống Định dạng phản hồi, tích vào ô “Nếu khách nhập sai định dạng, hỏi lại cho tới khi nhập đúng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn có thể tích xanh bỏ qua hành động nếu đã có thông tin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4ef793d21e4e07ccf24e5c6466a71a564918322ffc932a9a0e2655645fcc5a03_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ4: Cảm ơn khách.",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Bot sẽ cảm ơn khách hàng sau khi đã xin được số điện thoại/Email khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào hành động cảm ơn và chỉnh sửa nội dung tin nhắn ở cột bên phải phù hợp."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4ec4a072b39e44da687e5cbc1e6a9a810eedd92c0b497cba6cd81b61fb44b4c2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi đã hoàn thành kịch bản bot. Bạn di chuột lên góc trên bên phải màn hình chọn:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a3cec782198967fa53c4cea83bc37db4507996d2048137ae1de3866fe8412149_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chạy thử",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Lưu lại kịch bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Kích hoạt bot chạy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để đảm bảo chắc chắn Bot đã chạy, bạn truy cập vào Website tới link sản phẩm đó như một khách hàng và nhắn tin lên cửa sổ chat để xem Bot đã hoạt động hay chưa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

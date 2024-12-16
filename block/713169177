@@ -1,0 +1,903 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Cách cài Bot tư vấn riêng từng loại sản phẩm"
+  },
+  "i18n_slug": {
+    "vi_VN": "cach-cai-bot-tu-van-rieng-tung-loai-san-pham"
+  },
+  "source_id": "713169177",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách cài Bot tư vấn riêng từng loại sản phẩm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể cài Bot tư vấn riêng cho từng loại sản phẩm. Điều này sẽ giúp trải nghiệm khách hàng liền mạch về đúng sản phẩm họ quan tâm."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot riêng cho từng sản phẩm là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot riêng cho từng sản phẩm là công cụ chat bọt chạy theo kịch bản có sẵn, tự động trời khách hàng khách hàng website, Fanpage, Zalo OA, Instagram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khác với bot thông thường chào hỏi một cách chung chung. Bot sản phẩm cài đặt riêng cho từng sản phẩm tự động gửi chính xác thông tin sản phẩm mà khách hàng đang quan tâm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giả dụ:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách hàng nhấp chuột vào xem sản phẩm A: Bot tự động gửi các thông tin, giá, hình ảnh về sản phẩm A."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách hàng nhắn tin hỏi sản phẩm B: Bot tự động gửi các thông tin, giá, hình ảnh về sản phẩm B."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/7e8a7260f051b2884b3fe1d5c03b4f7799c883307c42414aee1ad783088e0c07_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Điểm nổi bật của Bot tư vấn riêng từng sản phẩm:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Có thể tạo ra nhiều Bot. Bạn có 10 hay 100 sản phẩm. Bạn có thể tạo 10 hay 100 bot tương ứng với những sản phẩm đó trên Subiz."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân luồng khách hàng và giao cho nhân viên phụ trách (Agent)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách cài đặt Bot tư vấn riêng cho từng sản phẩm"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Đăng nhập vào Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào Cài đặt (hình bánh răng)."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn Bot trong phần HỘI THOẠI ở cột dọc bên trái."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cfacff5e68a58b9a8d52c891f56a5f92e46932f01dbedf607264e3220cb08775_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chào khách, chọn Sử dụng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/839477c312cca18850cb1e3e8fa31544ba3203a49809139ae13e5d698af48f26_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Thiết kế điều kiện chạy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz hiển thị mẫu sơ đồ thiết kế bot tư vấn như hình ảnh dưới đây."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/3f49bbb80e28e9588fa70a88347d0621d2469f8062302b38d0ea0550402809dd_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhấp chuột vào chữ"
+            },
+            {
+              "type": "text",
+              "text": "bắt đầu",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Subiz hiển thị cột dọc bên phải => Chọn Chỉnh sửa để bạn lựa chọn điều kiện chạy bot."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/62b55379dd13f9405a04167e102651def39d3ebcb416283f409b4d244475ca72_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoặc di chuột chọn mục"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/bot/bbsekqryoyuakcswgk/setting",
+              "title": "2.Cài đặt",
+              "text": "2.Cài đặt",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "để lựa chọn điều kiện."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên cho bot."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thiết lập cài đặt bot chạy khi nào ví dụ khi “Khách gửi tin nhắn” thì bạn tích chọn “Khi khách gửi tin nhắn”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chạy sản phẩm nào, nhấn nút + để thêm từ khóa trong URL website sản phẩm đó."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/b10c8399b8615b2d39501e929c5804f6f666de01247664ecb37d1dd68d321c33_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Nếu chỉ cho bot chạy trên trang sản phẩm có Url là https://subiz.com.vn/#pricing thì nhập có chứa “pricing”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/5873efa149ab78dde9cda0b6f3fa62b34a56442c40d92f3a9f8645bbe359626a_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Đây là điểm quan trọng để thiết lập điều kiện bot chạy cho từng sản phẩm. Bởi mỗi sản phẩm sẽ có link Url khác nhau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể thêm các điều kiện chạy khác như thời gian chạy, chạy với ai,... Cuối cùng nhấn Lưu để hoàn thành điều kiện."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "3. Thiết kế kịch bản Bot"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kịch bản bot có 4 hành động chính"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ1: Chào mừng khách",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Tại đây bạn sẽ điều các tin nhắn bot tư vấn cho khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/76cb8238e4ddf56add3d357f4845fcf5c1b7acf9a6d62ef79493430bd4688185_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột vào ô tin nhắn và nhập nội dung mong muốn."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/85da3ac56f6181a1b6f173b3e47354ddb11fdfc1c45fff8cf24d5f50cba86d05_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào + Thêm tin nhắn. Subiz sẽ hiển thị thêm ô Tin nhắn để bạn soạn nội dung cho Bot."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cd1b35e2461c2a8bf5748ee3dce5e547fca41d7f10f931ed715909734636d3b6_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gắn kèm thêm hình ảnh hoặc thẻ sản phẩm bằng cách nhấp chuột vào biểu tượng dưới mỗi tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/753c470843077869f53834394d7c7b7ec27f437ca19e9eab1ee63e76e86690a2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Luôn bật xanh nút chờ khách phản hồi để đảm bảo luôn nhận được tin nhắn có khách hàng tham gia chat trên trang Dashboard."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ 2: Gửi tới Agent",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            },
+            {
+              "type": "text",
+              "text": "Agent sẽ nhận được thông báo ngay khi khách hàng nhắn tin tới. Agent có thể nhắn tin, linh hoạt hỗ trợ khách hàng đúng nhu cầu và đúng thời điểm."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ : Tối muốn phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/f4dbfac580e34e15cb2f2335173e91b5cd14b18595bd7967691af31fb1bfe8f7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào dấu (+) và lựa chọn Agent là Hà My."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/808306997012752bf379f5fde33609d15e62fc1897b1d6dea71f4330ea038f5d_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ 3: Hỏi số điện thoại.",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Tự động hỏi số điện thoại/Email khách hàng và lưu lại trên hệ thống để tư vấn viên dễ dàng theo dõi và liên hệ lại để hỗ trợ."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột sang cột thông tin bên phải, nhấp chuột vào ô tin nhắn để soạn nội dung hỏi thông tin phù hợp."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/37ef1f72a31d5db8406126b6ba345f131654a970ba983eacd190acb534e044d7_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột xuống Định dạng phản hồi, tích vào ô “Nếu khách nhập sai định dạng, hỏi lại cho tới khi nhập đúng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn có thể tích xanh bỏ qua hành động nếu đã có thông tin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4ef793d21e4e07ccf24e5c6466a71a564918322ffc932a9a0e2655645fcc5a03_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "HĐ4: Cảm ơn khách.",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Bot sẽ cảm ơn khách hàng sau khi đã xin được số điện thoại/Email khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào hành động cảm ơn và chỉnh sửa nội dung tin nhắn ở cột bên phải phù hợp."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/4ec4a072b39e44da687e5cbc1e6a9a810eedd92c0b497cba6cd81b61fb44b4c2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi đã hoàn thành kịch bản bot. Bạn di chuột lên góc trên bên phải màn hình chọn:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a3cec782198967fa53c4cea83bc37db4507996d2048137ae1de3866fe8412149_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chạy thử",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Lưu lại kịch bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Kích hoạt bot chạy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để đảm bảo chắc chắn Bot đã chạy, bạn truy cập vào Website tới link sản phẩm đó như một khách hàng và nhắn tin lên cửa sổ chat để xem Bot đã hoạt động hay chưa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}

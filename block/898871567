@@ -1,0 +1,339 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Cách xử lý lỗi gửi tin '#10: Không gửi được tin nhắn do có ứng dụng khác đang kiểm soát threads này'"
+  },
+  "i18n_slug": {
+    "vi_VN": "cach-xu-ly-loi-gui-tin-'#10:-khong-gui-duoc-tin-nhan-do-co-ung-dung-khac-dang-kiem-soat-threads-nay'"
+  },
+  "source_id": "898871567",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý lỗi gửi tin '#10: Không gửi được tin nhắn do có ứng dụng khác đang kiểm soát threads này'"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nguyên nhân gây lỗi là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Facebook đã thay đổi phương thức chuyển giao. Cập nhật này đã tạo ra nhiều sự thay đổi và có thể gây khó khăn cho doanh nghiệp khi chat với khách hàng."
+            },
+            {
+              "type": "text",
+              "text": "Tiêu biểu là thông báo lỗi #10 như dưới đây."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "(#10) Không gửi được tin nhắn do một số ứng dụng khác hiện đang kiểm soát thread này."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "#10 không gửi được tin nhắn do có ứng dụng khác đang giữ quyền xử lý hội thoại."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/dace1c4ff618d79d5ed5d68a72e3e851fb0221aecc9111bd93966613630bd82f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi soạn tin nhắn khác hoặc nhấn gửi lại tin nhắn vẫn gửi đi. Tuy nhiên mỗi tin nhắn bạn gửi vẫn tiếp tục xuất hiện cảnh báo lỗi #10."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tìm hiểu kỹ hơn về:"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/handover-protocol?locale=vi_VN",
+              "title": "T",
+              "text": "T",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/handover-protocol?locale=vi_VN",
+              "title": "hay đổi phương thức chuyển giao",
+              "text": "hay đổi phương thức chuyển giao",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://developers.facebook.com/docs/messenger-platform/handover-protocol?locale=vi_VN",
+              "title": "trên Facebook",
+              "text": "trên Facebook",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý khi xuất hiện lỗi #10"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để giải quyết tình trạng này, bạn cần"
+            },
+            {
+              "type": "text",
+              "text": "cài Subiz là ứng dụng chuyển giao chính trong Fanpage. Cách thực hiện như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Mở trang Fanpage của bạn. Di chuột lên góc trên bên phải nhấp vào Tài khoản => Cài đặt và quyền riêng tư => Cài đặt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/7e1c7e275c802edc2a35579f64a7802a47d5ba1a6b4c052863e2133ff86f5ee5_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Truy cập vào cài đặt, chọn Thiết lập trang => Chọn Xem ở mục Tin nhắn nâng cao."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fbceafba3cd0bbaee88fd3ac8d329bee1943943a6fab200fea10eba606b3d798_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Tại mục cài ứng dụng giao thức chuyển giao, nhấp chọn Cấu hình tại"
+            },
+            {
+              "type": "text",
+              "text": "Ứng dụng nhận tin nhắn trên Messenger."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d5bc2ec81341b61c9b577770f780604ff96e7c55723039f756407c95bc97588c_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Tại Cài đặt ứng dụng."
+            },
+            {
+              "type": "text",
+              "text": "Người nhận chính cho giao thức chuyển giao nhấp chuột vào Chọn Subiz như hình ảnh phía dưới."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/cb9bd96d4fc089f6a523a600d51af84e1712d6cb9b78c71e3f4377c69958a9c2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi chuyển Subiz là người nhận chính nhưng vẫn xuất hiện lỗi #10. Bạn hãy kiểm tra lại và thực hiện chuyển đổi giao thức 1 lần nữa. Vì rất có thể những nhân viên có quyền quản trị khác"
+                    },
+                    {
+                      "type": "text",
+                      "text": "trong"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Fanpage đã vào thay đổi giao thức chuyển giao."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi chuyển giao thành công, trang có thể phản hồi các hội thoại phát sinh từ thời điểm đó trở đi. Với các tin nhắn cũ đã gửi đi trước đó không thành công, bạn vui lòng gửi lại hoặc phản hồi lại trên Facebook Business Suite."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi chỉnh sửa cấu hình, trang có thể sẽ mất tối đa 24h để chuyển đổi. Vì vậy, sau khi chỉnh sửa cấu hình, có thể trang sẽ chưa trả lời được hội thoại ngay."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Liên hệ Subiz nếu bạn cần hỗ trợ"
+            },
+            {
+              "type": "text",
+              "text": ": 0"
+            },
+            {
+              "type": "text",
+              "text": "247 302 1368"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
+}
