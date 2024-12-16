@@ -23,11 +23,13 @@ steps:
 
   # build docker
   - name: gcr.io/cloud-builders/docker
-    args: ['build', '-t', 'asia.gcr.io/$PROJECT_ID/$REPO_NAME:$SHORT_SHA', '.']
+    args: ['build', '-t', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/subiz/$REPO_NAME:$SHORT_SHA', '-t', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/subiz/$REPO_NAME', '.']
 
   # push image
   - name: gcr.io/cloud-builders/docker
-    args: ['push', 'asia.gcr.io/$PROJECT_ID/$REPO_NAME:$SHORT_SHA']
+    args: ['push', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/subiz/$REPO_NAME']
+  - name: gcr.io/cloud-builders/docker
+    args: ['push', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/subiz/$REPO_NAME:$SHORT_SHA']
 
   # deploy
   - name: 'gcr.io/cloud-builders/gcloud'
@@ -35,9 +37,10 @@ steps:
     args:
     - '-c'
     - |
-      sed -i "s/\$$IMG/asia.gcr.io\/$PROJECT_ID\/$REPO_NAME:$SHORT_SHA/g" deploy.prod.yaml
+      sed -i "s/\$$IMG/asia-southeast1-docker.pkg.dev\/$PROJECT_ID\/subiz\/$REPO_NAME:$SHORT_SHA/g" deploy.prod.yaml
       cat deploy.prod.yaml
 
+  # deploy
   - name: gcr.io/cloud-builders/kubectl
     args: ["apply", "-f", "deploy.prod.yaml"]
     env:
