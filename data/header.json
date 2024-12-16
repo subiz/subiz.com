@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1732934976440,
-  "updated": 1732934976440,
+  "fetched": 1733112411606,
+  "updated": 1733112411606,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -165,7 +165,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại tin nhắn",
       "modifiedTime": "2024-11-29T10:28:56.062Z",
-      "version": "461",
+      "version": "464",
       "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-tin-nhan"
     },
     {
@@ -252,8 +252,8 @@
       ],
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "4. Chiến dịch telesales",
-      "modifiedTime": "2024-11-28T07:28:31.355Z",
-      "version": "144",
+      "modifiedTime": "2024-11-30T02:49:34.789Z",
+      "version": "149",
       "path_lower": "/90 Tổng đài điện thoại/4.-chien-dich-telesales"
     },
     {
