@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1734333301286,
-  "updated": 1734333301286,
+  "fetched": 1734517814141,
+  "updated": 1734517814141,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -43,8 +43,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "1. Bot tự động nhắn tin",
-      "modifiedTime": "2024-08-15T11:29:11.999Z",
-      "version": "385",
+      "modifiedTime": "2024-12-18T10:14:00.196Z",
+      "version": "390",
       "path_lower": "/50 Tự động hóa/1.-bot-tu-dong-nhan-tin"
     },
     {
@@ -178,17 +178,6 @@
       "modifiedTime": "2023-04-20T10:34:43.797Z",
       "version": "133",
       "path_lower": "/80 Thống kê báo cáo/6.1-thong-ke-luong-nguoi-dung"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
-      ],
-      "id": "1Kul_Zyf2VPWZCpYdqZ8DS4VU1rCFv9Qew7PXzXc2DmA",
-      "name": "Tích hợp kênh Email",
-      "modifiedTime": "2024-12-10T09:07:01.187Z",
-      "version": "97",
-      "path_lower": "/tich-hop-kenh-email"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -459,6 +448,17 @@
       "parents": [
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
+      "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
+      "name": "2. Một số ví dụ kịch bản Bot ",
+      "modifiedTime": "2024-12-18T10:28:38.099Z",
+      "version": "14",
+      "path_lower": "/50 Tự động hóa/2.-mot-so-vi-du-kich-ban-bot"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "3. Popup chuyển đổi khách tiềm năng",
       "modifiedTime": "2023-08-18T11:17:27.537Z",
@@ -497,17 +497,6 @@
       "modifiedTime": "2024-11-26T09:20:16.349Z",
       "version": "256",
       "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
-      ],
-      "id": "1fsj0vN5kBe0kUGTsZhIjLli-f6r2cIH79-_P-h9a2Vk",
-      "name": "Cách tích hợp Zalo OA lên Subiz",
-      "modifiedTime": "2024-12-10T10:15:33.076Z",
-      "version": "36",
-      "path_lower": "/cach-tich-hop-zalo-oa-len-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
