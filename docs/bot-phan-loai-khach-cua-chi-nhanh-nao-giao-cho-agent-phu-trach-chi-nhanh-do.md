@@ -1,20 +1,16 @@
 ---
-id: 102007810
-slug: /102007810-mot-so-vi-du-kich-ban-bot
-title: Một số ví dụ kịch bản Bot
+id: 2108449394
+slug: /2108449394-bot-phan-loai-khach-cua-chi-nhanh-nao-giao-cho-agent-phu-trach-chi-nhanh-do
+title: Bot phân loại khách chi nhánh giao cho agent phụ trách?
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-12-24T08:40:27.956Z
+  date: 2024-12-19T04:42:10.463Z
 ---
 
-# Một số ví dụ kịch bản Bot 
+# Bot phân loại khách chi nhánh giao cho agent phụ trách? 
 
-
-
-## 1. Bot phân loại khách chi nhánh giao cho agent phụ trách? 
-
-### Bot phân loại khách theo chi nhánh hoạt động thế nào? 
+## Bot phân loại khách theo chi nhánh hoạt động thế nào? 
 
 
 Bot phân loại khách hàng theo chi nhánh là tính năng phân loại khách theo vị trí khu vực. Lợi ích mang lại: 
@@ -29,9 +25,9 @@ Ví dụ: Bạn có 3 cơ sở ở Miền Bắc, Miền Trung, Miền Nam. Bot t
 
 
 Đặc biệt, ngoài phân chia theo vùng miền. Bạn có thể phân chia theo bộ phận làm việc, phân loại sản phẩm để khách hàng lựa chọn và phân phối tới đúng Agent phụ trách. 
-### Cài đặt Bot theo chi nhánh và Agent phụ trách
+## Cài đặt Bot theo chi nhánh và Agent phụ trách
 
-#### Bước 1: Đăng nhập vào Subiz
+### Bước 1: Đăng nhập vào Subiz
 
 
 Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào Cài đặt (hình bánh răng). 
@@ -43,7 +39,7 @@ Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào C
 
 
     - Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn **Bot**** chào khách**, chọn Sử dụng.
-#### Bước 2. Thiết kế kịch bản Bot
+### 2. Thiết kế kịch bản Bot
 
 
 **HĐ1: Chào mừng khách**. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác. 
@@ -88,11 +84,11 @@ Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu
 
 
 - Nhấp chuột vào dấu (+) sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn.
-#### Bước 3. Cài đặt điều kiện nâng cao cho bot
+### 3. Cài đặt điều kiện nâng cao cho bot
 
 
 - Sửa tên và ảnh bot hiển thị khi nhắn tin với khách bằng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp.
-- Mô tả công việc giúp phân loại với Bot khác
+- Mô tả công việc giúp phân loại với Bot khác
 
 
 ![](https://vcdn.subiz-cdn.com/file/78237d842dd63f91ea24e8a9a326a02f20b18bed9a03bab066c3d856ab668aba_acpxkgumifuoofoosble)
