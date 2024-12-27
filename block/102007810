@@ -32,7 +32,7 @@
           "content": [
             {
               "type": "text",
-              "text": "1. Bot phân loại khách của chi nhánh nào giao cho agent phụ trách chi nhánh đó?"
+              "text": "1. Bot phân loại khách chi nhánh giao cho agent phụ trách?"
             }
           ]
         },
@@ -42,7 +42,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bot phân loại khách theo chi nhánh hoạt động như thế nào?"
+              "text": "Bot phân loại khách theo chi nhánh hoạt động thế nào?"
             }
           ]
         },
@@ -66,7 +66,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Phân chia khách hàng ở khu vực nào tới đúng Agent phụ trách khu vực đó."
+                      "text": "Phân khách hàng ở khu vực nào tới đúng Agent phụ trách khu vực đó."
                     }
                   ]
                 }
@@ -93,7 +93,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ: Bạn có 3 cơ sở ở Miền Bắc, Miền Trung, Miền Nam. Bot tự động hỏi bạn ở khu vực nào và gợi ý các nút lựa chọn. Khi nhận được phản hồi từ khách, bot tự động phân tới các Agent phụ trách."
+              "text": "Ví dụ: Bạn có 3 cơ sở ở Miền Bắc, Miền Trung, Miền Nam. Bot tự động hỏi bạn ở khu vực nào và gợi ý các nút lựa chọn. Khi nhận được phản hồi, bot tự động phân tới Agent phụ trách."
             }
           ]
         },
@@ -104,7 +104,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/82ebb5d0772b5ba009f021e5c8c711b9387a9d51a1c0e23a16ea67d960e712d2_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/40515e7b521ec583b786a6f530e55b784cbb996f2da584849cc14e9ddf5c314c_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -117,18 +117,6 @@
               "text": "Đặc biệt, ngoài phân chia theo vùng miền. Bạn có thể phân chia theo bộ phận làm việc, phân loại sản phẩm để khách hàng lựa chọn và phân phối tới đúng Agent phụ trách."
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "content": []
-        },
-        {
-          "type": "paragraph",
-          "content": []
-        },
-        {
-          "type": "paragraph",
-          "content": []
         },
         {
           "type": "heading",
@@ -185,7 +173,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/cfacff5e68a58b9a8d52c891f56a5f92e46932f01dbedf607264e3220cb08775_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/ce64b5a680d2a22d8aa7fe7f208ce2c569553ef5d784b21cee3a0b9525728d45_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -201,31 +189,25 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp mở"
+                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn"
                     },
                     {
                       "type": "text",
-                      "text": "Bot"
+                      "text": "Bot",
+                      "bold": true
                     },
                     {
                       "type": "text",
-                      "text": "chào khách, chọn Sử dụng."
+                      "text": "chào khách",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", chọn Sử dụng."
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/839477c312cca18850cb1e3e8fa31544ba3203a49809139ae13e5d698af48f26_acpxkgumifuoofoosble"
-              }
             }
           ]
         },
@@ -235,7 +217,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 2: Thiết kế kịch bản Bot"
+              "text": "Bước 2. Thiết kế kịch bản Bot"
             }
           ]
         },
@@ -273,7 +255,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Di chuột vào ô tin nhắn và nhập nội dung tin nhắn. Ví dụ: “Anh chị đang ở khu vực nào ạ để tư vấn viên bên em hỗ trợ được chính xác nhất ạ?"
+                      "text": "Di chuột vào ô tin nhắn và nhập nội dung tin nhắn như ví dụ trong hình."
                     }
                   ]
                 }
@@ -288,7 +270,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/88e629937d482842cfdb988ce6dede38520957d6a7ba5ce96df481c668912200_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/2e44750e97ee626b24959dd7aa62288e9e6f600ab0e9f7b2902e3663aa8e5e69_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -319,7 +301,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/829eb0a0bc01bc3c232f54e320f4a2b537466ca78bd2aa79b0be49286d21a9a7_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/fecad7c1ed6902232fa842196b23f25a9af20120945aa89b6793311ae4881ae7_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -350,7 +332,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/ff09b129d41c717eb1bddb27ad94d41a7d963016d0d206b064b2d0a65ac7b9d7_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/bbeef0b24f2adc51102623259cadff7bab15b972000e306a62d54c59516d042b_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -381,7 +363,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/00705d8e1a6acb3b4dd163a1fa001e13d8284eb9605693cb212dac1580e95957_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/506937060f6f52676ea4eb556e4597941f416c13e49ac3b2b32a58d464a09e8b_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -423,19 +405,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị chưa phân phối như dưới hình. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/7cde3a9bc5e79144514787d7e7f11031179abf4c34c042bdb669eb1c113c98b5_acpxkgumifuoofoosble"
-              }
+              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
             }
           ]
         },
@@ -450,29 +420,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ:Miền Bắc phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể."
+                      "text": "Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ: Miền Bắc phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể."
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/a1e80b1a85645991b4144397d42fa60775dcbdaac37e36007c5ea71cd864be28_acpxkgumifuoofoosble"
-              }
-            }
-          ]
-        },
-        {
-          "type": "bullet_list",
-          "content": [
+            },
             {
               "type": "list_item",
               "content": [
@@ -496,7 +449,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/808306997012752bf379f5fde33609d15e62fc1897b1d6dea71f4330ea038f5d_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/097ba854ab281d36a9cb013ab36de3210406783d901aeffde47b93c54e92c0e6_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -521,24 +474,12 @@
           ]
         },
         {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/7c0f1928a23cd77fcade9f075a6802dd3985cae24b5d88d8fb66784a7bdfcdef_acpxkgumifuoofoosble"
-              }
-            }
-          ]
-        },
-        {
           "type": "heading",
           "level": 3,
           "content": [
             {
               "type": "text",
-              "text": "Bước 3: Cài đặt điều kiện nâng cao cho bot"
+              "text": "Bước 3. Cài đặt điều kiện nâng cao cho bot"
             }
           ]
         },
@@ -590,7 +531,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/16ee4870cd2af10e84863641a4f00a561b0e6069f7f3a2f21bbaf17883c76954_acpxkgumifuoofoosble"
+                "url": "https://vcdn.subiz-cdn.com/file/78237d842dd63f91ea24e8a9a326a02f20b18bed9a03bab066c3d856ab668aba_acpxkgumifuoofoosble"
               }
             }
           ]
@@ -626,35 +567,6 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/70a38f087c60b6878c4e5a3e00d871dc5e49bd5c39d07fe9284d8e6f75ec36ef_acpxkgumifuoofoosble"
-              }
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Chọn"
-            },
-            {
-              "type": "text",
-              "text": "bot"
-            },
-            {
-              "type": "text",
-              "text": "chạy với một nhóm khách hàng cụ thể hay theo thời gian làm việc,..."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
               "type": "text",
               "text": "Ngoài ra, bạn có thể cài đặt thêm các điều kiện các về thời gian, nhóm khách hàng, ngôn ngữ."
             }
@@ -666,18 +578,6 @@
             {
               "type": "text",
               "text": "Sau khi đã hoàn thành kịch bản bot và điều kiện chạy bot. Bạn di chuột lên góc trên bên phải màn hình chọn:"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/a3cec782198967fa53c4cea83bc37db4507996d2048137ae1de3866fe8412149_acpxkgumifuoofoosble"
-              }
             }
           ]
         },
@@ -751,10 +651,6 @@
               "text": "Để đảm bảo chắc chắn Bot đã chạy, bạn truy cập vào Website tới link sản phẩm đó như một khách hàng và nhắn tin lên cửa sổ chat để xem Bot đã hoạt động hay chưa."
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "content": []
         },
         {
           "type": "paragraph",

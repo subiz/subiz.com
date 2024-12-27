@@ -8,5 +8,423 @@
   },
   "category": "6",
   "source_id": "662546069",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tag hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tag hội thoại là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz Tag là chức năng giúp phân loại nhóm hội thoại của khách hàng. Mỗi nhóm sẽ tương ứng với một thẻ Tag - truyền tải đầy đủ nội dung, vấn đề của các cuộc hội thoại đó."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sử dụng chức năng gắn Tag sẽ giúp bạn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ghi nhận cơ hội với khách hàng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân loại các yêu cầu hỗ trợ của khách"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân chia cuộc hội thoại theo từng bước hỗ trợ khách hàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/38d31d8ce3de86117ed7a846681962a84571b0b5018fc1cb1ce3de5ffb0d461f_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo Tag mới"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ">"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/tags",
+                      "title": "Chọn Tag",
+                      "text": "Chọn Tag",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tạo mới",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Sửa tên Tag, thêm màu sắc bắt mắt và Lưu để hoàn thành"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/d0178f077ee0dfdd4d788a1e82b22c4663b3c69cd171bacb08ff2dd92b1ac1d2_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn sử dụng Tag hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trong khi chat tư vấn khách hàng trên trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ", Agent sẽ gắn Tag hội thoại bằng 2 cách:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Click chọn nút"
+                    },
+                    {
+                      "type": "text",
+                      "text": "THÊM TAG",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Trong ô nhập tin nhắn, gõ lệnh “"
+                    },
+                    {
+                      "type": "text",
+                      "text": "@Tag",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/bbb15f2186c3f4bec88b3a90f9d9d65a3ce67f83d610dd782335d49fdd287875_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trong khi chat với khách hàng, bạn có thể tìm kiếm và lọc nhanh các chat theo Tag"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/085fb1e56d8a0a9dc15c44b7e6840fce28f8f4e0836958ed4d0825909d52f65b_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê Tag"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn xem chi tiết thống kế Tag và danh sách các hội thoại được gắn Tag tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/convo",
+              "title": "Thống kê hội thoại",
+              "text": "Thống kê hội thoại",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Từ đó, bạn sẽ dễ dàng vẽ được bức tranh khách hàng của Doanh nghiệp hàng tuần, hàng tháng và đưa ra được những kế hoạch kinh doanh phù hợp với Doanh nghiệp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2d0601a4c5f1eaed9c9da7b602d94ecda0b5f633f5738224b9e11f0cad5e2628_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: File tải về định dạng .csv."
+            },
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
+              "title": "Mở file bằng excel theo hướng dẫn tại đây",
+              "text": "Mở file bằng excel theo hướng dẫn tại đây",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

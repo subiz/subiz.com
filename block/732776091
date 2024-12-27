@@ -8,5 +8,603 @@
   },
   "category": "5",
   "source_id": "732776091",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp Instagram"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoạt động của kênh Instagram"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhận được tất cả bình luận và chat Instagram ngay trên Subiz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bot tự động trả lời chat Instagram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động phân chia tin nhắn Instagram cho nhân viên tư vấn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt Instagram"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Mở"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cài đặt",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/instagram",
+                      "title": "Tích hợp Instagram",
+                      "text": "Tích hợp Instagram",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tích hợp",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Facebook của admin Fanpage > chọn Instagram kết nối vào Subiz > chọn tất cả quyền và Xong hoàn thành"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/c078b9356910b7a7e0fd2409e6d00c059cb98ec84ec03cf3aed06590f3c54692_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Khắc phục sự cố kết nối Instagram"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kết nối Instagram lỗi do cách thức hoạt động của API. Nếu bạn gặp sự cố khi kết nối tài khoản Instagram của mình với Subiz, đây là một số bước bạn có thể thực hiện để khắc phục sự cố."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Xác minh tài khoản Instagram của bạn là tài khoản doanh nghiệp",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để kết nối Fanpage, tài khoản Instagram của bạn phải là tài khoản doanh nghiệp và phải được kết nối với Trang Facebook."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở app mobile Instagram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyển đến 'Cài đặt'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đi vào 'Tài khoản' - nếu bạn không có tài khoản doanh nghiệp, bạn sẽ thấy tùy chọn 'Chuyển sang tài khoản công việc' > Nhấp chọn và làm theo các bước."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/8e008263ff992a997da12bee636310176e9a56d6c8548285a5d0ec80dadd4287_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Kiểm tra xem bạn có quyền Quản trị viên trên Fanpage",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Facebook của bạn > Mở Fanpage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyển đến 'Cài đặt' > chuyển đến 'Vai trò của Trang' > kiểm tra xem vai trò của bạn có được liệt kê là 'Quản trị viên' không? Bạn không thể kết nối Instagram với bất kỳ vai trò khác"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Xem lại kết nối tài khoản Instagram trên Facebook",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Facebook của bạn > Mở Fanpage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyển đến 'Cài đặt' > Chọn Tài khoản đã liên kết > Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://www.facebook.com/settings?tab=linked_instagram",
+                      "title": "Instagram",
+                      "text": "Instagram",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Nếu bạn thấy thông báo 'Xem lại kết nối', hãy chọn và làm theo các bước."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu ý rằng do cập nhật từ Instagram, bạn phải là Quản trị viên của Trang kinh doanh trên Facebook trong đủ một tuần trước khi có thể kết nối Trang kinh doanh trên Instagram với Trang Facebook. Nếu gần đây bạn đã được thêm làm Quản trị viên, bạn sẽ phải đợi cho đến khi một tuần trôi qua hoặc nhờ một đồng nghiệp đã làm Quản trị viên lâu hơn một tuần để thêm tài khoản Instagram vào Trang Facebook thay thế."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Xem lại tài khoản Instagram và kết nối Fanpage trên app Instagram mobile",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở app mobile Instagram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn 'Chỉnh sửa trang cá nhân' > trong phần 'Thông tin công khai về doanh nghiệp’ nhấp vào 'Trang' > từ đây, hãy kiểm tra kỹ xem trang Instagram có được kết nối với đúng Fanpage hay không. Nếu không, bạn sẽ cần kết nối một Fanpage đang có hoặc tạo một Fanpage mới."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Trong một số trường hợp, bạn có thể thấy biểu ngữ 'Xem lại kết nối tài khoản' trong khu vực này. Nếu vậy, hãy chọn nút 'Xem lại kết nối' và làm theo lời nhắc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "table",
+          "content": [
+            {
+              "type": "table_row",
+              "content": [
+                {
+                  "type": "table_cell",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "image",
+                          "alt_text": "",
+                          "image": {
+                            "url": "https://vcdn.subiz-cdn.com/file/29356bc15fcd50662ed4f8a93d710026742250471f4f361e1c4d4ed40fd26cee_acpxkgumifuoofoosble"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "image",
+                          "alt_text": "",
+                          "image": {
+                            "url": "https://vcdn.subiz-cdn.com/file/89518e603750934734952270d2a579c6aee1817c6cab41e2e71f1a98a5783271_acpxkgumifuoofoosble"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi tất cả bốn bước đã được xem xét, vui lòng quay lại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/instagram",
+              "title": "Tích hợp Instagram trên Subiz",
+              "text": "Tích hợp Instagram trên Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "và thực hiện các bước kết nối lại tài khoản Instagram vào Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

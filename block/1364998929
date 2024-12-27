@@ -8,5 +8,315 @@
   },
   "category": "11",
   "source_id": "1364998929",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê lượng người dùng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê lượng người dùng là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thống kê lượng người dùng là thống kê số lượng khách hàng mới được tạo trên Subiz, bao gồm:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới truy cập website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới nhắn tin trên Fanpage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới nhắn tin trên Zalo OA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới gửi email"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách mới gọi điện tới tổng đài."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1221805713-khach-tiem-nang",
+              "title": "Khách tiềm năng",
+              "text": "Khách tiềm năng",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "là khách được xác định có nhu cầu mua sản phẩm/dịch vụ của Doanh nghiệp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/a25c0eb1bb3365b3f60bb7926acc56c1835ecf66251670a63a43595d62bedcf5_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Ứng dụng của thống kê người dùng"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "So sánh số lượng người dùng theo các khoảng thời gian"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: bạn muốn báo cáo số lượng người dùng mới trong tháng 2 thay đổi như thế nào so với tháng 1, bạn sẽ click chọn thời gian thống kê."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/99a1676f6e122616bf601c55f69836146d0ce0fbdcc0c3f7776613d8f6c634d3_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "So sánh số lượng người dùng theo các kênh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Bạn đang có nhiều kênh chăm sóc khách hàng như website, Fanpage, Zalo OA. Vậy kênh nào mang lại nhiều người dùng cho Doanh nghiệp, bạn xem tại mục Kênh tương tác."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/2625c3af658eb8e473d29e40f9e9059995c06771769e97285fd4b766f8f254fd_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Đánh giá hiệu quả chuyển đổi khách tiềm năng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Trong 30 ngày vừa qua, bạn muốn biết có thêm bao nhiêu khách hàng tiềm năng? Tỷ lệ chuyển đổi khách tiềm năng trên tổng người dùng mới là bao nhiêu? Số lượng khách tiềm năng tháng 2 thay đổi như thế nào so với tháng 1? Bạn có thể xem chi tiết danh sách khách tiềm năng khi click nút “"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/lead",
+              "title": "Danh sách khách tiềm năng",
+              "text": "Danh sách khách tiềm năng",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/762538d80decda9a36b68a21f4db606b8a96d0401b10d77596817d44b4d8c3c0_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Báo cáo khách từ quảng cáo Google Ads"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Bạn có chạy quảng cáo Google Ads và muốn biết có bao nhiêu khách mới đến từ quảng cáo hay một chiến dịch quảng cáo cụ thể, bạn xem tại mục “Nguồn truy cập”,"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1968656234-subiz-live-khach-truy-cap-web#b%C6%B0%E1%BB%9Bc-3-t%E1%BB%95ng-quan-ngu%E1%BB%93n-kh%C3%A1ch-truy-c%E1%BA%ADp",
+              "title": "xem hướng dẫn đọc nguồn truy cập của khách",
+              "text": "xem hướng dẫn đọc nguồn truy cập của khách",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/71a1aaa6f4b8fd8e14d42cdae9bdf825823b3a4ace52704c18db66af57f75819_acpxkgumifuoofoosble"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }
