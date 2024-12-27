@@ -37,12 +37,12 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 2,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bot phân loại khách theo chi nhánh hoạt động thế nào?"
+              "text": "Bot phân loại khách theo chi nhánh hoạt động thế nào?",
+              "bold": true
             }
           ]
         },
@@ -119,22 +119,22 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 2,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt Bot theo chi nhánh và Agent phụ trách"
+              "text": "Cài đặt Bot theo chi nhánh và Agent phụ trách",
+              "bold": true
             }
           ]
         },
         {
-          "type": "heading",
-          "level": 3,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Bước 1: Đăng nhập vào Subiz"
+              "text": "Bước 1: Tạo Bot",
+              "bold": true
             }
           ]
         },
@@ -189,21 +189,15 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn"
+                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn “"
                     },
                     {
                       "type": "text",
-                      "text": "Bot",
-                      "bold": true
+                      "text": "Bot"
                     },
                     {
                       "type": "text",
-                      "text": "chào khách",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": ", chọn Sử dụng."
+                      "text": "chào khách”, chọn Sử dụng."
                     }
                   ]
                 }
@@ -212,8 +206,7 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 3,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
@@ -226,12 +219,7 @@
           "content": [
             {
               "type": "text",
-              "text": "HĐ1: Chào mừng khách",
-              "bold": true
-            },
-            {
-              "type": "text",
-              "text": ". Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác."
+              "text": "HĐ1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác."
             }
           ]
         },
@@ -395,8 +383,11 @@
           "content": [
             {
               "type": "text",
-              "text": "HĐ 2: Phân phối tới Agent phụ trách",
-              "bold": true
+              "text": "HĐ 2: Phân phối tới Agent phụ trách."
+            },
+            {
+              "type": "text",
+              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
             }
           ]
         },
@@ -405,7 +396,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
+              "text": "Cách thực hiện:"
             }
           ]
         },
@@ -474,8 +465,7 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 3,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
@@ -502,7 +492,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "hiển thị khi nhắn tin với khách bằng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp."
+                      "text": "hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp."
                     }
                   ]
                 }
@@ -516,7 +506,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Mô tả công việc giúp phân loại với Bot khác"
+                      "text": "Mô tả công việc giúp phân loại với Bot khác."
                     }
                   ]
                 }
