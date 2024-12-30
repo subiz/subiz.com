@@ -3,7 +3,7 @@ title: Tư vấn khách hàng
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-11-29T10:28:56.062Z
+   date: 2024-12-30T04:02:23.064Z
 ---
 # Tư vấn khách hàng
 * [Quản lý hội thoại tin nhắn](/30-tu-van-khach-hang/1.-quan-ly-hoi-thoai-tin-nhan.md)
