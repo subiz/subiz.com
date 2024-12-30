@@ -3,7 +3,7 @@ title: Tự động hóa
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-12-30T03:44:31.153Z
+   date: 2024-12-30T08:06:39.765Z
 ---
 # Tự động hóa
 * [Bot tự động nhắn tin](/50-tu-dong-hoa/1.-bot-tu-dong-nhan-tin.md)

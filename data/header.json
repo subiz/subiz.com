@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1735540512529,
-  "updated": 1735540512529,
+  "fetched": 1735546623865,
+  "updated": 1735546623865,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -164,8 +164,8 @@
       ],
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Quản lý Agent nghỉ việc trên Subiz",
-      "modifiedTime": "2024-12-28T04:31:26.327Z",
-      "version": "306",
+      "modifiedTime": "2024-12-30T08:11:31.262Z",
+      "version": "335",
       "path_lower": "/40 Quản lý làm việc nhóm/7-quan-ly-agent-nghi-viec-tren-subiz"
     },
     {
@@ -461,8 +461,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số ví dụ kịch bản Bot ",
-      "modifiedTime": "2024-12-30T03:44:31.153Z",
-      "version": "59",
+      "modifiedTime": "2024-12-30T08:06:39.765Z",
+      "version": "68",
       "path_lower": "/50 Tự động hóa/2.-mot-so-vi-du-kich-ban-bot"
     },
     {
