@@ -3,7 +3,7 @@ title: Quản lý làm việc nhóm
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-12-30T08:45:59.731Z
+   date: 2024-12-30T09:26:37.383Z
 ---
 # Quản lý làm việc nhóm
 * [Agent là gì?](/40-quan-ly-lam-viec-nhom/1.-agent-la-gi-.md)

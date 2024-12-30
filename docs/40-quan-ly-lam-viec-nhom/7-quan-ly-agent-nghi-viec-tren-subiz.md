@@ -5,7 +5,7 @@ title: Quản lý Agent nghỉ việc trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-12-30T08:41:10.739Z
+  date: 2024-12-30T09:26:37.383Z
 ---
 
 # Quản lý Agent nghỉ việc trên Subiz
@@ -90,7 +90,7 @@ Ngoài ra, có thể:
 01. Nhấm chuột tích (v) và MÃ ĐƠN để chọn tất cả. Các mã đơn hàng trong danh sách sẽ tự động được tích chọn.
 11. Di chuột lên trên bên phải nhấp chọn Sửa người bán.
 21. Chọn Agent mới để bàn giao. Ví dụ bàn giao sang cho Ngòi Nguyễn.
-31. Nhấn vào **Xác nhận **để hoàn thành.
+31. Nhấn vào **Xác nhận** để hoàn thành.
 
 
 ![](https://vcdn.subiz-cdn.com/file/44e8337f68f57e9dff374d365b6ad8bce98a1a9712fea78c32541143e19cce19_acpxkgumifuoofoosble)
@@ -118,7 +118,7 @@ Danh sach Agent hiển thị. Di chuột tới Agent bạn cần xóa. Ví dụ:
 ![](https://vcdn.subiz-cdn.com/file/990ab5f68a8062515e7873683bb6bef2cb617ca6e4d33e6d810cfa92c7ac5422_acpxkgumifuoofoosble)
 
 
-**Bước 2**: Di chuột xuống vùng **Thay đổi trạng thái** và kéo chọn không hoạt động. Nhấp vào** Lưu cài đặt** để hoàn thành.
+**Bước 2**: Di chuột xuống vùng **Thay đổi trạng thái** và kéo chọn không hoạt động. Nhấp vào **Lưu cài đặt** để hoàn thành.
 
 
 ![](https://vcdn.subiz-cdn.com/file/d0ea146193301217ec49fe53edac5aa38fbd24a5cfdc4bede9401c2e21487bca_acpxkgumifuoofoosble)
@@ -129,8 +129,8 @@ Bạn cũng có thể chọn Xóa để bỏ tài khoản hoàn toàn. Tuy nhiê
 Sau khi thay đổi trạng thái hoạt động của Agent sang không hoạt động. Danh sách hiển thị Agent sẽ thấy trạng thái là Inactive.
 ## Câu hỏi thường gặp? 
 
-## Sau khi khóa tài khoản, tin nhắn Agent cũ gửi đi có bị mất trên Subiz không?
 
+**Sau khi khóa tài khoản, tin nhắn Agent cũ gửi đi có bị mất trên Subiz không?**
 
 Không. Tất cả các tin nhắn trò chuyện, công cụ Agent sử dụng trước đó như tạo Tag, ghi chú, đơn hàng vẫn sẽ được lưu trữ lại trong lịch sử hội thoại. Những Agent mới phụ trách sẽ dễ dàng quan sát và dễ dàng tiếp tục hỗ trợ. 
 
