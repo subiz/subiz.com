@@ -34,9 +34,9 @@ Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào C
 
     - Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn “Bot chào khách”, chọn Sử dụng.
 
-Bước 2. Thiết kế kịch bản Bot
+**Bước 2. Thiết kế kịch bản Bot**
 
-HĐ1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác. 
+Hành động 1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác. 
 
 Cách thực hiện: 
 
@@ -66,7 +66,7 @@ Cách thực hiện:
 
 **Lưu ý**: Luôn tích chọn Bắt buộc khách lựa chọn gợi ý để đảm bảo phân loại được khách hàng và phân chia chat tới đúng Agent phụ trách. 
 
-HĐ 2: Phân phối tới Agent phụ trách. Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể. 
+Hành động 2: Phân phối tới Agent phụ trách. Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể. 
 
 Cách thực hiện: 
 
@@ -79,7 +79,7 @@ Cách thực hiện:
 
 - Nhấp chuột vào dấu (+) sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn.
 
-Bước 3. Cài đặt điều kiện nâng cao cho bot
+**Bước 3. Cài đặt điều kiện nâng cao cho bot**
 
 - Sửa tên và ảnh bot hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp.
 - Mô tả công việc giúp phân loại với Bot khác.

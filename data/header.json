@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1735291844363,
-  "updated": 1735291844363,
+  "fetched": 1735540512529,
+  "updated": 1735540512529,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -119,10 +119,10 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
-      "name": "Quản lý đội nhóm",
-      "modifiedTime": "2024-11-29T10:23:16.148Z",
-      "version": "121",
-      "path_lower": "/40 Quản lý làm việc nhóm/quan-ly-doi-nhom"
+      "name": "6 Quản lý đội nhóm",
+      "modifiedTime": "2024-12-28T03:45:42.542Z",
+      "version": "126",
+      "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -141,10 +141,10 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
-      "name": "Giám sát viên hội thoại ",
-      "modifiedTime": "2024-11-29T10:29:17.905Z",
-      "version": "94",
-      "path_lower": "/40 Quản lý làm việc nhóm/giam-sat-vien-hoi-thoai"
+      "name": "5 Giám sát viên hội thoại ",
+      "modifiedTime": "2024-12-28T03:45:22.343Z",
+      "version": "97",
+      "path_lower": "/40 Quản lý làm việc nhóm/5-giam-sat-vien-hoi-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -156,6 +156,17 @@
       "modifiedTime": "2024-11-26T08:48:55.617Z",
       "version": "190",
       "path_lower": "/10 Làm quen với Subiz/2.-hanh-trinh-su-dung"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
+      "name": "7 Quản lý Agent nghỉ việc trên Subiz",
+      "modifiedTime": "2024-12-28T04:31:26.327Z",
+      "version": "306",
+      "path_lower": "/40 Quản lý làm việc nhóm/7-quan-ly-agent-nghi-viec-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -263,8 +274,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi tin Facebook ",
-      "modifiedTime": "2024-11-26T09:27:44.595Z",
-      "version": "20",
+      "modifiedTime": "2024-12-30T04:02:23.064Z",
+      "version": "35",
       "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tin-facebook"
     },
     {
@@ -352,7 +363,7 @@
       "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
       "name": "4 Tự động hoàn thành hội thoại",
       "modifiedTime": "2024-11-15T08:38:31.719Z",
-      "version": "142",
+      "version": "144",
       "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
     },
     {
@@ -450,8 +461,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số ví dụ kịch bản Bot ",
-      "modifiedTime": "2024-12-27T09:28:08.292Z",
-      "version": "41",
+      "modifiedTime": "2024-12-30T03:44:31.153Z",
+      "version": "59",
       "path_lower": "/50 Tự động hóa/2.-mot-so-vi-du-kich-ban-bot"
     },
     {
@@ -655,23 +666,12 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
-      ],
-      "id": "1s3VKq7D7Qu78CbPTEd7rBYJNQ4mntVCSou2OVG9_UxA",
-      "name": "Bot phân loại khách của chi nhánh nào giao cho agent phụ trách chi nhánh đó",
-      "modifiedTime": "2024-12-19T04:42:10.463Z",
-      "version": "227",
-      "path_lower": "/bot-phan-loai-khach-cua-chi-nhanh-nao-giao-cho-agent-phu-trach-chi-nhanh-do"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1Tr4UgJx2djjyPPmqwq1LEpv45Ag1psw4"
       ],
       "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
       "name": "_2. Khách tiềm năng",
       "modifiedTime": "2023-03-16T04:01:42.205Z",
-      "version": "273",
+      "version": "275",
       "path_lower": "/60 Quản lý khách hàng/_2.-khach-tiem-nang"
     },
     {

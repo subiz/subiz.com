@@ -210,7 +210,8 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 2. Thiết kế kịch bản Bot"
+              "text": "Bước 2. Thiết kế kịch bản Bot",
+              "bold": true
             }
           ]
         },
@@ -219,7 +220,7 @@
           "content": [
             {
               "type": "text",
-              "text": "HĐ1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác."
+              "text": "Hành động 1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác."
             }
           ]
         },
@@ -383,7 +384,11 @@
           "content": [
             {
               "type": "text",
-              "text": "HĐ 2: Phân phối tới Agent phụ trách."
+              "text": "Hành động"
+            },
+            {
+              "type": "text",
+              "text": "2: Phân phối tới Agent phụ trách."
             },
             {
               "type": "text",
@@ -469,7 +474,8 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 3. Cài đặt điều kiện nâng cao cho bot"
+              "text": "Bước 3. Cài đặt điều kiện nâng cao cho bot",
+              "bold": true
             }
           ]
         },
