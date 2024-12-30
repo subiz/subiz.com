@@ -204,7 +204,7 @@
             },
             {
               "type": "text",
-              "text": "để tiếp tục hỗ trợ tránh làm gián đoạn. f"
+              "text": "để tiếp tục hỗ trợ tránh làm gián đoạn."
             }
           ]
         },
@@ -553,7 +553,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "để hoàn thành"
+                      "text": "để hoàn thành."
                     }
                   ]
                 }
@@ -759,12 +759,12 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 1,
           "content": [
             {
               "type": "text",
-              "text": "Sau khi khóa tài khoản, tin nhắn Agent cũ gửi đi có bị mất trên Subiz không?",
-              "bold": true
+              "text": "Sau khi khóa tài khoản, tin nhắn Agent cũ gửi đi có bị mất trên Subiz không?"
             }
           ]
         },
