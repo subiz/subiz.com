@@ -1,9 +1,9 @@
-# Quản lý Agent nghỉ việc trên Subiz
+# Xử lý khi có nhân viên nghỉ việc trên Subiz
 
 
 Trên Subiz Doanh nghiệp có thể tùy chỉnh phân chia chat, bàn giao công việc của nhân viên theo yêu cầu riêng mà không làm ảnh hưởng tới công việc. 
 
-Tài liệu này hướng dẫn bạn cách chuyển giao dữ liệu của Agent nghỉ việc cho Agent khác.
+Tài liệu này hướng dẫn bạn cách chuyển giao dữ liệu của nhân viên (Agent) nghỉ việc cho nhân viên khác quản lý.
 ## Bàn giao hội thoại
 
 
