@@ -5,7 +5,7 @@ title: Giám sát viên hội thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-12-30T08:45:59.731Z
+  date: 2024-12-30T08:46:09.152Z
 ---
 
 # Giám sát viên hội thoại

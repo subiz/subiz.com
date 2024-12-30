@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1735548385841,
-  "updated": 1735548385841,
+  "fetched": 1735551911601,
+  "updated": 1735551911601,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -120,8 +120,8 @@
       ],
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "6 Quản lý đội nhóm",
-      "modifiedTime": "2024-12-30T08:45:56.635Z",
-      "version": "129",
+      "modifiedTime": "2024-12-30T08:46:13.692Z",
+      "version": "133",
       "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
@@ -142,8 +142,8 @@
       ],
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "5 Giám sát viên hội thoại ",
-      "modifiedTime": "2024-12-30T08:45:59.731Z",
-      "version": "100",
+      "modifiedTime": "2024-12-30T08:46:09.152Z",
+      "version": "104",
       "path_lower": "/40 Quản lý làm việc nhóm/5-giam-sat-vien-hoi-thoai"
     },
     {
@@ -164,8 +164,8 @@
       ],
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Quản lý Agent nghỉ việc trên Subiz",
-      "modifiedTime": "2024-12-30T08:41:10.739Z",
-      "version": "344",
+      "modifiedTime": "2024-12-30T09:26:37.383Z",
+      "version": "352",
       "path_lower": "/40 Quản lý làm việc nhóm/7-quan-ly-agent-nghi-viec-tren-subiz"
     },
     {
