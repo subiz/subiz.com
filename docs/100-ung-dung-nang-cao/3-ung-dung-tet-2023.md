@@ -1,19 +1,19 @@
 ---
 id: 1804720883
 slug: /1804720883-ung-dung-tet-2023
-title: Ứng dụng Tết 2023
+title: Ứng dụng Tết
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-11-01T01:39:41.319Z
+  date: 2024-12-30T09:52:32.842Z
 ---
 
-# Ứng dụng Tết 2023 
+# Ứng dụng Tết 
 
 
 
 
-Bài viết này, Subiz Team sẽ chia sẻ một số ứng dụng Subiz để chăm sóc khách hàng trong thời gian nghỉ Tết Nguyên Đán 2023, nhằm nâng cao trải nghiệm khách hàng, đồng thời tăng cường mối quan hệ gắn bó giữa Doanh nghiệp và khách hàng.
+Bài viết này, Subiz Team sẽ chia sẻ một số ứng dụng Subiz để chăm sóc khách hàng trong thời gian nghỉ Tết Nguyên Đán, nhằm nâng cao trải nghiệm khách hàng, đồng thời tăng cường mối quan hệ gắn bó giữa Doanh nghiệp và khách hàng.
 
 Bạn có thể thiết lập lại một số công cụ sau để chăm sóc khách hàng tự động trong thời gian nghỉ Tết:
 
@@ -22,7 +22,7 @@ Bạn có thể thiết lập lại một số công cụ sau để chăm sóc k
 - Bot: Trả lời tin nhắn tự động khi khách nhắn tin
 - Tổng đài: Trả lời tự động khách gọi điện tới.
 - App Mobile: Sẵn sàng online mọi lúc, mọi nơi
-## Cài đặt thời gian nghỉ lễ Tết 2023
+## Cài đặt thời gian nghỉ lễ Tết
 
 
 Bạn thêm ngày nghỉ Lễ tại trang **[Giờ làm việc](https://app.subiz.com.vn/settings/business-hours)**. Như vậy, Subiz tự động nhận diện Ngày lễ là ngày không làm việc để bạn cài đặt điều kiện cho các chức năng khác chạy khi ngoài giờ làm việc như cửa sổ chat, bot, popup. **[Xem hướng dẫn sử dụng Giờ làm việc](https://subiz.com.vn/docs/1954376476-gio-lam-viec)**.
