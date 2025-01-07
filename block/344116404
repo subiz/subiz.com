@@ -28,7 +28,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Điện thoại không đổ chuông cuộc gọi khi khoá màn hình"
+              "text": "1. Điện thoại không đổ chuông cuộc gọi khi khoá màn hình"
             }
           ]
         },
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -110,7 +110,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -171,7 +171,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -249,7 +249,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Máy tính không nhận thông báo cuộc gọi đến?"
+              "text": "2. Máy tính không nhận thông báo cuộc gọi đến?"
             }
           ]
         },
@@ -344,7 +344,7 @@
           "content": [
             {
               "type": "text",
-              "text": "App mobile Subiz không có thông báo cuộc gọi đến?"
+              "text": "3. App mobile Subiz không có thông báo cuộc gọi đến?"
             }
           ]
         },
@@ -393,7 +393,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách thay đổi thiết bị gọi đi bằng máy tính hay điện thoại bạn Voip?"
+              "text": "4. Cách thay đổi thiết bị gọi đi bằng máy tính hay điện thoại bạn Voip?"
             }
           ]
         },
@@ -461,7 +461,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Agent có thể thay đổi đầu số điện thoại gọi đi không?"
+              "text": "5. Agent có thể thay đổi đầu số điện thoại gọi đi không?"
             }
           ]
         },
@@ -522,7 +522,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách phân biệt nhiều số điện thoại trên Subiz?"
+              "text": "6. Cách phân biệt nhiều số điện thoại trên Subiz?"
             }
           ]
         },
@@ -641,7 +641,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách xử lý khi cuộc gọi đi thất bại liên tục"
+              "text": "7. Cách xử lý khi cuộc gọi đi thất bại liên tục"
             }
           ]
         },
@@ -655,7 +655,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -665,7 +665,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Đầu số điện thoại của công ty bị khóa, chặn không được phép thực hiện cuộc gọi đi. Cách xử lý: Bạn cần liên hệ nhà mạng cung cấp đầu số để yêu cầu hỗ trợ mở khóa. Trong trường hợp không khắc phục được, bạn có thể đăng ký mua thêm đầu số mới."
+                      "text": "Nguyên nhân 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Đầu số điện thoại của công ty bị khóa, chặn không được phép thực hiện cuộc gọi đi. Cách xử lý: Bạn cần liên hệ nhà mạng cung cấp đầu số để yêu cầu hỗ trợ mở khóa. Trong trường hợp không khắc phục được, bạn có thể đăng ký mua thêm đầu số mới."
                     }
                   ]
                 }
@@ -679,7 +684,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Số điện thoại của khách hàng sai hoặc chặn cuộc gọi từ số lạ. Cách xử lý: Thử sử dụng số cá nhân của bạn để liên lạc với khách hàng nhằm xác nhận tình trạng."
+                      "text": "Nguyên nhân 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số điện thoại của khách hàng sai hoặc chặn cuộc gọi từ số lạ. Cách xử lý: Thử sử dụng số cá nhân của bạn để liên lạc với khách hàng nhằm xác nhận tình trạng."
                     }
                   ]
                 }
@@ -693,7 +703,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách xử lý khi khách hàng không nghe được tiếng của agent"
+              "text": "8. Cách xử lý khi khách hàng không nghe được tiếng của agent"
             }
           ]
         },
@@ -752,7 +762,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách xuất file danh sách cuộc gọi và hàng loạt file ghi âm"
+              "text": "9. Cách xuất file danh sách cuộc gọi và hàng loạt file ghi âm"
             }
           ]
         },
