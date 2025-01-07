@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1735633440879,
-  "updated": 1735633440879,
+  "fetched": 1736239531049,
+  "updated": 1736239531049,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -198,7 +198,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "5 Tự động hóa chuyển đổi khách hàng",
       "modifiedTime": "2023-07-13T11:22:10.958Z",
-      "version": "126",
+      "version": "127",
       "path_lower": "/100 Ứng dụng nâng cao/5-tu-dong-hoa-chuyen-doi-khach-hang"
     },
     {
@@ -319,7 +319,7 @@
       "id": "1T4vpZymOARgBzsgpRA25DoqKeBXq1pA8n5UeyXYJyhk",
       "name": "9. Xử lý lỗi Zalo OA",
       "modifiedTime": "2024-11-26T09:53:48.077Z",
-      "version": "34",
+      "version": "36",
       "path_lower": "/30 Tư vấn khách hàng/9.-xu-ly-loi-zalo-oa"
     },
     {
@@ -417,8 +417,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2024-11-29T09:35:37.105Z",
-      "version": "420",
+      "modifiedTime": "2025-01-06T03:43:10.007Z",
+      "version": "430",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -519,6 +519,17 @@
       "modifiedTime": "2023-07-12T04:10:28.805Z",
       "version": "81",
       "path_lower": "/100 Ứng dụng nâng cao/9-tich-hop-app-mobile"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
+      ],
+      "id": "1hcfgK15RqVhz-zEUgHaddEWOB7qhWWpgWKHQjbiF4kY",
+      "name": "10. Xử lý lỗi Tổng Đài",
+      "modifiedTime": "2025-01-06T03:47:06.756Z",
+      "version": "25",
+      "path_lower": "/30 Tư vấn khách hàng/10.-xu-ly-loi-tong-dai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",

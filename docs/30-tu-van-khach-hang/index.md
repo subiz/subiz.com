@@ -3,7 +3,7 @@ title: Tư vấn khách hàng
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2024-12-31T01:48:03.061Z
+   date: 2025-01-06T03:47:06.756Z
 ---
 # Tư vấn khách hàng
 * [Quản lý hội thoại tin nhắn](/30-tu-van-khach-hang/1.-quan-ly-hoi-thoai-tin-nhan.md)
@@ -14,3 +14,4 @@ last_update:
 * [App mobile Subiz](/30-tu-van-khach-hang/7.-app-mobile-subiz.md)
 * [Xử lý lỗi tin Facebook](/30-tu-van-khach-hang/8.-xu-ly-loi-tin-facebook.md)
 * [Xử lý lỗi Zalo OA](/30-tu-van-khach-hang/9.-xu-ly-loi-zalo-oa.md)
+* [Xử lý lỗi Tổng Đài](/30-tu-van-khach-hang/10.-xu-ly-loi-tong-dai.md)
