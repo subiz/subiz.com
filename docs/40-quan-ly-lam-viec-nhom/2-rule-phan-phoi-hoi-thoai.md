@@ -26,7 +26,7 @@ Ví dụ:
 - Rule theo hiệu suất của nhân viên: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất.
 
 
-![](https://vcdn.subiz-cdn.com/file/81107e0ffe74647919c91b1643350a86527ac3ff26aaee688cf0fd5705065bda_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfloqxzwzhewpbgppn_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -72,7 +72,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/a68b7a189ab26acde74d83884e687eadb065bb21f03adbc5e54b31ecab0e9821_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfloqyflufhglwjsdy_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -95,7 +95,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/2ae090c32370467de1f3385452df8edd359a32a11fcf8a6888b23983af57b7ec_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfloqylbexlgduvalx_acpxkgumifuoofoosble/unnamed.gif)
 
 ### TH2: Rule phân phối theo vùng miền
 
@@ -113,7 +113,7 @@ Hướng dẫn cài đặt:
 - **Rule 2**: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
 
 
-![](https://vcdn.subiz-cdn.com/file/555d825fbe9198f503ffe66513b8235deb275decf1cdfd42ca44d8b3f6c2be5f_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfloqyvtbdyhxsheui_acpxkgumifuoofoosble/unnamed.gif)
 
 ### TH3: Rule phân phối theo thời gian làm việc
 
@@ -128,4 +128,4 @@ Hướng dẫn cài đặt:
 - **Rule 2**: Điều kiện Rule chọn Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
 
 
-![](https://vcdn.subiz-cdn.com/file/031f16738f792332703ea2d3b720e3468c339bfe355b97541387c93dd3779103_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfloqzdjbeodywfmha_acpxkgumifuoofoosble/unnamed.gif)

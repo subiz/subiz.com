@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1736242560348,
-  "updated": 1736242560348,
+  "fetched": 1737705347077,
+  "updated": 1737705347077,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -88,7 +88,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
       "modifiedTime": "2024-08-03T08:45:49.186Z",
-      "version": "235",
+      "version": "236",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Xử lý khi có nhân viên nghỉ việc trên Subiz",
       "modifiedTime": "2024-12-30T09:51:05.670Z",
-      "version": "364",
+      "version": "366",
       "path_lower": "/40 Quản lý làm việc nhóm/7-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz"
     },
     {
@@ -231,7 +231,7 @@
       "id": "1N3SWC2w5KO6PwnCvmzGreIndoyRa4fEYP0nfLrhFRJk",
       "name": "6. Gửi tin nhắn ZNS Zalo",
       "modifiedTime": "2024-03-28T12:48:33.026Z",
-      "version": "111",
+      "version": "112",
       "path_lower": "/50 Tự động hóa/6.-gui-tin-nhan-zns-zalo"
     },
     {
@@ -308,7 +308,7 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
       "modifiedTime": "2024-11-29T10:34:56.284Z",
-      "version": "354",
+      "version": "356",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live khách truy cập web",
       "modifiedTime": "2023-08-10T09:35:00.163Z",
-      "version": "308",
+      "version": "309",
       "path_lower": "/60 Quản lý khách hàng/1.--subiz-live-khach-truy-cap-web"
     },
     {
@@ -406,8 +406,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
-      "modifiedTime": "2023-12-19T10:06:45.172Z",
-      "version": "193",
+      "modifiedTime": "2025-01-24T07:38:31.636Z",
+      "version": "202",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1hcfgK15RqVhz-zEUgHaddEWOB7qhWWpgWKHQjbiF4kY",
       "name": "10. Xử lý lỗi Tổng Đài",
       "modifiedTime": "2025-01-07T09:24:28.656Z",
-      "version": "36",
+      "version": "37",
       "path_lower": "/30 Tư vấn khách hàng/10.-xu-ly-loi-tong-dai"
     },
     {
@@ -682,7 +682,7 @@
       "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
       "name": "_2. Khách tiềm năng",
       "modifiedTime": "2023-03-16T04:01:42.205Z",
-      "version": "275",
+      "version": "276",
       "path_lower": "/60 Quản lý khách hàng/_2.-khach-tiem-nang"
     },
     {
@@ -704,7 +704,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2024-10-11T03:11:02.015Z",
-      "version": "243",
+      "version": "245",
       "path_lower": "/_readme"
     },
     {

@@ -8,5 +8,863 @@
   },
   "category": "7",
   "source_id": "33314021",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xử lý khi có nhân viên nghỉ việc trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên Subiz Doanh nghiệp có thể tùy chỉnh phân chia chat, bàn giao công việc của nhân viên theo yêu cầu riêng mà không làm ảnh hưởng tới công việc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tài liệu này hướng dẫn bạn cách chuyển giao dữ liệu của nhân viên (Agent) nghỉ việc cho nhân viên khác quản lý."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bàn giao hội thoại"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bàn giao tất cả các hội thoại của Agent cũ trước đây phụ trách sang cho Agent mới để tiếp tục hỗ trợ, quản lý."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trước tiên bạn cần Kết thúc tất cả các hội hoại của Agent cũ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Kết thúc hội thoại hàng loạt."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tích chọn (v) nút Hội thoại trên đầu danh sách hội thoại"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqxyuhsviezvygp_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "G"
+                    },
+                    {
+                      "type": "text",
+                      "text": "iữ phím “Shift” trên bàn phím. Nhấp chọn hội thoại đầu tiên, kéo xuống chọn hội thoại cuối cùng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn nút Kết thúc (v) để kết thúc hàng loạt như hình ảnh dưới đây"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqyccjcpfnziuht_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Mở hội thoại và xem trạng thái “Đang mở” ở cột trả lời tin nhắn. Bấm chọn Kết thúc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqygfehljntxnpv_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách này mất thời gian hơn. Tuy nhiên, bạn có thể biết được những khách hàng nào vẫn đang chờ hỗ trợ,"
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam",
+              "title": "tạo nhắc việc",
+              "text": "tạo nhắc việc",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "để tiếp tục hỗ trợ tránh làm gián đoạn."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bàn giao danh sách khách"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tức bàn chuyển giao danh sách khách hàng Agent cũ đang chăm sóc sang cho Agent mới."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Truy cập trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/lead",
+              "title": "Khách",
+              "text": "Khách",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Lọc khách của Agent nghỉ bằng cách nhấp chuột vào Phụ trách => Chọn Agent phụ trách. Ví dụ: Agent phụ trách sắp nghỉ là Lê Thiên Lực. Bạn nhấp chuột chọn"
+            },
+            {
+              "type": "text",
+              "text": "Lê"
+            },
+            {
+              "type": "text",
+              "text": "Thiên Lực."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Để chọn toàn bộ danh sách khách hàng, bạn nhấp chuột tích (v) HỌ TÊN, toàn bộ danh sách khách hàng phía dưới sẽ tự động được tích chọn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqykjimzcmfiezb_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Di chuột lên góc màn hình trên bên phải, chọn Phân phối."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Nhấp chuột vào dấu (+) và chọn Agent phụ trách. Nhấn Xác nhận để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqymyfzhuaamldm_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để đảm bảo chắc chắn đã chuyển danh sách khách hàng thành công. Bạn quay lại nhấn vào phụ trách, tìm Lê Thiêm Lực sẽ không thấy dữ liệu khách hàng phụ trách trước đây."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bàn giao đơn hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Những đơn hàng Agent cũ đang phụ trách cũng sẽ được bàn giao lại cho các Agent mới để tiếp tục quản lý."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Vào phần"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/orders",
+              "title": "Đơn hàng",
+              "text": "Đơn hàng",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột tới"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Quy trình đơn",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "=> chọn Bất kỳ (Tất cả các đơn hàng phụ trách từ trước đây bao gồm: đơn đã hoàn thành, đơn đang chuyển,..)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột tới"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bán hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "=> chọn Agent sắp nghỉ: Ví dụ Lê Thiêm Lực"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqyqoxfsfunamta_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngoài ra, có thể:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn đơn hàng theo Tag cụ thể như Khách vip, Mua hàng, Gửi hàng,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn đơn hàng theo khoảng thời gian nhất định bằng cách lựa chọn thời gian mong muốn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Sau khi lựa chọn các điều kiện lọc, Subiz sẽ hiển thị danh sách Lê Thiêm Lực đang phụ trách. Để bàn giao danh sách này cho người khác thực hiện như sau:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấm chuột tích (v) và MÃ ĐƠN để chọn tất cả. Các mã đơn hàng trong danh sách sẽ tự động được tích chọn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột lên trên bên phải nhấp chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sửa"
+                    },
+                    {
+                      "type": "text",
+                      "text": "người bán."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Agent mới để bàn giao. Ví dụ bàn giao sang cho Ngòi Nguyễn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn vào"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Xác nhận",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "để hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqyurhzhmpahodh_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Sau khi chuyển xong, vào đơn hàng của Lê Thiêm Lực thấy thông báo hiển thị chưa có dữ liệu tức đã chuyển đơn hàng thành công."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nếu danh sách đơn hàng dạng cột dọc sẽ không hiển thị vùng thông tin (v) để chọn. Hãy thay đổi danh sách dạng hiển thị ngang để dễ dàng thao tác như hướng dẫn dưới hình."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqyynexeptokwgf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Off dừng hoạt động Agent"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đây là bước quan trọng sau"
+            },
+            {
+              "type": "text",
+              "text": "khi hoàn thành các thao tác kết thúc hội thoại, bàn giao danh sách khách hàng, đơn hàng cho Agent phụ trách mới để khóa tài khóa của Agent cũ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Trở về"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/",
+              "title": "Cài đặt",
+              "text": "Cài đặt",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "trên Subiz. Chọn Agent trong mục TÀI KHOẢN."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Danh sach Agent hiển thị. Di chuột tới Agent bạn cần xóa. Ví dụ: Lê Thiêm Lực. Nhấp chuột và Chỉnh sửa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqzcavxjlrxnmsd_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Di chuột xuống vùng"
+            },
+            {
+              "type": "text",
+              "text": "Thay đổi trạng thái",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và kéo chọn không hoạt động. Nhấp vào"
+            },
+            {
+              "type": "text",
+              "text": "Lưu cài đặt",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqzeykavdrryusn_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cũng có thể chọn Xóa để bỏ tài khoản hoàn toàn. Tuy nhiên, nếu lựa chọn xóa, sau đó bạn muốn khôi phục tài khoản sẽ không thể thực hiện được."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi thay đổi trạng thái hoạt động của Agent sang không hoạt động. Danh sách hiển thị Agent sẽ thấy trạng thái là Inactive."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi khóa tài khoản, tin nhắn Agent cũ gửi đi có bị mất trên Subiz không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Không. Tất cả các tin nhắn trò chuyện, công cụ Agent sử dụng trước đó như tạo Tag, ghi chú, đơn hàng vẫn sẽ được lưu trữ lại trong lịch sử hội thoại. Những Agent mới phụ trách sẽ dễ dàng quan sát và dễ dàng tiếp tục hỗ trợ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách hàng có nhìn thấy thông báo Agent cũ bị xóa không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách hàng sẽ không nhìn thấy được thông báo Agent phụ trách bị xóa. Tuy nhiên, trên giao diện của Doanh nghiệp, bạn sẽ nhìn thấy tên Agent bị xóa để biết được trước đó ai là người phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi đóng hội thoại và xóa tài khoản Agent cũ, ai sẽ là người tiếp tục phụ trách hội thoại đó?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi kết thúc hội thoại, hội thoại mới của khách hàng được tính là không có người đang phụ trách. Nó tiếp tục chạy theo luồng thông thường là chia tới các tư vấn viên hoặc theo rule phân phối mà bạn cài đặt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Agent cũ có xem được dữ liệu tài khoản của tôi nữa không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi tài khoản Agent bị khóa, Agent đó sẽ không thể truy cập vào tài khoản Subiz. Khi họ truy cập vào tài khoản sẽ nhận được thông báo là Tài khoản đã bị khóa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Còn trên màn hình Subiz, tài khoản đó sẽ hiển thị ở trạng thái"
+            },
+            {
+              "type": "text",
+              "text": "Inactive",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfloqzicysztvcdnqc_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
