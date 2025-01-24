@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1737705347077,
-  "updated": 1737705347077,
+  "fetched": 1737707828378,
+  "updated": 1737707828378,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -406,8 +406,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
-      "modifiedTime": "2025-01-24T07:38:31.636Z",
-      "version": "202",
+      "modifiedTime": "2025-01-24T08:14:58.220Z",
+      "version": "209",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
     },
     {
@@ -417,8 +417,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2025-01-06T03:43:10.007Z",
-      "version": "430",
+      "modifiedTime": "2025-01-24T08:34:40.141Z",
+      "version": "435",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
