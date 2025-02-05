@@ -24,7 +24,7 @@ Ví dụ website tiếng Việt thì cửa sổ chat hiện tiếng Việt, webs
 
 
 
-![](https://vcdn.subiz-cdn.com/file/4f994440c830ac87a36767774b108cddae1e252860ecd7a328f9759a3579d99f_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsaulvunwsxkoh_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -49,7 +49,7 @@ Hướng dẫn thêm ngôn ngữ vào Subiz:
 - Sau đó, sang mục Dịch, tìm ngôn ngữ mới thêm và nhập lại các tin nhắn theo ngôn ngữ mới.
 
 
-![](https://vcdn.subiz-cdn.com/file/2b051cb91b135c13b59feb5955743c5b1668d6b14a05316a3651312f657082d2_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsfxzesynaeism_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -71,11 +71,11 @@ Hướng dẫn cài đặt :
 
 
 
-![](https://vcdn.subiz-cdn.com/file/4061792ced88e893444df69fb1c63741bda2df22294be429a0c4b6f15ab852c4_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsloyyzxdgbtuj_acpxkgumifuoofoosble/unnamed.png)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/a7bf9cd6769d0146e0f01e052004a6cd341e1f35acddc990bbcb91fc24cbd2ea_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtspypxucrcsvhu_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -93,7 +93,7 @@ Hướng dẫn cài đặt bot:
 - Xuất bản để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/00f6d64339430b99eb2aa355631f8ae85afba42f2a742f785c4d9810a100883c_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsvjafxgxcgsgy_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -113,7 +113,7 @@ Hướng dẫn cài đặt popup gửi tin nhắn đa ngôn ngữ:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/cbfea77306b2244be16bad9575ab4ea2cd9ee294fd3866d3df32d506db4867b8_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxttcisjifmcohnr_acpxkgumifuoofoosble/unnamed.png)
 
 ## Sửa ngôn ngữ trang App Subiz
 
@@ -126,4 +126,4 @@ Agent có thể thay đổi ngôn ngữ trang làm việc [app.subiz.com.vn](htt
 - Cập nhật là xong (Update)
 
 
-![](https://vcdn.subiz-cdn.com/file/828e361ef4441a84b0ae58ad5fefbeb23ada65c2f768e7184c0248a571fd6a88_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtthlqrveujilcd_acpxkgumifuoofoosble/unnamed.png)

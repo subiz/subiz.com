@@ -25,7 +25,7 @@ last_update:
 Subiz sẽ gửi các dữ liệu sự kiện (event data) của khách (user) trên website sang Google Analytics. Khi đó, bạn có thể xem được các dữ liệu này tại mục Sự kiện (event) của Google Analytics. Các sự kiện mà Subiz gửi : 
 
 
-![](https://vcdn.subiz-cdn.com/file/88f97d64a83e9b1491e82a9109719bd5def0ca1323b3cd88bcedaf2e46c3fbbc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtscrrkisrhzpeb_acpxkgumifuoofoosble/unnamed.png)
 
 ## Khai thác dữ liệu
 
@@ -111,11 +111,11 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 - Sau đó, bạn tạo thêm Data Layer Subiz Label
 
 
-![](https://vcdn.subiz-cdn.com/file/b9bbb9f2bb87f853ccb1171b224c091f96ebb3a3690bbea5cafcfa833e9b23e8_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsghocvsctsjkd_acpxkgumifuoofoosble/unnamed.png)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/db892b724de838e7e996a0c9880419de282e71bd7d991a8c2212924126052e3d_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsjawwqlhfrvqi_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -135,7 +135,7 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables (Biến),
 Ví dụ chọn Trigger khi muốn đo lường tất cả sự kiện trên cửa sổ chat Subiz
 
 
-![](https://vcdn.subiz-cdn.com/file/30c1207655b71d01e87d656099bb444ff70b2b4ffb21c794157087bf9190f588_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsloxudeuifhbo_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -145,7 +145,7 @@ Ví dụ chọn Trigger chỉ khi có sự kiện nhắn tin trên cửa sổ ch
 
 
 
-![](https://vcdn.subiz-cdn.com/file/121675472608996a002704132ea6a1e578e970423f9e5d9e55fff7b79ad9c7c8_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsojezwjyyohjg_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -160,7 +160,7 @@ Ví dụ chọn Trigger chỉ khi có sự kiện nhắn tin trên cửa sổ ch
 
 
 
-![](https://vcdn.subiz-cdn.com/file/6ad36d6a7cc0014d955197fc151b69b5bd52e1c5be98d078b09d0df92497f1a7_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsqxgkkxvmrsht_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -170,7 +170,7 @@ Ví dụ ảnh cài đặt Tag đo lường chuyển đổi Google ads
 
 
 
-![](https://vcdn.subiz-cdn.com/file/497a83e8f19f78c8ad93b7cf96bedda082b56491c89509f7c195f253ea7e86f0_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtsuyybqycfwqad_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -187,7 +187,7 @@ Sau khi cài đặt GTM thành công, bạn xem báo cáo sự kiện SUBIZ Chat
 
 
 
-![](https://vcdn.subiz-cdn.com/file/9a6405e450c7dcd555560338eeb575211944223917780bdf78646c2fee72bb09_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtszhskagcwrork_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -204,7 +204,7 @@ Ví dụ bạn muốn xem có bao nhiêu khách hàng đã nhắn tin qua Subiz,
 
 
 
-![](https://vcdn.subiz-cdn.com/file/3ac730bee82db58b768ede5ae00e26a50af2c436d0d0af4ab6671f9bf1cc38cc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxttdpwpvgobqafu_acpxkgumifuoofoosble/unnamed.png)
 
 
 

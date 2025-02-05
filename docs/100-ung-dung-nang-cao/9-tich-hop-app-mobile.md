@@ -48,7 +48,7 @@ Ví dụ:
 Ví dụ tích hợp Subiz trên app mobile của [Hoa Sen Home](https://play.google.com/store/apps/details?id=com.hoasen)
 
 
-![](https://vcdn.subiz-cdn.com/file/95b82dcfde062e70e768886fac3e775081c623e8419f853eebf2c336812e82cc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtrctoajlltxvgu_acpxkgumifuoofoosble/unnamed.png)
 
 ## Thống kê hội thoại theo nguồn app mobile
 
@@ -58,7 +58,7 @@ Subiz hỗ trợ thống kê nguồn hội thoại theo tên miền. Vì vậy, 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/7d20c9bf66881c784d17a7dfa72c45dd62d695af02860eb119d53db0f01fe4b2_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtricgekiotkycx_acpxkgumifuoofoosble/unnamed.png)
 
 
 Ví dụ tên miền cho app mobile là “[http://appmobile.com](http://appmobile.com)”
@@ -68,4 +68,4 @@ Ví dụ tên miền cho app mobile là “[http://appmobile.com](http://appmobi
 Hướng dẫn xem **[thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo)** theo nguồn website, trong đó “appmobile.com” là url định danh cho nguồn app mobile.
 
 
-![](https://vcdn.subiz-cdn.com/file/e7dfe482709ec17404446553ae4aeef41b0b8cc470e2080bff94f7bb20fb650f_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtrmhsphzpbcmuw_acpxkgumifuoofoosble/unnamed.png)

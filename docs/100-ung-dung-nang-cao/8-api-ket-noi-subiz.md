@@ -270,4 +270,4 @@ Lưu ý:
 - Định dạng trường thông tin: Text, Number, Boolean, List, Date Time
 
 
-![](https://vcdn.subiz-cdn.com/file/e4d55423c956a55debaca3e606d25dbd9d978c77ec2f30fe767c256540083c61_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisfsxtryvbmwknlxdbu_acpxkgumifuoofoosble/unnamed.png)
