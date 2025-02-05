@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1737707828378,
-  "updated": 1737707828378,
+  "fetched": 1738742953172,
+  "updated": 1738742953172,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -187,7 +187,7 @@
       "id": "1K0bpRZmSKc3zFZpmi9vgWdImVOa5XtZ2gmA9BmvVNPo",
       "name": "6.1 Thống kê lượng người dùng",
       "modifiedTime": "2023-04-20T10:34:43.797Z",
-      "version": "135",
+      "version": "136",
       "path_lower": "/80 Thống kê báo cáo/6.1-thong-ke-luong-nguoi-dung"
     },
     {
@@ -253,7 +253,7 @@
       "id": "1OW21HBSiKnQRqZwDWqVaAT84tTYyutMweisVpAStqh4",
       "name": "index",
       "modifiedTime": "2022-10-24T08:41:26.686Z",
-      "version": "63",
+      "version": "64",
       "path_lower": "/10 Làm quen với Subiz/index"
     },
     {
@@ -274,8 +274,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi tin Facebook ",
-      "modifiedTime": "2024-12-31T01:48:03.061Z",
-      "version": "44",
+      "modifiedTime": "2025-02-05T02:29:55.306Z",
+      "version": "54",
       "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tin-facebook"
     },
     {
@@ -352,7 +352,7 @@
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "10 Webhook tích hợp CRM",
       "modifiedTime": "2024-08-02T03:27:38.023Z",
-      "version": "81",
+      "version": "82",
       "path_lower": "/100 Ứng dụng nâng cao/10-webhook-tich-hop-crm"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
       "name": "6.3. Thống kê cuộc gọi",
       "modifiedTime": "2023-04-20T11:20:12.010Z",
-      "version": "47",
+      "version": "48",
       "path_lower": "/80 Thống kê báo cáo/6.3.-thong-ke-cuoc-goi"
     },
     {
@@ -517,7 +517,7 @@
       "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
       "name": "9 Tích hợp app mobile",
       "modifiedTime": "2023-07-12T04:10:28.805Z",
-      "version": "81",
+      "version": "82",
       "path_lower": "/100 Ứng dụng nâng cao/9-tich-hop-app-mobile"
     },
     {
@@ -583,7 +583,7 @@
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "4 Subiz đa ngôn ngữ",
       "modifiedTime": "2024-09-11T10:36:55.196Z",
-      "version": "191",
+      "version": "192",
       "path_lower": "/100 Ứng dụng nâng cao/4-subiz-da-ngon-ngu"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8 API kết nối Subiz",
       "modifiedTime": "2023-07-12T04:10:21.468Z",
-      "version": "48",
+      "version": "49",
       "path_lower": "/100 Ứng dụng nâng cao/8-api-ket-noi-subiz"
     },
     {
@@ -649,7 +649,7 @@
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "7 Google Analytics và Subiz",
       "modifiedTime": "2024-08-06T11:00:56.326Z",
-      "version": "154",
+      "version": "155",
       "path_lower": "/100 Ứng dụng nâng cao/7-google-analytics-va-subiz"
     },
     {
