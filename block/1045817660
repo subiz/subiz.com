@@ -48,7 +48,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisfsxtqvtmicqxlzuco_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwitdssdyzvzkt_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -289,7 +289,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisfsxtrbmkywgkfhmlz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwlpwhmxuzwcry_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -759,7 +759,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Lỗi : Không tìm thấy Fanpage"
+              "text": "Lỗi #10: Không gửi được tin nhắn do ứng dụng khác đang kiểm soát threads này"
             }
           ]
         },
@@ -783,7 +783,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "Không tim thấy Fanpage."
+                      "text": "(#10) Không gửi được tin nhắn do một số ứng dụng khác hiện đang kiểm soát thread này. Hay: #10 không gửi được tin nhắn do có ứng dụng khác đang giữ quyền xử lý hội thoại."
                     }
                   ]
                 }
@@ -798,7 +798,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisfsxtrhyupgaffipyb_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwposazwgotbag_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -852,7 +852,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisfsxtrlmyfytnrkfqe_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwsgzbtstbmyeg_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -878,7 +878,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisfsxtrpgztoybhyyzq_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwulcyovhjmmlt_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -980,6 +980,229 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lỗi: Không tìm thấy Fanpage"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nguyên nhân:",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sau khi tích hợp Fanpage lên Subiz, trong quá trình trò chuyện với khách hàng bạn gặp phải tình trạng Facebook báo không tìm thấy Fanpage của bạn. Cụ thể là bạn gửi tin nhắn không được và báo đỏ như dưới hình:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydwxucjvesgzmlt_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn soạn và gửi lại tin nhắn, báo lỗi lại xảy ra. Nguyên nhân của tình trạng này là do Meta có những thay đổi về hệ thống dẫn tới ngưng kết nối tới Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách xử lý:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Để khắc phục tình trạng này, bạn tích hợp lại Fanpage vào Subiz để kết nối lại và gửi lại tin nhắn cho khách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tích hợp lại trang Fanpage lên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở trang Cài đặt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/messenger",
+                      "title": "Tích hợp Facebook",
+                      "text": "Tích hợp Facebook",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chọn nút Thêm Fanpage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập vào tài khoản Facebook của Admin, và tiếp tục đồng ý cấp quyền cho Subiz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subiz hiện cửa sổ để chọn Fanpage muốn thêm vào Subiz, nhấp chọn và bấm Hoàn thành là xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=XkAFJFvsUbA",
+              "title": "XEM VIDEO TÍCH HỢP FANPAGE",
+              "text": "XEM VIDEO TÍCH HỢP FANPAGE",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisfsydxaoqngvdkacnj_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ":"
+            },
+            {
+              "type": "text",
+              "text": "Sau kết nối lại Fanpage lên Subiz thành công, trang có thể phản hồi các hội thoại phát sinh từ thời điểm đó trở đi. Với các tin nhắn cũ đã gửi đi trước đó không thành công, bạn vui lòng gửi lại cho khách hàng để tránh làm gián đoạn hội thoại."
             }
           ]
         },

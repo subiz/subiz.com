@@ -90,7 +90,7 @@ Thông báo: (#10) This message is sent outside of allowed window. Learn more ab
 ## Lỗi #10: Không gửi được tin nhắn do ứng dụng khác đang kiểm soát threads này
 
 
-- **Nguyên nhân:** Facebook đã thay đổi phương thức chuyển giao. Cập nhật này tạo ra nhiều sự thay đổi và có thể gây khó khăn cho doanh nghiệp khi chat với khách hàng. Tiêu biểu là (#10) Không gửi được tin nhắn do một số ứng dụng khác hiện đang kiểm soát thread này. Hay: #10 không gửi được tin nhắn do có ứng dụng khác đang giữ quyền xử lý hội thoại.
+- **Nguyên nhân:** Facebook đã thay đổi phương thức chuyển giao. Cập nhật này tạo ra nhiều sự thay đổi và có thể gây khó khăn cho doanh nghiệp khi chat với khách hàng. Tiêu biểu là (#10) Không gửi được tin nhắn do một số ứng dụng khác hiện đang kiểm soát thread này. Hay: #10 không gửi được tin nhắn do có ứng dụng khác đang giữ quyền xử lý hội thoại.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fisfsydwposazwgotbag_acpxkgumifuoofoosble/unnamed.png)
@@ -121,7 +121,7 @@ Thông báo: (#10) This message is sent outside of allowed window. Learn more ab
 - Sau khi chuyển Subiz là người nhận chính nhưng vẫn xuất hiện lỗi #10. Bạn hãy kiểm tra lại và thực hiện chuyển đổi giao thức 1 lần nữa. Vì rất có thể những nhân viên có quyền quản trị khác trong Fanpage đã vào thay đổi giao thức chuyển giao.
 - Sau khi chuyển giao thành công, trang có thể phản hồi các hội thoại phát sinh từ thời điểm đó trở đi. Với các tin nhắn cũ đã gửi đi trước đó không thành công, bạn vui lòng gửi lại hoặc phản hồi lại trên Facebook Business Suite.
 - Sau khi chỉnh sửa cấu hình, trang có thể sẽ mất tối đa 24h để chuyển đổi. Vì vậy, sau khi chỉnh sửa cấu hình, có thể trang sẽ chưa trả lời được hội thoại ngay.
-# Lỗi: Không tìm thấy Fanpage
+## Lỗi: Không tìm thấy Fanpage
 
 
 - **Nguyên nhân:** Sau khi tích hợp Fanpage lên Subiz, trong quá trình trò chuyện với khách hàng bạn gặp phải tình trạng Facebook báo không tìm thấy Fanpage của bạn. Cụ thể là bạn gửi tin nhắn không được và báo đỏ như dưới hình:

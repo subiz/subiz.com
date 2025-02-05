@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1738742953172,
-  "updated": 1738742953172,
+  "fetched": 1738745296763,
+  "updated": 1738745296763,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -273,10 +273,10 @@
         "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
-      "name": "8. Xử lý lỗi tin Facebook ",
-      "modifiedTime": "2025-02-05T02:29:55.306Z",
-      "version": "54",
-      "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tin-facebook"
+      "name": "8. Xử lý lỗi trên Fanpage",
+      "modifiedTime": "2025-02-05T08:45:02.799Z",
+      "version": "76",
+      "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tren-fanpage"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -406,8 +406,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
-      "modifiedTime": "2025-01-24T08:14:58.220Z",
-      "version": "209",
+      "modifiedTime": "2025-02-05T08:34:12.076Z",
+      "version": "216",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
     },
     {
