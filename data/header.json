@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1738745296763,
-  "updated": 1738745296763,
+  "fetched": 1738918274438,
+  "updated": 1738918274438,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -275,7 +275,7 @@
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
       "modifiedTime": "2025-02-05T08:45:02.799Z",
-      "version": "76",
+      "version": "77",
       "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tren-fanpage"
     },
     {
@@ -406,8 +406,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "5. Kết nối Email",
-      "modifiedTime": "2025-02-05T08:34:12.076Z",
-      "version": "216",
+      "modifiedTime": "2025-02-07T08:17:34.140Z",
+      "version": "226",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
     },
     {
