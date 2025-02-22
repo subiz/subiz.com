@@ -8,5 +8,604 @@
   },
   "category": "6",
   "source_id": "1941951532",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Mẫu tin nhắn"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lợi ích sử dụng mẫu tin nhắn"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tăng tốc độ trả lời khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giảm công sức nhập tin nhắn lặp đi lặp lại như lời chào khách, gửi thông tin sản phẩm, hướng dẫn thanh toán,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chuyên nghiệp hóa dịch vụ chăm sóc khách hàng. Tất cả nhân viên thống nhất nội dung và văn phong gửi tin nhắn cho khách."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfimtttyvvckujaz_acpxkgumifuoofoosble/unnamed.gif"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Sử dụng mẫu tin nhắn trong chat"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có 2 cách sử dụng mẫu tin nhắn trong khi chat trả lời khách:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, gõ dấu gạch chéo “/” +”ký tự tắt”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tại ô nhập tin nhắn, nhấp nút “Mẫu tin nhắn” > Tìm kiếm ký tự tắt hay từ khóa liên quan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfimxlgxlgynnwhs_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo mới mẫu tin nhắn chat"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/?message_template=true",
+                      "title": "trang Mẫu tin nhắn",
+                      "text": "trang Mẫu tin nhắn",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Hoặc click ảnh đại diện ở góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfindhgwxwicyjbq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập ký tự tắt ngắn gọn, dễ nhớ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp cùng dùng chung mẫu tin nhắn hoặc dùng riêng cá nhân."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfingyacjumqlhnd_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhập mẫu tin nhắn từ file lên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nếu bạn có sẵn file chứa nhiều tin nhắn, thay vì tạo từng mẫu thủ công trên Subiz, bạn có thể tải file mẫu lên và tạo nhiều mẫu tin nhắn cùng một lúc. Điều này giúp tiết kiệm thời gian và nâng cao hiệu quả quản lý tin nhắn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách tạo mẫu tin nhắn hàng loạt:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/?message_template=true",
+                      "title": "trang Mẫu tin nhắn",
+                      "text": "trang Mẫu tin nhắn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Hoặc click ảnh đại diện ở góc phải trên cùng màn hình trang Subiz. Chọn Mẫu tin nhắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Nhập dữ liệu ở góc trên màn hình bên trái."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tải tệp mẫu về và tạo nội dung tin nhắn theo đúng định dạng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Tải lên tệp và và chọn tệp chứa các tin nhắn đã chuẩn bị."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Click Bắt đầu tải lên Subiz, chọn Hoàn thành để hoàn tất quá trình nhập dữ liệu"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfinmgcvwpuyqhjk_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subiz hỗ trợ các tệp định dạng CSV, XLSX và XLS."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi tải tệp lên thành công, Subiz sẽ hiển thị danh sách các mẫu tin nhắn. Bạn có thể sử dụng ngay hoặc chỉnh sửa/xóa những mẫu tin nhắn không phù hợp."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo mẫu email"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/?message_template=true",
+                      "title": "trang Mẫu tin nhắn",
+                      "text": "trang Mẫu tin nhắn",
+                      "target": "_blank",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Hoặc click ảnh đại diện góc phải trên cùng màn hình trang Subiz > Chọn Mẫu tin nhắn"
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/fisgdfindhgwxwicyjbq_acpxkgumifuoofoosble/unnamed.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo mới - Mẫu tin nhắn Email"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập địa chỉ email gửi đi, tiêu đề email, nội dung chi tiết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập Ký tự tắt ngắn gọn, dễ nhớ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tùy chọn chia sẻ với đồng nghiệp dùng chung mẫu email hoặc dùng riêng cho cá nhân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu thay đổi là xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfinqxaypvcinqhw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

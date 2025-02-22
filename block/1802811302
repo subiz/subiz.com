@@ -8,5 +8,253 @@
   },
   "category": "9",
   "source_id": "1802811302",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhãn phân loại khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhãn phân loại là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhãn phân loại là một trường thông tin của khách hàng có định dạng nút. Nhãn phân loại sẽ giúp bạn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tổng hợp thông tin khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân loại các nhóm khách hàng mục tiêu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thực hiện các chiến dịch chăm sóc, bán hàng cho khách hàng mục tiêu"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem nhãn phân loại ở đâu?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem nhãn phân loại khách tại tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfijjrbefrihlwcz_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem nhãn phân loại khách tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/lead",
+              "title": "KHÁCH TIỀM NĂNG",
+              "text": "KHÁCH TIỀM NĂNG",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfijtekewnblnbno_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tạo nhãn phân loại mới"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tạo mới nhãn phân loại khách hàng:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz > Mở Cài đặt > Chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/label",
+                      "title": "Nhãn phân loại",
+                      "text": "Nhãn phân loại",
+                      "target": "_blank",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Tạo nhãn > Nhập thông tin nhãn phân loại > Lưu để hoàn thành"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgdfijzwqidwedokxi_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

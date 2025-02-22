@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1738918274438,
-  "updated": 1738918274438,
+  "fetched": 1740195725864,
+  "updated": 1740195725864,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
-      "modifiedTime": "2024-11-26T09:23:44.470Z",
-      "version": "806",
+      "modifiedTime": "2025-02-11T09:59:13.461Z",
+      "version": "843",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -66,7 +66,7 @@
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại khách hàng",
       "modifiedTime": "2023-03-16T03:45:43.505Z",
-      "version": "106",
+      "version": "107",
       "path_lower": "/60 Quản lý khách hàng/4.-nhan-phan-loai-khach-hang"
     },
     {
@@ -121,7 +121,7 @@
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "6 Quản lý đội nhóm",
       "modifiedTime": "2024-12-30T08:46:13.692Z",
-      "version": "133",
+      "version": "135",
       "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Xử lý khi có nhân viên nghỉ việc trên Subiz",
       "modifiedTime": "2024-12-30T09:51:05.670Z",
-      "version": "366",
+      "version": "368",
       "path_lower": "/40 Quản lý làm việc nhóm/7-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz"
     },
     {
@@ -209,7 +209,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
       "modifiedTime": "2024-09-05T08:22:07.391Z",
-      "version": "230",
+      "version": "234",
       "path_lower": "/20 Tích hợp kênh tương tác/3--ket-noi-fanpage"
     },
     {
@@ -270,6 +270,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1OvDJDaFepydfB6aqUrIn1S1iDpc4xJzYXBnHRBhFbzY",
+      "name": "4. Các tính năng Subiz hỗ trợ Fanpage",
+      "modifiedTime": "2025-02-20T10:32:45.816Z",
+      "version": "28",
+      "path_lower": "/20 Tích hợp kênh tương tác/4.-cac-tinh-nang-subiz-ho-tro-fanpage"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1LllTe8n9sn9h-g92mFoeLVUa9SCcmROf"
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
@@ -284,10 +295,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
-      "name": "4. Kết nối Instagram",
-      "modifiedTime": "2023-05-25T07:24:25.250Z",
-      "version": "151",
-      "path_lower": "/20 Tích hợp kênh tương tác/4.-ket-noi-instagram"
+      "name": "8. Kết nối Instagram",
+      "modifiedTime": "2025-02-20T09:54:58.452Z",
+      "version": "157",
+      "path_lower": "/20 Tích hợp kênh tương tác/8.-ket-noi-instagram"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -308,7 +319,7 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
       "modifiedTime": "2024-11-29T10:34:56.284Z",
-      "version": "356",
+      "version": "358",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -405,10 +416,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
-      "name": "5. Kết nối Email",
-      "modifiedTime": "2025-02-07T08:17:34.140Z",
-      "version": "226",
-      "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-email"
+      "name": "6. Kết nối Email",
+      "modifiedTime": "2025-02-20T09:54:13.664Z",
+      "version": "240",
+      "path_lower": "/20 Tích hợp kênh tương tác/6.-ket-noi-email"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -429,7 +440,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
       "modifiedTime": "2023-01-17T08:39:56.701Z",
-      "version": "116",
+      "version": "117",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -473,7 +484,7 @@
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "3. Popup chuyển đổi khách tiềm năng",
       "modifiedTime": "2023-08-18T11:17:27.537Z",
-      "version": "338",
+      "version": "339",
       "path_lower": "/50 Tự động hóa/3.-popup-chuyen-doi-khach-tiem-nang"
     },
     {
@@ -483,8 +494,8 @@
       ],
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2024-03-23T08:10:22.968Z",
-      "version": "169",
+      "modifiedTime": "2025-02-19T09:38:02.675Z",
+      "version": "183",
       "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
     },
     {
@@ -539,7 +550,7 @@
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "11. Phiếu ghi chăm sóc khách hàng",
       "modifiedTime": "2024-08-01T11:52:20.799Z",
-      "version": "108",
+      "version": "109",
       "path_lower": "/100 Ứng dụng nâng cao/11.-phieu-ghi-cham-soc-khach-hang"
     },
     {
@@ -636,10 +647,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
-      "name": "3 Kết nối Zalo OA",
-      "modifiedTime": "2023-12-19T10:04:49.914Z",
-      "version": "165",
-      "path_lower": "/20 Tích hợp kênh tương tác/3-ket-noi-zalo-oa"
+      "name": "5. Kết nối Zalo OA",
+      "modifiedTime": "2025-02-20T09:53:37.855Z",
+      "version": "172",
+      "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-zalo-oa"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
