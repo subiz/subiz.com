@@ -3,7 +3,7 @@ title: Tổng đài điện thoại
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2025-01-24T08:34:40.141Z
+   date: 2025-02-11T09:59:13.461Z
 ---
 # Tổng đài điện thoại
 * [Kết nối tổng đài](/90-tong-dai-dien-thoai/1.-ket-noi-tong-dai.md)

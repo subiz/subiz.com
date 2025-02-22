@@ -32,7 +32,7 @@ last_update:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/1e285c1d2f827172b1e56a944eefbc7bb6a00def4f01ac9e7fbf663df5026875_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgdfijjqwtqeviofpn_acpxkgumifuoofoosble/unnamed.png)
 
 ## Hướng dẫn tích hợp Fanpage 
 
@@ -48,7 +48,7 @@ last_update:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/2da1c4ba4a7613323959fdf3ea013270335007b7953f035edaff4991be60e06c_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgdfijpyphwaunuqrp_acpxkgumifuoofoosble/unnamed.png)
 
 ## Hướng dẫn thêm Fanpage mới vào Subiz
 
@@ -65,4 +65,4 @@ Khi bạn đã cài đặt Fanpage vào Subiz và muốn thêm Fanpage mới, b�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/a0825eb795874cb203ea27e422b16282dd015fc718d31974c185c88dfc274d51_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgdfijtlnvrspjnfin_acpxkgumifuoofoosble/unnamed.png)
