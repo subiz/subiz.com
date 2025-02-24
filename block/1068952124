@@ -57,8 +57,7 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 2,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
@@ -120,7 +119,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfikgginruqkpzoh_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksfdswgulvnocn_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -280,11 +279,11 @@
           "content": [
             {
               "type": "text",
-              "text": "- Bật O"
+              "text": "- Bật"
             },
             {
               "type": "text",
-              "text": "N",
+              "text": "ON",
               "bold": true
             },
             {
@@ -335,32 +334,23 @@
           "content": [
             {
               "type": "text",
-              "text": "Cách cài đặt:",
+              "text": "Cách cài đặt",
               "bold": true
             },
             {
               "type": "text",
-              "text": "Truy cập"
+              "text": ": Truy cập"
             },
             {
               "type": "link",
               "href": "https://app.subiz.com.vn/settings/messenger?fanpage_id=",
-              "title": "trang cài đặt Fanpage",
-              "text": "trang cài đặt Fanpage",
+              "title": "trang cài đặt Fanpag",
+              "text": "trang cài đặt Fanpag",
               "target": "_blank"
             },
             {
               "type": "text",
-              "text": ", chọn Cài đặt => Cài đặt chung => Bật O"
-            },
-            {
-              "type": "text",
-              "text": "N",
-              "bold": true
-            },
-            {
-              "type": "text",
-              "text": "tự động trả lời bình luận, tích chọn mục Tự động ẩn bình luận."
+              "text": ", chọn Cài đặt => Cài đặt chung => Bật ON tự động trả lời bình luận, chọn Tự động ẩn bình luận."
             }
           ]
         },
@@ -389,7 +379,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "Tin nhắn tự đọng inbox Messenge khi khách hàng để lại bình luận trên bài viết."
+                      "text": "Tin nhắn tự động inbox Messenger khi khách hàng để lại bình luận trên bài viết."
                     }
                   ]
                 }
@@ -442,7 +432,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfikjsjybgjiogby_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksjizkpallogzg_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -516,7 +506,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfiknjkjncglgpqs_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksnylskyylapfm_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -536,12 +526,20 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 3,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt cụ thể cho bài viết: Sau khi chọn bài viết hoặc hashtag, tiến hành thiết lập các tính năng như: tự động like bình luận, ẩn bình luận, gửi inbox Messenger,..."
+              "text": "Cài đặt cụ thể cho bài viết",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ":"
+            },
+            {
+              "type": "text",
+              "text": "Sau khi chọn bài viết hoặc hashtag, tiến hành thiết lập các tính năng như: tự động like bình luận, ẩn bình luận, gửi inbox Messenger,..."
             }
           ]
         },
@@ -586,11 +584,6 @@
               "title": "trang cài đặt Fanpage",
               "text": "trang cài đặt Fanpage",
               "target": "_blank"
-            },
-            {
-              "type": "text",
-              "text": ":",
-              "bold": true
             }
           ]
         },
@@ -599,7 +592,7 @@
           "content": [
             {
               "type": "text",
-              "text": "- Vào Cài đặt Fanpage → Ghi nhận chuyển đổi → Cấp quyền cho Subiz"
+              "text": "- Vào Cài đặt Fanpage => Ghi nhận chuyển đổi => Cấp quyền cho Subiz"
             }
           ]
         },
@@ -608,7 +601,7 @@
           "content": [
             {
               "type": "text",
-              "text": "- Chọn hồ sơ doanh nghiệp muốn kết nối với Subiz → Tiếp tục để kết nối với hồ sơ doanh nghiệp và trang Fanpage"
+              "text": "- Chọn hồ sơ doanh nghiệp muốn kết nối với Subiz => Tiếp tục để kết nối với hồ sơ doanh nghiệp và trang Fanpage"
             }
           ]
         },
@@ -628,7 +621,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfikslqdvzbgppzt_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksrdbftfzbrjog_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -668,7 +661,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfikwegxcpwlsssr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksufvkxyjxdzgv_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -678,20 +671,12 @@
           "content": [
             {
               "type": "text",
-              "text": "Xem báo cáo trên Facebook:",
+              "text": "Xem báo cáo trên Facebook",
               "bold": true
             },
             {
               "type": "text",
-              "text": "Facebook thường cập nhật sự kiện chuyển đổi sau 30 phút kể từ khi Subiz gửi đi. Bạn xem báo cáo sự kiện chuyển đổi từ Subiz"
-            },
-            {
-              "type": "text",
-              "text": "tại"
-            },
-            {
-              "type": "text",
-              "text": "2 mục:"
+              "text": ": Facebook thường cập nhật sự kiện chuyển đổi sau 30 phút kể từ khi Subiz gửi đi. Bạn xem báo cáo sự kiện chuyển đổi từ Subiz tại 2 mục:"
             }
           ]
         },
@@ -788,7 +773,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "\" → Chọn \"Bot Chào khách\" → Nhấn \"Sử dụng\" để thiết kế kịch bản"
+                      "text": "\" => Chọn \"Bot Chào khách\" => Nhấn \"Sử dụng\" để thiết kế kịch bản"
                     }
                   ]
                 }
@@ -826,7 +811,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfikzxgfhqpczlci_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekksyogcetamjgwc_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -889,7 +874,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfilfrkbclzvwfub_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktgmwnitavtyni_acpxkgumifuoofoosble/unnamed.png"
               }
             },
             {
@@ -1177,7 +1162,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfillswrylrtzeba_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktkrcphpttzznm_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1343,7 +1328,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfilpqdrndgwgpwk_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktoxvoaeqdswau_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1510,7 +1495,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfilsxilpvbbbbyp_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktsdaocxgfgwad_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1541,7 +1526,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfilwitnrptzhpdl_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktvbmvvcbkrzsz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1573,7 +1558,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgdfimbtxdpbkrusiz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgekktzneotpmxtcfz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

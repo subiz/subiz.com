@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1740195725864,
-  "updated": 1740195725864,
+  "fetched": 1740364500562,
+  "updated": 1740364500562,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -209,7 +209,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
       "modifiedTime": "2024-09-05T08:22:07.391Z",
-      "version": "234",
+      "version": "236",
       "path_lower": "/20 Tích hợp kênh tương tác/3--ket-noi-fanpage"
     },
     {
@@ -274,8 +274,8 @@
       ],
       "id": "1OvDJDaFepydfB6aqUrIn1S1iDpc4xJzYXBnHRBhFbzY",
       "name": "4. Các tính năng Subiz hỗ trợ Fanpage",
-      "modifiedTime": "2025-02-20T10:32:45.816Z",
-      "version": "28",
+      "modifiedTime": "2025-02-24T02:07:49.489Z",
+      "version": "43",
       "path_lower": "/20 Tích hợp kênh tương tác/4.-cac-tinh-nang-subiz-ho-tro-fanpage"
     },
     {
@@ -297,7 +297,7 @@
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "8. Kết nối Instagram",
       "modifiedTime": "2025-02-20T09:54:58.452Z",
-      "version": "157",
+      "version": "159",
       "path_lower": "/20 Tích hợp kênh tương tác/8.-ket-noi-instagram"
     },
     {

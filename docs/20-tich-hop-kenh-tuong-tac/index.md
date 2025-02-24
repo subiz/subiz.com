@@ -3,7 +3,7 @@ title: Tích hợp kênh tương tác
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2025-02-20T10:32:45.816Z
+   date: 2025-02-24T02:07:49.489Z
 ---
 # Tích hợp kênh tương tác
 * [Kết nối website](/20-tich-hop-kenh-tuong-tac/1-ket-noi-website.md)
