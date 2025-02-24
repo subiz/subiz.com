@@ -1,12 +1,688 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "https://docs.google.com/document/d/1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4"
+    "vi_VN": "6 Tích hợp kênh Email"
   },
   "i18n_slug": {
-    "vi_VN": "https://docs.google.com/document/d/1yswrs9uz8bjwuod82x-womnuo2lsqowxrdyaukgeny4"
+    "vi_VN": "6-tich-hop-kenh-email"
   },
   "category": "5",
   "source_id": "1245788391",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "6 Tích hợp kênh Email"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kênh Email trên Subiz hoạt động như thế nào?"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhận và gửi email cho khách hàng từ phần mềm Subiz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Quản lý được tất cả email từ nhiều địa chỉ email khác nhau trên 1 trang Subiz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tạo và sử dụng được mẫu email"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn tích hợp email trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Thêm email vào Subiz"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/",
+                      "title": "Đăng nhập tài khoản Subiz",
+                      "text": "Đăng nhập tài khoản Subiz",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột lên góc trên màn hình bên phải, nhấp chọn Cài đặt (hình bánh răng)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Email tại mục TÍCH HỢP ở cột tính năng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrdwnzxujvckios_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Di chuột lên góc trên bên phải chọn Thêm Email. Tiếp đó nhập địa chỉ Email bạn muốn thêm và điền tên hiển thị mong muốn. Nhấp Lưu và tiếp tục để hoàn thành như ví dụ trong hình ảnh dưới đây:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrdzmqkofiooxzo_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Cho phép nhận thư đến"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm tên Email bạn đã tích hợp tại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/email",
+                      "title": "danh sách Email",
+                      "text": "danh sách Email",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON cột “CHO PHÉP NHẬN” chuyển sang màu xanh. Ví dụ: Email ngoin338@subiz.com."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi bật ON, Subiz sẽ hiển thị ảnh hướng dẫn chi tiết. Nhấp chuột để xem chi tiết và thực hiện theo “Hướng dẫn cài đặt tự động chuyển tiếp trên Email”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrebuunjjbgtcib_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi cài đặt xong, bạn sẽ nhận được một Email xác thực gửi qua Tin nhắn Subiz."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn copy đường link và dán đường liên kết đó vào một cửa sổ trình duyệt mới. Nhấn xác nhận để hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelreerlqpraocjfq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Cho phép trả lời thư"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bật ON cột “CHO PHÉP GỬI” => Nhấp vào"
+            },
+            {
+              "type": "text",
+              "text": "Tiếp tục",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz cung cấp 4 bảng ghi. Bạn Truy cập vào trình quản lý DNS của tên miền bạn đang sử dụng, thêm 4 bản ghi mà Subiz cung cấp vào danh sách các bản ghi DNS của tên miền để xác thực."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelregxkkrebeobym_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để xác thực Email người gửi, có thể áp dụng 2 cách sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1: Nhờ kỹ thuật tên miền hỗ trợ",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Bạn nên liên hệ với kỹ thuật của nhà cung cấp dịch vụ tên miền, gửi cho họ 4 bản ghi cùng hướng dẫn từ Subiz và yêu cầu hỗ trợ thêm các bản ghi này vào DNS tên miền của bạn. Sau khi nhà cung cấp hoàn tất, hãy quay lại Subiz để kiểm tra. Nếu cấu hình thành công, cột \"Cho phép nhận\" và \"Cho phép gửi\" sẽ hiển thị màu xanh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2: Tự thực hiện xác thực",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp vào Kiểm tra xác thực. Nếu"
+                    },
+                    {
+                      "type": "text",
+                      "text": "x"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ác thự"
+                    },
+                    {
+                      "type": "text",
+                      "text": "c thành công sẽ hiện ful"
+                    },
+                    {
+                      "type": "text",
+                      "text": "l tích xanh. Cuối cùng Nhấp chuột vào Hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sau khi thêm, trạng thái xác thực sẽ được cập nhật sau khoảng 5 phút. Tức lúc đó bạn mới thấy nút xanh xuất hiện."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nếu xác thực không thành công (xuất hiện dấu chấm than đỏ), bạn nên quay lại cách 1."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tính năng cho phép trả lời thư chỉ áp dụng với những Email Domain (ví dụ:"
+                    },
+                    {
+                      "type": "link",
+                      "href": "mailto:ngoin338@subiz.com",
+                      "title": "ngoin338@subiz.com",
+                      "text": "ngoin338@subiz.com",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Không áp dụng với các Email thông thường (ví dụ:"
+                    },
+                    {
+                      "type": "link",
+                      "href": "mailto:ngoin338@gmail.com",
+                      "title": "ngoin338@gmail.com",
+                      "text": "ngoin338@gmail.com",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn nhận và gửi email trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách nhận Email trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại Dashboard, chọn"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo?uid=ussdrxxsgtbaaoxxqddiv&cid=cssekayaqdpxurkfvc",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "trên thanh Menu"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Email mới sẽ hiển thị trong trang 'Tin nhắn' với biểu tượng đặc trưng. Bạn sẽ nhận thông báo khi có khách gửi email. Nhấp vào hội thoại Email để xem nội dung chi tiết."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrejyeckthzycue_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Trả lời email đến trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhấp chuột vào “Trả lời” ở góc phải màn hình Email đến. Tiếp đó soạn nội dung mong muốn. Nhấn gửi để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelremsfozuabjcaj_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Gửi email cho khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Tại cột bên phải thông tin khách, nhấp chuột vào Email khách hàng => chọn Gửi Email. Tiếp đó, chọn Email gửi đi, Email nhận, tiêu đề Email, nội dung. Cuối cùng là nhấp vào Gửi để hoàn thiện."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrepihnehqbvheg_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Nhấp chuột vào biểu tượng Email ở phần thông tin khách hàng. Tiếp đó, soạn và gửi Email như bình thường."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelrerxqcrkmiyquh_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 3",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Nhấp chuột vào biểu tượng Email ở cạnh phải màn hình, sau đó soạn và gửi Email như bình thường."
+            },
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgelreuwufmnessfej_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
