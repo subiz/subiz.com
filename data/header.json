@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1740371275414,
-  "updated": 1740371275414,
+  "fetched": 1741167880165,
+  "updated": 1741167880165,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -275,7 +275,7 @@
       "id": "1OvDJDaFepydfB6aqUrIn1S1iDpc4xJzYXBnHRBhFbzY",
       "name": "4. Các tính năng Subiz hỗ trợ Fanpage",
       "modifiedTime": "2025-02-24T03:29:56.490Z",
-      "version": "50",
+      "version": "53",
       "path_lower": "/20 Tích hợp kênh tương tác/4.-cac-tinh-nang-subiz-ho-tro-fanpage"
     },
     {
@@ -417,8 +417,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "6. Kết nối Email",
-      "modifiedTime": "2025-02-24T04:26:51.022Z",
-      "version": "245",
+      "modifiedTime": "2025-02-24T09:35:47.610Z",
+      "version": "256",
       "path_lower": "/20 Tích hợp kênh tương tác/6.-ket-noi-email"
     },
     {
@@ -494,8 +494,8 @@
       ],
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2025-02-19T09:38:02.675Z",
-      "version": "183",
+      "modifiedTime": "2025-02-24T09:47:55.471Z",
+      "version": "196",
       "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "5. Kết nối Zalo OA",
-      "modifiedTime": "2025-02-24T04:26:40.225Z",
-      "version": "176",
+      "modifiedTime": "2025-02-24T04:27:17.015Z",
+      "version": "181",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-zalo-oa"
     },
     {
