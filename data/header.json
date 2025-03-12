@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1741167880165,
-  "updated": 1741167880165,
+  "fetched": 1741743820649,
+  "updated": 1741743820649,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -264,7 +264,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "4. Chiến dịch telesales",
       "modifiedTime": "2024-11-30T02:49:34.789Z",
-      "version": "151",
+      "version": "153",
       "path_lower": "/90 Tổng đài điện thoại/4.-chien-dich-telesales"
     },
     {
@@ -277,6 +277,17 @@
       "modifiedTime": "2025-02-24T03:29:56.490Z",
       "version": "53",
       "path_lower": "/20 Tích hợp kênh tương tác/4.-cac-tinh-nang-subiz-ho-tro-fanpage"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
+      "name": "5. Quản lý nhiều Tổng Đài",
+      "modifiedTime": "2025-03-07T03:16:13.064Z",
+      "version": "12",
+      "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -318,8 +329,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
-      "modifiedTime": "2024-11-29T10:34:56.284Z",
-      "version": "358",
+      "modifiedTime": "2025-03-10T03:13:25.702Z",
+      "version": "373",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -340,8 +351,8 @@
       ],
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live khách truy cập web",
-      "modifiedTime": "2023-08-10T09:35:00.163Z",
-      "version": "309",
+      "modifiedTime": "2025-03-07T03:48:45.388Z",
+      "version": "320",
       "path_lower": "/60 Quản lý khách hàng/1.--subiz-live-khach-truy-cap-web"
     },
     {
