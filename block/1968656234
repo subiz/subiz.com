@@ -52,7 +52,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektayyxipgbuzrp_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgqvuebeimiaass_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -168,7 +168,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektfrwrnszuadxz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgracoiaxrtlcik_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -241,7 +241,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektiohoeyujquws_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgredmgtpmtfipz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -251,7 +251,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Tips hay:",
+              "text": "Mẹo hay:",
               "bold": true
             },
             {
@@ -396,7 +396,19 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý: Để theo dõi chính xác, bạn cần gắn mã gclid hoặc utm\\_campaign theo hướng dẫn tại đây."
+              "text": "Lưu ý:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Để theo dõi chính xác, bạn cần"
+            },
+            {
+              "type": "link",
+              "href": "https://support.google.com/analytics/answer/1033981?hl=vi#zippy=%2Cn%E1%BB%99i-dung-c%E1%BB%A7a-b%C3%A0i-vi%E1%BA%BFt-n%C3%A0y",
+              "title": "gắn mã gclid hoặc utm\\_campaign theo hướng dẫn tại đây",
+              "text": "gắn mã gclid hoặc utm\\_campaign theo hướng dẫn tại đây",
+              "target": "_blank"
             }
           ]
         },
@@ -500,7 +512,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektlfvcansbwgnt_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrgibximobzpus_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -516,18 +528,11 @@
           ]
         },
         {
-          "type": "heading",
-          "level": 4,
-          "content": [
-            {
-              "type": "text",
-              "text": "Chiến dịch quảng cáo tiêu tốn ngân sách nhưng chuyển đổi thấp? Có thể bạn đang gặp click tặc (click ảo)."
-            }
-          ]
+          "type": "text",
+          "text": "Chiến dịch quảng cáo tiêu tốn ngân sách nhưng chuyển đổi thấp? Có thể bạn đang gặp click tặc (click ảo)."
         },
         {
-          "type": "heading",
-          "level": 4,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
@@ -628,7 +633,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "=> Sao chép mã IP cần kiểm tra."
+                      "text": "→ Sao chép mã IP cần kiểm tra."
                     }
                   ]
                 }
@@ -657,18 +662,18 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektpxfevzlwgawq_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrjpmzjuxsmsfh_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "heading",
-          "level": 4,
+          "type": "paragraph",
           "content": [
             {
               "type": "text",
-              "text": "Chặn địa chỉ IP"
+              "text": "Chặn địa chỉ IP",
+              "bold": true
             }
           ]
         },
@@ -787,7 +792,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektuvfzbzzdqfkf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrnixuwcmneajg_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

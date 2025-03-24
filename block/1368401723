@@ -64,7 +64,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Kết nối không giới hạn Fanpage: Tích hợp và quản lý tất cả Fanpage chỉ trên Subiz."
+                      "text": "Kết nối nhiều Fanpage: Tích hợp và quản lý tất cả Fanpage chỉ trên Subiz."
                     }
                   ]
                 }
@@ -269,7 +269,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektcdralpapcxyg_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgqwbahlpxhfpjy_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -314,7 +314,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektgnplkmtryhkn_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgraseirccyyipj_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -469,7 +469,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektlwrdobzsduks_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrhoauuravjjwx_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -695,7 +695,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektqpcsoxnumzak_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrmegnkjnebnaa_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -726,7 +726,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektvccuccncpxnj_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrrlxbsjlsxgqz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -757,7 +757,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektzvpsbzeucjqa_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrvluemkyhgfpl_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -851,7 +851,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuenroxufbaeww_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrzstykqbhxmkv_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -920,7 +920,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuielvqcjvtcan_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsdvpwdhlpvjah_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1013,7 +1013,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekunoiboydbmeyx_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsitjpnngymgtd_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1125,7 +1125,15 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn được cài đặt không giới hạn số lượng Fanpage vào Subiz."
+              "text": "Bạn được cài đặt tối đa"
+            },
+            {
+              "type": "text",
+              "text": "1000"
+            },
+            {
+              "type": "text",
+              "text": "số lượng Fanpage vào Subiz."
             }
           ]
         },
@@ -1178,7 +1186,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekurwnzsozjxusd_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsmmolrwcyignw_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1217,7 +1225,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuvkrolpwlnhpr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsrhjmuekpdyww_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1253,7 +1261,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuztzepltqoqsl_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsxzdhommmeyam_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1288,7 +1296,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekvfrlumjxrrbzz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgtffpxzxkgoifu_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

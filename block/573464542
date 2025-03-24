@@ -91,7 +91,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Mở trang cài đặt, tìm chức năng"
+                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
                     },
                     {
                       "type": "link",
@@ -102,7 +102,7 @@
                     },
                     {
                       "type": "text",
-                      "text": ". Chọn nút Thêm đầu số và nhập vào đầu số tổng đài."
+                      "text": ". Chọn Thêm đầu số và nhập vào đầu số tổng đài."
                     }
                   ]
                 }
@@ -140,7 +140,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektacrqkbifskkh_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgqtkbozjnbinpa_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -231,18 +231,14 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Mở trang"
+                      "text": "Đăng nhập Subiz qua đường link"
                     },
                     {
                       "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Cài đặt Tổng Đài",
-                      "text": "Cài đặt Tổng Đài",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
                       "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": ", tìm số tổng đài cần xóa, nhấp vào biểu tượng thùng rác."
                     }
                   ]
                 }
@@ -256,7 +252,32 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Chọn xóa để hoàn tất."
+                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Tổng Đài",
+                      "text": "Tổng Đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm số tổng đài cần xóa, nhấp vào biểu tượng thùng rác => Chọn Xóa để hoàn tất."
                     }
                   ]
                 }
@@ -271,7 +292,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektehgvpdflggka_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgqyilzghsmrxpy_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -323,7 +344,21 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Vào Dashboard => Chọn Tổng Đài> chọn Cài Đặt số tổng đài mong muốn."
+                      "text": "Đăng nhập Subiz tại"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "app.subiz.com.vn",
+                      "text": "app.subiz.com.vn",
+                      "target": "_blank"
                     }
                   ]
                 }
@@ -337,7 +372,21 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chuột vào “Thay đổi” mục Lời thoại chờ trong Cấu hình đầu số"
+                      "text": "Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn số tổng đài muốn thêm lời chờ, nhấn Cài đặt."
                     }
                   ]
                 }
@@ -356,7 +405,26 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nếu đã có file ghi âm lời thoại, bạn chọn Tải tệp lên và chọn Xác nhận để hoàn thành."
+                      "text": "Di chuột xuống mục Lời thoại chờ trong cấu hình số chọn Thay đổi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nếu đã có file ghi âm: Nhấn Tải tệp lên, chọn file, rồi Xác nhận."
                     }
                   ]
                 }
@@ -370,12 +438,17 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nếu chưa có file thoại, bạn chọn Máy đọc. Ghi lại nội dung, chọn giọng đọc, nhạc nền sau đó ấn Xác nhận để hoàn thành."
+                      "text": "Nếu chưa có file: Chọn Máy đọc, nhập nội dung, chọn giọng đọc và nhạc nền, rồi Xác nhận."
                     }
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
             {
               "type": "list_item",
               "content": [
@@ -399,7 +472,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekthblgztiyxujb_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrblgndzppbaaj_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -457,18 +530,21 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Tại trang"
+                      "text": "Đăng nhập Subiz tại"
                     },
                     {
                       "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Cài đặt Tổng Đài",
-                      "text": "Cài đặt Tổng Đài",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
                       "target": "_blank"
                     },
                     {
-                      "type": "text",
-                      "text": ", chọn Cài Đặt số tổng đài mong muốn."
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "app.subiz.com.vn",
+                      "text": "app.subiz.com.vn",
+                      "target": "_blank"
                     }
                   ]
                 }
@@ -482,7 +558,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chuột vào “Thay đổi” mục Lời thoại báo bận trong Cấu hình tổng đài"
+                      "text": "Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
                     }
                   ]
                 }
@@ -496,7 +572,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nếu đã có file ghi âm lời thoại, bạn chọn Tải tệp lên và chọn Xác nhận để hoàn thành."
+                      "text": "Tìm tới số tổng đài muốn thêm lời thoại báo bận, chọn Cài đặt."
                     }
                   ]
                 }
@@ -510,7 +586,26 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nếu chưa có file thoại, bạn chọn Máy đọc. Ghi lại nội dung, chọn giọng đọc, nhạc nền sau đó ấn Xác nhận để hoàn thành."
+                      "text": "Di chuột xuống mục Lời thoại báo bận trong Cầu hình tổng đài, chọn Thay đổi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nếu đã có file ghi âm: Nhấn Tải tệp lên, chọn file, rồi Xác nhận."
                     }
                   ]
                 }
@@ -524,7 +619,26 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cuối cùng nhấp Lưu cài đặt"
+                      "text": "Nếu chưa có file: Chọn Máy đọc, nhập nội dung, chọn giọng đọc và nhạc nền, rồi Xác nhận."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cuối cùng nhấp Lưu cài đặt."
                     }
                   ]
                 }
@@ -572,18 +686,25 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Tại trang"
+                      "text": "Đăng nhập Subiz tại"
                     },
                     {
                       "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Cài đặt Tổng Đài",
-                      "text": "Cài đặt Tổng Đài",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "app.subiz.com.vn",
+                      "text": "app.subiz.com.vn",
                       "target": "_blank"
                     },
                     {
                       "type": "text",
-                      "text": ", chọn Cài Đặt số tổng đài mong muốn."
+                      "text": "."
                     }
                   ]
                 }
@@ -597,7 +718,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chuột bật ON mục ghi âm cuộc gọi trong cấu hình tổng đài."
+                      "text": "Vào cài đặt (biểu tượng bánh răng góc phải), chọn Tổng Đài ở cột bên trái."
                     }
                   ]
                 }
@@ -611,7 +732,53 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cuối cùng nhấp Lưu cài đặt"
+                      "text": "Chọn số tổng đài cần bật ghi âm, nhấn Cài đặt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kéo xuống mục"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ghi âm cuộc gọi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", chuyển trạng thái"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ON",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp Lưu cài đặt."
                     }
                   ]
                 }
@@ -640,7 +807,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Truy cập Dashboard Subiz, nhấp vào mục"
+                      "text": "Tại Dashboard Subiz, nhấp vào mục"
                     },
                     {
                       "type": "link",
@@ -651,7 +818,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "."
+                      "text": "trên thanh Menu."
                     }
                   ]
                 }
@@ -665,7 +832,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Tìm cuộc gọi theo Số điện thoại hoặc hội thoại khách hàng. Ví dụ bạn Click chuột vào cuộc gọi của bạn Ms.Bích"
+                      "text": "Tìm cuộc gọi theo số điện thoại hoặc hội thoại khách hàng (VD: khách hàng tên Mr.Trung)"
                     }
                   ]
                 }
@@ -679,7 +846,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chuột vào biểu tượng nghe mục ghi âm cuộc gọi như hình ảnh dưới đây để bắt đầu nghe lại đoạn hội thoại:"
+                      "text": "Nhấp vào biểu tượng nghe mục ghi âm cuộc gọi như hình ảnh dưới đây để bắt đầu nghe lại đoạn hội thoại:"
                     }
                   ]
                 }
@@ -694,7 +861,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektmoxcqetsgsjb_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrgadixqlhyqmx_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -729,18 +896,14 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Vào trang"
+                      "text": "Đăng nhập Subiz qua đường link"
                     },
                     {
                       "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Cài đặt Tổng Đài",
-                      "text": "Cài đặt Tổng Đài",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
                       "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": ", chọn Cài Đặt số tổng đài mong muốn."
                     }
                   ]
                 }
@@ -754,7 +917,117 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Bật ON dùng tính năng Kiểm soát gọi ra. Tại đây bạn có thể chọn:"
+                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Tổng Đài",
+                      "text": "Tổng Đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm tới số tổng đài muốn phân quyền gọi ra, chọn Cài đặt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột xuống mục Kiểm soát gọi ra trong cấu hình Tổng đài và bật ON kiểm soát gọi ra. Tại đây bạn có thể tích chọn:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Không ai được gọi ra",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Nếu bạn muốn chỉ nhận cuộc gọi của khách hàng mà không cho nhân viên gọi ra từ số tổng đài này."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Agent được phép gọi ra",
+                      "bold": true
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": ": Cho phép 1 số nhân viên gọi ra từ số tổng đài này."
+                        },
+                        {
+                          "type": "text",
+                          "text": "Tích chọn Agent được phép gọi và nhấp chuột vào biểu tượng (+) để lựa chọn Agent."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu cài đặt để hoàn thành."
                     }
                   ]
                 }
@@ -766,37 +1039,10 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "text",
-              "text": "- Không ai được gọi ra: (nếu muốn chỉ nhận cuộc gọi của khách hàng mà không cho nhân viên gọi ra từ số tổng đài này)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "- Chọn Agent được phép gọi ra (Cho phép 1 số nhân viên gọi ra từ số tổng đài này). Tích chọn Agent được phép gọi và nhấp chuột vào biểu tượng (+) để lựa chọn Agent."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "- Lưu cài đặt để hoàn thành."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektqfioxbozgdpz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrjgktyshsddkn_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -807,7 +1053,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Phân phối cuộc gọi đến tới Agent"
+              "text": "Phân phối cuộc gọi đến của từng số"
             }
           ]
         },
@@ -816,7 +1062,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Nếu muốn tự động phân phối cuộc gọi từ từng số tổng đài đến đúng agent phụ trách, bạn cần thiết lập Rule phân phối phù hợp."
+              "text": "Bạn có thể tự động phân phối cuộc gọi từng số tổng đài đến đúng agent phụ trách, bằng cách tạo nhiều Rule phân phối cuộc gọi cho từng số tổng đài."
             }
           ]
         },
@@ -825,23 +1071,8 @@
           "content": [
             {
               "type": "text",
-              "text": "Cài đặt Rule:",
+              "text": "Hướng dẫn cài đặt:",
               "bold": true
-            },
-            {
-              "type": "text",
-              "text": "Tại trang"
-            },
-            {
-              "type": "link",
-              "href": "https://app.subiz.com.vn/settings/rule-setting",
-              "title": "cài đặt Rule phân phối",
-              "text": "cài đặt Rule phân phối",
-              "target": "_blank"
-            },
-            {
-              "type": "text",
-              "text": ", Chọn Tạo Rule phân phối và thiết lập:"
             }
           ]
         },
@@ -856,12 +1087,14 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Thông tin chung:",
-                      "bold": true
+                      "text": "Đăng nhập Subiz qua đường link"
                     },
                     {
-                      "type": "text",
-                      "text": "Nhập tên Rule và mô tả để nhận biết rule này làm nhiệm vụ gì?"
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
                     }
                   ]
                 }
@@ -875,8 +1108,54 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Loại hội thoại:",
-                      "bold": true
+                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn Rule phân phối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn Tạo Rule phân phối"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập tên Rule phân phối và mô tả để nhận biết mục đích sử dụng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mục Loại hội thoại:"
                     },
                     {
                       "type": "text",
@@ -885,25 +1164,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Điều kiện chạy:",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": "Chọn số tổng đài và Đầu số điện thoại khách hàng muốn phân tới Agent"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -914,7 +1174,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekttcyiydlhyjal_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrlkgshzbrnxzd_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -930,7 +1190,26 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Thiết lập Hành động phân phối cuộc gọi: Bạn có thể tạo hành động như hình ảnh dưới đây"
+                      "text": "Thiết lập điều kiện:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn muốn Rule này áp dụng cho đầu số tổng đài nào, thời gian hoạt động khi nào. Hãy thiết lập các điều kiện tại đây:"
                     }
                   ]
                 }
@@ -945,7 +1224,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoektxmsgfvpivsha_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrouafbdvyclda_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -955,12 +1234,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ví dụ",
-              "bold": true
-            },
-            {
-              "type": "text",
-              "text": ": Chọn hành động “Đổ chuông một trong các Agent”"
+              "text": "Ví dụ: Rule này sẽ chạy khi thỏa mãn 3 điều kiện sau:"
             }
           ]
         },
@@ -975,7 +1249,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấp chọn Agents để phân công nhân viên phụ trách cụ thể."
+                      "text": "Khi khách gọi tới số tổng đài: 02473021368"
                     }
                   ]
                 }
@@ -989,12 +1263,17 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cài đặt thứ tự đổ chuông theo nhu cầu."
+                      "text": "Cuộc gọi tới trong giờ làm việc."
                     }
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
             {
               "type": "list_item",
               "content": [
@@ -1003,21 +1282,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Thêm lời thoại chờ để tăng tính chuyên nghiệp: Chọn Thêm File Audio trong mục Lời thoại chờ. Tải lên file âm thanh có sẵn hoặc sử dụng máy đọc để tạo lời thoại."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Ấn Xác nhận để hoàn thành."
+                      "text": "Chọn hành động: Khi khách gọi đến, bạn muốn những nhân viên nào nhận được cuộc gọi, muốn cách đổ chuông cho các nhân viên như nào? khách nghe lời thoại chờ gì trong lúc chờ nối máy,... hãy thiết lập chi tiết tại đây."
                     }
                   ]
                 }
@@ -1030,8 +1295,37 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý:",
-              "bold": true
+              "text": "- Tích chọn cách đổ chuông cho nhân viên (Ví dụ: Đổ chuông cùng lúc nhiều Agent)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn Agent nhận cuộc gọi từ số tổng đài này (Ví dụ: Ngọc Nguyễn, Đức Trần)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Để phát lời thoại chờ, lời thoại báo bận để khách nghe trong lúc chờ nối máy, bạn chọn Thêm File Audio trong mục Lời thoại chờ => Tải lên file âm thanh hoặc dùng máy đọc để tạo lời thoại."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrtizqljcfadje_acpxkgumifuoofoosble/unnamed.png"
+              }
             }
           ]
         },
@@ -1046,39 +1340,27 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Subiz ưu tiên lời thoại thiết lập theo Rule."
+                      "text": "Cuối cùng nhấn Tạo Rule để hoành thành."
                     }
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tìm hiểu chi tiết và một số ví dụ cài đặt Rule:"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nếu cả Rule và cấu hình tổng đài đều có lời thoại, hệ thống sẽ sử dụng lời thoại từ Rule."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nếu Rule không có lời thoại, cuộc gọi đến sẽ không phát lời thoại. Vì vậy, để khách gọi tới sẽ phát lời thoại chờ, bạn hãy thêm lời thoại vào Rule cuộc gọi"
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/846069684-rule-phan-phoi-cuoc-goi#rule-theo-%C4%91%E1%BA%A7u-s%E1%BB%91-t%E1%BB%95ng-%C4%91%C3%A0i",
+              "title": "Rule phân phối cuộc gọi",
+              "text": "Rule phân phối cuộc gọi",
+              "target": "_blank"
             }
           ]
         },
@@ -1107,7 +1389,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn nghe cuộc gọi"
+              "text": "Hướng dẫn trả lời cuộc gọi"
             }
           ]
         },
@@ -1179,7 +1461,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Hướng dẫn gọi raBạn có thể thực hiện cuộc gọi từ nhiều số tổng đài khác nhau bằng cách chọn số gọi ra theo ý muốn hoặc cài đặt chế độ tự động chọn số phù hợp với nhu cầu của bạn."
+              "text": "Hướng dẫn gọi ra"
             }
           ]
         },
@@ -1188,7 +1470,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bước 1: Chọn đầu số và cài đặt giao thức",
+              "text": "Bước 1: Chọn số gọi ra",
               "bold": true
             }
           ]
@@ -1198,12 +1480,82 @@
           "content": [
             {
               "type": "text",
-              "text": "Chọn đầu số mặc định:",
+              "text": "Bạn có 2 cách thực hiện cuộc gọi từ nhiều số tổng đài khác nhau bằng cách chọn số gọi ra theo số tổng đài mặc định hoặc cài đặt chế độ tự động chọn số phù hợp với nhu cầu của bạn"
+            },
+            {
+              "type": "text",
+              "text": ".",
               "bold": true
             },
             {
               "type": "text",
-              "text": "Vào Cài đặt => Chọn số tổng đài."
+              "text": "Tùy vào nhu cầu, để lựa chọn số gọi ra phù hợp theo hướng dẫn sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tại màn hình Dashboard Subiz, nhấn nút Gọi (biểu tượng điện thoại góc màn hình bên phải)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp mũi tên xuống mục Đầu số tổng đài: Tại đây bạn sẽ chọn số gọi ra theo 2 cách:"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Chọn đầu số tổng đài mặc định để luôn gọi ra từ một số cố định."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Chọn tự động thay đổi số khi gọi. (Subiz có 3 tùy chọn thay đổi để bạn lựa chọn: ngẫu nhiên, cùng mạng, ngẫu nhiên cùng mạng)"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1211,13 +1563,15 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "text",
-              "text": "Cài đặt giao thức gọi:",
-              "bold": true
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgrxonnfmfbbhhw_acpxkgumifuoofoosble/unnamed.png"
+              }
             },
             {
               "type": "text",
-              "text": "Subiz cung cấp 3 lựa chọn:"
+              "text": "Lưu ý: 3 tùy chọn tự động thay đổi số của Subiz mang ý nghĩa sau:"
             }
           ]
         },
@@ -1288,27 +1642,6 @@
           "content": [
             {
               "type": "text",
-              "text": "Cuối cùng Điền số điện thoại của khách cần liên hệ, rồi bấm GỌI"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekubthebzpwswmk_acpxkgumifuoofoosble/unnamed.png"
-              }
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
               "text": "Bước 2: Thực hiện nghe gọi trên các thiết bị",
               "bold": true
             }
@@ -1347,7 +1680,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Truy cập Dashboard Subiz => Nhấn GỌI (góc phải dưới cùng). Bạn nên cài đặt cấu hình gọi trước khi thực hiện cuộc gọi"
+              "text": "Truy cập Dashboard Subiz => Nhấn GỌI (góc phải dưới cùng). Bạn nên cài đặt cấu hình gọi trước khi thực hiện cuộc gọi. (đặt link)"
             }
           ]
         },
@@ -1386,7 +1719,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekueomsxqdiujkn_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgscegcrvtapwwg_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1451,7 +1784,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuiqlmcwhitabl_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgshnovvobkebqu_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1568,7 +1901,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn có thể dễ dàng kiểm tra người gọi đến và số tổng đài nhận cuộc gọi trực tiếp trên Trang Tin nhắn Subiz. Toàn bộ lịch sử cuộc gọi được lưu trữ và quản lý tại Dashboard Subiz."
+              "text": "Bạn có thể dễ dàng kiểm tra người gọi đến và số tổng đài nhận cuộc gọi trực tiếp trên Trang Tin nhắn Subiz. Càng hiểu về khách hàng bạn sẽ càng chủ động hỗ trợ khách hàng nhanh chóng và chuyên nghiệp hơn."
             }
           ]
         },
@@ -1587,7 +1920,18 @@
           "content": [
             {
               "type": "text",
-              "text": "- Truy cập Dashboard Subiz, nhấp vào mục Tin nhắn."
+              "text": "Trên trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "Tin nhắn",
+              "text": "Tin nhắn",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ", Subiz hiển thị trang giao diện với 3 cột như sau:"
             }
           ]
         },
@@ -1595,8 +1939,11 @@
           "type": "paragraph",
           "content": [
             {
-              "type": "text",
-              "text": "- Chọn thông báo cuộc gọi trong danh sách hội thoại để xem chi tiết."
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgvtgsolrrmkltyhsy_acpxkgumifuoofoosble/unnamed.png"
+              }
             }
           ]
         },
@@ -1620,21 +1967,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cột trái",
+                      "text": "Cột trái - Danh sách hội thoại:",
                       "bold": true
                     },
                     {
                       "type": "text",
-                      "text": "-"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Danh sách hội thoại",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": ": Hiển thị danh sách cuộc gọi tổng đài."
+                      "text": "Mỗi cuộc gọi là 1 hội thoại kèm trạng thái cuộc gọi, nếu khách chưa có tên sẽ hiển thị SĐT khách. Bạn xem Hãy ấn vào cuộc gọi để xem chi tiết trò chuyện."
                     }
                   ]
                 }
@@ -1648,21 +1986,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cột giữa",
+                      "text": "Cột giữa - Chi tiết trò chuyện:",
                       "bold": true
                     },
                     {
                       "type": "text",
-                      "text": "-"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Chi tiết trò chuyện",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": ": Hiển thị đầy đủ thông tin cuộc gọi như người gọi, số tổng đài nhận, thời lượng, ghi âm hội thoại."
+                      "text": "Bạn xem chi tiết cuộc gọi tới số tổng đài nào, lý do cụ thể không gọi đi được, ai trả lời cuộc gọi, nghe ghi âm cuộc gọi"
                     }
                   ]
                 }
@@ -1695,18 +2024,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgoekuomfwssowpqri_acpxkgumifuoofoosble/unnamed.png"
-              }
             }
           ]
         },

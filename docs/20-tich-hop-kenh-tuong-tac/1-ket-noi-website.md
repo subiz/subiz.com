@@ -18,7 +18,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat thu hút khách truy cậ
 
 
 
-![](https://vcdn.subiz-cdn.com/file/9628eec96ae0a667421996a5a992d21d46a2f4545b4af5eef8a44dd7d171ecfc_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgqulqwgfqaqsso_acpxkgumifuoofoosble/unnamed.png)
 
 ## Hướng dẫn cài đặt Subiz trên website
 
@@ -38,7 +38,7 @@ Trên website, Subiz sẽ hiển thị cửa sổ chat thu hút khách truy cậ
 
 
 
-![](https://vcdn.subiz-cdn.com/file/42c591962429c4a1178adcdda20824589c1b1ab3799f037eccf356e851cd3f9b_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgraucombcaxvlh_acpxkgumifuoofoosble/unnamed.gif)
 
 
 
@@ -143,7 +143,7 @@ Bước 6: Chọn **SAVE**, chọn **SUBMIT** ở góc phải màn hình > Đi
 Bước 7: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
 
-![](https://vcdn.subiz-cdn.com/file/b24cc7dffc26c84921322d2215547aa782f824d6b63b504880318ab9f9f37530_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgrlnvhhlwuopbg_acpxkgumifuoofoosble/unnamed.png)
 
 ### Cài đặt Subiz trên website Wordpress
 
@@ -159,7 +159,7 @@ Bước 4 Dán mã nhúng Subiz trước thẻ `body` đóng
 Bước 5: Kiểm tra trên trang WordPress có dùng plugin cache nào không? Nếu có cần xóa cache để lưu mã nhúng Subiz vừa cài đặt. Ví dụ: WP Rocket, [Comet Cache](https://wordpress.org/plugins/comet-cache/), [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/),... 
 
 
-![](https://vcdn.subiz-cdn.com/file/e1eed3bfefff1cc6b291c13e840f1ebc93bf0decd8a56c58622e73fe3d24b063_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgrqmncjjspsebx_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -175,7 +175,7 @@ Bước 3: Sao chép[ ](https://app.subiz.com.vn/website/install)**[mã nhúng 
 Bước 4: Truy cập vào Landing Page để xem hiển thị cửa sổ chat
 
 
-![](https://vcdn.subiz-cdn.com/file/b53ab0290cf70df144b3e5164abb8bf69688f5c3a865c8f5de66a92bffb98050_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgrwvtbylvifyfz_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -191,7 +191,7 @@ Bước 3: Chọn Them.bwt > Tìm thẻ “body” >[ ](https://app.subiz.com/s
 
 
 
-![](https://vcdn.subiz-cdn.com/file/23cc211a5802acc41fd26b90df83756ef3368f7a37037b109245bbbacaf3b9ad_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgscgkisfoaxqpc_acpxkgumifuoofoosble/unnamed.gif)
 
 
 
@@ -209,4 +209,4 @@ Bước 3: Chọn **theme.liquid** trong Layouts > Tìm thẻ “head” >[ ]
 
 
 
-![](https://vcdn.subiz-cdn.com/file/8fb1222914f28f1d632e3a0e8d184eb04ac492234d9a0fa5b20336bf44e2f654_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgvtgsftqhouhqtznz_acpxkgumifuoofoosble/unnamed.gif)

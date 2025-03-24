@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1741743820649,
-  "updated": 1741743820649,
+  "fetched": 1742812396674,
+  "updated": 1742812396674,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -55,7 +55,7 @@
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
       "modifiedTime": "2024-09-05T08:16:39.205Z",
-      "version": "458",
+      "version": "459",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -220,7 +220,7 @@
       "id": "1MUPVhW17i_FWhYw4vYpy_jzkyA8cpqiHwsuUN7Bjo4Q",
       "name": "4. Thông báo mua hàng",
       "modifiedTime": "2022-11-29T03:05:40.528Z",
-      "version": "95",
+      "version": "96",
       "path_lower": "/50 Tự động hóa/4.-thong-bao-mua-hang"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
-      "modifiedTime": "2025-03-07T03:16:13.064Z",
-      "version": "12",
+      "modifiedTime": "2025-03-24T02:01:12.651Z",
+      "version": "51",
       "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
@@ -329,8 +329,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
-      "modifiedTime": "2025-03-10T03:13:25.702Z",
-      "version": "373",
+      "modifiedTime": "2025-03-17T03:22:46.717Z",
+      "version": "380",
       "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
@@ -351,8 +351,8 @@
       ],
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live khách truy cập web",
-      "modifiedTime": "2025-03-07T03:48:45.388Z",
-      "version": "320",
+      "modifiedTime": "2025-03-24T09:03:26.744Z",
+      "version": "350",
       "path_lower": "/60 Quản lý khách hàng/1.--subiz-live-khach-truy-cap-web"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Quản lý khách tiềm năng",
       "modifiedTime": "2024-08-03T10:28:18.027Z",
-      "version": "466",
+      "version": "467",
       "path_lower": "/60 Quản lý khách hàng/3.-quan-ly-khach-tiem-nang"
     },
     {
@@ -407,7 +407,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2024-08-03T10:05:26.352Z",
-      "version": "532",
+      "version": "533",
       "path_lower": "/60 Quản lý khách hàng/2.-ho-so-khach-hang"
     },
     {
@@ -462,7 +462,7 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "5. Gửi hàng loạt Email Marketing",
       "modifiedTime": "2024-03-07T12:01:09.515Z",
-      "version": "132",
+      "version": "133",
       "path_lower": "/50 Tự động hóa/5.-gui-hang-loat-email-marketing"
     },
     {
@@ -616,7 +616,7 @@
       "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
       "name": "3. Tag hội thoại",
       "modifiedTime": "2023-12-19T10:44:13.933Z",
-      "version": "153",
+      "version": "154",
       "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
     },
     {
@@ -693,7 +693,7 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "6 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2023-07-12T04:09:31.814Z",
-      "version": "104",
+      "version": "105",
       "path_lower": "/100 Ứng dụng nâng cao/6-do-luong-chuyen-doi-google-ads"
     },
     {
@@ -715,7 +715,7 @@
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
       "modifiedTime": "2024-09-16T07:54:37.493Z",
-      "version": "141",
+      "version": "142",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
