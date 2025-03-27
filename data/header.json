@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1742812396674,
-  "updated": 1742812396674,
+  "fetched": 1743048377783,
+  "updated": 1743048377783,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -285,8 +285,8 @@
       ],
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
-      "modifiedTime": "2025-03-24T02:01:12.651Z",
-      "version": "51",
+      "modifiedTime": "2025-03-27T04:05:11.533Z",
+      "version": "58",
       "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
@@ -308,7 +308,7 @@
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "8. Kết nối Instagram",
       "modifiedTime": "2025-02-20T09:54:58.452Z",
-      "version": "159",
+      "version": "161",
       "path_lower": "/20 Tích hợp kênh tương tác/8.-ket-noi-instagram"
     },
     {
