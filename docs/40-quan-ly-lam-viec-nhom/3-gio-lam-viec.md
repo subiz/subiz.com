@@ -24,7 +24,7 @@ Cài đặt giờ làm việc là chọn khung thời gian làm việc trong ng�
 - **Lưu** để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfilmwinztbomyoz_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbttxlchfnrmblr_acpxkgumifuoofoosble/unnamed.png)
 
 ## Ứng dụng của Giờ làm việc
 
@@ -34,7 +34,7 @@ Cài đặt giờ làm việc là chọn khung thời gian làm việc trong ng�
 Cài đặt bot tự động chào đón và trả lời tin nhắn khách hàng tại trang BOT: **[https://app.subiz.com.vn/bots](https://app.subiz.com.vn/bots)**
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfilrjeymncwpzxj_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbtygglwjhfkwhz_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Rule phân phối theo giờ làm việc**
@@ -42,7 +42,7 @@ Cài đặt bot tự động chào đón và trả lời tin nhắn khách hàng
 Cài đặt Rule phân phối hội thoại của khách cho các agent trực chat tại trang Rule phân phối: **[https://app.subiz.com.vn/settings/rule-setting](https://app.subiz.com.vn/settings/rule-setting)**
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfilwwosnnfjudkf_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbudmwbrivdsyow_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Bảng hỏi thông tin trước khi chat theo giờ làm việc**
@@ -50,4 +50,4 @@ Cài đặt Rule phân phối hội thoại của khách cho các agent trực c
 Cài đặt bảng hỏi thông tin trước khi chat tại trang Chỉnh sửa cửa sổ chat: **[https://app.subiz.com.vn/chatbox/design](https://app.subiz.com.vn/chatbox/design)**
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfimbbtvgvcvmkte_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbuiwsoflkioole_acpxkgumifuoofoosble/unnamed.png)

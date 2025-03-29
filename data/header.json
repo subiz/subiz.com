@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1743048377783,
-  "updated": 1743048377783,
+  "fetched": 1743224345866,
+  "updated": 1743224345866,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,8 +11,8 @@
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "2 Quản lý nhiều website",
       "modifiedTime": "2024-11-26T11:22:44.437Z",
-      "version": "288",
-      "path_lower": "/100 Ứng dụng nâng cao/2-quan-ly-nhieu-website"
+      "version": "289",
+      "path_lower": "/110 Ứng dụng nâng cao/2-quan-ly-nhieu-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -22,7 +22,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối tổng đài",
       "modifiedTime": "2025-02-11T09:59:13.461Z",
-      "version": "843",
+      "version": "844",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
     },
     {
@@ -33,7 +33,7 @@
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "7. App mobile Subiz",
       "modifiedTime": "2024-11-26T04:02:48.507Z",
-      "version": "19",
+      "version": "20",
       "path_lower": "/30 Tư vấn khách hàng/7.-app-mobile-subiz"
     },
     {
@@ -44,7 +44,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "1. Bot tự động nhắn tin",
       "modifiedTime": "2024-12-18T10:14:00.196Z",
-      "version": "392",
+      "version": "393",
       "path_lower": "/50 Tự động hóa/1.-bot-tu-dong-nhan-tin"
     },
     {
@@ -55,7 +55,7 @@
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
       "modifiedTime": "2024-09-05T08:16:39.205Z",
-      "version": "459",
+      "version": "460",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -66,7 +66,7 @@
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại khách hàng",
       "modifiedTime": "2023-03-16T03:45:43.505Z",
-      "version": "107",
+      "version": "108",
       "path_lower": "/60 Quản lý khách hàng/4.-nhan-phan-loai-khach-hang"
     },
     {
@@ -77,7 +77,7 @@
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "7. Kênh Google",
       "modifiedTime": "2024-10-14T09:42:26.702Z",
-      "version": "155",
+      "version": "156",
       "path_lower": "/20 Tích hợp kênh tương tác/7.-kenh-google"
     },
     {
@@ -88,7 +88,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
       "modifiedTime": "2024-08-03T08:45:49.186Z",
-      "version": "236",
+      "version": "237",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -99,7 +99,7 @@
       "id": "18tKj8WjsdCwJaJStiqQmHMdz-D9KIyyGsyz2MfLQYo4",
       "name": "3. Rule phân phối cuộc gọi",
       "modifiedTime": "2024-11-29T03:39:52.102Z",
-      "version": "114",
+      "version": "115",
       "path_lower": "/90 Tổng đài điện thoại/3.-rule-phan-phoi-cuoc-goi"
     },
     {
@@ -110,7 +110,7 @@
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
       "modifiedTime": "2022-11-02T10:35:01.542Z",
-      "version": "49",
+      "version": "50",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -121,7 +121,7 @@
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "6 Quản lý đội nhóm",
       "modifiedTime": "2024-12-30T08:46:13.692Z",
-      "version": "135",
+      "version": "136",
       "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
@@ -143,7 +143,7 @@
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "5 Giám sát viên hội thoại ",
       "modifiedTime": "2024-12-30T08:46:09.152Z",
-      "version": "104",
+      "version": "105",
       "path_lower": "/40 Quản lý làm việc nhóm/5-giam-sat-vien-hoi-thoai"
     },
     {
@@ -154,7 +154,7 @@
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
       "modifiedTime": "2024-11-26T08:48:55.617Z",
-      "version": "191",
+      "version": "192",
       "path_lower": "/10 Làm quen với Subiz/2.-hanh-trinh-su-dung"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Xử lý khi có nhân viên nghỉ việc trên Subiz",
       "modifiedTime": "2024-12-30T09:51:05.670Z",
-      "version": "368",
+      "version": "369",
       "path_lower": "/40 Quản lý làm việc nhóm/7-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz"
     },
     {
@@ -176,7 +176,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại tin nhắn",
       "modifiedTime": "2024-11-29T10:28:56.062Z",
-      "version": "467",
+      "version": "468",
       "path_lower": "/30 Tư vấn khách hàng/1.-quan-ly-hoi-thoai-tin-nhan"
     },
     {
@@ -187,7 +187,7 @@
       "id": "1K0bpRZmSKc3zFZpmi9vgWdImVOa5XtZ2gmA9BmvVNPo",
       "name": "6.1 Thống kê lượng người dùng",
       "modifiedTime": "2023-04-20T10:34:43.797Z",
-      "version": "136",
+      "version": "137",
       "path_lower": "/80 Thống kê báo cáo/6.1-thong-ke-luong-nguoi-dung"
     },
     {
@@ -198,8 +198,8 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "5 Tự động hóa chuyển đổi khách hàng",
       "modifiedTime": "2023-07-13T11:22:10.958Z",
-      "version": "127",
-      "path_lower": "/100 Ứng dụng nâng cao/5-tu-dong-hoa-chuyen-doi-khach-hang"
+      "version": "128",
+      "path_lower": "/110 Ứng dụng nâng cao/5-tu-dong-hoa-chuyen-doi-khach-hang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -209,7 +209,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
       "modifiedTime": "2024-09-05T08:22:07.391Z",
-      "version": "236",
+      "version": "237",
       "path_lower": "/20 Tích hợp kênh tương tác/3--ket-noi-fanpage"
     },
     {
@@ -220,7 +220,7 @@
       "id": "1MUPVhW17i_FWhYw4vYpy_jzkyA8cpqiHwsuUN7Bjo4Q",
       "name": "4. Thông báo mua hàng",
       "modifiedTime": "2022-11-29T03:05:40.528Z",
-      "version": "96",
+      "version": "97",
       "path_lower": "/50 Tự động hóa/4.-thong-bao-mua-hang"
     },
     {
@@ -231,7 +231,7 @@
       "id": "1N3SWC2w5KO6PwnCvmzGreIndoyRa4fEYP0nfLrhFRJk",
       "name": "6. Gửi tin nhắn ZNS Zalo",
       "modifiedTime": "2024-03-28T12:48:33.026Z",
-      "version": "112",
+      "version": "113",
       "path_lower": "/50 Tự động hóa/6.-gui-tin-nhan-zns-zalo"
     },
     {
@@ -242,7 +242,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2023-04-20T09:56:20.265Z",
-      "version": "195",
+      "version": "196",
       "path_lower": "/80 Thống kê báo cáo/6.2-thong-ke-hoi-thoai"
     },
     {
@@ -253,7 +253,7 @@
       "id": "1OW21HBSiKnQRqZwDWqVaAT84tTYyutMweisVpAStqh4",
       "name": "index",
       "modifiedTime": "2022-10-24T08:41:26.686Z",
-      "version": "64",
+      "version": "65",
       "path_lower": "/10 Làm quen với Subiz/index"
     },
     {
@@ -264,7 +264,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "4. Chiến dịch telesales",
       "modifiedTime": "2024-11-30T02:49:34.789Z",
-      "version": "153",
+      "version": "154",
       "path_lower": "/90 Tổng đài điện thoại/4.-chien-dich-telesales"
     },
     {
@@ -275,7 +275,7 @@
       "id": "1OvDJDaFepydfB6aqUrIn1S1iDpc4xJzYXBnHRBhFbzY",
       "name": "4. Các tính năng Subiz hỗ trợ Fanpage",
       "modifiedTime": "2025-02-24T03:29:56.490Z",
-      "version": "53",
+      "version": "54",
       "path_lower": "/20 Tích hợp kênh tương tác/4.-cac-tinh-nang-subiz-ho-tro-fanpage"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
-      "modifiedTime": "2025-03-27T04:05:11.533Z",
-      "version": "58",
+      "modifiedTime": "2025-03-29T02:04:18.381Z",
+      "version": "92",
       "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
@@ -297,7 +297,7 @@
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
       "modifiedTime": "2025-02-05T08:45:02.799Z",
-      "version": "77",
+      "version": "78",
       "path_lower": "/30 Tư vấn khách hàng/8.-xu-ly-loi-tren-fanpage"
     },
     {
@@ -308,7 +308,7 @@
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "8. Kết nối Instagram",
       "modifiedTime": "2025-02-20T09:54:58.452Z",
-      "version": "161",
+      "version": "162",
       "path_lower": "/20 Tích hợp kênh tương tác/8.-ket-noi-instagram"
     },
     {
@@ -319,8 +319,8 @@
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "15. Cập nhật mới trên Subiz",
       "modifiedTime": "2024-11-29T10:31:04.893Z",
-      "version": "129",
-      "path_lower": "/100 Ứng dụng nâng cao/15.-cap-nhat-moi-tren-subiz"
+      "version": "130",
+      "path_lower": "/110 Ứng dụng nâng cao/15.-cap-nhat-moi-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -330,8 +330,8 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "1  Quản lý hàng nghìn Fanpage",
       "modifiedTime": "2025-03-17T03:22:46.717Z",
-      "version": "380",
-      "path_lower": "/100 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
+      "version": "381",
+      "path_lower": "/110 Ứng dụng nâng cao/1--quan-ly-hang-nghin-fanpage"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -341,7 +341,7 @@
       "id": "1T4vpZymOARgBzsgpRA25DoqKeBXq1pA8n5UeyXYJyhk",
       "name": "9. Xử lý lỗi Zalo OA",
       "modifiedTime": "2024-11-26T09:53:48.077Z",
-      "version": "36",
+      "version": "37",
       "path_lower": "/30 Tư vấn khách hàng/9.-xu-ly-loi-zalo-oa"
     },
     {
@@ -351,8 +351,8 @@
       ],
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live khách truy cập web",
-      "modifiedTime": "2025-03-24T09:03:26.744Z",
-      "version": "350",
+      "modifiedTime": "2025-03-28T04:48:27.033Z",
+      "version": "359",
       "path_lower": "/60 Quản lý khách hàng/1.--subiz-live-khach-truy-cap-web"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Quản lý khách tiềm năng",
       "modifiedTime": "2024-08-03T10:28:18.027Z",
-      "version": "467",
+      "version": "468",
       "path_lower": "/60 Quản lý khách hàng/3.-quan-ly-khach-tiem-nang"
     },
     {
@@ -374,8 +374,8 @@
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "10 Webhook tích hợp CRM",
       "modifiedTime": "2024-08-02T03:27:38.023Z",
-      "version": "82",
-      "path_lower": "/100 Ứng dụng nâng cao/10-webhook-tich-hop-crm"
+      "version": "83",
+      "path_lower": "/110 Ứng dụng nâng cao/10-webhook-tich-hop-crm"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -385,7 +385,7 @@
       "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
       "name": "4 Tự động hoàn thành hội thoại",
       "modifiedTime": "2024-11-15T08:38:31.719Z",
-      "version": "144",
+      "version": "145",
       "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
     },
     {
@@ -396,8 +396,8 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "12. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2024-10-04T09:55:23.050Z",
-      "version": "121",
-      "path_lower": "/100 Ứng dụng nâng cao/12.-dong-bo-chuyen-doi-facebook-ads"
+      "version": "122",
+      "path_lower": "/110 Ứng dụng nâng cao/12.-dong-bo-chuyen-doi-facebook-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -407,7 +407,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2024-08-03T10:05:26.352Z",
-      "version": "533",
+      "version": "534",
       "path_lower": "/60 Quản lý khách hàng/2.-ho-so-khach-hang"
     },
     {
@@ -418,7 +418,7 @@
       "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
       "name": "6.3. Thống kê cuộc gọi",
       "modifiedTime": "2023-04-20T11:20:12.010Z",
-      "version": "48",
+      "version": "49",
       "path_lower": "/80 Thống kê báo cáo/6.3.-thong-ke-cuoc-goi"
     },
     {
@@ -429,7 +429,7 @@
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "6. Kết nối Email",
       "modifiedTime": "2025-02-24T09:35:47.610Z",
-      "version": "256",
+      "version": "257",
       "path_lower": "/20 Tích hợp kênh tương tác/6.-ket-noi-email"
     },
     {
@@ -440,7 +440,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-01-24T08:34:40.141Z",
-      "version": "435",
+      "version": "436",
       "path_lower": "/90 Tổng đài điện thoại/2.-su-dung-tong-dai"
     },
     {
@@ -451,7 +451,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
       "modifiedTime": "2023-01-17T08:39:56.701Z",
-      "version": "117",
+      "version": "118",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -462,7 +462,7 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "5. Gửi hàng loạt Email Marketing",
       "modifiedTime": "2024-03-07T12:01:09.515Z",
-      "version": "133",
+      "version": "134",
       "path_lower": "/50 Tự động hóa/5.-gui-hang-loat-email-marketing"
     },
     {
@@ -473,7 +473,7 @@
       "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
       "name": "5.2 Đơn hàng",
       "modifiedTime": "2024-08-03T09:37:30.713Z",
-      "version": "197",
+      "version": "198",
       "path_lower": "/70 Quản lý đơn hàng/5.2-don-hang"
     },
     {
@@ -484,7 +484,7 @@
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số ví dụ kịch bản Bot ",
       "modifiedTime": "2024-12-30T08:06:39.765Z",
-      "version": "70",
+      "version": "71",
       "path_lower": "/50 Tự động hóa/2.-mot-so-vi-du-kich-ban-bot"
     },
     {
@@ -495,7 +495,7 @@
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "3. Popup chuyển đổi khách tiềm năng",
       "modifiedTime": "2023-08-18T11:17:27.537Z",
-      "version": "339",
+      "version": "340",
       "path_lower": "/50 Tự động hóa/3.-popup-chuyen-doi-khach-tiem-nang"
     },
     {
@@ -506,7 +506,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2025-02-24T09:47:55.471Z",
-      "version": "196",
+      "version": "197",
       "path_lower": "/30 Tư vấn khách hàng/2.-mau-tin-nhan"
     },
     {
@@ -517,8 +517,8 @@
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "8. Kết nối bảng hỏi website",
       "modifiedTime": "2024-10-04T07:13:56.454Z",
-      "version": "154",
-      "path_lower": "/100 Ứng dụng nâng cao/8.-ket-noi-bang-hoi-website"
+      "version": "155",
+      "path_lower": "/110 Ứng dụng nâng cao/8.-ket-noi-bang-hoi-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -528,7 +528,7 @@
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "1. Bảng tính năng Subiz",
       "modifiedTime": "2024-11-26T09:20:16.349Z",
-      "version": "258",
+      "version": "259",
       "path_lower": "/10 Làm quen với Subiz/1.-bang-tinh-nang-subiz"
     },
     {
@@ -539,8 +539,8 @@
       "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
       "name": "9 Tích hợp app mobile",
       "modifiedTime": "2023-07-12T04:10:28.805Z",
-      "version": "82",
-      "path_lower": "/100 Ứng dụng nâng cao/9-tich-hop-app-mobile"
+      "version": "83",
+      "path_lower": "/110 Ứng dụng nâng cao/9-tich-hop-app-mobile"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -550,7 +550,7 @@
       "id": "1hcfgK15RqVhz-zEUgHaddEWOB7qhWWpgWKHQjbiF4kY",
       "name": "10. Xử lý lỗi Tổng Đài",
       "modifiedTime": "2025-01-07T09:24:28.656Z",
-      "version": "37",
+      "version": "38",
       "path_lower": "/30 Tư vấn khách hàng/10.-xu-ly-loi-tong-dai"
     },
     {
@@ -561,8 +561,8 @@
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "11. Phiếu ghi chăm sóc khách hàng",
       "modifiedTime": "2024-08-01T11:52:20.799Z",
-      "version": "109",
-      "path_lower": "/100 Ứng dụng nâng cao/11.-phieu-ghi-cham-soc-khach-hang"
+      "version": "110",
+      "path_lower": "/110 Ứng dụng nâng cao/11.-phieu-ghi-cham-soc-khach-hang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -572,7 +572,7 @@
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc cần làm",
       "modifiedTime": "2024-11-26T09:58:55.030Z",
-      "version": "127",
+      "version": "128",
       "path_lower": "/30 Tư vấn khách hàng/5.-nhac-viec-can-lam"
     },
     {
@@ -583,7 +583,7 @@
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
       "modifiedTime": "2024-11-15T11:19:07.550Z",
-      "version": "617",
+      "version": "618",
       "path_lower": "/40 Quản lý làm việc nhóm/1.-agent-la-gi-"
     },
     {
@@ -594,7 +594,7 @@
       "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
       "name": "5. Gộp khách hàng ",
       "modifiedTime": "2024-03-09T04:33:48.095Z",
-      "version": "126",
+      "version": "127",
       "path_lower": "/60 Quản lý khách hàng/5.-gop-khach-hang"
     },
     {
@@ -605,8 +605,8 @@
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "4 Subiz đa ngôn ngữ",
       "modifiedTime": "2024-09-11T10:36:55.196Z",
-      "version": "192",
-      "path_lower": "/100 Ứng dụng nâng cao/4-subiz-da-ngon-ngu"
+      "version": "193",
+      "path_lower": "/110 Ứng dụng nâng cao/4-subiz-da-ngon-ngu"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -616,7 +616,7 @@
       "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
       "name": "3. Tag hội thoại",
       "modifiedTime": "2023-12-19T10:44:13.933Z",
-      "version": "154",
+      "version": "155",
       "path_lower": "/30 Tư vấn khách hàng/3.-tag-hoi-thoai"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1nOazVFOV_CWWlDBMmM4v3zjviFPvcZpnRUNlt4Wyq2M",
       "name": "6. Cài đặt thông báo",
       "modifiedTime": "2024-11-26T04:06:41.921Z",
-      "version": "27",
+      "version": "28",
       "path_lower": "/30 Tư vấn khách hàng/6.-cai-dat-thong-bao"
     },
     {
@@ -638,7 +638,7 @@
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
       "name": "5.1 Sản phẩm",
       "modifiedTime": "2024-10-30T07:40:07.777Z",
-      "version": "200",
+      "version": "201",
       "path_lower": "/70 Quản lý đơn hàng/5.1-san-pham"
     },
     {
@@ -649,8 +649,8 @@
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8 API kết nối Subiz",
       "modifiedTime": "2023-07-12T04:10:21.468Z",
-      "version": "49",
-      "path_lower": "/100 Ứng dụng nâng cao/8-api-ket-noi-subiz"
+      "version": "50",
+      "path_lower": "/110 Ứng dụng nâng cao/8-api-ket-noi-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -660,7 +660,7 @@
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "5. Kết nối Zalo OA",
       "modifiedTime": "2025-02-24T04:27:17.015Z",
-      "version": "181",
+      "version": "182",
       "path_lower": "/20 Tích hợp kênh tương tác/5.-ket-noi-zalo-oa"
     },
     {
@@ -671,8 +671,8 @@
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "7 Google Analytics và Subiz",
       "modifiedTime": "2024-08-06T11:00:56.326Z",
-      "version": "155",
-      "path_lower": "/100 Ứng dụng nâng cao/7-google-analytics-va-subiz"
+      "version": "156",
+      "path_lower": "/110 Ứng dụng nâng cao/7-google-analytics-va-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -682,7 +682,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2024-11-26T08:48:01.488Z",
-      "version": "261",
+      "version": "262",
       "path_lower": "/10 Làm quen với Subiz/3.-cac-goi-dich-vu"
     },
     {
@@ -693,8 +693,8 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "6 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2023-07-12T04:09:31.814Z",
-      "version": "105",
-      "path_lower": "/100 Ứng dụng nâng cao/6-do-luong-chuyen-doi-google-ads"
+      "version": "106",
+      "path_lower": "/110 Ứng dụng nâng cao/6-do-luong-chuyen-doi-google-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -704,7 +704,7 @@
       "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
       "name": "_2. Khách tiềm năng",
       "modifiedTime": "2023-03-16T04:01:42.205Z",
-      "version": "276",
+      "version": "277",
       "path_lower": "/60 Quản lý khách hàng/_2.-khach-tiem-nang"
     },
     {
@@ -715,8 +715,19 @@
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
       "modifiedTime": "2024-09-16T07:54:37.493Z",
-      "version": "142",
+      "version": "143",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
+      "name": "1. Cách tạo mẫu tin nhắn ZNS",
+      "modifiedTime": "2025-03-29T04:53:17.169Z",
+      "version": "14",
+      "path_lower": "/100 Marketing/1.-cach-tao-mau-tin-nhan-zns"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -737,8 +748,8 @@
       "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
       "name": "3 Ứng dụng Tết 2023 ",
       "modifiedTime": "2024-12-30T09:52:32.842Z",
-      "version": "112",
-      "path_lower": "/100 Ứng dụng nâng cao/3-ung-dung-tet-2023"
+      "version": "113",
+      "path_lower": "/110 Ứng dụng nâng cao/3-ung-dung-tet-2023"
     }
   ]
 }

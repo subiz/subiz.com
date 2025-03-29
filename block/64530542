@@ -8,5 +8,538 @@
   },
   "category": "10",
   "source_id": "64530542",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Danh sách sản phẩm"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Danh sách sản phẩm là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể nhập tất cả danh sách sản phẩm của công ty lên Subiz để hỗ trợ gửi thông tin sản phẩm trong chat tư vấn khách hàng, mời khách mua sản phẩm hay tạo đơn hàng mới với sản phẩm đó ngay trên Subiz,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chức năng Sản phẩm của Subiz giúp bạn lưu trữ thông tin sản phẩm phục vụ chính cho việc chat tư vấn khách hàng và có thể đồng bộ dữ liệu đơn hàng về phần mềm quản lý kho của bạn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=Wl658KCi_Ps",
+              "title": "Xem video giới thiệu chức năng Sản phẩm & Đơn hàng",
+              "text": "Xem video giới thiệu chức năng Sản phẩm & Đơn hàng",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbdwjycifadugcz_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn nhập sản phẩm lên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có 2 cách nhập sản phẩm lên Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1: Nhập thủ công từng sản phẩm lên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz >"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn ô màu sắc Xem thêm > chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/products",
+                      "title": "SẢN PHẨM",
+                      "text": "SẢN PHẨM",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nhập Sản phẩm",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "> Cập nhật các thông tin của sản phẩm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbedjggurkoicln_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2: Tải file excel danh sách sản phẩm lên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng nhập Subiz > Chọn ô màu sắc Xem thêm > chọn"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/products",
+                      "title": "SẢN PHẨM",
+                      "text": "SẢN PHẨM",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập Sản phẩm > Chọn đồng bộ dữ liệu từ file excel > Tải file exel sản phẩm của bạn lên > Nối các cột dữ liệu trong file excel với các trường dữ liệu của Subiz"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdnrjupjernsscm_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "italic": true,
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Nếu bạn đang quản lý sản phẩm trên website hay bất cứ phần mềm khác, bạn có thể xuất file excel danh sách sản phẩm về và sau đó tải lên Subiz."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số ứng dụng của sản phẩm"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 1: Gửi thông tin sản phẩm trong khi chat"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Agent trong khi chat tư vấn khách hàng trên trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ":"
+            },
+            {
+              "type": "text",
+              "text": "Tại ô nhập tin nhắn > click nút Sản phẩm để hiện danh sách sản phẩm"
+            },
+            {
+              "type": "text",
+              "text": "> Tìm sản phẩm > Gửi thẻ sản phẩm cho khách"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbeoabajrjasopo_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 2: Mời mua hàng và tạo đơn hàng mới"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Agent trong khi chat tư vấn khách hàng, gửi thông tin sản phẩm và có thể click"
+            },
+            {
+              "type": "text",
+              "text": "Tạo đơn với sp này",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "để nhanh chóng chốt đơn và xác nhận đơn hàng tới khách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbetktjryezkwkf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "level": 2,
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trường hợp 3: Bot tự động quảng cáo sản phẩm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Agent tạo được bot tự động chào khách kèm các thông tin sản phẩm nhằm quảng cáo và mời gọi khách hàng mua hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Mở trang Bot > Tạo bot > Bot trống > Tại mục Thiết kế kịch bản, soạn tin nhắn chào khách và chọn Thêm thẻ sản phẩm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=IvUPSEgX2_g",
+              "title": "Xem video hướng dẫn cài đặt bot",
+              "text": "Xem video hướng dẫn cài đặt bot",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbeyaawsdlefxwm_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

@@ -1,0 +1,1884 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Cách tạo mẫu tin nhắn ZNS"
+  },
+  "i18n_slug": {
+    "vi_VN": "cach-tao-mau-tin-nhan-zns"
+  },
+  "source_id": "1543153800",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách tạo mẫu tin nhắn ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS là dịch vụ gửi tin nhắn đến khách hàng có số điện thoại đang dùng Zalo, giúp doanh nghiệp chủ động tiếp cận và tương tác hai chiều. Để bắt đầu gửi ZNS, bạn cần tạo mẫu tin nhắn ZNS phù hợp và gửi yêu cầu duyệt mẫu lên Zalo trước khi sử dụng."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách tạo mẫu tin nhắn ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm theo các bước sau để thiết lập 1 mẫu tin nhắn ZNS:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Vào trang quản lý Zalo của Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đăng nhập Subiz qua đường link"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Trên màn hình Dashboard Subiz, chọn Cài đặt (hình bánh răng) ở góc trên bên phải."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Trong menu Cài đặt bên phải, chọn Zalo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn tài khoản Zalo OA cần tạo mẫu ZNS, nhấp vào Mẫu ZNS ở góc phải và nhấn Tạo mới."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgiwrkwwqiitfm_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chọn Tạo Mẫu trắng để soạn tin nhắn ZNS theo ý bạn. (Hoặc, để tiết kiệm thời gian, bạn có thể sử dụng các mẫu có sẵn của Subiz.)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdoirhjildlkfso_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Xác định mục tiêu gửi ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trước khi gửi tin, hãy xác định mục tiêu của bạn là gì:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chăm sóc khách hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Thông báo điểm tích lũy, chúc mừng sinh nhật,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Giao dịch",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xác thực tài khoản, xác nhận đơn hàng, biến động số dư,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hậu mãi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Gửi mã giảm giá, mời gia hạn dịch vụ,..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mỗi mục tiêu sẽ phù hợp với một loại ZNS:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ZNS xác thực",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Phù hợp để gửi mã OTP, xác nhận đăng ký tài khoản,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ZNS tùy chỉnh",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Phù hợp chăm sóc khách hàng, giao dịch,.. dùng cho mục đích thông báo."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nếu cần gửi thông báo quan trọng như OTP, xác nhận đăng ký tài khoản,... hãy chọn ZNS xác thực để đảm bảo tin nhắn được gửi ngay lập tức."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "ZNS tùy chỉnh có chi phí thấp hơn nhưng có thể bị trễ đến 2 giờ và không thể gửi ngoài giờ hành chính từ 22h đến 8h. Ngược lại, ZNS xác thực có thể gửi bất kỳ lúc nào trong ngày."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdolmqzyerydcik_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Thêm logo vào mẫu ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi thêm logo vào tin nhắn ZNS, nó sẽ hiển thị ở dòng đầu tiên, giúp thu hút sự chú ý của khách hàng và tăng nhận diện thương hiệu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrafgdfqovttdpxf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để thêm logo, nhấp chọn Thay đổi, chọn Tải lên, sau đó Áp dụng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgwuxarwlhxhfr_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Định"
+                    },
+                    {
+                      "type": "text",
+                      "text": "dạng"
+                    },
+                    {
+                      "type": "text",
+                      "text": "logo"
+                    },
+                    {
+                      "type": "text",
+                      "text": "là"
+                    },
+                    {
+                      "type": "text",
+                      "text": "PNG. Kích thước 400x96 px. Tối đa 500KB."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cần upload cả phiên bản logo dùng cho Giao diện sáng và Giao diện tối để nâng cao trải nghiệm cho người dùng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Logo nên được canh lề trái."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgzucblbinsgtf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Tạo nội dung tin nhắn ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giả sử bạn muốn soạn một tin nhắn thông báo điểm tích lũy như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "\"Cảm ơn quý khách Nguyễn Văn A đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là 50 điểm.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tuy nhiên, mỗi khách hàng sẽ có tên và số điểm tích lũy khác nhau. Để tin nhắn tự động thay đổi theo thông tin thực tế của từng khách hàng khi gửi qua ZNS, bạn cần sử dụng tham số động. Hệ thống sẽ thay thế các tham số này bằng dữ liệu tương ứng của từng khách hàng, giúp tin nhắn luôn chính xác và cá nhân hóa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với ví dụ đưa ra bạn nên soạn nội dung ZNS là:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay tên Nguyễn Văn A bằng tham số <"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ten\\_khach\\_hang"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> hoặc <customer\\_name>."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay tổng điểm bằng tham số <"
+                    },
+                    {
+                      "type": "text",
+                      "text": "diem\\_tich\\_luy"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> hoặc <point>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem chi tiết: Tham số dữ liệu động trong ZNS là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để tạo nội dung mẫu ZNS gồm 2 phần chính:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tiêu đề",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Dòng mở đầu giúp khách hàng nhận biết nội dung ngay lập tức. Ví dụ: \"Thông báo điểm tích lũy\" hay gọi tên theo biến Chào bạn <customer\\_name>."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Văn bản",
+                      "bold": true
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "– Nội dung chi tiết theo mục đích gửi ZNS."
+                        },
+                        {
+                          "type": "text",
+                          "text": "Ví dụ: \""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cảm ơn quý khách",
+                      "italic": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "<customer\\_name>"
+                    },
+                    {
+                      "type": "text",
+                      "text": "đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là",
+                      "italic": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "<point>"
+                    },
+                    {
+                      "type": "text",
+                      "text": "điểm",
+                      "italic": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ".\""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5: Thêm nút Hành động"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để khách hàng dễ dàng tương tác và kết nối với doanh nghiệp, bạn nên thêm nút hành động (CTA) vào tin nhắn ZNS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách thực hiện:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật ON Nút chính"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn loại nút phù hợp."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên nút theo nội dung mong muốn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập link điều hướng hoặc số điện thoại liên hệ."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdoopuzdticwskf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gợi ý một số Nút CTA như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xem điểm của tôi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "→ Dẫn khách hàng đến trang tra cứu điểm tích lũy hoặc ưu đãi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đổi thưởng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "ngay",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "→ Chuyển đến trang quy đổi điểm lấy quà."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Liên hệ CSKH",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "→ Mở cuộc trò chuyện với nhân viên CSKH hoặc gọi hotline."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 6: Cài đặt tham số"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần chọn loại dữ liệu cho tham số tương ứng và điền ghi chú nhằm hỗ trợ Zalo kiểm duyệt chính xác. Subiz hiển thị 3 cột cụ thể như sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột 1: Tham số",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Tham số được sử dụng trong tin nhắn (ví dụ: <customer\\_name>, <order\\_id>)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột 2: Loại dữ liệu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Giúp xác định ý nghĩa của tham số đại diện cho thông tin, đảm bảo Zalo duyệt nội dung chính xác. Ví dụ: tham số <customer\\_name> thì loại là Tên khách hàng, <"
+                    },
+                    {
+                      "type": "text",
+                      "text": "booking\\_code"
+                    },
+                    {
+                      "type": "text",
+                      "text": "> loại là Mã số,..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cột 3: Ví dụ hiển thị",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Mẫu giá trị thực tế bạn muốn hiển thị với khách hàng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhflkmisofvbgg_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 7: Ghi chú cho kiểm duyệt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đây là phần giúp Zalo hiểu rõ hơn về nội dung và mục đích của tin nhắn, từ đó đẩy nhanh quá trình xét duyệt và hạn chế nguy cơ bị từ chối. Bạn có thể mô tả rõ hơn về nội dung tin nhắn bạn muốn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: “Tin nhắn này dùng để gửi thông báo ưu đãi cho khách hàng thân thiết”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhhryvdxcsblcq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nhấp"
+            },
+            {
+              "type": "text",
+              "text": "Tạo mới",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "để hoàn tất."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Sau 1-3 ngày, kiểm tra trạng thái tại Danh sách mẫu ZNS."
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để kiểm tra mẫu ZNS của bạn đã được kiểm duyệt, bạn truy cập"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/zns-templates?oa_id=935022139843821727",
+              "title": "Danh sách mẫu ZNS trên Subiz",
+              "text": "Danh sách mẫu ZNS trên Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Màu xanh (Đã duyệt)",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Mẫu có thể sử dụng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Màu đỏ (Bị từ chối)",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Cần chỉnh sửa và gửi lại."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhjxsahsrzsrtw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 8: Gửi thử"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi mẫu tin nhắn ZNS được kiểm duyệt thành công, bạn nên gửi thử để kiểm tra hiển thị có đúng như mong muốn hay không."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn truy cập vào"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/zns-templates?oa_id=935022139843821727",
+                      "title": "Mẫu ZNS Subiz",
+                      "text": "Mẫu ZNS Subiz",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tìm mẫu tin nhắn cần gửi (VD: Thông báo điểm tích lũy)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn Gửi thử (Biểu tượng máy bay giấy)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập số điện thoại người nhận (Nên dùng số điện thoại có Zalo của bạn)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn Gửi ZNS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra tin nhắn ZNS đã nhận. Nếu hiển thị chưa đúng hãy quay lại chỉnh sửa mẫu hoặc tạo mẫu mới. Nếu tin nhắn hiển thị đúng bạn có thể triển khai gửi cho khách hàng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS là gì? Có ưu điểm gì hơn so với gửi Zalo hoặc SMS",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS (Zalo Notification Service) là dịch vụ gửi tin nhắn thông báo từ doanh nghiệp đến khách hàng thông qua nền tảng Zalo OA (Zalo Official Account)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số ưu điểm nổi bật khi lựa chọn ZNS so với Zalo hoặc SMS như:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhndgsbtfsxpoq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể tạo bao nhiêu mẫu tin nhắn ZNS?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Không giới hạn số lượng mẫu tin nhắn – Doanh nghiệp có thể tạo nhiều mẫu tin nhắn khác nhau để phù hợp với các loại thông báo gửi đến khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS có miễn phí không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS không miễn phí, doanh nghiệp phải trả phí cho mỗi tin nhắn gửi thành công, dao động khoảng 300 - 800 đồng/tin tùy theo loại tin nhắn và chính sách của Zalo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS có gửi tin nhắn quảng cáo được không?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ZNS không dùng để gửi tin nhắn quảng cáo mà chỉ được phép gửi các tin nhắn giao dịch và chăm sóc khách hàng, chẳng hạn như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xác nhận đơn hàng, lịch hẹn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi mã OTP, thông tin thanh toán"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thông báo trạng thái đơn hàng, tích điểm, ưu đãi dành riêng cho khách hàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi nhận ZNS người nhận có phản hồi được không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Người nhận có thể phản hồi như một tin chat bình thường. Doanh nghiệp có thể nhận và trả lời miễn phí phản hồi từ người dùng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có thể gửi bao nhiêu tin nhắn ZNS?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hạn mức không có giới hạn cứng về số lượng tin nhắn, nhưng phải đảm bảo tuân thủ chính sách Zalo. Nếu gửi số lượng lớn, doanh nghiệp cần làm việc với Zalo để được hỗ trợ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Số lượng khách hàng gửi ZNS cùng một lúc là bao nhiêu?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trên Subiz bạn có thể gửi ZNS tới nhiều khách hàng cùng một lúc mà không giới hạn về số lượng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tham số trong ZNS là gì?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tham số ZNS là các dữ liệu động trong tin nhắn Zalo Notification Service (ZNS), giúp cá nhân hóa nội dung tin nhắn theo từng khách hàng. Các tham số này sẽ tự động thay đổi dựa trên thông tin cụ thể của mỗi người, chẳng hạn như:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<customer\\_name>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị tên khách hàng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<customer\\_code>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị mã khách hàng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<voucher\\_code>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị mã voucher."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<voucher\\_discount>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị mức giảm giá."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<expire\\_date>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị ngày hết hạn của voucher."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "<voucher\\_condition>",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "– Hiển thị điều kiện áp dụng voucher."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdosfsgsgbcurqq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mỗi tham số được đặt giữa dấu"
+            },
+            {
+              "type": "text",
+              "text": "“<”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và"
+            },
+            {
+              "type": "text",
+              "text": "“>”",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nếu một tin nhắn có chứa tham số, hệ thống sẽ tự động thay thế bằng thông tin thực tế của khách hàng trước khi gửi đi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giả dụ Nếu bạn có danh sách 50 khách hàng, mỗi người có thông tin khác nhau, hệ thống sẽ thay thế tham số bằng dữ liệu tương ứng. Điều này giúp đảm bảo rằng mỗi khách hàng nhận được tin nhắn với nội dung đúng với thông tin của họ, thay vì một tin nhắn chung chung giống nhau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm sao để tạo mẫu tin nhắn ZNS hiển thị nhiều thông tin khách hàng một cách rõ ràng?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể sử dụng bảng để hiển thị thông tin khách hàng dạng liệt kê theo bảng nếu nội dung ZNS có nhiều thông tin cần truyền tải."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Tin nhắn ZNS xác nhận đơn hàng với nội dung:"
+            },
+            {
+              "type": "text",
+              "text": "“Cảm ơn Nguyễn Văn A đã cua hàng tại cửa hàng chúng tôi. Đơn hàng của bạn đã được xác nhận với chi tiết như sau:",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mã đơn: TP-12345",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "SDT: 0987654321",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sản phẩm: Giày cao gót",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giá tiền:10.000",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngày đặt hàng: 12h:00, 10/03/2025”",
+              "italic": true
+            },
+            {
+              "type": "text",
+              "text": ","
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để tạo được bảng, tại phần tạo Nội dung ZNS. Sau khi thêm tiêu đề và nội dung văn bản mong muốn, bạn nhấp chọn thêm Bảng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdotrtddujgfich_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tiếp đó:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm tiêu đề vào cột Tiêu đề",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xác định các tiêu đề mong muốn trong bảng, chẳng hạn như Mã đơn hàng, Số điện thoại, Sản phẩm, Ngày đặt hàng,…"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm tham số vào cột Nội dung",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Mỗi tiêu đề sẽ hiển thị nội dung phù hợp, vì vậy bạn cần điền tham số tương ứng với từng tiêu đề trong cột nội dung như: <order\\_code>, <phone\\_number>, <product\\_name>,... Để khi tin nhắn được gửi đi, các tham số này sẽ tự động được thay thế bằng thông tin chi tiết của từng khách hàng."
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhwiyvxyzkqpnq_acpxkgumifuoofoosble/unnamed.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Làm sao để tạo mẫu ZNS nhanh?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz cung cấp sẵn các mẫu ZNS như Xác nhận đơn hàng, Thông báo giao hàng, Xác nhận lịch hẹn, Xác nhận thanh toán, Thông báo điểm tích lũy, v.v. Bạn có thể tạo nhanh theo các bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vào trang"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/zns-templates",
+                      "title": "Mẫu ZNS Subiz",
+                      "text": "Mẫu ZNS Subiz",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn \"Xem\" → Chọn mẫu ZNS phù hợp."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn \"Sử dụng\" → Tùy chỉnh nội dung theo nhu cầu."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi số điện thoại hoặc link điều hướng tại mục Hành động."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn \"Tạo mới\" để hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqziahiwfcrhtuga_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -26,20 +26,20 @@ Trước tiên bạn cần Kết thúc tất cả các hội hoại của Agent 
 - Tích chọn (v) nút Hội thoại trên đầu danh sách hội thoại
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfijhgjcktfbwmnd_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqehrnsfnsinko_acpxkgumifuoofoosble/unnamed.png)
 
 
 - Giữ phím “Shift” trên bàn phím. Nhấp chọn hội thoại đầu tiên, kéo xuống chọn hội thoại cuối cùng.
 - Nhấn nút Kết thúc (v) để kết thúc hàng loạt như hình ảnh dưới đây
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfijkgkmvumzoofw_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqleihbbozdgct_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Cách 2:** Mở hội thoại và xem trạng thái “Đang mở” ở cột trả lời tin nhắn. Bấm chọn Kết thúc.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfijouihxeghqypt_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdjeziklhtipuur_acpxkgumifuoofoosble/unnamed.png)
 
 
 Cách này mất thời gian hơn. Tuy nhiên, bạn có thể biết được những khách hàng nào vẫn đang chờ hỗ trợ, [tạo nhắc việc](https://subiz.com.vn/docs/2039731542-nhac-viec-can-lam) để tiếp tục hỗ trợ tránh làm gián đoạn.
@@ -53,7 +53,7 @@ Tức bàn chuyển giao danh sách khách hàng Agent cũ đang chăm sóc sang
 **Bước 2**: Để chọn toàn bộ danh sách khách hàng, bạn nhấp chuột tích (v) HỌ TÊN, toàn bộ danh sách khách hàng phía dưới sẽ tự động được tích chọn.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfijtqftpolcudno_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqtyhtdixthafi_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Bước 3**: Di chuột lên góc màn hình trên bên phải, chọn Phân phối.
@@ -61,7 +61,7 @@ Tức bàn chuyển giao danh sách khách hàng Agent cũ đang chăm sóc sang
 **Bước 4**: Nhấp chuột vào dấu (+) và chọn Agent phụ trách. Nhấn Xác nhận để hoàn thành.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfijxchhfolsdsmt_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqwlccvzukagub_acpxkgumifuoofoosble/unnamed.png)
 
 
 Để đảm bảo chắc chắn đã chuyển danh sách khách hàng thành công. Bạn quay lại nhấn vào phụ trách, tìm Lê Thiêm Lực sẽ không thấy dữ liệu khách hàng phụ trách trước đây.
@@ -76,7 +76,7 @@ Những đơn hàng Agent cũ đang phụ trách cũng sẽ được bàn giao l
 11. Di chuột tới **Bán hàng** => chọn Agent sắp nghỉ: Ví dụ Lê Thiêm Lực
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfikaunhiybdtrdy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqzxcjthecphob_acpxkgumifuoofoosble/unnamed.png)
 
 
 Ngoài ra, có thể:
@@ -93,7 +93,7 @@ Ngoài ra, có thể:
 31. Nhấn vào **Xác nhận** để hoàn thành.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfikfgpgbrqpywhd_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrejkyvcpfpyot_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Lưu ý**:
@@ -103,7 +103,7 @@ Ngoài ra, có thể:
 - Nếu danh sách đơn hàng dạng cột dọc sẽ không hiển thị vùng thông tin (v) để chọn. Hãy thay đổi danh sách dạng hiển thị ngang để dễ dàng thao tác như hướng dẫn dưới hình.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfikjtioyqbcbwlw_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbriuhnbndgojsy_acpxkgumifuoofoosble/unnamed.png)
 
 ## Off dừng hoạt động Agent
 
@@ -115,13 +115,13 @@ Ngoài ra, có thể:
 Danh sach Agent hiển thị. Di chuột tới Agent bạn cần xóa. Ví dụ: Lê Thiêm Lực. Nhấp chuột và Chỉnh sửa. 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfiknitsglsugvis_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrmgnjmdzgerrb_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Bước 2**: Di chuột xuống vùng **Thay đổi trạng thái** và kéo chọn không hoạt động. Nhấp vào **Lưu cài đặt** để hoàn thành.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfikqiimdxqjftzy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrqdddsmarrxan_acpxkgumifuoofoosble/unnamed.png)
 
 
 Bạn cũng có thể chọn Xóa để bỏ tài khoản hoàn toàn. Tuy nhiên, nếu lựa chọn xóa, sau đó bạn muốn khôi phục tài khoản sẽ không thể thực hiện được.
@@ -149,4 +149,4 @@ Khi tài khoản Agent bị khóa, Agent đó sẽ không thể truy cập vào 
 Còn trên màn hình Subiz, tài khoản đó sẽ hiển thị ở trạng thái **Inactive**.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgdfiktcmovcbzbfcc_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrsupnqbyhqbpr_acpxkgumifuoofoosble/unnamed.png)

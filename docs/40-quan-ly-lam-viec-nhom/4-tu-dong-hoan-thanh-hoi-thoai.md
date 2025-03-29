@@ -20,7 +20,7 @@ Hoàn thành hội thoại đem lại 3 lợi ích chính:
 - Tạo hội thoại mới khi khách quay lại nhắn tin, đảm bảo phân phối đúng agent đang sẵn sàng trả lời khách.
 
 
-![](https://vcdn.subiz-cdn.com/file/380c7f9230c97aa17a0833c479cc9e67fc0aab540871895399a09a22937ea538_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbseuwfosyvkmnq_acpxkgumifuoofoosble/unnamed.png)
 
 ## Cách hoàn thành hội thoại
 
@@ -28,13 +28,13 @@ Hoàn thành hội thoại đem lại 3 lợi ích chính:
 **Cách 1**: Mở hội thoại và xem trạng thái “Đang mở” ở cột trả lời tin nhắn. Bấm chọn Kết thúc.
 
 
-![](https://vcdn.subiz-cdn.com/file/4d536500a2e119c907db0c0412068d1ced4cffa60ee77e3bcd6fbd54ea57605b_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbsjmfrguhjknmb_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Cách 2**: Tích chọn nút Hội thoại trên đầu danh sách hội thoại, rồi chọn tiếp các hội thoại cần hoàn thành và bấm nút Kết thúc
 
 
-![](https://vcdn.subiz-cdn.com/file/dcfd31ffa90d8369a2bdab6aa8bf8f90812480dcc3095e49e8b02952445061ab_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbsnyyxbsfgvzbm_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Cách 3**: Tạo ô trả lời tin nhắn, gõ lệnh “@c” và chọn Complete conversation để hoàn thành
@@ -42,7 +42,7 @@ Hoàn thành hội thoại đem lại 3 lợi ích chính:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/1eccb003d8d2dbad19dec08c772f71a9d4450a5e476d46ba8c24932b934dbb69_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbssntohvutpwud_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -59,7 +59,7 @@ Cách cài đặt:
 - Cập nhật là xong
 
 
-![](https://vcdn.subiz-cdn.com/file/0ee2e9e177e14fd7f6e71f87a8959c90baad387dbc53f7a340a74013cb1034ec_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdlelihqkkdcgye_acpxkgumifuoofoosble/unnamed.png)
 
 ## Hoàn thành hàng loạt hội thoại cũ 
 
@@ -74,4 +74,4 @@ Với các hội thoại cũ, bạn muốn hoàn thành cùng lúc thì bạn th
 
 
 
-![](https://vcdn.subiz-cdn.com/file/f17990cb55a7e5da3d0b5fc01c8b5793390d534ff1b61ba8e54fb9337f761ebb_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbtfbqqjscryawh_acpxkgumifuoofoosble/unnamed.png)

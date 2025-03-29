@@ -8,5 +8,1136 @@
   },
   "category": "12",
   "source_id": "456469809",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp tổng đài"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Giới thiệu tổng đài Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tổng đài Subiz là một dịch vụ tổng đài ảo do Subiz cung cấp và phát triển dựa trên công nghệ điện toán đám mây, cho phép thực hiện các cuộc gọi thông qua kết nối internet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số chức năng nổi bật của tổng đài Subiz như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyravryomalftcvyw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Thêm đầu số tổng đài vào Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khi bạn đã có đầu số tổng đài, bạn sẽ thêm đầu số này vào phần mềm Subiz với 4 bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Đăng nhập Subiz qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Mở trang cài đặt, tìm chức năng"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Tổng Đài",
+                      "text": "Tổng Đài",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chọn nút Thêm đầu số và nhập vào đầu số tổng đài."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdidnowlnbbvgld_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là"
+                    },
+                    {
+                      "type": "text",
+                      "text": "27.71.226.145:5060 và gửi lại Subiz các thông số cấu hình của đầu số này."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 4: Sau khi cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấp nút “"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Thử kết nối",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "”"
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Khi trạng thái chuyển"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Hoạt động",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "l"
+                    },
+                    {
+                      "type": "text",
+                      "text": "à cài đặt thành công."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrawbnuonlhvpolb_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=ABs3FNMf4EI",
+              "title": "XEM NGAY VIDEO HƯỚNG DẪN CHI TIẾT",
+              "text": "XEM NGAY VIDEO HƯỚNG DẪN CHI TIẾT",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Nếu trạng thái vẫn”Chờ kết nối”, hãy"
+            },
+            {
+              "type": "link",
+              "href": "https://zalo.me/935022139843821727",
+              "title": "liên hệ đội ngũ Subiz",
+              "text": "liên hệ đội ngũ Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "hỗ trợ bạn tốt nhất."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt nâng cao cho tổng đài"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tổng đài Subiz cho phép bạn tự thiết kế lời chào cuộc gọi đến, ghi âm cuộc gọi, tự động chia luồng cuộc gọi cho nhân viên."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrawgchugwtsymae_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/call-center",
+              "title": "Cài đặt tổng đài",
+              "text": "Cài đặt tổng đài",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ", bạn xem mục số tổng đài, chọn nút “Cài đặt” cho đầu số, rồi cấu hình các nội dung sau:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đặt tên cho đầu số để phân biệt các số khác nhau"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdihwxlvewrjxva_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thay đổi lời thoại cho cuộc gọi đến."
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/fisgyrawomjnfcgszmkc_acpxkgumifuoofoosble/unnamed.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cài đặt rule phân luồng cuộc gọi đến và giao đúng nhân viên phụ trách"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrawtiuiruntboxx_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bật On cho phép ghi âm cuộc gọi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thêm giám sát viên theo dõi được tất cả lịch sử cuộc gọi"
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/fisgyrawyaohaseytjqb_acpxkgumifuoofoosble/unnamed.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH1: Lợi ích của phần mềm tổng đài Subiz là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nghe/gọi và quản lý thông khách hàng:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gọi điện trực tiếp từ máy tính, điện thoại Smartphone, điện thoại bàn,....Chỉ cần thiết bị kết nối internet"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhận và xử lý nhiều cuộc gọi đồng thời, tránh tình trạng khách hàng phải chờ đợi lâu."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hiển thị thông tin khách hàng khi có cuộc gọi đến, giúp tư vấn viên cá nhân hóa cuộc trò chuyện."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gọi nội bộ miễn phí, tối ưu chi phí liên lạc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp nhiều đầu số:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Dễ dàng tích hợp 1900, 1800, cố định (024xx, 028xx…), phù hợp với mọi mô hình doanh nghiệp, giúp phân bổ đầu số theo bộ phận hoặc chi nhánh (Hà Nội, TP.HCM…)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mở rộng linh hoạt",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Không giới hạn máy nhánh, không thu phí bổ sung, dễ dàng mở rộng theo quy mô doanh nghiệp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Quản lý cuộc gọi hiệu quả trên hệ thống",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thống kê chi tiết cuộc gọi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Theo dõi số cuộc gọi nhỡ và khách hàng gọi đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ghi âm hội thoại để đảm bảo chất lượng tư vấn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tư vấn viên dễ dàng kiểm soát, chăm sóc lại cuộc gọi nhỡ, tránh bỏ sót khách hàng. Khi nhân viên nghỉ việc, dữ liệu vẫn được lưu trữ, giúp đội ngũ tiếp tục hỗ trợ khách hàng liền mạch."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp Live chat và Tổng đài",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tích hợp Live chat và Tổng đài Subiz cho phép tư vấn viên gọi trực tiếp từ cửa sổ chat khi khách hàng để lại số điện thoại, giúp kết nối nhanh chóng, tư vấn hiệu quả và tăng tỷ lệ chốt đơn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dưới đây là hình ảnh về lịch sử cuộc gọi trên phần mềm tổng đài Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyraxbmpmuflolmsl_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH2: Sử dụng tổng đài Subiz có mất phí cước gọi không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần trả phí cước gọi cho nhà mạng viễn thông (như Viettel, Mobifone, Vinaphone,...) vì các cuộc gọi vẫn được truyền qua hệ thống viễn thông."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH3: Tổng đài ảo Subiz có tính phí theo số lượng máy nhánh?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz áp dụng gói cước trọn gói, cho phép bạn sử dụng không giới hạn số lượng máy nhánh."
+            },
+            {
+              "type": "text",
+              "text": "Hãy"
+            },
+            {
+              "type": "link",
+              "href": "https://zalo.me/935022139843821727",
+              "title": "liên hệ Subiz tư vấn",
+              "text": "liên hệ Subiz tư vấn",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "chi tiết."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH4: Gọi nội bộ giữa các nhân viên sử dụng Subiz có miễn phí không?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tất cả nhân viên sử dụng tổng đài Subiz đều được miễn phí cước gọi nội bộ."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH5: Làm thế nào để thêm máy nhánh cho nhân viên?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mỗi máy nhánh trong tổng đài tương ứng với 1 agent trên Subiz."
+            },
+            {
+              "type": "text",
+              "text": "Agent là người làm việc trên Subiz, có email và mật khẩu đăng nhập Subiz riêng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để thêm nhiều máy nhánh, bạn mời thêm agent tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/agents",
+              "title": "cài đặt agent",
+              "text": "cài đặt agent",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khi mời thêm agent, hệ thống sẽ tự động cấp số nhánh nội bộ."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bạn có thể chỉnh sửa số máy nhánh này, đảm bảo số nhánh phải c"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ó 4 chữ số."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyraxfwkvutacsllx_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH6: Làm sao để phân luồng cuộc gọi đến cho nhiều nhân viên?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn có thể cài đặt chức năng"
+            },
+            {
+              "type": "text",
+              "text": "rule phân phối cuộc gọi tr"
+            },
+            {
+              "type": "text",
+              "text": "ên Subiz để tự động chia các cuộc gọi đến theo các cách thức sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đổ chuông lần lượt qua từng nhân viên."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đổ chuông chia đều cho nhiều nhân viên."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Menu thoại tự động yêu cầu khách hàng bấm số để chọn bộ phận muốn liên hệ."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/rule-setting",
+              "title": "Cài đặt rule ngay",
+              "text": "Cài đặt rule ngay",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdioigclqsfkkes_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "CH7: Cách kết nối điện thoại bàn voip với tổng đài Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 1: Mở"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/settings/call-center",
+                      "title": "Cài đặt tổng đài",
+                      "text": "Cài đặt tổng đài",
+                      "target": "_blank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 2: Chọn nút Thêm điện thoại. Sau đó, nhập các thông tin tên phân loại điện thoại voip, đầu số điện thoại gọi đi/ gọi đến, tên agent sở hữu điện thoại này."
+                    },
+                    {
+                      "type": "image",
+                      "alt_text": "",
+                      "image": {
+                        "url": "https://vcdn.subiz-cdn.com/file/fisgyraxrbcptltkzdxu_acpxkgumifuoofoosble/unnamed.png"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bước 3: Cài đặt trên trang quản lý điện thoại voip và nhập các thông số tổng đài Subiz."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyraxxjootettdokp_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyraycxihjgmdymcl_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chú thích: Khi bạn cần dùng softphone khác, bạn cũng sẽ thao tác thêm điện thoại trên Subiz và cài đặt các thông số liên kết."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

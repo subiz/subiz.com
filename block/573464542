@@ -60,76 +60,56 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz qua đường link"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Đăng nhập Subiz qua đường link"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Tổng Đài",
-                      "text": "Tổng Đài",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": ". Chọn Thêm đầu số và nhập vào đầu số tổng đài."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là"
-                    },
-                    {
-                      "type": "text",
-                      "text": "27.71.226.145:5060",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": "và gửi lại Subiz các thông số cấu hình của đầu số này."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/call-center",
+              "title": "Tổng Đài",
+              "text": "Tổng Đài",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Chọn Thêm đầu số và nhập vào đầu số tổng đài."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Gửi 2 yêu cầu tới nhà mạng cung cấp đầu số như sau: cấu hình cho đầu số này vào phần mềm tổng đài Subiz có địa chỉ IP là"
+            },
+            {
+              "type": "text",
+              "text": "27.71.226.145:5060",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và gửi lại Subiz các thông số cấu hình của đầu số này."
             }
           ]
         },
@@ -140,27 +120,17 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxkswngmpqiijdhdz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzghpncnbqqywpn_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Sau khi cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấn nút “Thử kết nối”. Khi trạng thái chuyển Hoạt động là cài đặt thành công."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Sau khi cấu hình xong, bạn quay lại trang tích hợp tổng đài Subiz và nhấn nút “Thử kết nối”. Khi trạng thái chuyển Hoạt động là cài đặt thành công."
             }
           ]
         },
@@ -221,67 +191,47 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz qua đường link"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Đăng nhập Subiz qua đường link"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Tổng Đài",
-                      "text": "Tổng Đài",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": "."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tìm số tổng đài cần xóa, nhấp vào biểu tượng thùng rác => Chọn Xóa để hoàn tất."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/call-center",
+              "title": "Tổng Đài",
+              "text": "Tổng Đài",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tìm số tổng đài cần xóa, nhấp vào biểu tượng thùng rác => Chọn Xóa để hoàn tất."
             }
           ]
         },
@@ -292,7 +242,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxkswqemayerkhqka_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzglfllfvlclhxv_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -334,82 +284,52 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz tại"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "app.subiz.com.vn",
-                      "text": "app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Đăng nhập Subiz tại"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Chọn số tổng đài muốn thêm lời chờ, nhấn Cài đặt."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "app.subiz.com.vn",
+              "text": "app.subiz.com.vn",
+              "target": "_blank"
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Di chuột xuống mục Lời thoại chờ trong cấu hình số chọn Thay đổi."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn số tổng đài muốn thêm lời chờ, nhấn Cài đặt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Di chuột xuống mục Lời thoại chờ trong cấu hình số chọn Thay đổi."
             }
           ]
         },
@@ -447,21 +367,11 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Cuối cùng nhấp Lưu cài đặt"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Cuối cùng nhấp Lưu cài đặt"
             }
           ]
         },
@@ -472,7 +382,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxkswsemvzyyzrhcm_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdkjzqzydfyekew_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -520,77 +430,52 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz tại"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "app.subiz.com.vn",
-                      "text": "app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Đăng nhập Subiz tại"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tìm tới số tổng đài muốn thêm lời thoại báo bận, chọn Cài đặt."
-                    }
-                  ]
-                }
-              ]
-            },
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "app.subiz.com.vn",
+              "text": "app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Di chuột xuống mục Lời thoại báo bận trong Cầu hình tổng đài, chọn Thay đổi."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Chọn cài đặt (biểu tượng bánh răng ở góc phải), chọn Tổng Đài ở cột bên trái."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tìm tới số tổng đài muốn thêm lời thoại báo bận, chọn Cài đặt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Di chuột xuống mục Lời thoại báo bận trong Cầu hình tổng đài, chọn Thay đổi."
             }
           ]
         },
@@ -628,21 +513,11 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Cuối cùng nhấp Lưu cài đặt."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Cuối cùng nhấp Lưu cài đặt."
             }
           ]
         },
@@ -676,113 +551,87 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz tại"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "app.subiz.com.vn",
-                      "text": "app.subiz.com.vn",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": "."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "-"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Vào cài đặt (biểu tượng bánh răng góc phải), chọn Tổng Đài ở cột bên trái."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Đăng nhập Subiz tại"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Chọn số tổng đài cần bật ghi âm, nhấn Cài đặt"
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Kéo xuống mục"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Ghi âm cuộc gọi",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": ", chuyển trạng thái"
-                    },
-                    {
-                      "type": "text",
-                      "text": "ON",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": "."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "app.subiz.com.vn",
+              "text": "app.subiz.com.vn",
+              "target": "_blank"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nhấp Lưu cài đặt."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Vào cài đặt (biểu tượng bánh răng góc phải), chọn Tổng Đài ở cột bên trái."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn số tổng đài cần bật ghi âm, nhấn Cài đặt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Kéo xuống mục"
+            },
+            {
+              "type": "text",
+              "text": "Ghi âm cuộc gọi",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ", chuyển trạng thái"
+            },
+            {
+              "type": "text",
+              "text": "ON",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhấp Lưu cài đặt."
             }
           ]
         },
@@ -797,60 +646,44 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tại Dashboard Subiz, nhấp vào mục"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn/convo",
-                      "title": "Tin nhắn",
-                      "text": "Tin nhắn",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": "trên thanh Menu."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "-"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tìm cuộc gọi theo số điện thoại hoặc hội thoại khách hàng (VD: khách hàng tên Mr.Trung)"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Tại Dashboard Subiz, nhấp vào mục"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nhấp vào biểu tượng nghe mục ghi âm cuộc gọi như hình ảnh dưới đây để bắt đầu nghe lại đoạn hội thoại:"
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "Tin nhắn",
+              "text": "Tin nhắn",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "trên thanh Menu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tìm cuộc gọi theo số điện thoại hoặc hội thoại khách hàng (VD: khách hàng tên Mr.Trung)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhấp vào biểu tượng nghe mục ghi âm cuộc gọi như hình ảnh dưới đây để bắt đầu nghe lại đoạn hội thoại:"
             }
           ]
         },
@@ -861,7 +694,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxkswwpyjtyaonteu_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgrbvxfeciutmo_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -886,81 +719,56 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz qua đường link"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Đăng nhập Subiz qua đường link"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn/settings/call-center",
-                      "title": "Tổng Đài",
-                      "text": "Tổng Đài",
-                      "target": "_blank"
-                    },
-                    {
-                      "type": "text",
-                      "text": "."
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tìm tới số tổng đài muốn phân quyền gọi ra, chọn Cài đặt"
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/call-center",
+              "title": "Tổng Đài",
+              "text": "Tổng Đài",
+              "target": "_blank"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Di chuột xuống mục Kiểm soát gọi ra trong cấu hình Tổng đài và bật ON kiểm soát gọi ra. Tại đây bạn có thể tích chọn:"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tìm tới số tổng đài muốn phân quyền gọi ra, chọn Cài đặt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Di chuột xuống mục Kiểm soát gọi ra trong cấu hình Tổng đài và bật ON kiểm soát gọi ra. Tại đây bạn có thể tích chọn:"
             }
           ]
         },
@@ -1017,21 +825,11 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Lưu cài đặt để hoàn thành."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Lưu cài đặt để hoàn thành."
             }
           ]
         },
@@ -1042,7 +840,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxkswzgeeesusfvzj_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgvdkhmheojvew_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1077,56 +875,40 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Đăng nhập Subiz qua đường link"
-                    },
-                    {
-                      "type": "link",
-                      "href": "https://app.subiz.com.vn",
-                      "title": "https://app.subiz.com.vn",
-                      "text": "https://app.subiz.com.vn",
-                      "target": "_blank"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "-"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn Rule phân phối"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Đăng nhập Subiz qua đường link"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nhấn Tạo Rule phân phối"
-                    }
-                  ]
-                }
-              ]
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Mở trang cài đặt (hình bánh răng góc phải), tại cột chức năng bên trái chọn Rule phân phối"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhấn Tạo Rule phân phối"
             }
           ]
         },
@@ -1170,46 +952,26 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxbbebvqxkgmxs_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgxysacagxzjlc_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Thiết lập điều kiện:"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Thiết lập điều kiện:"
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Bạn muốn Rule này áp dụng cho đầu số tổng đài nào, thời gian hoạt động khi nào. Hãy thiết lập các điều kiện tại đây:"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Bạn muốn Rule này áp dụng cho đầu số tổng đài nào, thời gian hoạt động khi nào. Hãy thiết lập các điều kiện tại đây:"
             }
           ]
         },
@@ -1220,7 +982,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxdegihdczxqlf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhaonoyvfsekoe_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1259,11 +1021,29 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Cuộc gọi tới trong giờ làm việc."
+                      "text": "Thời gian hoạt động: Mọi lúc"
                     }
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "-"
+            },
+            {
+              "type": "text",
+              "text": "Chọn hành động",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Khi khách gọi đến, bạn muốn những nhân viên nào nhận được cuộc gọi, muốn cách đổ chuông cho các nhân viên như nào? khách nghe lời thoại chờ gì trong lúc chờ nối máy,... hãy thiết lập chi tiết tại đây."
             }
           ]
         },
@@ -1278,38 +1058,39 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Chọn hành động: Khi khách gọi đến, bạn muốn những nhân viên nào nhận được cuộc gọi, muốn cách đổ chuông cho các nhân viên như nào? khách nghe lời thoại chờ gì trong lúc chờ nối máy,... hãy thiết lập chi tiết tại đây."
+                      "text": "Tích chọn cách đổ chuông cho nhân viên (Ví dụ: Đổ chuông cùng lúc nhiều Agent)"
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
+            },
             {
-              "type": "text",
-              "text": "- Tích chọn cách đổ chuông cho nhân viên (Ví dụ: Đổ chuông cùng lúc nhiều Agent)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn Agent nhận cuộc gọi từ số tổng đài này (Ví dụ: Ngọc Nguyễn, Đức Trần)"
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "type": "text",
-              "text": "- Chọn Agent nhận cuộc gọi từ số tổng đài này (Ví dụ: Ngọc Nguyễn, Đức Trần)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "- Để phát lời thoại chờ, lời thoại báo bận để khách nghe trong lúc chờ nối máy, bạn chọn Thêm File Audio trong mục Lời thoại chờ => Tải lên file âm thanh hoặc dùng máy đọc để tạo lời thoại."
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Để phát lời thoại chờ, lời thoại báo bận để khách nghe trong lúc chờ nối máy, bạn chọn Thêm File Audio trong mục Lời thoại chờ => Tải lên file âm thanh hoặc dùng máy đọc để tạo lời thoại."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1320,27 +1101,17 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxfozhemsrhlxk_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdknnsdvidipdqj_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Cuối cùng nhấn Tạo Rule để hoành thành."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Cuối cùng nhấn Tạo Rule để hoành thành."
             }
           ]
         },
@@ -1390,64 +1161,44 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Trên máy tính:",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": "Khi có cuộc gọi đến, Subiz sẽ gửi thông báo trên màn hình. Bạn chỉ cần Click chuột vào \"Trả lời\" để bắt đầu trò chuyện."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "- Trên máy tính:",
+              "bold": true
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Trên điện thoại:",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": "Khi khách hàng gọi đến, điện thoại sẽ đổ chuông. Bạn chỉ cần nhấn \"Nghe\" trên màn hình điện thoại để hỗ trợ khách hàng."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Khi có cuộc gọi đến, Subiz sẽ gửi thông báo trên màn hình. Bạn chỉ cần Click chuột vào \"Trả lời\" để bắt đầu trò chuyện."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Trên điện thoại:",
+              "bold": true
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Điện thoại IP",
-                      "bold": true
-                    },
-                    {
-                      "type": "text",
-                      "text": ": khi chuông reo bạn nhấc máy lên nghe như bình thường là có thể trò chuyện với khách hàng."
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Khi khách hàng gọi đến, điện thoại sẽ đổ chuông. Bạn chỉ cần nhấn \"Nghe\" trên màn hình điện thoại để hỗ trợ khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Điện thoại IP",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": khi chuông reo bạn nhấc máy lên nghe như bình thường là có thể trò chuyện với khách hàng."
             }
           ]
         },
@@ -1481,35 +1232,24 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "paragraph",
           "content": [
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tại màn hình Dashboard Subiz, nhấn nút Gọi (biểu tượng điện thoại góc màn hình bên phải)"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "-"
             },
             {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Nhấp mũi tên xuống mục Đầu số tổng đài: Tại đây bạn sẽ chọn số gọi ra theo 2 cách:"
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Tại màn hình Dashboard Subiz, nhấn nút Gọi (biểu tượng điện thoại góc màn hình bên phải)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhấp mũi tên xuống mục Đầu số tổng đài: Tại đây bạn sẽ chọn số gọi ra theo 2 cách:"
             }
           ]
         },
@@ -1553,7 +1293,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxihzvwweqfqsh_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhhfrzibwnfvid_acpxkgumifuoofoosble/unnamed.png"
               }
             },
             {
@@ -1695,7 +1435,7 @@
             },
             {
               "type": "text",
-              "text": "Bạn Click chuột vào số điện thoại hiển thị ở phần thông tin khách hàng, sau đó chọn nút gọi."
+              "text": "Click chuột vào số điện thoại hiển thị ở phần thông tin khách hàng, sau đó chọn nút gọi."
             }
           ]
         },
@@ -1706,7 +1446,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxncxttpimvtff_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdkqvyonllhuedy_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1771,7 +1511,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxrhdagxsusihy_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhoclmbdugemfi_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1856,20 +1596,35 @@
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bullet_list",
           "content": [
             {
-              "type": "text",
-              "text": "Để nghe/gọi trên máy tính, bạn cần kết nối với tai nghe có mic."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Để nghe/gọi trên máy tính, bạn cần kết nối với tai nghe có mic."
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "type": "text",
-              "text": "Tất cả các thiết bị phải kết nối Internet mới có thể thực hiện cuộc gọi tổng đài."
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tất cả các thiết bị phải kết nối Internet mới có thể thực hiện cuộc gọi tổng đài."
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -1929,7 +1684,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgxksxuagtxphuliwf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhrkhgwktpdmzd_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

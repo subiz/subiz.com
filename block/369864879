@@ -6,6 +6,763 @@
   "i18n_slug": {
     "vi_VN": "ket-noi-bang-hoi-tren-website"
   },
+  "category": "3",
   "source_id": "369864879",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Kết nối bảng hỏi trên website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Mục đích"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Website của bạn đã thiết kế 1 bảng hỏi thông tin khách như bảng báo giá, bảng liên hệ, phiếu thu thập ý kiến của khách hàng,..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn muốn chuyển dữ liệu khách hàng điền bảng hỏi thông tin trên website về phần mềm Subiz, nhằm giúp tư vấn viên tập trung chăm sóc khách hàng. Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý một số thuật ngữ"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bảng hỏi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Bảng hỏi thông tin khách hàng trên website. Subiz ghi nhận đây là 1 kênh tương tác khách hàng, giúp agent thống kê chuyển đổi khách."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Popup",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Chức năng trên Subiz cho trung chuyển thông tin khách điền bảng hỏi vào Subiz."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "API JS",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Một mã lệnh được đặt vào code website, cho phép chuyển dữ liệu đi khi khách điền bảng hỏi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn triển khai"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Kiểm tra trường thông tin khách trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để lưu các thông tin khách điền trong bảng hỏi trên website vào phần mềm Subiz thì phần mềm Subiz cần có các trường thông tin tương ứng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn kiểm tra trên Subiz có các trường lưu trữ thông tin khách điền chưa tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/user-attributes",
+              "title": "TRƯỜNG THÔNG TIN",
+              "text": "TRƯỜNG THÔNG TIN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Nếu Subiz chưa có? Bạn sẽ tạo trường thông tin mới trên Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbutnbzstfpvnaw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/777741175-thong-tin-khach-hang",
+              "title": "Xem hướng dẫn sử dụng thông tin khách hàng",
+              "text": "Xem hướng dẫn sử dụng thông tin khách hàng",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Tạo popup mới trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách điền thông tin qua bảng hỏi website sẽ được chuyển vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup (ID popup) thêm vào API JavaScript tại bước 3."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuzeqrhksycpxr_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chức năng nổi bật",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Giúp agent nhận được thông báo tức thì ngay khi khách điền bảng hỏi website, bạn cài đặt thêm cho popup cho phép “tạo hội thoại sau khi điền bảng hỏi”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbveqglxiiunlfu_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3: Đặt API Js vào code website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn cần viết hàm API JavaScript để gửi dữ liệu từ bảng hỏi thông tin trên website đến Subiz sau khi khách hàng nhập xong thông tin."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ mẫu API JavaScript Subiz có cấu trúc như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "pre",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "<script>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "  subiz('"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "submitForm"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "', '"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "cprsxvtpgbiiedribdzcj"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "', ["
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": " {key: 'message', value: 'mesagevalue' },"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": " {key: 'fullname', value: 'namevalue' },"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": " {key: 'email', value: 'emailvalue' },"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": " {key: 'phones', value: \"phonevalue\"}])"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "</script>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbvlomxkcmytvjf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ bảng hỏi trên website thiết kế như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbvrbgzpojdggve_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã API JavaScript Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút \"Gửi\"."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dưới đây là cách bạn nối bảng hỏi trên với Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdminppaafdoxln_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Agent nhận thông tin khách trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Các agent sẽ nhận được thông tin khách điền bảng hỏi tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/convo",
+              "title": "TIN NHẮN",
+              "text": "TIN NHẮN",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": ". Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdmmutziejyqtdt_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1221805713-khach-tiem-nang",
+              "title": "Xem hướng dẫn quản lý danh sách khách tiềm năng",
+              "text": "Xem hướng dẫn quản lý danh sách khách tiềm năng",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi thường gặp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi 1"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi muốn chỉ 1 nhân viên cụ thể xem được khách từ bảng hỏi thông tin được không?",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Trả lời",
+              "bold": true
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": ": Hoàn toàn làm được."
+                },
+                {
+                  "type": "text",
+                  "text": "Khách điền thông tin bảng hỏi sẽ được tạo thành hội thoại nên bạn có thể phân chia agent nhân viên xem được khách bằng cách cài đặt rule phân phối hội thoại và chọn điều kiện kênh tương tác là Bảng hỏi thông tin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai",
+              "title": "Xem thêm hướng dẫn sử dụng rule phân phối.",
+              "text": "Xem thêm hướng dẫn sử dụng rule phân phối.",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbwewtvtjdkixdw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Câu hỏi 2"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tôi muốn xuất danh sách khách điền thông tin bảng hỏi được không?",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Trả lời",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Hoàn toàn làm được."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup (Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên) và chọn xuất file dữ liệu về."
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/1221805713-khach-tiem-nang",
+              "title": "Xem hướng dẫn sử dụng trang Khách.",
+              "text": "Xem hướng dẫn sử dụng trang Khách.",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbwjdrbobxakrkb_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
