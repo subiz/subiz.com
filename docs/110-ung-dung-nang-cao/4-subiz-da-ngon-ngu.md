@@ -24,7 +24,7 @@ Ví dụ website tiếng Việt thì cửa sổ chat hiện tiếng Việt, webs
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtsaulvunwsxkoh_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbwzrhyczrnaegt_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -49,7 +49,7 @@ Hướng dẫn thêm ngôn ngữ vào Subiz:
 - Sau đó, sang mục Dịch, tìm ngôn ngữ mới thêm và nhập lại các tin nhắn theo ngôn ngữ mới.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtsfxzesynaeism_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdngazhnhenrwxp_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -71,11 +71,11 @@ Hướng dẫn cài đặt :
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtsloyyzxdgbtuj_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxljzkgpexwdcl_acpxkgumifuoofoosble/unnamed.png)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtspypxucrcsvhu_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxqkzfeqsnwyug_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -93,7 +93,7 @@ Hướng dẫn cài đặt bot:
 - Xuất bản để hoàn thành
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtsvjafxgxcgsgy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxvvppjhgyhrjs_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -113,7 +113,7 @@ Hướng dẫn cài đặt popup gửi tin nhắn đa ngôn ngữ:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxttcisjifmcohnr_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyddsetbtehihy_acpxkgumifuoofoosble/unnamed.png)
 
 ## Sửa ngôn ngữ trang App Subiz
 
@@ -126,4 +126,4 @@ Agent có thể thay đổi ngôn ngữ trang làm việc [app.subiz.com.vn](htt
 - Cập nhật là xong (Update)
 
 
-![](https://vcdn.subiz-cdn.com/file/fisfsxtthlqrveujilcd_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyjhpsmncljuee_acpxkgumifuoofoosble/unnamed.png)

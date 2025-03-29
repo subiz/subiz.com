@@ -32,7 +32,7 @@ Bạn có thể tùy chỉnh các thông tin trên cửa sổ chat sao cho hòa 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgudkmzbqamiqzr_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbewjnqvczvmfdo_acpxkgumifuoofoosble/unnamed.png)
 
 ## Cách thay đổi ảnh nút chat
 
@@ -50,7 +50,7 @@ Hướng dẫn thay đổi nút chat:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgugybckakhatbc_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbfafdhirehaasz_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -99,7 +99,7 @@ Hướng dẫn cài đặt:
 - Tùy chọn Vị trí bên trái hoặc bên phải, sửa cách lề, cách chân website.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgungwmfbvhghgq_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbfffclvciuzpoj_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -117,7 +117,7 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgusbphdlchxvft_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdofjgfexdrmbwn_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -133,7 +133,7 @@ Bạn cần thay đổi ảnh và tên hiển thị trên cửa sổ chat. Đây
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtguvlcduthdoghn_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbfmtjvldnltwix_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -147,7 +147,7 @@ Bạn cần thay đổi ảnh và tên hiển thị trên cửa sổ chat. Đây
 - Lưu Cài đặt là xong
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtguzwdywvqpqsef_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdolybltxjcphcm_acpxkgumifuoofoosble/unnamed.png)
 
 ## Cách hiển thị tên và ảnh logo Doanh nghiệp trên cửa sổ chat
 
@@ -164,7 +164,7 @@ Bước 1: Cài đặt Cửa sổ chat
 - Nhấp chọn Hiển thị hồ sơ người chat theo Doanh nghiệp
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvfegwlexigvji_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbfyylyrzxlrksu_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -177,7 +177,7 @@ Bước 2: Thay đổi thông tin Doanh nghiệp
 - Nhập các thông tin, thay đổi ảnh đại diện là logo Doanh nghiệp
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvkcmixocnecsy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbgdinduujdlffq_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -189,7 +189,7 @@ Bước 2: Thay đổi thông tin Doanh nghiệp
 Cửa sổ chat hiển thị tên và nội dung tiêu đề mặc định như sau:
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvoqucxjprldgy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbghybkmsxybmqg_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -202,7 +202,7 @@ Hướng dẫn cách thay đổi tên và thông điệp trên cửa sổ chat:
 - Cập nhật là xong
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvttcdmdwawmfu_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbgmdxvsikgarme_acpxkgumifuoofoosble/unnamed.png)
 
 ## Gắn nút Facebook và Zalo trên cửa sổ chat
 
@@ -218,13 +218,13 @@ Hướng dẫn cài đặt:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvzlnqqmvjngwz_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbgrgaoeztykqdn_acpxkgumifuoofoosble/unnamed.png)
 
 ## Thay đổi lời chào khách trên cửa sổ chat
 
 
 Lời chào hiển thị qua cửa sổ thu nhỏ, mời gọi khách nhắn tin tư vấn hỗ trợ.
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwckrlenyyodjb_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbgtyszywjlfmst_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -239,7 +239,7 @@ Hướng dẫn thay đổi lời chào:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwhbigukjbwjtp_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbgyneyfkrgwsva_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -254,7 +254,7 @@ Hướng dẫn cài đặt:
 - Cập nhật là xong
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwlyxlauyhtfoo_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbhdiosuwtuttwg_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -270,7 +270,7 @@ Hướng dẫn cài đặt:
 - Bật ON và chọn hỏi thông tin cần thiết của khách
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwqqrnopgfqyqg_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbhiqdbnnfcuviq_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -290,11 +290,11 @@ Bạn muốn cửa sổ chat của bạn hiển thị tiếng Anh hoặc tiếng
 Hướng dẫn cài đặt ngôn ngữ:
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwuqumpbaeydno_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbhncqvfmmksevl_acpxkgumifuoofoosble/unnamed.png)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgwzhjbcvkkqcgu_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdosafzgobxwevy_acpxkgumifuoofoosble/unnamed.png)
 
 
 [Xem thêm hướng dẫn cài đặt nhiều ngôn ngữ trên cửa sổ chat](https://subiz.com.vn/docs/2070353377-subiz-da-ngon-ngu)

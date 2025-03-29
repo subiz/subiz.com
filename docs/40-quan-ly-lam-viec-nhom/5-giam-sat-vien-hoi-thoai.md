@@ -18,7 +18,7 @@ Chức năng Giám sát viên trên Subiz giúp bạn tự động được phâ
 Trong hội thoại, giám sát viên được nhận biết bằng biểu tượng huy hiệu như hình dưới đây.
 
 
-![](https://vcdn.subiz-cdn.com/file/dac63cc3efe28187d9ca06614a1efa3ba4e3a7afa3fe863167823e07942fb6ef_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpluloeggngwsw_acpxkgumifuoofoosble/unnamed.png)
 
 ## Cài đặt Giám sát viên
 
@@ -28,7 +28,7 @@ Trong hội thoại, giám sát viên được nhận biết bằng biểu tư�
 - Trong mục “Giám sát viên tổng", bấm nút thêm agent để chỉ định làm giám sát viên.
 
 
-![](https://vcdn.subiz-cdn.com/file/848a3b5cf2db0719e52f59b984f89f2d7d32d0c29c8091e294e0d21ed644f8ed_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbppzscxozvvypv_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -42,7 +42,7 @@ Giám sát viên nhận và xem tất cả hội thoại của khách hàng tạ
 
 
 
-![](https://vcdn.subiz-cdn.com/file/025d7779d8f69b90b12d9d5b8b3e9b8bd47fab2a04f36d76afb1f3c4b851e4e5_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpukbafbsrzsxy_acpxkgumifuoofoosble/unnamed.png)
 
 ### Nhận biết agent đã trả lời khách hàng
 
@@ -52,7 +52,7 @@ Khi agent tư vấn viên đã phản hồi khách hàng, giám sát viên sẽ 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/9f0f12d7c19f73611ce1cfe31d4c9b7040f451c872dbd3ef0a460a94538c1dfe_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdizujikexzorui_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -68,7 +68,7 @@ Tại đây, giám sát viên sẽ thấy trạng thái của agent như chưa �
 
 
 
-![](https://vcdn.subiz-cdn.com/file/a91b6b51bbadb2d2177d0326f168d5a751ad612e37e9d066cd67fbfaa53fba38_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqgyywkaistoue_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -86,7 +86,7 @@ Khi được mời, agent sẽ nhận thông báo về cuộc hội thoại mớ
 
 
 
-![](https://vcdn.subiz-cdn.com/file/c8048c1b9976bf462d8d51106617a2bdd830ddec2285ed11d6b3e9a1aecefdca_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqkwfxdfbzfheg_acpxkgumifuoofoosble/unnamed.png)
 
 ### Lọc hội thoại chưa trả lời
 
@@ -96,7 +96,7 @@ Giám sát viên có thể nhanh chóng lọc các cuộc hội thoại chưa đ
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fa223cc732afe6ab637daad638ef8e808056df2cedd1aa63c7b0b85c1208fc17_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqpzhqlsarrqwy_acpxkgumifuoofoosble/unnamed.png)
 
 ### Lọc hội thoại theo tên agent đã trả lời khách
 
@@ -110,4 +110,4 @@ Giám sát viên có thể nhanh chóng lọc các cuộc hội thoại chưa đ
 - Nhấn Áp dụng để hiển thị kết quả.
 
 
-![](https://vcdn.subiz-cdn.com/file/b8fdac1277fc829555dc3d6ae86882f66c89c80b9f61c28b524e88ceff4b725a_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqulxunuxlhrfo_acpxkgumifuoofoosble/unnamed.png)

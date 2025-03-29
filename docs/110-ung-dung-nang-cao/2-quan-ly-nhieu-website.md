@@ -42,7 +42,7 @@ Sau đó bạn sao chép mã nhúng Subiz và dán vào code website.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/ece436ca9609375983b47ed6f324c26a3fccc6e9e7dd175007490133d3bc3f6c_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrborbfszfljirqm_acpxkgumifuoofoosble/unnamed.png)
  
 ### Bước 2: Thêm Agent phụ trách từng website
 
@@ -59,7 +59,7 @@ Hướng dẫn tạo thêm agent:
 - Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent, xem trên tab trình duyệt hiện “agent\_id”.
 
 
-![](https://vcdn.subiz-cdn.com/file/e16a26f5b8306627bc136b4bae5163716b1b0884447925e4db513eb274734d05_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbovxhkkwdggwaw_acpxkgumifuoofoosble/unnamed.png)
 
 ### Bước 3: Tùy chỉnh cửa sổ chat cho website đầu tiên
 
@@ -72,7 +72,7 @@ Tại trang [Chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/des
 
 
 
-![](https://vcdn.subiz-cdn.com/file/2ff9ad825e11691d274e54ef9f81ea231b17f8794781b70d82e39601e5beb6de_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpcsuizweaepmg_acpxkgumifuoofoosble/unnamed.png)
 
 ### Bước 4: Cài đặt API sửa cửa sổ chat cho các website khác
 
@@ -214,7 +214,7 @@ Khi bạn muốn phân chia chat từ một website cụ thể cho các agent t�
 Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
 
 
-![](https://vcdn.subiz-cdn.com/file/b8ace8df8f00a40b1a5d1711d67e786890347092cf60c8d1a69131152880a608_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpigdvvifnuewz_acpxkgumifuoofoosble/unnamed.png)
 
 ### Bước 6: Bot tự động trả lời theo từng website
 
@@ -227,7 +227,7 @@ Bot tự động chào đón và trả lời riêng cho từng website.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/4d3f1474c4d019a4825035af9f258a52fd5971547876d7f3c0d647fb20609cbe_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpnhgtrvbhdgef_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -237,7 +237,7 @@ Bot tự động chào đón và trả lời riêng cho từng website.
 Vào [Thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo), chọn Theo website để xem chi tiết số lượng hội thoại từ từng nguồn.
 
 
-![](https://vcdn.subiz-cdn.com/file/6c6ebfb5c636396147b236a6058af8a9bc755ab30483611b5522881fedec611d_acpxkgumifuoofoosble)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbptbtpjbaiftkr_acpxkgumifuoofoosble/unnamed.png)
 
 ### 
 

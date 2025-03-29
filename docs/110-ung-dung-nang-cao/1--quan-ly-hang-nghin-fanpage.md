@@ -41,7 +41,7 @@ Hướng dẫn cài đặt:
 - Sau đó chọn nút “Thêm Fanpage” bên phải màn hình
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgqwbahlpxhfpjy_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrktlqadskgdrb_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -50,7 +50,7 @@ Hướng dẫn cài đặt:
 - Chọn áp dụng cho tất cả Doanh nghiệp ở hiện tại và tương lai và làm tiếp các bước cấp quyền
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgraseirccyyipj_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrovkiqyuygvzx_acpxkgumifuoofoosble/unnamed.png)
 
 
 - Sau đó Subiz sẽ hiển thị danh sách Fanpage để bạn chọn thêm vào Subiz
@@ -71,7 +71,7 @@ Hướng dẫn cài đặt:
 [Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=jAkRovJXnDE&t=4s)
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgrhoauuravjjwx_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrtafzdstdyyzm_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Tips hay:**
@@ -99,13 +99,13 @@ Hướng dẫn tạo bot trả lời chat messenger:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgrmegnkjnebnaa_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbrxwqttvuqbrmj_acpxkgumifuoofoosble/unnamed.png)
 
 
 - Tại mục 1 thiết kế kịch bản bot, sửa tin nhắn và các hành động của bot
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgrrlxbsjlsxgqz_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbscghukwsnvzqa_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -113,7 +113,7 @@ Hướng dẫn tạo bot trả lời chat messenger:
 - Tại mục 2 Cài đặt, chọn Bot chạy khi “Khách gửi nhắn tin”
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgrvluemkyhgfpl_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbshezbjemhrsna_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -133,7 +133,7 @@ Xem thêm [hướng dẫn tạo bot tự động trả lời](https://subiz.com.
 Khi bạn muốn thêm tư vấn viên vào Subiz làm việc và trả lời khách hàng, bạn cần mời agent tại trang [Cài đặt agent](https://app.subiz.com.vn/settings/agents) này.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgrzstykqbhxmkv_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbsloiwhrlkvwek_acpxkgumifuoofoosble/unnamed.png)
 
 
 Nếu bạn muốn chia khách cho các tư vấn viên khác nhau, bạn sẽ cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting). Chức năng Rule phân phối cho phép bạn tự động chia hội thoại đến đúng tư vấn viên dựa trên tiêu chí như:
@@ -142,7 +142,7 @@ Nếu bạn muốn chia khách cho các tư vấn viên khác nhau, bạn sẽ c
 - Đặc điểm khách đã có số điện thoại, liên hệ ngoài giờ làm việc,...
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgsdvpwdhlpvjah_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdkumxtqoxnzizc_acpxkgumifuoofoosble/unnamed.png)
 
 
 Sau đó Rule giao khách cho agent tư vấn viên theo nhiều cách thức như:
@@ -156,7 +156,7 @@ Xem thêm **[hướng dẫn cài đặt Rule phân phối](https://subiz.com.vn/
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgsitjpnngymgtd_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdkypacsjpkhfor_acpxkgumifuoofoosble/unnamed.png)
 
 ### Bước 5: Đào tạo agent tư vấn viên
 
@@ -202,7 +202,7 @@ Khi mở hội thoại nhắn tin của khách, bạn sẽ nhìn thấy tên Fan
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgsmmolrwcyignw_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbsxkqtjjgypfgt_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -214,7 +214,7 @@ Khi mở hội thoại nhắn tin của khách, bạn sẽ nhìn thấy tên Fan
 Bạn lọc tìm nhanh được khách theo nhiều tiêu chí bằng cách click nút “Lọc” ngay trên trang Tin nhắn, nút “Lọc” hiện trên cùng cột Hội thoại.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgsrhjmuekpdyww_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbtahkekaihamww_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -222,7 +222,7 @@ Bạn lọc tìm nhanh được khách theo nhiều tiêu chí bằng cách clic
 Đặc biệt, khi bạn cần làm báo cáo chuyên sâu, bạn có thể xem vào trang [Thống kê](https://app.subiz.com.vn/new-reports/convo).
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgsxzdhommmeyam_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbteyigbokgxqra_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -232,4 +232,4 @@ Bạn lọc tìm nhanh được khách theo nhiều tiêu chí bằng cách clic
 Bạn tải app Subiz về điện thoại bằng cách quét mã QR sau.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgtffpxzxkgoifu_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbtjvlhhoecxuzs_acpxkgumifuoofoosble/unnamed.png)

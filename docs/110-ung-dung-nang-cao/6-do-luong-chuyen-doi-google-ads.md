@@ -56,7 +56,7 @@ Với mục tiêu “Khách truy cập website” bạn sẽ xem **[trang Thốn
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgtxzyqmknefvxg_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxsvggkaoxsclv_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -86,7 +86,7 @@ Ví dụ Tag “Advertising”
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgufmbcbvmcbmdo_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxxmygbsxjsubf_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Bước 2: ****[Tạo Nhãn phân loại](https://app.subiz.com.vn/settings/label)**** theo chiến dịch quảng cáo**
@@ -94,13 +94,13 @@ Ví dụ Tag “Advertising”
 Ví dụ Nhãn “Advertising”
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgukiknociquueh_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbydfzypddqvywx_acpxkgumifuoofoosble/unnamed.png)
 
 
 **Bước 3: ****[Tạo bot tự động](https://app.subiz.com.vn/bots)**** nhận diện khách từ quảng cáo **
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtguravnosbdwjpi_acpxkgumifuoofoosble/unnamed.gif)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyjgizvapanfpl_acpxkgumifuoofoosble/unnamed.gif)
 
 
 
@@ -118,7 +118,7 @@ Bạn vào trang Thống kê hội thoại, xem số lượng hội thoại theo
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtguxacjoysxmroe_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyotvdpytqmgtk_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -130,7 +130,7 @@ Khách tiềm năng là khách đã có số điện thoại hoặc email và đ
 Tại đây, bạn sẽ nhìn thấy nhóm khách “Advertising”
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgvtgvcjiglozyjgzd_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyukxniqeuaisw_acpxkgumifuoofoosble/unnamed.png)
 
 
 
