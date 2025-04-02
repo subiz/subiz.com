@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1743224345866,
-  "updated": 1743224345866,
+  "fetched": 1743584691788,
+  "updated": 1743584691788,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -20,10 +20,10 @@
         "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
-      "name": "1. Kết nối tổng đài",
-      "modifiedTime": "2025-02-11T09:59:13.461Z",
-      "version": "844",
-      "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-tong-dai"
+      "name": "1. Kết nối số tổng đài",
+      "modifiedTime": "2025-04-02T08:19:49.648Z",
+      "version": "854",
+      "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-so-tong-dai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -112,6 +112,17 @@
       "modifiedTime": "2022-11-02T10:35:01.542Z",
       "version": "50",
       "path_lower": "/80 Thống kê báo cáo/6.4-thong-ke-hieu-suat-chat-cua-agent"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
+      ],
+      "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
+      "name": "2. Kết nối cuộc gọi Zalo OA ",
+      "modifiedTime": "2025-04-02T08:20:36.971Z",
+      "version": "151",
+      "path_lower": "/90 Tổng đài điện thoại/2.-ket-noi-cuoc-goi-zalo-oa"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -226,17 +237,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
-      ],
-      "id": "1N3SWC2w5KO6PwnCvmzGreIndoyRa4fEYP0nfLrhFRJk",
-      "name": "6. Gửi tin nhắn ZNS Zalo",
-      "modifiedTime": "2024-03-28T12:48:33.026Z",
-      "version": "113",
-      "path_lower": "/50 Tự động hóa/6.-gui-tin-nhan-zns-zalo"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
@@ -286,7 +286,7 @@
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
       "modifiedTime": "2025-03-29T02:04:18.381Z",
-      "version": "92",
+      "version": "96",
       "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
@@ -435,6 +435,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1Z4Q6qn1peWEzZvhSRnfW8rEgmAn0f0u2Ung_v_kt5rA",
+      "name": "2. Gửi tin nhắn ZNS trên Subiz",
+      "modifiedTime": "2025-04-02T08:18:51.474Z",
+      "version": "12",
+      "path_lower": "/100 Marketing/2.-gui-tin-nhan-zns-tren-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1h1OLAxgyf2WZoQ85JAaStXxuU_8FJbvQ"
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
@@ -457,13 +468,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
       ],
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
-      "name": "5. Gửi hàng loạt Email Marketing",
-      "modifiedTime": "2024-03-07T12:01:09.515Z",
-      "version": "134",
-      "path_lower": "/50 Tự động hóa/5.-gui-hang-loat-email-marketing"
+      "name": "4. Gửi hàng loạt Email Marketing",
+      "modifiedTime": "2025-04-02T09:01:11.742Z",
+      "version": "149",
+      "path_lower": "/100 Marketing/4.-gui-hang-loat-email-marketing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -538,8 +549,8 @@
       ],
       "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
       "name": "9 Tích hợp app mobile",
-      "modifiedTime": "2023-07-12T04:10:28.805Z",
-      "version": "83",
+      "modifiedTime": "2025-04-02T07:42:38.242Z",
+      "version": "98",
       "path_lower": "/110 Ứng dụng nâng cao/9-tich-hop-app-mobile"
     },
     {
@@ -629,6 +640,17 @@
       "modifiedTime": "2024-11-26T04:06:41.921Z",
       "version": "28",
       "path_lower": "/30 Tư vấn khách hàng/6.-cai-dat-thong-bao"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
+      "name": "3. FAQs - Câu hỏi thường gặp về ZNS",
+      "modifiedTime": "2025-04-02T09:00:46.981Z",
+      "version": "11",
+      "path_lower": "/100 Marketing/3.-faqs---cau-hoi-thuong-gap-ve-zns"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -725,8 +747,8 @@
       ],
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "1. Cách tạo mẫu tin nhắn ZNS",
-      "modifiedTime": "2025-03-29T04:53:17.169Z",
-      "version": "14",
+      "modifiedTime": "2025-04-02T09:01:01.391Z",
+      "version": "29",
       "path_lower": "/100 Marketing/1.-cach-tao-mau-tin-nhan-zns"
     },
     {

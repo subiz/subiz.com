@@ -1,12 +1,11 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "Gửi hàng loạt Email Marketing"
+    "vi_VN": "https://docs.google.com/document/d/1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc"
   },
   "i18n_slug": {
-    "vi_VN": "gui-hang-loat-email-marketing"
+    "vi_VN": "https://docs.google.com/document/d/1asxnbxgmrpqqt_czo6wk-l9y33xxz5rhbkfv3twtshc"
   },
-  "category": "8",
   "source_id": "1168493719",
   "i18n_content": {
     "vi_VN": {
@@ -23,10 +22,6 @@
           ]
         },
         {
-          "type": "paragraph",
-          "content": []
-        },
-        {
           "type": "heading",
           "level": 1,
           "content": [
@@ -35,10 +30,6 @@
               "text": "Email Marketing hoạt động như thế nào?"
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "content": []
         },
         {
           "type": "paragraph",
@@ -161,7 +152,7 @@
                       "type": "image",
                       "alt_text": "",
                       "image": {
-                        "url": "https://vcdn.subiz-cdn.com/file/fisgyrbtwpwdcthfivae_acpxkgumifuoofoosble/unnamed.png"
+                        "url": "https://vcdn.subiz-cdn.com/file/fishbfnbatgwanjwtruh_acpxkgumifuoofoosble/unnamed.png"
                       }
                     }
                   ]
@@ -191,7 +182,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbubbiyiwxwmdsg_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbfrcidijgyzyu_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -254,7 +245,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbufiyvcgxnyphr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbjkyjvhipxomi_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -276,7 +267,7 @@
                       "type": "image",
                       "alt_text": "",
                       "image": {
-                        "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuknuplzhcxgoc_acpxkgumifuoofoosble/unnamed.png"
+                        "url": "https://vcdn.subiz-cdn.com/file/fishbfnbnposjtmophwt_acpxkgumifuoofoosble/unnamed.png"
                       }
                     }
                   ]
@@ -413,7 +404,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdlwcsocffpkcmy_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbqzxxixxmjqkl_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -455,7 +446,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbutpzunkbfcsvq_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbuufuvvlpyljm_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -560,7 +551,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuxxckeeljrnqr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbzalwqxnwntef_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

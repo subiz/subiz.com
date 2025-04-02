@@ -109,7 +109,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgiwrkwwqiitfm_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncewxvmelykmnk_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -130,7 +130,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdoirhjildlkfso_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnchyjgdnljfdeo_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -318,7 +318,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdolmqzyerydcik_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnclsiempjiblob_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -349,7 +349,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrafgdfqovttdpxf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncntgxcjbvmfoj_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -370,7 +370,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgwuxarwlhxhfr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncpmeawknbxsfc_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -454,7 +454,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzgzucblbinsgtf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncswuutejbonni_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -758,7 +758,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdoopuzdticwskf_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncvxhhdzyrdyyg_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -935,7 +935,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhflkmisofvbgg_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfncyownetykrqnu_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -975,7 +975,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhhryvdxcsblcq_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnczzfsxqwvkfck_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1072,7 +1072,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhjxsahsrzsrtw_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfndcahzapsqrjnv_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1199,207 +1199,6 @@
             {
               "type": "text",
               "text": "Câu hỏi thường gặp"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS là gì? Có ưu điểm gì hơn so với gửi Zalo hoặc SMS",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS (Zalo Notification Service) là dịch vụ gửi tin nhắn thông báo từ doanh nghiệp đến khách hàng thông qua nền tảng Zalo OA (Zalo Official Account)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Một số ưu điểm nổi bật khi lựa chọn ZNS so với Zalo hoặc SMS như:"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "image",
-              "alt_text": "",
-              "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhndgsbtfsxpoq_acpxkgumifuoofoosble/unnamed.png"
-              }
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Có thể tạo bao nhiêu mẫu tin nhắn ZNS?",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Không giới hạn số lượng mẫu tin nhắn – Doanh nghiệp có thể tạo nhiều mẫu tin nhắn khác nhau để phù hợp với các loại thông báo gửi đến khách hàng."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS có miễn phí không?",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS không miễn phí, doanh nghiệp phải trả phí cho mỗi tin nhắn gửi thành công, dao động khoảng 300 - 800 đồng/tin tùy theo loại tin nhắn và chính sách của Zalo."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS có gửi tin nhắn quảng cáo được không?",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "ZNS không dùng để gửi tin nhắn quảng cáo mà chỉ được phép gửi các tin nhắn giao dịch và chăm sóc khách hàng, chẳng hạn như:"
-            }
-          ]
-        },
-        {
-          "type": "bullet_list",
-          "content": [
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Xác nhận đơn hàng, lịch hẹn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Gửi mã OTP, thông tin thanh toán"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Thông báo trạng thái đơn hàng, tích điểm, ưu đãi dành riêng cho khách hàng"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "content": [
-            {
-              "type": "text",
-              "text": "Sau khi nhận ZNS người nhận có phản hồi được không?"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Người nhận có thể phản hồi như một tin chat bình thường. Doanh nghiệp có thể nhận và trả lời miễn phí phản hồi từ người dùng."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Có thể gửi bao nhiêu tin nhắn ZNS?",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Hạn mức không có giới hạn cứng về số lượng tin nhắn, nhưng phải đảm bảo tuân thủ chính sách Zalo. Nếu gửi số lượng lớn, doanh nghiệp cần làm việc với Zalo để được hỗ trợ."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Số lượng khách hàng gửi ZNS cùng một lúc là bao nhiêu?",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Trên Subiz bạn có thể gửi ZNS tới nhiều khách hàng cùng một lúc mà không giới hạn về số lượng."
             }
           ]
         },
@@ -1548,7 +1347,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdosfsgsgbcurqq_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfndfnncxaobjerl_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1701,7 +1500,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyrdotrtddujgfich_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfndhqhsyyuaqahz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1756,7 +1555,7 @@
                       "type": "image",
                       "alt_text": "",
                       "image": {
-                        "url": "https://vcdn.subiz-cdn.com/file/fisgyqzhwiyvxyzkqpnq_acpxkgumifuoofoosble/unnamed.png"
+                        "url": "https://vcdn.subiz-cdn.com/file/fishbfndkndlmtjwtwkf_acpxkgumifuoofoosble/unnamed.png"
                       }
                     }
                   ]
@@ -1873,7 +1672,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fisgyqziahiwfcrhtuga_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfndoiucgfqqedht_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]

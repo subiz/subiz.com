@@ -1,0 +1,1176 @@
+{
+  "kb": "jbsaemzffzourymgylvyhtrtn",
+  "i18n_title": {
+    "vi_VN": "Gửi tin nhắn ZNS trên Subiz"
+  },
+  "i18n_slug": {
+    "vi_VN": "gui-tin-nhan-zns-tren-subiz"
+  },
+  "source_id": "300561377",
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Gửi tin nhắn ZNS trên Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trong quá trình chăm sóc khách hàng, doanh nghiệp bạn cần gửi nhiều thông tin quan trọng như xác nhận đơn hàng, lịch hẹn, thông báo CSKH,… Tuy nhiên, SMS truyền thống có thể tốn kém, dễ bị chặn và khách hàng không đọc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với tính năng gửi ZNS trên Subiz, bạn có thể khắc phục những vấn đề này:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tiếp cận nhanh chóng:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Bạn sẽ chủ động gửi tin nhắn đến khách hàng có số điện thoại Zalo mà không cần khách hàng phải từng liên hệ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tỷ lệ",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "mở",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "và tương tác cao:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Tin nhắn ZNS hiển thị trực tiếp trên Zalo của khách, không lo bị chặn và khách có thể phản hồi tin nhắn tới Zalo OA của bạn luôn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tiết kiệm chi phí:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Giảm chi phí so với SMS truyền thống."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đa dạng ứng dụng như:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi tin nhắn ZNS Marketing",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "đến nhiều khách hàng cùng một lúc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Gửi thông báo quan trọng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "như xác nhận đơn hàng, thông tin thanh toán, mã OTP,… nhanh chóng, chính xác qua Zalo."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chăm sóc khách hàng sau mua",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "bằng cách thu thập phản hồi, đánh giá trải nghiệm để không ngừng nâng cao chất lượng dịch vụ."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn gửi tin nhắn ZNS thủ công"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để bắt đầu gửi ZNS, bạn cần tạo sẵn mẫu ZNS muốn sử dụng trên Subiz. Xem hướng dẫn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau đó bạn sẽ dễ dàng gửi ZNS cho khách hàng theo 2 cách sau:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 1: Gửi ZNS cho từng khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cách 2: Gửi ZNS cho nhiều khách hàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1: Gửi ZNS từng khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giả sử bạn đang trò chuyện với khách hàng trên trang Tin nhắn Subiz. Khách hàng đặt đơn hàng và ngay lúc đó bạn muốn gửi ZNS để xác nhận thanh toán, hãy làm như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đăng nhập Subiz tại"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn trang Tin nhắn trên thanh Menu"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Mở hội thoại với khách hàng bất kỳ (VD: Chị Ngoi)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Tại cột Khách hàng (bên phải), nhấp vào số điện thoại khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn Gửi ZNS, sau đó:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn mẫu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "(VD: Xác nhận thanh toán)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhập thông tin cụ thể của khách hàng",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tên, số tiền, ngày thanh toán, ghi chú…"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnazsqvpeidnqbt_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấn gửi để hoàn thành."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Kiểm tra bản xem thử bên phải để xem trước mẫu ZNS trước khi gửi cho khách hàng."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2: Gửi tin nhắn ZNS cho nhiều khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn muốn gửi tin nhắn ZNS thông báo lịch hẹn cho nhiều khách hàng cùng lúc? Thay vì gửi thủ công từng tin nhắn, bạn có thể sử dụng Subiz để gửi hàng loạt theo 2 bước sau đây:"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Chọn danh sách khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Có 2 cách chọn danh sách khách hàng là Chọn đối tượng khách hàng có sẵn trên Subiz và Tải từ file excel. Cụ thể như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 1: Chọn khách hàng có sẵn trên Subiz",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn muốn gửi ZNS cho khách hàng hôm nay đã đăng ký đặt lịch."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn sẽ lọc tìm khách hàng bằng cách:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đăng nhập Subiz tại"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Truy cập trang Khách trên thanh menu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Ấn mở tệp “Tất cả khách” ở cột bên phải"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhập chọn điều kiện lọc tương ứng. Ví dụ bạn muốn “Tìm danh sách khách hàng có nhãn đặt lịch hẹn của ngày hôm nay”. Cách lọc theo điều kiện như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "1. Tệp khách hàng: Tất cả khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "2. Kênh: Bất kỳ"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "3. Thời gian tạo Lead: Hôm nay"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "4. Nhãn: Đặt lịch hẹn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "5. Phụ trách: Bất kỳ"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbcjucsviiwxdz_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn khách hàng cần gửi tin (hoặc chọn tất cả bằng cách tích vào ô Họ Tên)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn gửi ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbewsgpxpdzbwb_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách 2: Chọn tệp khách hàng từ file excel",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Giả sử bạn có một file chứa danh sách khách hàng và muốn gửi thông báo ZNS xác nhận lịch hẹn cho các khách hàng trong danh sách đó. Bạn có thể thực hiện trên Subiz theo các bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đăng nhập Subiz tại"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Truy cập trang Khách trên thanh menu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn + để tạo tệp khách hàng từ file excel"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhập thông tin mô tả tệp như: tên tệp, agent có quyền xem dữ liệu tệp, loại tệp thủ công. Sau đó chọn ‘tạo tệp’"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbiyjryqsjcxvf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn tải lên khách từ file lên"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn ‘tải về’ để xem mẫu file thêm khách vào Subiz và dán thông tin khách hàng như file mẫu."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn nút tải lên (Nhấm vào mũi tên đi lên) chọn file excel khách hàng, ấn ‘tiếp tục’"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Bạn cần nối ghép đúng các cột thông tin khách trên file excel với các trường thông tin khách đang có trên Subiz."
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
+              "title": "Xem cách thêm trường thông tin mới trên Subiz",
+              "text": "Xem cách thêm trường thông tin mới trên Subiz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn ‘bắt đầu tải lên Subiz’"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbmgavarhydjzq_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Thêm khách thành công, tệp vừa tạo sẽ hiện danh sách khách hàng từ file excel của bạn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn tất Tệp bạn vừa tạo, Tích chọn tất cả khách hàng (tích chọn dấu \"✓\" và ô"
+            },
+            {
+              "type": "text",
+              "text": "Họ Tên",
+              "italic": true
+            },
+            {
+              "type": "text",
+              "text": "), ấn ‘Gửi ZNS’ và thực hiện tiếp Bước 2"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý: Subiz hỗ trợ file định dạng"
+            },
+            {
+              "type": "text",
+              "text": "CSV, XLSX, XLS",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2: Gửi tin nhắn ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi nhấn vào gửi ZNS, bạn thực hiện các bức thiết lập tin nhắn ZNS như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn mẫu:",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "Nhấn vào mũi tên và chọn mẫu ZNS muốn gửi (VD: Xác nhận lịch hẹn)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Bảng thông tin: Chọn Giá trị tương ứng với Tên trường. VD:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "customer\\_name: Tên hiển thị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "booking\\_code"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Mã khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "schedule\\_time"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Ngày đặt lịch"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fishbfnbplrabfhgmsck_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Thời điểm gửi: Chọn gửi"
+            },
+            {
+              "type": "text",
+              "text": "ngay"
+            },
+            {
+              "type": "text",
+              "text": "hoặc hẹn giờ chạy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Nhấn gửi"
+            },
+            {
+              "type": "text",
+              "text": "ngay"
+            },
+            {
+              "type": "text",
+              "text": "/ Lưu để hoàn thành."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Với những thông tin không cần tùy chỉnh theo từng khách hàng có thể nhập vào"
+                    },
+                    {
+                      "type": "text",
+                      "text": "cột Mặc định",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ", hệ thống sẽ áp dụng cho tất cả tin nhắn ZNS. Ví dụ address - Tòa nhà Kailash."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kiểm tra bản xem thử bên phải để xem trước mẫu ZNS trước khi gửi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Để gửi được tin nhắn ZNS, cần đảm bảo điều kiện các trường thông tin khách hàng như (Tên khách hàng, Mã khách hàng, Ngày đặt lịch hẹn) đã được lưu trên hồ sơ khách hàng. Nếu chưa biết"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://subiz.com.vn/docs/777741175-ho-so-khach-hang#t%E1%BA%A1o-th%C3%AAm-th%C3%B4ng-tin-kh%C3%A1ch-h%C3%A0ng",
+                      "title": "Cách tạo và sử dụng trường thông tin khách hàng",
+                      "text": "Cách tạo và sử dụng trường thông tin khách hàng",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "xem chi tiết tại đây."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Đọc thống kê gửi tin nhắn ZNS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi gửi ZNS hàng loạt, bạn muốn kiểm tra số lượng tin nhắn gửi thành công, đã đọc để đánh giá hiệu quả. Thực hiện theo các bước sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Đăng nhập Subiz qua đường link"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/",
+              "title": "https://app.subiz.com.vn",
+              "text": "https://app.subiz.com.vn",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Trên thanh Menu trong Dashboard Subiz, vào Công cụ, chọn Gửi hàng loạt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Danh sách các chiến dịch sẽ hiển thị. Nhấp vào chiến dịch bạn muốn xem kết quả."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "- Chọn tab Thống kê để xem chi tiết các thông số"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đã gửi",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Tổng số tin nhắn được hệ thống gửi đi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đã nhận",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số tin nhắn được gửi thành công đến khách hàng."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đã đọc",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số khách hàng đã mở tin nhắn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Hủy đăng ký",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Số khách hàng từ chối nhận tin nhắn ZNS."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": [
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngoài ra, Subiz cung cấp danh sách chi tiết trạng thái tin nhắn của từng khách hàng để bạn theo dõi."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

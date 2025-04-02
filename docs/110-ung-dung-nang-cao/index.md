@@ -3,7 +3,7 @@ title: Ứng dụng nâng cao
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2025-03-17T03:22:46.717Z
+   date: 2025-04-02T07:42:38.242Z
 ---
 # Ứng dụng nâng cao
 * [Quản lý hàng nghìn Fanpage](/110-ung-dung-nang-cao/1--quan-ly-hang-nghin-fanpage.md)
