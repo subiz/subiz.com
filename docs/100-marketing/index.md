@@ -3,7 +3,10 @@ title: Marketing
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2025-03-29T04:53:17.169Z
+   date: 2025-04-02T09:01:11.742Z
 ---
 # Marketing
 * [Cách tạo mẫu tin nhắn ZNS](/100-marketing/1.-cach-tao-mau-tin-nhan-zns.md)
+* [Gửi tin nhắn ZNS trên Subiz](/100-marketing/2.-gui-tin-nhan-zns-tren-subiz.md)
+* [FAQs - Câu hỏi thường gặp về ZNS](/100-marketing/3.-faqs---cau-hoi-thuong-gap-ve-zns.md)
+* [Gửi hàng loạt Email Marketing](/100-marketing/4.-gui-hang-loat-email-marketing.md)

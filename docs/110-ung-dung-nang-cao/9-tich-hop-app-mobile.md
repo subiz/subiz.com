@@ -5,7 +5,7 @@ title: Tích hợp app mobile
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:10:28.805Z
+  date: 2025-04-02T07:42:38.242Z
 ---
 
 # Tích hợp app mobile
@@ -48,7 +48,7 @@ Ví dụ:
 Ví dụ tích hợp Subiz trên app mobile của [Hoa Sen Home](https://play.google.com/store/apps/details?id=com.hoasen)
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbvlbvrlkrceauf_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fishbfnbnvjznshafinn_acpxkgumifuoofoosble/unnamed.png)
 
 ## Thống kê hội thoại theo nguồn app mobile
 
@@ -58,7 +58,7 @@ Subiz hỗ trợ thống kê nguồn hội thoại theo tên miền. Vì vậy, 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbvsyjvlrfxtsli_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fishbfnbsduveaupriny_acpxkgumifuoofoosble/unnamed.png)
 
 
 Ví dụ tên miền cho app mobile là “[http://appmobile.com](http://appmobile.com)”
@@ -68,4 +68,31 @@ Ví dụ tên miền cho app mobile là “[http://appmobile.com](http://appmobi
 Hướng dẫn xem **[thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo)** theo nguồn website, trong đó “appmobile.com” là url định danh cho nguồn app mobile.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbvxwkgbyxcmwdk_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fishbfnbvmxzrpbrivil_acpxkgumifuoofoosble/unnamed.png)
+
+
+
+## Câu hỏi thường gặp?
+
+
+01. ### Xử lý khi tắt cửa sổ Subiz thì App hiện màn hình trắng?
+
+Hướng xử lý: 
+
+Subiz sẽ gửi sự kiện đóng 'x' cửa sổ chat đến webview của bạn. 
+
+
+```
+subiz('onEvent', (ev) => {
+    // check close widget event
+    if (ev.type === 'chatbox_closed') {
+        // your code here
+    }
+})
+
+```
+
+
+
+
+Bạn hãy thiết lập webview nhận diện sự kiện khách tắt cửa sổ chat để tự động quay lại webview của bạn.
