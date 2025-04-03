@@ -95,14 +95,18 @@ function codeContent(item) {
 }
 
 async function parsePara(item, org_format, docM) {
-	if (!item || !item.tagName) return normalize(item.textContent, org_format)
+	if (!item || !item.tagName) {
+		return normalize(item.textContent, org_format)
+	}
 
 	let tagname = item.tagName.toLowerCase()
 	let NEWLINE = '\n'
 	if (org_format && org_format.singleline) NEWLINE = '<br />'
 	if (tagname == 'br') return NEWLINE + NEWLINE
 
-	if (item.childNodes.length == 0) return normalize(item.textContent, org_format)
+	if (item.childNodes.length == 0) {
+		return normalize(item.textContent, org_format)
+	}
 	let out = ''
 
 	if (tagname == 'a') {
@@ -133,7 +137,7 @@ async function parsePara(item, org_format, docM) {
 			if (child.style.marginLeft == '72pt') prefix = '    '
 			let childtagname = child.tagName.toLowerCase()
 			if (childtagname == 'li') {
-					let parsed = await parse(child, org_format, docM)
+				let parsed = await parse(child, org_format, docM)
 				out += NEWLINE + prefix + (tagname == 'ol' ? i + 1 + '. ' : '- ') + parsed.trim()
 			}
 		})
@@ -286,6 +290,8 @@ function normalize(str, format) {
 
 	str = str.replace(/\*/g, '\\*')
 	str = str.replace(/\_/g, '\\_')
+	str = str.replace(/>/g, '&gt;')
+	str = str.replace(/</g, '&lt;')
 	str = str.replace(/\[/g, '\\[')
 	str = str.replace(/\]/g, '\\]')
 	str = str.replace(/\|/g, '\\|')
