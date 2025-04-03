@@ -1,10 +1,10 @@
 {
   "kb": "jbsaemzffzourymgylvyhtrtn",
   "i18n_title": {
-    "vi_VN": "ZNS là gì? Và các câu hỏi thường gặp v"
+    "vi_VN": "ZNS là gì và các câu hỏi thường gặp về ZNS?"
   },
   "i18n_slug": {
-    "vi_VN": "zns-la-gi--va-cac-cau-hoi-thuong-gap-v"
+    "vi_VN": "zns-la-gi-va-cac-cau-hoi-thuong-gap-ve-zns-"
   },
   "source_id": "735781858",
   "i18n_content": {
@@ -17,7 +17,7 @@
           "content": [
             {
               "type": "text",
-              "text": "ZNS là gì? Và các câu hỏi thường gặp v"
+              "text": "ZNS là gì và các câu hỏi thường gặp về ZNS?"
             }
           ]
         },

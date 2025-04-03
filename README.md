@@ -1,54 +1,11 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+### Fix some docs not shown, just display https://docs.google.com/document/d/1aSXnbxGmRPQQt_cZO6WK-
+When exporting from Google Docs, Google Docs does not returns the latest version.
 
-### Installation
+Here is how to fix it
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-
-
-npm run start -- --locale en
-http://localhost:3000/doc/en/docs/intro
-
-npm run start
-http://localhost:3000/doc/docs/intro
-
-
-### Writing the docs
-
-2. each directory has `index.paper` page and `en.index.paper`
+2. Visit each of those links
+3. Make some small changes (add space then remove sapce)
+4. run `node driveapi.js` again
+5. double check to see if there is any outdated-link `ag "title: https:\/\/docs.google"`

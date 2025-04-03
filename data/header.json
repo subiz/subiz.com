@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1743649207646,
-  "updated": 1743649207646,
+  "fetched": 1743649601577,
+  "updated": 1743649601577,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối số tổng đài",
-      "modifiedTime": "2025-04-03T02:58:52.520Z",
-      "version": "858",
+      "modifiedTime": "2025-04-03T02:59:06.532Z",
+      "version": "860",
       "path_lower": "/90 Tổng đài điện thoại/1.-ket-noi-so-tong-dai"
     },
     {
@@ -472,8 +472,8 @@
       ],
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "4. Gửi hàng loạt Email Marketing",
-      "modifiedTime": "2025-04-03T02:59:51.471Z",
-      "version": "155",
+      "modifiedTime": "2025-04-03T02:59:54.326Z",
+      "version": "157",
       "path_lower": "/100 Marketing/4.-gui-hang-loat-email-marketing"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
       "name": "3. FAQs - Câu hỏi thường gặp về ZNS",
-      "modifiedTime": "2025-04-03T02:59:57.157Z",
-      "version": "16",
+      "modifiedTime": "2025-04-03T03:00:41.468Z",
+      "version": "18",
       "path_lower": "/100 Marketing/3.-faqs---cau-hoi-thuong-gap-ve-zns"
     },
     {

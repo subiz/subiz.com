@@ -1,6 +1,7 @@
 const readline = require('readline')
 var crypto = require('crypto')
 const {google} = require('googleapis')
+const {execSync, exec} = require('child_process')
 const {authenticate} = require('@google-cloud/local-auth')
 var lo = require('lodash')
 var flow = require('@subiz/flow')
@@ -289,6 +290,19 @@ last_update:
 	})
 	console.log('COPY RECURSIVE')
 	// copyRecursiveSync('./static_docs', './docs')
+
+	// find outdated links
+	let outdated = exec(`ag "title: https:"`, {maxBuffer: 50000000}, (error, stdout, stderr) => {
+		if (error) {
+			console.error(`----Error: ${error.message}`)
+			return
+		}
+		if (stderr) {
+			console.error(`-----stderr: ${stderr}`)
+			return
+		}
+		console.log(stdout)
+	})
 }
 
 main()
