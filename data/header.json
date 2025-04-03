@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1743656108876,
-  "updated": 1743656108876,
+  "fetched": 1743676162092,
+  "updated": 1743676162092,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -120,8 +120,8 @@
       ],
       "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
       "name": "2. Kết nối cuộc gọi Zalo OA ",
-      "modifiedTime": "2025-04-02T08:20:36.971Z",
-      "version": "151",
+      "modifiedTime": "2025-04-03T06:43:55.426Z",
+      "version": "163",
       "path_lower": "/90 Tổng đài điện thoại/2.-ket-noi-cuoc-goi-zalo-oa"
     },
     {
@@ -286,7 +286,7 @@
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
       "modifiedTime": "2025-04-03T03:40:06.817Z",
-      "version": "103",
+      "version": "104",
       "path_lower": "/90 Tổng đài điện thoại/5.-quan-ly-nhieu-tong-dai"
     },
     {
@@ -439,8 +439,8 @@
       ],
       "id": "1Z4Q6qn1peWEzZvhSRnfW8rEgmAn0f0u2Ung_v_kt5rA",
       "name": "2. Gửi tin nhắn ZNS trên Subiz",
-      "modifiedTime": "2025-04-03T03:37:45.943Z",
-      "version": "28",
+      "modifiedTime": "2025-04-03T06:50:20.213Z",
+      "version": "38",
       "path_lower": "/100 Marketing/2.-gui-tin-nhan-zns-tren-subiz"
     },
     {
@@ -747,8 +747,8 @@
       ],
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "1. Cách tạo mẫu tin nhắn ZNS",
-      "modifiedTime": "2025-04-03T03:26:08.580Z",
-      "version": "41",
+      "modifiedTime": "2025-04-03T04:58:21.366Z",
+      "version": "48",
       "path_lower": "/100 Marketing/1.-cach-tao-mau-tin-nhan-zns"
     },
     {

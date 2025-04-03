@@ -150,8 +150,12 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Chăm sóc khách hàng sau muabằng",
+                      "text": "Chăm sóc khách hàng sau mua",
                       "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "bằng"
                     },
                     {
                       "type": "text",
@@ -375,7 +379,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsqzwyzcyruluxqr_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcsjiqtdsbgyjn_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -391,7 +395,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấn gửi để hoàn thành."
+                      "text": "Nhấn gửi để hoàn thành"
                     }
                   ]
                 }
@@ -423,7 +427,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Bạn muốn gửi tin nhắn ZNS thông báo lịch hẹn cho nhiều khách hàng cùng lúc? Thay vì gửi thủ công từng tin nhắn, bạn có thể sử dụng Subiz để gửi hàng loạt theo 2 bước sau đây:"
+              "text": "Bạn muốn gửi tin nhắn ZNS thông báo lịch hẹn cho nhiều khách hàng cùng lúc? Thay vì gửi thủ công từng tin nhắn, bạn có thể sử dụng Subiz để gửi hàng loạt với 2 bước dưới đây:"
             }
           ]
         },
@@ -631,7 +635,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsramhfikzirsawy_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcvtyrduxofrnb_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -661,7 +665,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsrapbpomkxgoanl_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcxuibjvfnrjdz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -767,7 +771,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsrasfrrzpuiksrp_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjdasaexqohzrgw_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -811,7 +815,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Chọn nút tải lên (Nhấm vào mũi tên đi lên) chọn file excel khách hàng, ấn ‘tiếp tục’"
+                      "text": "Chọn nút tải lên (Nhấn vào mũi tên đi lên) chọn file excel khách hàng, ấn ‘tiếp tục’"
                     }
                   ]
                 }
@@ -865,7 +869,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsrauwzsxoraezeg_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjddfxhzqpchlfx_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -929,12 +933,7 @@
             },
             {
               "type": "text",
-              "text": "CSV, XLSX, XLS",
-              "bold": true
-            },
-            {
-              "type": "text",
-              "text": "."
+              "text": "file CSV, XLSX, XLS."
             }
           ]
         },
@@ -968,8 +967,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Chọn mẫu:",
-                      "bold": true
+                      "text": "Chọn mẫu:"
                     },
                     {
                       "type": "text",
@@ -1057,7 +1055,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbsraytvwaafsmfbe_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishbwjdgjdyljdkpare_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -1073,7 +1071,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "- Thời điểm gửi: Chọn gửi"
+                      "text": "Thời điểm gửi: Chọn gửi"
                     },
                     {
                       "type": "text",

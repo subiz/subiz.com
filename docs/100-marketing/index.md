@@ -3,7 +3,7 @@ title: Marketing
 pagination_next: null
 pagination_prev: null
 last_update:
-   date: 2025-04-03T03:38:28.146Z
+   date: 2025-04-03T06:50:20.213Z
 ---
 # Marketing
 * [Cách tạo mẫu tin nhắn ZNS](/100-marketing/1.-cach-tao-mau-tin-nhan-zns.md)
