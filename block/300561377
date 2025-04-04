@@ -155,11 +155,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "bằng"
-                    },
-                    {
-                      "type": "text",
-                      "text": "cách thu thập phản hồi, đánh giá trải nghiệm để không ngừng nâng cao chất lượng dịch vụ."
+                      "text": "bằng cách thu thập phản hồi, đánh giá trải nghiệm để không ngừng nâng cao chất lượng dịch vụ."
                     }
                   ]
                 }
@@ -248,7 +244,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -330,7 +326,7 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "ordered_list",
           "content": [
             {
               "type": "list_item",
@@ -379,13 +375,13 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcsjiqtdsbgyjn_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchmmrymhfjlqeaku_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -395,7 +391,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Nhấn gửi để hoàn thành"
+                      "text": "Nhấn gửi ZNS để hoàn thành"
                     }
                   ]
                 }
@@ -408,7 +404,12 @@
           "content": [
             {
               "type": "text",
-              "text": "Lưu ý: Kiểm tra bản xem thử bên phải để xem trước mẫu ZNS trước khi gửi cho khách hàng."
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Kiểm tra bản xem thử bên phải để xem trước mẫu ZNS trước khi gửi cho khách hàng."
             }
           ]
         },
@@ -479,7 +480,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -554,7 +555,7 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "ordered_list",
           "content": [
             {
               "type": "list_item",
@@ -635,26 +636,41 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcvtyrduxofrnb_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchmmuwyjmofrzwqs_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "paragraph",
+          "type": "bullet_list",
           "content": [
             {
-              "type": "text",
-              "text": "- Chọn khách hàng cần gửi tin (hoặc chọn tất cả bằng cách tích vào ô Họ Tên)."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn khách hàng cần gửi tin (hoặc chọn tất cả bằng cách tích vào ô Họ Tên)."
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "type": "text",
-              "text": "- Chọn gửi ZNS"
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn gửi ZNS"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -665,7 +681,7 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjcxuibjvfnrjdz_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchvqoqmdfjctvnpz_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
@@ -690,7 +706,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -771,13 +787,13 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjdasaexqohzrgw_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchmmzpwqqmzcvtlr_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -869,13 +885,13 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjddfxhzqpchlfx_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchmnblxubzzfhntj_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -957,7 +973,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -994,7 +1010,7 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "ordered_list",
           "content": [
             {
               "type": "list_item",
@@ -1055,13 +1071,13 @@
               "type": "image",
               "alt_text": "",
               "image": {
-                "url": "https://vcdn.subiz-cdn.com/file/fishbwjdgjdyljdkpare_acpxkgumifuoofoosble/unnamed.png"
+                "url": "https://vcdn.subiz-cdn.com/file/fishchvqtyftnoilaevi_acpxkgumifuoofoosble/unnamed.png"
               }
             }
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -1210,7 +1226,7 @@
           ]
         },
         {
-          "type": "ordered_list",
+          "type": "bullet_list",
           "content": [
             {
               "type": "list_item",
@@ -1278,7 +1294,7 @@
           ]
         },
         {
-          "type": "bullet_list",
+          "type": "ordered_list",
           "content": [
             {
               "type": "list_item",
