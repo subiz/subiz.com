@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1743738493208,
-  "updated": 1743738493208,
+  "fetched": 1743749391634,
+  "updated": 1743749391634,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -428,8 +428,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "6. Kết nối Email",
-      "modifiedTime": "2025-04-03T04:09:38.712Z",
-      "version": "266",
+      "modifiedTime": "2025-04-04T04:41:13.114Z",
+      "version": "273",
       "path_lower": "/20 Tích hợp kênh tương tác/6.-ket-noi-email"
     },
     {
@@ -440,7 +440,7 @@
       "id": "1Z4Q6qn1peWEzZvhSRnfW8rEgmAn0f0u2Ung_v_kt5rA",
       "name": "2. Gửi tin nhắn ZNS trên Subiz",
       "modifiedTime": "2025-04-04T03:04:38.564Z",
-      "version": "54",
+      "version": "56",
       "path_lower": "/100 Marketing/2.-gui-tin-nhan-zns-tren-subiz"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
       "name": "3. FAQs - Câu hỏi thường gặp về ZNS",
-      "modifiedTime": "2025-04-03T03:38:28.146Z",
-      "version": "25",
+      "modifiedTime": "2025-04-04T06:43:26.293Z",
+      "version": "30",
       "path_lower": "/100 Marketing/3.-faqs---cau-hoi-thuong-gap-ve-zns"
     },
     {
@@ -748,7 +748,7 @@
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "1. Cách tạo mẫu tin nhắn ZNS",
       "modifiedTime": "2025-04-04T03:05:08.558Z",
-      "version": "59",
+      "version": "60",
       "path_lower": "/100 Marketing/1.-cach-tao-mau-tin-nhan-zns"
     },
     {
