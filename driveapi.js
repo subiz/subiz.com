@@ -2,7 +2,6 @@ const readline = require('readline')
 var crypto = require('crypto')
 const {google} = require('googleapis')
 const {execSync, exec} = require('child_process')
-const {authenticate} = require('@google-cloud/local-auth')
 var lo = require('lodash')
 var flow = require('@subiz/flow')
 const fs = require('fs')
@@ -35,11 +34,16 @@ let SCOPES = [
 ]
 
 let drive // google drive client
-const TOKEN_PATH = path.join(process.cwd(), 'token.json')
+//const CREDENTIALS_PATH = path.join(
+	//process.cwd(),
+		//'./client_secret_457995922934-n4qlej9o3oit2ogusn5i6gfhli4oreio.apps.googleusercontent.com.json',
+//)
+
 const CREDENTIALS_PATH = path.join(
-	process.cwd(),
-	'./client_secret_457995922934-nshib5henv2keei1osok3k45b3jgrebt.apps.googleusercontent.com.json',
+		process.cwd(),
+		'./subiz-version-4-681a4d9d6092.json',
 )
+
 
 async function fetchGoogleTree() {
 	let files = []
@@ -536,52 +540,13 @@ function hashCode(str) {
 }
 
 /**
- * Reads previously authorized credentials from the save file.
- *
- * @return {Promise<OAuth2Client|null>}
- */
-function loadSavedCredentialsIfExist() {
-	try {
-		const content = fs.readFileSync(TOKEN_PATH)
-		const credentials = JSON.parse(content)
-		return google.auth.fromJSON(credentials)
-	} catch (err) {
-		return null
-	}
-}
-
-/**
- * Serializes credentials to a file comptible with GoogleAUth.fromJSON.
- *
- * @param {OAuth2Client} client
- * @return {Promise<void>}
- */
-async function saveCredentials(client) {
-	const content = fs.readFileSync(CREDENTIALS_PATH)
-	const keys = JSON.parse(content)
-	const key = keys.installed || keys.web
-	const payload = JSON.stringify({
-		type: 'authorized_user',
-		client_id: key.client_id,
-		client_secret: key.client_secret,
-		refresh_token: client.credentials.refresh_token,
-	})
-	fs.writeFileSync(TOKEN_PATH, payload)
-}
-
-/**
  * Load or request or authorization to call APIs.
  *
  */
 async function authorize() {
-	let client = await loadSavedCredentialsIfExist()
-	if (client) return client
-	client = await authenticate({
+	const auth = new google.auth.GoogleAuth({
+		keyFile: CREDENTIALS_PATH,
 		scopes: SCOPES,
-		keyfilePath: CREDENTIALS_PATH,
 	})
-	if (client.credentials) {
-		await saveCredentials(client)
-	}
-	return client
+	return auth.getClient()
 }
