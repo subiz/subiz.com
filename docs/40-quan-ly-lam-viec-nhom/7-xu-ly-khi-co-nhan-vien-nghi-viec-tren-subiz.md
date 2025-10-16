@@ -48,7 +48,7 @@ Cách này mất thời gian hơn. Tuy nhiên, bạn có thể biết được n
 
 Tức bàn chuyển giao danh sách khách hàng Agent cũ đang chăm sóc sang cho Agent mới.
 
-**Bước 1**: Truy cập trang [Khách](https://app.subiz.com.vn/lead). Lọc khách của Agent nghỉ bằng cách nhấp chuột vào Phụ trách => Chọn Agent phụ trách. Ví dụ: Agent phụ trách sắp nghỉ là Lê Thiên Lực. Bạn nhấp chuột chọn Lê Thiên Lực.
+**Bước 1**: Truy cập trang [Khách](https://app.subiz.com.vn/lead). Lọc khách của Agent nghỉ bằng cách nhấp chuột vào Phụ trách =&gt; Chọn Agent phụ trách. Ví dụ: Agent phụ trách sắp nghỉ là Lê Thiên Lực. Bạn nhấp chuột chọn Lê Thiên Lực.
 
 **Bước 2**: Để chọn toàn bộ danh sách khách hàng, bạn nhấp chuột tích (v) HỌ TÊN, toàn bộ danh sách khách hàng phía dưới sẽ tự động được tích chọn.
 
@@ -72,8 +72,8 @@ Những đơn hàng Agent cũ đang phụ trách cũng sẽ được bàn giao l
 
 **Bước 1**: Vào phần [Đơn hàng](https://app.subiz.com.vn/orders).
 
-01. Di chuột tới **Quy trình đơn** => chọn Bất kỳ (Tất cả các đơn hàng phụ trách từ trước đây bao gồm: đơn đã hoàn thành, đơn đang chuyển,..)
-11. Di chuột tới **Bán hàng** => chọn Agent sắp nghỉ: Ví dụ Lê Thiêm Lực
+01. Di chuột tới **Quy trình đơn** =&gt; chọn Bất kỳ (Tất cả các đơn hàng phụ trách từ trước đây bao gồm: đơn đã hoàn thành, đơn đang chuyển,..)
+11. Di chuột tới **Bán hàng** =&gt; chọn Agent sắp nghỉ: Ví dụ Lê Thiêm Lực
 
 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbqzxcjthecphob_acpxkgumifuoofoosble/unnamed.png)

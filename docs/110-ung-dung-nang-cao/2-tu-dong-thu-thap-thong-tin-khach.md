@@ -1,11 +1,11 @@
 ---
 id: 1385334016
-slug: /1385334016-tu-dong-hoa-chuyen-doi-khach-hang
+slug: /1385334016-tu-dong-thu-thap-thong-tin-khach
 title: Tự động thu thập thông tin khách
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-13T11:22:10.958Z
+  date: 2025-07-03T08:16:25.866Z
 ---
 
 # Tự động thu thập thông tin khách

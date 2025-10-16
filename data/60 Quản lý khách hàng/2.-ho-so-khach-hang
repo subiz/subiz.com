@@ -101,7 +101,7 @@ Hướng dẫn agent tùy chỉnh hồ sơ khách hàng:
 - Mở khách hàng bất kỳ, xem cột hồ sơ khách hàng ở bên phải màn hình
 - Chọn nút Hiển thị thêm
 - Tìm thông tin khách hàng cần hiển thị
-- Tích chọn nút **Hiển thị** > Lưu thay đổi
+- Tích chọn nút **Hiển thị** &gt; Lưu thay đổi
 
 
 
@@ -114,6 +114,10 @@ Cài đặt 1 lần và áp dụng cho tất cả khách hàng. [Xem thêm video
 
 
 Chú thích: Khi bạn cần thay đổi thứ tự trường thông tin trong hồ sơ khách, bạn sẽ làm lại lần lượt các bước tích chọn hiển thị trường thông tin.
+
+
+
+—------------------------------------------------------------------------------------------------------------------------
 ## Câu hỏi thường gặp
 
 ### CH1: Subiz có tự động thu thập thông tin khách không?
@@ -155,7 +159,7 @@ Trả lời: File xuất danh sách khách hàng định dạng .csv. Bạn có 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbuxkddmlkmncsh_acpxkgumifuoofoosble/unnamed.png)
 
 
-- Cách 2: Chuyển file định dạng .csv sang định dạng excel. Hướng dẫn: Mở 1 file excel mới > chọn menu Data > From Text > Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên, [xem video hướng dẫn đọc file .csv](https://www.youtube.com/watch?v=mJgbIMfkCwY).
+- Cách 2: Chuyển file định dạng .csv sang định dạng excel. Hướng dẫn: Mở 1 file excel mới &gt; chọn menu Data &gt; From Text &gt; Tìm tới thư mục chứa file csv dữ liệu khách hàng và mở lên, [xem video hướng dẫn đọc file .csv](https://www.youtube.com/watch?v=mJgbIMfkCwY).
 
 
 ### CH5: Cách nhận biết khách đến từ quảng cáo Google Ads?
@@ -241,7 +245,7 @@ Với các kênh Fanpage, Zalo OA, Email, Instagram,...Subiz chỉ chặn phía 
 ### CH 10: Cách tìm lại hội thoại đã ẩn do chặn khách
 
 
-Trả lời: Bạn tìm lại hội thoại do chặn khách bằng cách chọn “NÚT LỌC” ở cột Hội thoại tại trang [TIN NHẮN](https://app.subiz.com.vn/convo) > chọn “Hội thoại spam”
+Trả lời: Bạn tìm lại hội thoại do chặn khách bằng cách chọn “NÚT LỌC” ở cột Hội thoại tại trang [TIN NHẮN](https://app.subiz.com.vn/convo) &gt; chọn “Hội thoại spam”
 
 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbvqcmpdeqstvvs_acpxkgumifuoofoosble/unnamed.png)

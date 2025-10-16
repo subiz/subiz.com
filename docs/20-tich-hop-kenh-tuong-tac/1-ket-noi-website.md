@@ -134,11 +134,11 @@ Bước 5:** Triggering: **Chọn All Pages nếu muốn hiển thị cửa s�
 
 **Lưu ý**: Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:
 
-    - Tất cả các trang của website (All Pages) sẽ hiển thị cửa sổ Subiz chat.
-    - Chỉ một số trang (Some Pages) sẽ hiển thị cửa sổ Subiz chat.
-    - Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
+- Tất cả các trang của website (All Pages) sẽ hiển thị cửa sổ Subiz chat.
+- Chỉ một số trang (Some Pages) sẽ hiển thị cửa sổ Subiz chat.
+- Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
 
-Bước 6: Chọn **SAVE**, chọn **SUBMIT** ở góc phải màn hình > Điền thông tin mô tả trong mục **Publish and Create Version** > chọn **PUBLISH** để hoàn thành.
+Bước 6: Chọn **SAVE**, chọn **SUBMIT** ở góc phải màn hình &gt; Điền thông tin mô tả trong mục **Publish and Create Version** &gt; chọn **PUBLISH** để hoàn thành.
 
 Bước 7: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra cửa sổ chat Subiz đã hiển thị trên website.
 
@@ -148,7 +148,7 @@ Bước 7: Bạn hãy vào website và chọn F5 tải lại trang, kiểm tra 
 ### Cài đặt Subiz trên website Wordpress
 
 
-Bước 1: Mở trang quản lý WordPress Admin Panel > Appearance > Editor.
+Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor.
 
 Bước 2: Tìm file footer.php bên cột bên phải và mở file này.
 
@@ -170,7 +170,7 @@ Bước 1: Login tài khoản[ ](https://ladipage.vn)**[Ladipage](https://ladip
 
 Bước 2: Trên Ladipage, bạn vào CÀI ĐẶT TRANG tại góc dưới bên phải màn hình. Tại màn hình mở ra, bạn chọn Tab "Mã theo dõi tuỳ chỉnh". 
 
-Bước 3: Sao chép[ ](https://app.subiz.com.vn/website/install)**[mã nhúng Subiz tại đây](https://app.subiz.com.vn/website/install)** và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ body” > Chọn Save > Chọn Xuất bản
+Bước 3: Sao chép[ ](https://app.subiz.com.vn/website/install)**[mã nhúng Subiz tại đây](https://app.subiz.com.vn/website/install)** và dán vào tab "Mã theo dõi tuỳ chỉnh" nói ở bước 2. Bạn chọn vị trí đặt là "Thêm vào trước thẻ body” &gt; Chọn Save &gt; Chọn Xuất bản
 
 Bước 4: Truy cập vào Landing Page để xem hiển thị cửa sổ chat
 
@@ -182,11 +182,11 @@ Bước 4: Truy cập vào Landing Page để xem hiển thị cửa sổ chat
 ### Cài đặt Subiz trên web Sapo
 
 
-Bước 1: Đăng nhập trang quản trị website của Sapo > Chọn Website.
+Bước 1: Đăng nhập trang quản trị website của Sapo &gt; Chọn Website.
 
-Bước 2: Chọn **Giao diện > Thao tác > Chỉnh sửa HTML/CSS.**
+Bước 2: Chọn **Giao diện &gt; Thao tác &gt; Chỉnh sửa HTML/CSS.**
 
-Bước 3: Chọn Them.bwt > Tìm thẻ “body” >[ ](https://app.subiz.com/settings/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install)** và dán trước thẻ “body” > Lưu để hoàn thành
+Bước 3: Chọn Them.bwt &gt; Tìm thẻ “body” &gt;[ ](https://app.subiz.com/settings/install)**[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install)** và dán trước thẻ “body” &gt; Lưu để hoàn thành
 
 
 
@@ -202,9 +202,9 @@ Bước 3: Chọn Them.bwt > Tìm thẻ “body” >[ ](https://app.subiz.com/s
 
 Bước 1:[ ](https://myharavan.com/admin/auth/login)**[Đăng nhập](https://myharavan.com/admin/auth/login)** trang quản lý website của Haravan
 
-Bước 2: Chọn **Website** > chọn **Giao diện** > chọn
+Bước 2: Chọn **Website** &gt; chọn **Giao diện** &gt; chọn
 
-Bước 3: Chọn **theme.liquid** trong Layouts > Tìm thẻ “head” >[ ](https://app.subiz.com/settings/install)[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ “head” > chọn **Lưu** để hoàn thành
+Bước 3: Chọn **theme.liquid** trong Layouts &gt; Tìm thẻ “head” &gt;[ ](https://app.subiz.com/settings/install)[Sao chép mã nhúng Subiz](https://app.subiz.com/settings/install) và dán ngay sau thẻ “head” &gt; chọn **Lưu** để hoàn thành
 
 
 

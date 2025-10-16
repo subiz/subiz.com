@@ -99,7 +99,7 @@ Hướng dẫn cài đặt:
 - Tùy chọn Vị trí bên trái hoặc bên phải, sửa cách lề, cách chân website.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbfffclvciuzpoj_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdofjgfexdrmbwn_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -290,7 +290,7 @@ Bạn muốn cửa sổ chat của bạn hiển thị tiếng Anh hoặc tiếng
 Hướng dẫn cài đặt ngôn ngữ:
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbhncqvfmmksevl_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxljzkgpexwdcl_acpxkgumifuoofoosble/unnamed.png)
 
 
 

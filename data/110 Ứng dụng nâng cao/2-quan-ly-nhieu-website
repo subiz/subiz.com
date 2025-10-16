@@ -51,12 +51,12 @@ Hướng dẫn tạo thêm agent:
 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbovxhkkwdggwaw_acpxkgumifuoofoosble/unnamed.png)
 
-### Bước 3: Tùy chỉnh cửa sổ chat cho website đầu tiên
+### Bước 3: Cài cửa sổ chat cho website đầu tiên
 
 
-Tại trang [Chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/design), bạn thực hiện:
+Tại trang [Chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/design), bạn cài cửa sổ chat cho website đầu tiên như sau:
 
-- Sửa lần lượt tiêu đề, lời chào phù hợp với thương hiệu của website.
+- Sửa lần lượt tiêu đề, lời chào phù hợp với thương hiệu của 1 website.
 - Bật/ Tắt bảng hỏi thông tin trước khi chat và khi offline nếu cần
 
 
@@ -108,7 +108,7 @@ greeting
 
 
 
-**Ví dụ API sửa màu nền cửa sổ chat**
+**Ví dụ API sửa màu cửa sổ chat, tiêu đề, lời chào**
 
 
 ```
@@ -116,7 +116,7 @@ greeting
 subiz('overrideChatbox', {
     type: 'chatbox',
     chatbox: {
-      caption: {vi_VN: 'Doanh nghiệp', en_US: 'My Business'},
+      caption: {vi_VN: 'Doanh nghiệp', en_US: 'My Business'},      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
       greeting: {
         greeting: {
           vi_VN: 'Xin chào, hãy chat với tôi nhé', 
