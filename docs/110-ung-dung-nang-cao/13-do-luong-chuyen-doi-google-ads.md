@@ -5,7 +5,7 @@ title: Đo lường chuyển đổi Google Ads
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:09:31.814Z
+  date: 2025-07-03T08:03:49.713Z
 ---
 
 # Đo lường chuyển đổi Google Ads
@@ -39,11 +39,11 @@ Ví dụ: Nếu trang web của bạn là www.example.com thì khi một ngườ
 
 
 
-[https://www.example.com](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale)[/?gclid=123xyz](http://www.example.com/?gclid=123xyz) => Subiz hiển thị nguồn truy cập là “Advertising” 
+[https://www.example.com](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale)[/?gclid=123xyz](http://www.example.com/?gclid=123xyz) =&gt; Subiz hiển thị nguồn truy cập là “Advertising” 
 
 
 
-[https://www.example.com/?utm\_campaign=summer-sale](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale) => Subiz hiển thị nguồn truy cập là “Sumer-sale”
+[https://www.example.com/?utm\_campaign=summer-sale](https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale) =&gt; Subiz hiển thị nguồn truy cập là “Sumer-sale”
 ## Xem chuyển đổi “Khách truy cập website”
 
 

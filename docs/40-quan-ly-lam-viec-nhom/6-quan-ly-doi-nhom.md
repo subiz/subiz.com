@@ -25,13 +25,13 @@ Hướng dẫn mời thêm agent:
 - Nhấn Gửi lời mời
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrboqzeigqwafnaz_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbwunzcnzalumbx_acpxkgumifuoofoosble/unnamed.png)
 
 
 Người được mời sẽ nhận email từ Subiz và hoàn tất việc tham gia bằng cách tạo mật khẩu đăng nhập.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbotplhvbnklzmc_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxcdplqunbmmbg_acpxkgumifuoofoosble/unnamed.png)
 
 ## Phân quyền cho agent 
 
@@ -43,7 +43,7 @@ Subiz hỗ trợ 3 cấp quyền chính: Chủ sở hữu, Quản lý và Agent.
 Dành cho người phụ trách cài đặt và quản lý toàn bộ tin nhắn từ khách hàng.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrboyzjsbcvhmcpa_acpxkgumifuoofoosble/unnamed.gif)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxgvftlpctnicf_acpxkgumifuoofoosble/unnamed.gif)
 
 
 **Phân quyền tư vấn viên**
@@ -51,7 +51,7 @@ Dành cho người phụ trách cài đặt và quản lý toàn bộ tin nhắn
 Cho phép agent tự trả lời khách hàng được phân chia mà không thấy tin nhắn của đồng nghiệp.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbpbyntscljiirz_acpxkgumifuoofoosble/unnamed.gif)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbxjrhgedgdlyhy_acpxkgumifuoofoosble/unnamed.gif)
 
 
 **Phân quyền tư vấn viên được xem toàn bộ khách hàng**
@@ -82,7 +82,7 @@ Rule này sẽ tự động lọc và phân phối khách hàng đến đúng ag
 [Xem video hướng dẫn rule phân phối](https://www.youtube.com/watch?v=58QX5R6Z0pc)
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbpnvftvstqjfmr_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbyyhgrqhovxbkl_acpxkgumifuoofoosble/unnamed.png)
 
 ## Bot phân phối hội thoại cho agent 
 
@@ -130,4 +130,4 @@ Subiz cung cấp thống kê chi tiết hiệu suất của từng agent bao g�
 Bạn có thể lọc tìm các hội thoại cụ thể của một agent tại trang [Danh sách hội thoại](https://app.subiz.com.vn/new-reports/convo-list) bằng cách lọc điều kiện “Agent trả lời”
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbqlcjiuiduuwje_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbqulxunuxlhrfo_acpxkgumifuoofoosble/unnamed.png)

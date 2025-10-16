@@ -42,7 +42,7 @@ Hoàn thành hội thoại đem lại 3 lợi ích chính:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbssntohvutpwud_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdjmtefsekepvog_acpxkgumifuoofoosble/unnamed.png)
 
 
 

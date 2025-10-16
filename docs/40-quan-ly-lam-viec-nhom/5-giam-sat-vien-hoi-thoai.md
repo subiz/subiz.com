@@ -28,7 +28,7 @@ Trong hội thoại, giám sát viên được nhận biết bằng biểu tư�
 - Trong mục “Giám sát viên tổng", bấm nút thêm agent để chỉ định làm giám sát viên.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbppzscxozvvypv_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpzuqllbzjylbz_acpxkgumifuoofoosble/unnamed.png)
 
 
 
@@ -68,7 +68,7 @@ Tại đây, giám sát viên sẽ thấy trạng thái của agent như chưa �
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbqgyywkaistoue_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrdjbnvrckctanej_acpxkgumifuoofoosble/unnamed.png)
 
 
 

@@ -32,7 +32,7 @@ last_update:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyraxrmlxuteqrzqs_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fisizfplvfzxflfcjtbp_acpxkgumifuoofoosble/Chuc_nang_quan_ly_Fanpage.png)
 
 ## Hướng dẫn tích hợp Fanpage 
 
@@ -48,7 +48,7 @@ last_update:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyraxvaidfnkzgnrt_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fishbsmysuusedxekavy_acpxkgumifuoofoosble/image.png)
 
 ## Hướng dẫn thêm Fanpage mới vào Subiz
 

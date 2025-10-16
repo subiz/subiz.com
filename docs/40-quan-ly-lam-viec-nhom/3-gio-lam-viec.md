@@ -19,7 +19,7 @@ Cài đặt giờ làm việc là chọn khung thời gian làm việc trong ng�
 ## Hướng dẫn thay đổi giờ làm việc
 
 
-- **Đăng nhập Subiz** > Mở **Cài đặt** > Chọn **[Giờ làm việc](https://app.subiz.com.vn/settings/business-hours)**
+- **Đăng nhập Subiz** &gt; Mở **Cài đặt** &gt; Chọn **[Giờ làm việc](https://app.subiz.com.vn/settings/business-hours)**
 - **Thêm khung thời gian** làm việc trong ngày và **Thêm ngày nghỉ lễ** trong năm
 - **Lưu** để hoàn thành
 

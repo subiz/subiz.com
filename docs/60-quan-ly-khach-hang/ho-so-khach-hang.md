@@ -1,11 +1,11 @@
 ---
-id: 777741175
-slug: /777741175-ho-so-khach-hang
+id: 1991884824
+slug: /1991884824-ho-so-khach-hang
 title: Hồ sơ khách hàng
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2025-04-10T07:33:56.709Z
+  date: 2025-04-10T07:38:01.240Z
 ---
 
 # Hồ sơ khách hàng
@@ -99,10 +99,10 @@ Subiz hỗ trợ nhiều định dạng dữ liệu cho trường thông tin nh�
 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbuiiuqtybdreec_acpxkgumifuoofoosble/unnamed.png)
 
-## Agent tùy chỉnh hồ sơ khách hàng
+## Hiển thị thêm thông tin khách hàng 
 
 
-Agent thường xem hồ sơ khách hàng trong khi trả lời tư vấn khách hàng. Mỗi agent sẽ tự tùy chỉnh hiển thị hồ sơ khách hàng trên trang làm việc của mình.
+Agent thường xem hồ sơ khách hàng trong khi trả lời tư vấn khách hàng. Mỗi agent sẽ tự tùy chỉnh hiển thị hồ sơ khách hàng trên trang Tin Nhắn của mình.
 
 
 

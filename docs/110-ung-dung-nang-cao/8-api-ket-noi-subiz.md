@@ -5,7 +5,7 @@ title: API Js kết nối Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2023-07-12T04:10:21.468Z
+  date: 2025-08-18T03:20:59.354Z
 ---
 
 # API Js kết nối Subiz
@@ -46,9 +46,7 @@ Dưới đây là một số API Js hỗ trợ chỉnh sửa các nội dung, h�
 
 
 
-### Ví dụ API sửa màu nền cửa sổ chat
-
-
+### Ví dụ API sửa màu nền cửa sổ chat, tên tiêu đề, lời chào
 
 ```
 <script>
@@ -56,6 +54,7 @@ subiz('overrideChatbox', {
     type: 'chatbox',
     chatbox: {
       caption: {vi_VN: 'Doanh nghiệp', en_US: 'My Business'},
+      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
       greeting: {
         greeting: {
           vi_VN: 'Xin chào, hãy chat với tôi nhé', 
@@ -72,9 +71,27 @@ subiz('overrideChatbox', {
 
 
 
+### Ví dụ API tắt lời chào 
+
+```
+<script>
+subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      greeting: {
+          greeting: {
+            vi_VN: "",
+            en_US: ""
+          },
+          message: "",
+      },
+    }
+})
+</script>
+
+```
+
 ### Ví dụ API tắt bảng hỏi thông tin
-
-
 
 ```
 <script>
@@ -91,6 +108,25 @@ subiz('overrideChatbox', {
 ```
 
 
+
+### Ví dụ API tắt nút chat Subiz 
+
+```
+<script>
+subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      desktop_button: {
+            hidden: true,
+      },
+      mobile_button: {
+            hidden: true,
+      },
+    }
+})
+</script>
+
+```
 
 ### Ví dụ API thay đổi hình ảnh nút chat
 
