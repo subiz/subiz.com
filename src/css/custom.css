@@ -12,8 +12,8 @@
 /* You can override the default Infima variables here. */
 
 :root {
-	--ifm-font-color-base: rgb(71 70 69);
-	--ifm-link-color: rgb(74 125 221);
+	--ifm-font-color-base: rgb(31 35 41);
+	--ifm-link-color: #0d6efd;
 	--ifm-color-primary: #0265ff; /*  #f36932; /*#0079EA;*/
 	--ifm-color-primary-dark: #29784c;
 	--ifm-color-primary-darker: #277148;
@@ -28,7 +28,7 @@
 	--ifm-toc-border-color: #eaeaea;
 	--ifm-toc-padding-horizontal: 0;
 	--ifm-navbar-padding-horizontal: 30px;
-	--ifm-link-decoration: inherit;
+	--ifm-link-decoration: #024dbc;
 	--ifm-font-weight-bold: 600;
 
 	--ifm-list-left-padding: 0;
@@ -457,4 +457,12 @@ body {
 
 .img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module {
 	border-radius: 10px;
+}
+
+.medium-zoom-overlay {
+  z-index: 1000;
+}
+
+.medium-zoom-image--opened {
+  z-index: 10001;
 }
