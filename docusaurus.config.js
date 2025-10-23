@@ -82,8 +82,6 @@ const config = {
 				margin: 24,
 				background: '#BADA55',
 				scrollOffset: 0,
-				container: '#zoom-container',
-				template: '#zoom-template',
 			},
 		},
 		colorMode: {
