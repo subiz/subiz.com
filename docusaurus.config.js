@@ -79,7 +79,7 @@ const config = {
 			// Optional medium-zoom options
 			// see: https://www.npmjs.com/package/medium-zoom#options
 			options: {
-				background: 'rgba(0, 0, 0, 0.7)',
+				background: 'rgba(0, 0, 0, 0.75)',
 			},
 		},
 		colorMode: {
