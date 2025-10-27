@@ -11,6 +11,7 @@ var html2md = require('./convert.js')
 var html2Block = require('./convert_block.js')
 var ROOT = '1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE'
 // If modifying these scopes, delete token.json.
+const {standardlizeHtmlLinkToVideo} = require('./html-convert.js')
 
 let blockM = {}
 let CAT = {
@@ -180,11 +181,13 @@ async function main() {
 					return // skip
 				}
 
-				let data = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
+				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
+        // TO DO convrt dataHtml to <embedvideo src="">
+        let newHtml = standardlizeHtmlLinkToVideo(dataHtml)
 
-				let markdown = await html2md(data, docM)
-				let block = await html2Block(data, docM)
-				fs.writeFileSync('./raw/' + entry.id + '.html', data, {encoding: 'utf8'})
+				let markdown = await html2md(newHtml, docM)
+				let block = await html2Block(dataHtml, docM)
+				fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
 				blockM[entry.id] = block
 				entry.block = block
 				fs.writeFileSync('./data' + entry.path_lower, markdown, {encoding: 'utf8'})
@@ -231,7 +234,7 @@ async function main() {
 		let out = extractFilename(entry)
 		if (out.name && out.name.startsWith('_')) return // skip
 
-		let fileName = './docs' + name + '.md'
+		let fileName = './docs' + name + '.mdx'
 		if (out.locale == 'en') {
 			let pathlowers = entry.path_lower.split('/')
 			pathlowers.pop() // remove file name
