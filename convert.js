@@ -7,23 +7,30 @@ const {JSDOM} = jsdom
 async function html2md(html, docM) {
 	const dom = new JSDOM(html)
 	let out = ''
+	let env = {}
 	await htmlMap(dom.window.document.body.childNodes, async (item, i) => {
-		out += await parse(item, undefined, docM || {})
+		out += await parse(item, undefined, docM || {}, env)
 	})
 
-	return out.trim() + '\n'
+	out = out.trim() + '\n'
+	if (env.hasEmbedVideo) out = `import EmbedVideo from '@site/src/components/EmbedVideo.js'\n${out}`
+	return out
 }
 
-async function parse(item, format, docM) {
+async function parse(item, format, docM, env) {
 	if (!item) return
 	if (checkTitle(item)) return parseTitle(item, docM)
 	if (checkH1(item)) return parseH1(item, docM)
 	if (checkH2(item)) return parseH2(item, docM)
 	if (checkH3(item)) return parseH3(item, docM)
 	if (checkH4(item)) return parseH4(item, docM)
+	if (checkVideo(item)) {
+		env.hasEmbedVideo = true
+		return parseEmbedVideo(item, docM)
+	}
 	if (checkCodeblock(item)) return parseCodeblock(item, docM)
-	if (checkTable(item)) return parseTable(item, docM)
-	return parsePara(item, format, docM)
+	if (checkTable(item)) return parseTable(item, docM, env)
+	return parsePara(item, format, docM, env)
 }
 
 // code must not contain ```
@@ -47,7 +54,7 @@ function parseCodeblock(item) {
 	return '\n```\n' + codeContent(code) + '\n```\n'
 }
 
-async function parseTable(item, docM) {
+async function parseTable(item, docM, env) {
 	let out = ''
 	await htmlMap(item.childNodes, async (tbody) => {
 		if (!tbody || !tbody.tagName) return
@@ -66,7 +73,7 @@ async function parseTable(item, docM) {
 				if (firstrow) {
 					hr += '--|'
 				}
-				let parsed = await parse(td, {singleline: true}, docM)
+				let parsed = await parse(td, {singleline: true}, docM, env)
 				out += trimBr(parsed.trim()) + '|'
 				return
 			})
@@ -94,7 +101,7 @@ function codeContent(item) {
 	return out
 }
 
-async function parsePara(item, org_format, docM) {
+async function parsePara(item, org_format, docM, env) {
 	if (!item || !item.tagName) {
 		return normalize(item.textContent, org_format)
 	}
@@ -137,7 +144,7 @@ async function parsePara(item, org_format, docM) {
 			if (child.style.marginLeft == '72pt') prefix = '    '
 			let childtagname = child.tagName.toLowerCase()
 			if (childtagname == 'li') {
-				let parsed = await parse(child, org_format, docM)
+				let parsed = await parse(child, org_format, docM, env)
 				out += NEWLINE + prefix + (tagname == 'ol' ? i + 1 + '. ' : '- ') + parsed.trim()
 			}
 		})
@@ -177,7 +184,7 @@ async function parsePara(item, org_format, docM) {
 			return
 		}
 
-		let ret = await parse(child, format, docM)
+		let ret = await parse(child, format, docM, env)
 		if (doitalic) ret = '*' + ret + '*'
 		if (dobold) ret = '**' + ret + '**'
 		out += ret
@@ -215,6 +222,10 @@ function parseH4(item, docM) {
 	return '\n##### ' + normalize(item.textContent) + '\n'
 }
 
+function parseEmbedVideo(item, docM) {
+	return `\n <EmbedVideo src="${item.getAttribute('src')}">`
+}
+
 function checkTitle(item, docM) {
 	if (!item.classList) return false
 	if (item.classList.contains('title')) return true
@@ -223,6 +234,11 @@ function checkTitle(item, docM) {
 function checkH1(item) {
 	if (!item.tagName) return false
 	return item.tagName.toLowerCase() == 'h1'
+}
+
+function checkVideo(item) {
+	if (!item.tagName) return false
+	return item.tagName.toLowerCase() == 'embedvideo'
 }
 
 function checkH2(item) {
