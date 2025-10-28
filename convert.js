@@ -13,7 +13,7 @@ async function html2md(html, docM) {
 	})
 
 	out = out.trim() + '\n'
-	if (env.hasEmbedVideo) out = `import EmbedVideo from '@site/src/components/EmbedVideo.js'\n${out}`
+	if (env.hasEmbedVideo) out = `import EmbedVideo from '@site/src/components/EmbedVideo.js';\n\n${out}`
 	return out
 }
 
@@ -223,7 +223,7 @@ function parseH4(item, docM) {
 }
 
 function parseEmbedVideo(item, docM) {
-	return `\n <EmbedVideo src="${item.getAttribute('src')}">`
+	return `\n<EmbedVideo src="${item.getAttribute('src')}" />`
 }
 
 function checkTitle(item, docM) {

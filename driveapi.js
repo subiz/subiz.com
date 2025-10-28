@@ -36,15 +36,11 @@ let SCOPES = [
 
 let drive // google drive client
 //const CREDENTIALS_PATH = path.join(
-	//process.cwd(),
-		//'./client_secret_457995922934-n4qlej9o3oit2ogusn5i6gfhli4oreio.apps.googleusercontent.com.json',
+//process.cwd(),
+//'./client_secret_457995922934-n4qlej9o3oit2ogusn5i6gfhli4oreio.apps.googleusercontent.com.json',
 //)
 
-const CREDENTIALS_PATH = path.join(
-		process.cwd(),
-		'./subiz-version-4-681a4d9d6092.json',
-)
-
+const CREDENTIALS_PATH = path.join(process.cwd(), './subiz-version-4-681a4d9d6092.json')
 
 async function fetchGoogleTree() {
 	let files = []
@@ -112,6 +108,7 @@ async function main() {
 	ensureDirectoryExistence('./data')
 	console.log('[1/5] Reading header file')
 	let header = readFileHeader()
+	let videoMapping = header.video_mapping || {}
 
 	console.log(
 		'Updated since',
@@ -182,8 +179,8 @@ async function main() {
 				}
 
 				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
-        // TO DO convrt dataHtml to <embedvideo src="">
-        let newHtml = standardlizeHtmlLinkToVideo(dataHtml)
+				// TO DO convrt dataHtml to <embedvideo src="">
+				let newHtml = await standardlizeHtmlLinkToVideo(dataHtml, videoMapping)
 
 				let markdown = await html2md(newHtml, docM)
 				let block = await html2Block(dataHtml, docM)
@@ -201,7 +198,7 @@ async function main() {
 	// cleanEmptyFoldersRecursively('./data')
 
 	console.log('[4/4] Updating header')
-	writeFileHeader(hot, Date.now(), Date.now())
+	writeFileHeader(hot, videoMapping, Date.now(), Date.now())
 
 	console.log('[5/4] copy to docs')
 	fs.rmSync('./docs', {recursive: true, force: true})
@@ -470,7 +467,7 @@ async function exportFile(id, destPath) {
 	})
 }
 
-function writeFileHeader(entries, fetched, updated) {
+function writeFileHeader(entries, videoMapping, fetched, updated) {
 	entries = lo.orderBy(entries, 'id')
 	entries = lo.map(entries, (entry) => {
 		return {
@@ -485,7 +482,7 @@ function writeFileHeader(entries, fetched, updated) {
 	})
 	fs.writeFileSync(
 		'./data/header.json',
-		JSON.stringify({version: 1, fetched: fetched, updated: updated, entries}, null, 2),
+		JSON.stringify({version: 1, fetched: fetched, updated: updated, entries, video_mapping: videoMapping}, null, 2),
 		{encoding: 'utf8'},
 	)
 }

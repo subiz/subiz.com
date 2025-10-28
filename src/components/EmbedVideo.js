@@ -2,10 +2,12 @@ import React from 'react'
 
 export default function EmbedVideo({src}) {
 	return (
-		<div className='embed-video-wrapper'>
-			<video controls style={{minHeight: '240px', maxWidth: '100%'}}>
-				<source src={src} />
-			</video>
-		</div>
+		<iframe
+			src={src}
+			style={{border: 'none'}}
+			height='360'
+			width='640'
+			allow='accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;'
+			allowfullscreen></iframe>
 	)
 }
