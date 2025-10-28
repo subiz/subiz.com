@@ -185,8 +185,9 @@ async function parsePara(item, org_format, docM, env) {
 		}
 
 		let ret = await parse(child, format, docM, env)
-		if (doitalic) ret = '*' + ret + '*'
-		if (dobold) ret = '**' + ret + '**'
+		if (doitalic) ret = '<i>' + ret + '</i>'
+		// Pattern **a:**b cannot parse to <b>a:</b>b beacause pucntual character cannot followed by delitmier **
+		if (dobold) ret = '<b>' + ret + '</b>'
 		out += ret
 	})
 	return out
