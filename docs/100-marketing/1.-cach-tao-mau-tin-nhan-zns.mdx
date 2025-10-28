@@ -38,16 +38,16 @@ Làm theo các bước sau để thiết lập 1 mẫu tin nhắn ZNS:
 
 Trước khi gửi tin, hãy xác định mục tiêu của bạn là gì:
 
-- **Chăm sóc khách hàng**: Thông báo điểm tích lũy, chúc mừng sinh nhật,...
-- **Giao dịch**: Xác thực tài khoản, xác nhận đơn hàng, biến động số dư,...
-- **Hậu mãi**: Gửi mã giảm giá, mời gia hạn dịch vụ,...
+- <b>Chăm sóc khách hàng</b>: Thông báo điểm tích lũy, chúc mừng sinh nhật,...
+- <b>Giao dịch</b>: Xác thực tài khoản, xác nhận đơn hàng, biến động số dư,...
+- <b>Hậu mãi</b>: Gửi mã giảm giá, mời gia hạn dịch vụ,...
 
 Mỗi mục tiêu sẽ phù hợp với một loại ZNS:
 
-- **ZNS xác thực**: Phù hợp để gửi mã OTP, xác nhận đăng ký tài khoản,...
-- **ZNS tùy chỉnh**: Phù hợp chăm sóc khách hàng, giao dịch,.. dùng cho mục đích thông báo.
+- <b>ZNS xác thực</b>: Phù hợp để gửi mã OTP, xác nhận đăng ký tài khoản,...
+- <b>ZNS tùy chỉnh</b>: Phù hợp chăm sóc khách hàng, giao dịch,.. dùng cho mục đích thông báo.
 
-**Lưu ý:**
+<b>Lưu ý:</b>
 
 - Nếu cần gửi thông báo quan trọng như OTP, xác nhận đăng ký tài khoản,... hãy chọn ZNS xác thực để đảm bảo tin nhắn được gửi ngay lập tức.
 - ZNS tùy chỉnh có chi phí thấp hơn nhưng có thể bị trễ đến 2 giờ và không thể gửi ngoài giờ hành chính từ 22h đến 8h. Ngược lại, ZNS xác thực có thể gửi bất kỳ lúc nào trong ngày.
@@ -84,7 +84,7 @@ Lưu ý:
 
 Giả sử bạn muốn soạn một tin nhắn thông báo điểm tích lũy như sau:
 
-*"Cảm ơn quý khách Nguyễn Văn A đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là 50 điểm."*
+<i>"Cảm ơn quý khách Nguyễn Văn A đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là 50 điểm."</i>
 
 Tuy nhiên, mỗi khách hàng sẽ có tên và số điểm tích lũy khác nhau. Để tin nhắn tự động thay đổi theo thông tin thực tế của từng khách hàng khi gửi qua ZNS, bạn cần sử dụng tham số động. Hệ thống sẽ thay thế các tham số này bằng dữ liệu tương ứng của từng khách hàng, giúp tin nhắn luôn chính xác và cá nhân hóa.
 
@@ -97,10 +97,10 @@ Xem chi tiết: Tham số dữ liệu động trong ZNS là gì?
 
 Để tạo nội dung mẫu ZNS gồm 2 phần chính:
 
-- **Tiêu đề** – Dòng mở đầu giúp khách hàng nhận biết nội dung ngay lập tức. Ví dụ: "Thông báo điểm tích lũy" hay gọi tên theo biến Chào bạn &lt;customer\_name&gt;.
-- **Văn bản** – Nội dung chi tiết theo mục đích gửi ZNS. 
+- <b>Tiêu đề</b> – Dòng mở đầu giúp khách hàng nhận biết nội dung ngay lập tức. Ví dụ: "Thông báo điểm tích lũy" hay gọi tên theo biến Chào bạn &lt;customer\_name&gt;.
+- <b>Văn bản</b> – Nội dung chi tiết theo mục đích gửi ZNS. 
 
-Ví dụ: "*Cảm ơn quý khách *&lt;customer\_name&gt;* đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là *&lt;point&gt;* điểm*."
+Ví dụ: "<i>Cảm ơn quý khách </i>&lt;customer\_name&gt;<i> đã sử dụng dịch vụ của chúng tôi. Tổng điểm tích lũy hiện tại của bạn là </i>&lt;point&gt;<i> điểm</i>."
 ### 
 
 ### Bước 5: Thêm nút Hành động
@@ -121,17 +121,17 @@ Cách thực hiện:
 
 Gợi ý một số Nút CTA như: 
 
-- **Xem điểm của tôi** → Dẫn khách hàng đến trang tra cứu điểm tích lũy hoặc ưu đãi.
-- **Liên hệ CSKH** → Mở cuộc trò chuyện với nhân viên CSKH hoặc gọi hotline.
-- **Đổi thưởng ngay** → Chuyển đến trang quy đổi điểm lấy quà.
+- <b>Xem điểm của tôi</b> → Dẫn khách hàng đến trang tra cứu điểm tích lũy hoặc ưu đãi.
+- <b>Liên hệ CSKH</b> → Mở cuộc trò chuyện với nhân viên CSKH hoặc gọi hotline.
+- <b>Đổi thưởng ngay</b> → Chuyển đến trang quy đổi điểm lấy quà.
 ### Bước 6: Cài đặt tham số
 
 
 Bạn cần chọn loại dữ liệu cho tham số tương ứng và điền ghi chú nhằm hỗ trợ Zalo kiểm duyệt chính xác. Subiz hiển thị 3 cột cụ thể như sau: 
 
-- **Cột 1: Tham số** – Tham số được sử dụng trong tin nhắn (ví dụ: &lt;customer\_name&gt;, &lt;order\_id&gt;).
-- **Cột 2: Loại dữ liệu** – Giúp xác định ý nghĩa của tham số đại diện cho thông tin, đảm bảo Zalo duyệt nội dung chính xác. Ví dụ: tham số &lt;customer\_name&gt; thì loại là Tên khách hàng, &lt;booking\_code&gt; loại là Mã số,...
-- **Cột 3: Ví dụ hiển thị** – Mẫu giá trị thực tế bạn muốn hiển thị với khách hàng.
+- <b>Cột 1: Tham số</b> – Tham số được sử dụng trong tin nhắn (ví dụ: &lt;customer\_name&gt;, &lt;order\_id&gt;).
+- <b>Cột 2: Loại dữ liệu</b> – Giúp xác định ý nghĩa của tham số đại diện cho thông tin, đảm bảo Zalo duyệt nội dung chính xác. Ví dụ: tham số &lt;customer\_name&gt; thì loại là Tên khách hàng, &lt;booking\_code&gt; loại là Mã số,...
+- <b>Cột 3: Ví dụ hiển thị</b> – Mẫu giá trị thực tế bạn muốn hiển thị với khách hàng.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fishcjvuxodsyeitvxqd_acpxkgumifuoofoosble/unnamed.png)
@@ -145,12 +145,12 @@ Ví dụ: “Tin nhắn này dùng để gửi thông báo ưu đãi cho khách 
 
 
 ![](https://vcdn.subiz-cdn.com/file/fishcjvuzjtafgxvnhfe_acpxkgumifuoofoosble/unnamed.png)
-Nhấp **Tạo mới** để hoàn tất.Sau 1-3 ngày, kiểm tra trạng thái tại Danh sách mẫu ZNS.
+Nhấp <b>Tạo mới</b> để hoàn tất.Sau 1-3 ngày, kiểm tra trạng thái tại Danh sách mẫu ZNS.
 
 Để kiểm tra mẫu ZNS của bạn đã được kiểm duyệt, bạn truy cập [Danh sách mẫu ZNS trên Subiz](https://app.subiz.com.vn/zns-templates?oa_id=935022139843821727). 
 
-- **Màu xanh (Đã duyệt)**: Mẫu có thể sử dụng.
-- **Màu đỏ (Bị từ chối)**: Cần chỉnh sửa và gửi lại.
+- <b>Màu xanh (Đã duyệt)</b>: Mẫu có thể sử dụng.
+- <b>Màu đỏ (Bị từ chối)</b>: Cần chỉnh sửa và gửi lại.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fisiivckmtblhbczsyph_acpxkgumifuoofoosble/image.png)
@@ -169,42 +169,42 @@ Sau khi mẫu tin nhắn ZNS được kiểm duyệt thành công, bạn nên g�
 ## Câu hỏi thường gặp
 
 
-**Tham số trong ZNS là gì?**
+<b>Tham số trong ZNS là gì?</b>
 
 Tham số ZNS là các dữ liệu động trong tin nhắn Zalo Notification Service (ZNS), giúp cá nhân hóa nội dung tin nhắn theo từng khách hàng. Các tham số này sẽ tự động thay đổi dựa trên thông tin cụ thể của mỗi người, chẳng hạn như:
 
-- **&lt;customer\_name&gt;** – Hiển thị tên khách hàng.
-- **&lt;customer\_code&gt;** – Hiển thị mã khách hàng.
-- **&lt;voucher\_code&gt;** – Hiển thị mã voucher.
-- **&lt;voucher\_discount&gt;** – Hiển thị mức giảm giá.
-- **&lt;expire\_date&gt;** – Hiển thị ngày hết hạn của voucher.
-- **&lt;voucher\_condition&gt;** – Hiển thị điều kiện áp dụng voucher.
+- <b>&lt;customer\_name&gt;</b> – Hiển thị tên khách hàng.
+- <b>&lt;customer\_code&gt;</b> – Hiển thị mã khách hàng.
+- <b>&lt;voucher\_code&gt;</b> – Hiển thị mã voucher.
+- <b>&lt;voucher\_discount&gt;</b> – Hiển thị mức giảm giá.
+- <b>&lt;expire\_date&gt;</b> – Hiển thị ngày hết hạn của voucher.
+- <b>&lt;voucher\_condition&gt;</b> – Hiển thị điều kiện áp dụng voucher.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fishcjvvdsrgqzxpbrke_acpxkgumifuoofoosble/unnamed.png)
 
 
-Mỗi tham số được đặt giữa dấu **“&lt;”** và **“&gt;”**.
+Mỗi tham số được đặt giữa dấu <b>“&lt;”</b> và <b>“&gt;”</b>.
 
 Nếu một tin nhắn có chứa tham số, hệ thống sẽ tự động thay thế bằng thông tin thực tế của khách hàng trước khi gửi đi.
 
 Giả dụ Nếu bạn có danh sách 50 khách hàng, mỗi người có thông tin khác nhau, hệ thống sẽ thay thế tham số bằng dữ liệu tương ứng. Điều này giúp đảm bảo rằng mỗi khách hàng nhận được tin nhắn với nội dung đúng với thông tin của họ, thay vì một tin nhắn chung chung giống nhau.
 
-**Làm sao để tạo mẫu tin nhắn ZNS hiển thị nhiều thông tin khách hàng một cách rõ ràng?**
+<b>Làm sao để tạo mẫu tin nhắn ZNS hiển thị nhiều thông tin khách hàng một cách rõ ràng?</b>
 
 Bạn có thể sử dụng bảng để hiển thị thông tin khách hàng dạng liệt kê theo bảng nếu nội dung ZNS có nhiều thông tin cần truyền tải.
 
-Ví dụ: Tin nhắn ZNS xác nhận đơn hàng với nội dung: *“Cảm ơn Nguyễn Văn A đã cua hàng tại cửa hàng chúng tôi. Đơn hàng của bạn đã được xác nhận với chi tiết như sau:*
+Ví dụ: Tin nhắn ZNS xác nhận đơn hàng với nội dung: <i>“Cảm ơn Nguyễn Văn A đã cua hàng tại cửa hàng chúng tôi. Đơn hàng của bạn đã được xác nhận với chi tiết như sau:</i>
 
-*Mã đơn: TP-12345*
+<i>Mã đơn: TP-12345</i>
 
-*SDT: 0987654321*
+<i>SDT: 0987654321</i>
 
-*Sản phẩm: Giày cao gót*
+<i>Sản phẩm: Giày cao gót</i>
 
-*Giá tiền:10.000*
+<i>Giá tiền:10.000</i>
 
-*Ngày đặt hàng: 12h:00, 10/03/2025”*, 
+<i>Ngày đặt hàng: 12h:00, 10/03/2025”</i>, 
 
 Để tạo được bảng, tại phần tạo Nội dung ZNS. Sau khi thêm tiêu đề và nội dung văn bản mong muốn, bạn nhấp chọn thêm Bảng. 
 
@@ -214,11 +214,11 @@ Ví dụ: Tin nhắn ZNS xác nhận đơn hàng với nội dung: *“Cảm ơn
 
 Tiếp đó:
 
-01. **Thêm tiêu đề vào cột Tiêu đề**: Xác định các tiêu đề mong muốn trong bảng, chẳng hạn như Mã đơn hàng, Số điện thoại, Sản phẩm, Ngày đặt hàng,…
-11. **Thêm tham số vào cột Nội dung**: Mỗi tiêu đề sẽ hiển thị nội dung phù hợp, vì vậy bạn cần điền tham số tương ứng với từng tiêu đề trong cột nội dung như: &lt;order\_code&gt;, &lt;phone\_number&gt;, &lt;product\_name&gt;,... Để khi tin nhắn được gửi đi, các tham số này sẽ tự động được thay thế bằng thông tin chi tiết của từng khách hàng. 
+01. <b>Thêm tiêu đề vào cột Tiêu đề</b>: Xác định các tiêu đề mong muốn trong bảng, chẳng hạn như Mã đơn hàng, Số điện thoại, Sản phẩm, Ngày đặt hàng,…
+11. <b>Thêm tham số vào cột Nội dung</b>: Mỗi tiêu đề sẽ hiển thị nội dung phù hợp, vì vậy bạn cần điền tham số tương ứng với từng tiêu đề trong cột nội dung như: &lt;order\_code&gt;, &lt;phone\_number&gt;, &lt;product\_name&gt;,... Để khi tin nhắn được gửi đi, các tham số này sẽ tự động được thay thế bằng thông tin chi tiết của từng khách hàng. 
 ![](https://vcdn.subiz-cdn.com/file/fishcjvviggmozrojczp_acpxkgumifuoofoosble/unnamed.png)
 
-**Làm sao để tạo mẫu ZNS nhanh?**
+<b>Làm sao để tạo mẫu ZNS nhanh?</b>
 
 Subiz cung cấp sẵn các mẫu ZNS như Xác nhận đơn hàng, Thông báo giao hàng, Xác nhận lịch hẹn, Xác nhận thanh toán, Thông báo điểm tích lũy, v.v. Bạn có thể tạo nhanh theo các bước sau:
 

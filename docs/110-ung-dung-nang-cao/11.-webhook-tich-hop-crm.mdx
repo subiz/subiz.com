@@ -84,7 +84,7 @@ Phần này hướng dẫn bạn cách xác thực chữ ký, ngoài ra nó cung
 
 Endpoint của bạn sớm hay muộn cũng sẽ bị công khai trên internet (có thể do search engine quét được, có thể do nhà cung cấp mạng sơ ý để lộ dữ liệu, ...). Khi bị đối tượng phá hoại dò được, chúng có thể gửi các gói tin giả mạo, gây xáo trộn, phá hỏng tính toàn vẹn dữ liệu, tồi tệ hơn, chúng có thể chiếm được quyền điều khiển server (qua một số lỗ hổng bảo mật trên server của bạn).
 
-"*Ôi, chắc chẳng ai thèm hack server mình đâu, còn bao việc*" là suy nghĩ của hầu hết nhà phát triển trước khi phát hiện ra mình bị hack.
+"<i>Ôi, chắc chẳng ai thèm hack server mình đâu, còn bao việc</i>" là suy nghĩ của hầu hết nhà phát triển trước khi phát hiện ra mình bị hack.
 
 Cẩn tắc vô áy náy, bạn cần xác thực gói tin ngay từ những giây phút đầu tiên.
 #### Thiết lập mật khẩu cho webhook
@@ -102,7 +102,7 @@ Khi chọn mật khẩu, bạn nên sử dụng một mật khẩu ngẫu nhiên
 
 Mật khẩu này sẽ được sử dụng mỗi khi Subiz gửi tin sang endpoint của bạn. Chúng tôi sẽ tạo ra một chữ ký riêng biệt cho từng gói tin rồi gắn vào header \`\`X-Hub-Signature-256\` trước khi gửi tới endpoint của bạn.
 
-Chữ ký được tạo ra bằng **thuật toán HMAC với hàm hash SHA256** ([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github). HMAC đươc triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
+Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> ([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github). HMAC đươc triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
 ```
 HMAC(hashFunction, secret, message) => signature
 HMAC("sha256", "sEcRet2", "chào buổi sáng") ⇒ sha256=f8e31a0ae3b14162acb325782cc4577677d30cc7e5132fbbdfae94b7a576a7b5
@@ -214,7 +214,7 @@ puts Base64.encode64(hash)
 
 01. Khi nhận được request mới, đọc HTTP header X-Hub-Signature-256, bóc tách để lấy chữ ký cho gói tin nhận được.
 11. Lấy mật khẩu và nội dung body của gói tin nhận được, chạy qua thuật toán HMAC-sha256 để lấy chữ ký chuẩn.
-21. So sánh chữ ký vừa sinh ra và **những** chữ ký nhận được. Nếu giống hệt nhau có thì gói tin đáng tin cậy. Nếu khác nhau chứng tỏ gói tin nhận được không phải từ subiz, có thể loại bỏ.
+21. So sánh chữ ký vừa sinh ra và <b>những</b> chữ ký nhận được. Nếu giống hệt nhau có thì gói tin đáng tin cậy. Nếu khác nhau chứng tỏ gói tin nhận được không phải từ subiz, có thể loại bỏ.
 ### Đổi mật khẩu webhook
 
 
@@ -236,7 +236,7 @@ Khi có event bạn quan tâm xảy ra, webhook sẽ đóng gói các thông tin
 
 Phần này mô tả chi tiết về nội dung, cấu trúc của gói tin gửi đi.
 
-**Body**
+<b>Body</b>
 
 Với mỗi request, Subiz sẽ gửi tới endpoint của bạn một gói tin JSON, chứa một mảng chứa thông tin của một hay nhiều các sự kiện vừa xảy ra.
 ```
@@ -268,7 +268,7 @@ Mỗi sự kiện sẽ có các trường thông tin chung như ví dụ bên d�
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbsmgahvoccxrny_acpxkgumifuoofoosble/unnamed.png)
 
 
-**user\_created**
+<b>user\_created</b>
 
 Xảy ra khi có một người dùng mới được tạo có thể trên website hay tất cả các kênh khác như facebook messenger, zalo hay email.
 ```
@@ -301,7 +301,7 @@ Xảy ra khi có một người dùng mới được tạo có thể trên websi
 ```
 
 
-**user\_info\_updated**
+<b>user\_info\_updated</b>
 
 Xảy ra khi có một người dùng mới cập nhật thông
 ```
@@ -334,4 +334,4 @@ Xảy ra khi có một người dùng mới cập nhật thông
 ```
 
 
-**[Xem chi tiết link hướng dẫn sử dụng webhook](https://www.notion.so/Webhook-e4b38eb769fe46e19be8ec9e8e2e73bf)**
+<b>[Xem chi tiết link hướng dẫn sử dụng webhook](https://www.notion.so/Webhook-e4b38eb769fe46e19be8ec9e8e2e73bf)</b>
