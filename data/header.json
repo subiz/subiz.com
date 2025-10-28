@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1761623077549,
-  "updated": 1761623077549,
+  "fetched": 1761634088106,
+  "updated": 1761634088106,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -142,8 +142,8 @@
       ],
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
       "name": "index",
-      "modifiedTime": "2025-10-28T03:42:11.687Z",
-      "version": "30",
+      "modifiedTime": "2025-10-28T03:42:25.436Z",
+      "version": "35",
       "path_lower": "/index"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-28T03:35:11.593Z",
-      "version": "78",
+      "version": "79",
       "path_lower": "/_video_doc_sample"
     },
     {
@@ -797,6 +797,6 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/watch?v=6DPEDcjejPw": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d1f2902add20c894427e6261b7928cd/watch"
+    "https://www.youtube.com/watch?v=6DPEDcjejPw": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/ca5532c951a06dd0e6fefdfc67d0f49b/watch"
   }
 }

@@ -8,5 +8,180 @@
   },
   "category": "2",
   "source_id": "352944605",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bảng tính năng Subiz"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz là gì?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz cung cấp giải pháp quản lý mối quan hệ khách hàng trên nền tảng tin nhắn, giúp doanh nghiệp nâng cao chất lượng chăm sóc khách hàng và tăng tỷ lệ chuyển đổi khách hàng tiềm năng."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bắt đầu với Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Đăng ký tài khoản: Truy cập đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/register",
+                      "title": "https://app.subiz.com.vn/register",
+                      "text": "https://app.subiz.com.vn/register",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn/register",
+                      "title": "đăng ký Subiz",
+                      "text": "đăng ký Subiz",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Làm việc hàng ngày: Đăng nhập qua đường link"
+                    },
+                    {
+                      "type": "link",
+                      "href": "https://app.subiz.com.vn",
+                      "title": "https://app.subiz.com.vn",
+                      "text": "https://app.subiz.com.vn",
+                      "target": "_blank"
+                    },
+                    {
+                      "type": "text",
+                      "text": "để bắt đầu sử dụng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Bảng tính năng Subiz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Các tính năng Subiz được thiết kế để phù hợp với mục tiêu kinh doanh của doanh nghiệp trong nhiều ngành nghề khác nhau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisiweglwryfzwxodsxj_acpxkgumifuoofoosble/Bang_tinh_nang_Subiz.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Chú thích một số tính năng"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbcyidqlytdybrx_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

@@ -8,5 +8,647 @@
   },
   "category": "8",
   "source_id": "102007810",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Một số ví dụ kịch bản Bot"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "1. Bot phân loại khách chi nhánh giao cho agent phụ trách?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot phân loại khách theo chi nhánh hoạt động thế nào?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot phân loại khách hàng theo chi nhánh là tính năng phân loại khách theo vị trí khu vực. Lợi ích mang lại:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Phân khách hàng ở khu vực nào tới đúng Agent phụ trách khu vực đó."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Khách hàng gặp đúng tư vấn viên hỗ trợ, tránh mất thời gian chờ đợi."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Bạn có 3 cơ sở ở Miền Bắc, Miền Trung, Miền Nam. Bot tự động hỏi bạn ở khu vực nào và gợi ý các nút lựa chọn. Khi nhận được phản hồi, bot tự động phân tới Agent phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbubuyasycfgios_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Đặc biệt, ngoài phân chia theo vùng miền. Bạn có thể phân chia theo bộ phận làm việc, phân loại sản phẩm để khách hàng lựa chọn và phân phối tới đúng Agent phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cài đặt Bot theo chi nhánh và Agent phụ trách",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1: Tạo Bot",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại Dashboard, di chuột lên góc màn hình trên bên phải nhấp vào Cài đặt (hình bánh răng)."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn Bot trong phần HỘI THOẠI ở cột dọc bên trái."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuenoyocshqyug_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn “"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chào khách”, chọn Sử dụng."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2. Thiết kế kịch bản Bot",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hành động 1: Chào mừng khách. Tại đây bạn sẽ phân luồng khách hàng theo khu vực bằng cách hỏi vị trí khách hàng để phân luồng chính xác."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách thực hiện:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Di chuột vào ô tin nhắn và nhập nội dung tin nhắn như ví dụ trong hình."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbujwmustnwnrah_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột chọn Thêm gợi ý và điền khu vực. Ví dụ: Miền Bắc, Miền Trung, Miền Nam."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbumijtjphdsevw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mỗi lần nhấp vào Thêm gợi ý Subiz sẽ hiển thị một ô thông tin để bạn điền khu vực bạn muốn phân loại. Bạn cũng có thể quan sát trong sơ đồ kịch bản."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuprwqnfueseoc_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Để xóa bớt, nhấp chuột vào ô muốn xóa, đợi hiển thị biểu tượng thùng rác, kích chuột vào đó để xóa."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbusntelxqawumz_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lưu ý",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Luôn tích chọn Bắt buộc khách lựa chọn gợi ý để đảm bảo phân loại được khách hàng và phân chia"
+            },
+            {
+              "type": "text",
+              "text": "chat"
+            },
+            {
+              "type": "text",
+              "text": "tới đúng Agent phụ trách."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hành động"
+            },
+            {
+              "type": "text",
+              "text": "2: Phân phối tới Agent phụ trách."
+            },
+            {
+              "type": "text",
+              "text": "Sau khi thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cách thực hiện:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ: Miền Bắc phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào dấu (+) và lựa chọn Agent là Hà My."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbuxjiuntwldfea_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nhấp chuột vào dấu (+) sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3. Cài đặt điều kiện nâng cao cho bot",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sửa tên và ảnh"
+                    },
+                    {
+                      "type": "text",
+                      "text": "bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mô tả công việc giúp phân loại với Bot khác."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbvbwtujlumcafh_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chọn điều kiện"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bot"
+                    },
+                    {
+                      "type": "text",
+                      "text": "chạy khi nào? Tích chọn Khách gửi tin nhắn hay khách xem Website tùy vào mục đích sử dụng của bạn."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ngoài ra, bạn có thể cài đặt thêm các điều kiện các về thời gian, nhóm khách hàng, ngôn ngữ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sau khi đã hoàn thành kịch bản bot và điều kiện chạy bot. Bạn di chuột lên góc trên bên phải màn hình chọn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Chạy thử",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lưu",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Lưu lại kịch bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Xuất bản",
+                      "bold": true
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Kích hoạt bot chạy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để đảm bảo chắc chắn Bot đã chạy, bạn truy cập vào Website tới link sản phẩm đó như một khách hàng và nhắn tin lên cửa sổ chat để xem Bot đã hoạt động hay chưa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }

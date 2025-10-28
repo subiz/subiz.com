@@ -8,5 +8,630 @@
   },
   "category": "3",
   "source_id": "171095673",
-  "i18n_content": {}
+  "i18n_content": {
+    "vi_VN": {
+      "type": "div",
+      "content": [
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Đo lường chuyển đổi Google Ads"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz nhận diện nguồn quảng cáo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Subiz tự động nhận diện nguồn khách truy cập website từ quảng cáo Google Ads (Advertising) hay cụ thể chiến dịch quảng cáo nào ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Từ đó, bạn có thể theo dõi và đo lường 3 mục tiêu chuyển đổi Google Ads ngay trên Subiz:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "+ Khách truy cập website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "+ Khách nhắn tin"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "+ Khách đã có số điện thoại hoặc email"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để giúp Subiz nhận diện khách đến từ nguồn quảng cáo Google Ads hay chiến dịch quảng cáo cụ thể thì url cuối cùng của Google Ads cần gắn tham số “glicd” hoặc “utm\\_campaign”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://support.google.com/analytics/answer/1033981?hl=vi&ref_topic=1308612#zippy=%2Cn%E1%BB%99i-dung-c%E1%BB%A7a-b%C3%A0i-vi%E1%BA%BFt-n%C3%A0y",
+              "title": "Xem hướng dẫn gắn thẻ url",
+              "text": "Xem hướng dẫn gắn thẻ url",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ: Nếu trang web của bạn là www.example.com thì khi một người dùng nhấp vào quảng cáo của bạn, trang web đó sẽ xuất hiện trong thanh địa chỉ dưới dạng như sau:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale",
+              "title": "https://www.example.com",
+              "text": "https://www.example.com",
+              "target": "_blank"
+            },
+            {
+              "type": "link",
+              "href": "http://www.example.com/?gclid=123xyz",
+              "title": "/?gclid=123xyz",
+              "text": "/?gclid=123xyz",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "=> Subiz hiển thị nguồn truy cập là “Advertising”"
+            },
+            {
+              "type": "link",
+              "href": "https://www.example.com/?utm_source=summer-mailer&utm_medium=email&utm_campaign=summer-sale",
+              "title": "https://www.example.com/?utm\\_campaign=summer-sale",
+              "text": "https://www.example.com/?utm\\_campaign=summer-sale",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "=> Subiz hiển thị nguồn truy cập là “Sumer-sale”"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem chuyển đổi “Khách truy cập website”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Với mục tiêu “Khách truy cập website” bạn sẽ xem"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/new-reports/user",
+              "title": "trang Thống kê lượng người dùng",
+              "text": "trang Thống kê lượng người dùng",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ". Tại mục Nguồn truy cập, bạn sẽ xem được chi tiết số lượng người dùng mới đã truy cập theo từng nguồn khác nhau như “Advertising” hay chiến dịch quảng cáo “Tet\\_2023”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbxsvggkaoxsclv_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "content": [
+            {
+              "type": "text",
+              "text": "Xem chuyển đổi “Khách nhắn tin” và “Khách tiềm năng”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để tự động nhận diện khách đã nhắn tin đến từ nguồn quảng cáo, bạn sẽ sử dụng thêm bot tự động của Subiz."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bot giúp bạn:"
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động nhận diện khách nhắn tin đến từ nguồn quảng cáo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động gắn Tag hội thoại giúp thống kê hội thoại của khách từ nguồn quảng cáo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tự động gắn Nhãn phân loại giúp phân nhóm khách tiềm năng từ nguồn quảng cáo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hướng dẫn cài đặt:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 1:",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/tags",
+              "title": "Tạo Tag mới",
+              "text": "Tạo Tag mới",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "theo chiến dịch quảng cáo",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ Tag “Advertising”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbxxmygbsxjsubf_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 2:",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/settings/label",
+              "title": "Tạo Nhãn phân loại",
+              "text": "Tạo Nhãn phân loại",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "theo chiến dịch quảng cáo",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ví dụ Nhãn “Advertising”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbydfzypddqvywx_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 3:",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/bots",
+              "title": "Tạo bot tự động",
+              "text": "Tạo bot tự động",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "nhận diện khách từ quảng cáo",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbyjgizvapanfpl_acpxkgumifuoofoosble/unnamed.gif"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=186s",
+              "title": "Xem thêm video hướng dẫn sử dụng bot tự động",
+              "text": "Xem thêm video hướng dẫn sử dụng bot tự động",
+              "target": "_blank",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 4: Thống kê chuyển đổi số lượng hội thoại có Tag “Advertising”",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bạn vào trang Thống kê hội thoại, xem số lượng hội thoại theo Tag “Advertising”."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Để biết cụ thể danh sách khách hàng đã nhắn tin, bạn nhấp vào nút Danh sách hội thoại góc phải màn hình. Tại đây, bạn sẽ lọc phân tích và"
+            },
+            {
+              "type": "link",
+              "href": "https://www.youtube.com/watch?v=mJgbIMfkCwY",
+              "title": "xuất dữ liệu",
+              "text": "xuất dữ liệu",
+              "target": "_blank"
+            },
+            {
+              "type": "text",
+              "text": "về máy tính nếu cần."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbyotvdpytqmgtk_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bước 5: Thống kê chuyển đổi khách tiềm năng có nhãn “Advertising”",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Khách tiềm năng là khách đã có số điện thoại hoặc email và được tổng hợp tại trang"
+            },
+            {
+              "type": "link",
+              "href": "https://app.subiz.com.vn/lead",
+              "title": "KHÁCH TIỀM NĂNG",
+              "text": "KHÁCH TIỀM NĂNG",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tại đây, bạn sẽ nhìn thấy nhóm khách “Advertising”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "image",
+              "alt_text": "",
+              "image": {
+                "url": "https://vcdn.subiz-cdn.com/file/fisgyrbyukxniqeuaisw_acpxkgumifuoofoosble/unnamed.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tip nhỏ",
+              "italic": true,
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": ": Bạn cần đo lường chuyển đổi khách nhắn tin Subiz trên phần mềm Google Ads. Tuy nhiên, Subiz không liên kết dữ liệu trực tiếp với Google Ads, Subiz chỉ kết nối tự động tới Google Analytics. Bạn có thể phân tích dữ liệu SUBIZ chat trên Google Analytics, sau đó đồng bộ số liệu từ Google Analytics sang Google Ads."
+            },
+            {
+              "type": "link",
+              "href": "https://subiz.com.vn/docs/18827101-google-analytics-va-subiz",
+              "title": "Xem hướng dẫn đọc dữ liệu SUBIZ Chat trên Google Analytics",
+              "text": "Xem hướng dẫn đọc dữ liệu SUBIZ Chat trên Google Analytics",
+              "target": "_blank",
+              "bold": true
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        },
+        {
+          "type": "paragraph",
+          "content": []
+        }
+      ]
+    }
+  }
 }
