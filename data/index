@@ -1,4 +1,9 @@
+import EmbedVideo from '@site/src/components/EmbedVideo.js';
+
 # Chào mừng bạn đến với trang docs của Subiz
 
 
 Xin chào Subiz docs
+
+
+<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d1f2902add20c894427e6261b7928cd/watch" />
