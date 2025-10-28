@@ -12,16 +12,35 @@ const crypto = require('crypto')
 const CLOUDFLARE_ACCOUNT_ID = 'cc22eff135a40705ebe59955b450217d'
 const CLOUDFLARE_API_TOKEN = 'xgrzbPOX3ZvOKGiAVLmW125RGzJ01Le4mzaFexrb'
 
+function main() {
+	uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=ZgenYNwArb4')
+}
+
+main()
+
 async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 	try {
 		// 1️⃣ Tạo thư mục nếu chưa có
 		if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, {recursive: true})
 
-		console.log(`⬇️  Đang tải video từ YouTube: ${youtubeUrl}`)
+		let dlFileName = md5(youtubeUrl)
+		console.log('Search Cloudflare for existed video: ', dlFileName)
+		let search = await axios.get(`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream`, {
+			headers: {
+				'Content-Type': 'application/json',
+				Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
+			},
+			params: {
+				search: dlFileName,
+			},
+		})
+		let found = lo.get(search, 'data.result') || []
+		if (lo.size(found)) {
+			return found[0]
+		}
 
 		// 2️⃣ Dùng yt-dlp để tải video, xuất file mp4 (best quality)
-		// --print filename: in ra tên file đã tải
-		let dlFileName = md5(youtubeUrl)
+		console.log(`⬇️  Đang tải video từ YouTube: ${youtubeUrl}`)
 		const {stdout} = await execAsync(`cd videos && yt-dlp ${youtubeUrl} -f "mp4" -o "${dlFileName}.%(ext)s"`)
 
 		let filePath = outputDir + '/' + `${dlFileName}.mp4`
