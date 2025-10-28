@@ -237,7 +237,7 @@ async function main() {
 			pathlowers.pop() // remove file name
 			let fpath = vnfilemap[pathlowers.join('/') + '/' + out.index]
 			if (!fpath) return
-			fileName = './i18n/en/docusaurus-plugin-content-docs/current' + fpath + '.md'
+			fileName = './i18n/en/docusaurus-plugin-content-docs/current' + fpath + '.mdx'
 		}
 		ensureDirectoryExistence(fileName)
 		console.log('COPYING', fileName)
@@ -253,7 +253,7 @@ async function main() {
 		let categoryPath = pathlowers.join('/')
 
 		let slug = out.slug
-		if (out.name == 'index' || out.name == 'index.md') {
+		if (out.name == 'index' || out.name == 'index.md' || out.name === 'index.mdx') {
 			let out = extractFilename({name: categoryPath, id: Date.now()})
 			let dirname = out.name || 'category'
 			slug = hashCode(entry.id) + '-' + sluggy(dirname)
@@ -290,7 +290,7 @@ last_update:
 		// auto gen index directory
 		let categoryIndex = genFolderIndex(categoryPath, docM)
 		if (categoryIndex)
-			fs.writeFileSync('./docs' + sluggy(categoryPath) + '/index.md', categoryIndex, {encoding: 'utf8'})
+			fs.writeFileSync('./docs' + sluggy(categoryPath) + '/index.mdx', categoryIndex, {encoding: 'utf8'})
 	})
 	console.log('COPY RECURSIVE')
 	// copyRecursiveSync('./static_docs', './docs')
@@ -496,9 +496,9 @@ function genFolderIndex(name, docM) {
 		let sluggypath = sluggy(entry.path_lower)
 		if (sluggypath.indexOf(sluggyname) == 0) {
 			let out = extractFilename(entry)
-			if (out.name == 'index' || out.name == 'index.md') return true
+			if (out.name == 'index' || out.name == 'index.md' || out.name === 'index.mdx') return true
 			if (entry.modifiedTime > last_updated) last_updated = entry.modifiedTime
-			links.push({index: out.index, name: out.name, url: sluggypath + '.md'})
+			links.push({index: out.index, name: out.name, url: sluggypath + '.mdx'})
 		}
 	})
 	links = lo.orderBy(links, 'index', 'asc')
