@@ -13,10 +13,10 @@ const CLOUDFLARE_ACCOUNT_ID = 'cc22eff135a40705ebe59955b450217d'
 const CLOUDFLARE_API_TOKEN = 'xgrzbPOX3ZvOKGiAVLmW125RGzJ01Le4mzaFexrb'
 
 function main() {
-	uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=ZgenYNwArb4')
+	//uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=ZgenYNwArb4')
 }
 
-main()
+//main()
 
 async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 	try {
