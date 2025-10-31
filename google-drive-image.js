@@ -40,8 +40,8 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 		}
 
 		// 2️⃣ Dùng yt-dlp để tải video, xuất file mp4 (best quality)
-		console.log(`⬇️  Đang tải video từ YouTube: ${youtubeUrl}`)
-		const {stdout} = await execAsync(`cd videos && yt-dlp ${youtubeUrl} -f "mp4" -o "${dlFileName}.%(ext)s"`)
+			console.log(`⬇️  Đang tải video từ YouTube: ${youtubeUrl}`)
+			const {stdout} = await execAsync(`cd videos && yt-dlp ${shellEscape(youtubeUrl)} -f "mp4" -o ${shellEscape(dlFileName+'.mp4')}`)
 
 		let filePath = outputDir + '/' + `${dlFileName}.mp4`
 		if (!fs.existsSync(filePath)) throw new Error(`Không tìm thấy file sau khi tải: ${filePath}`)
@@ -93,4 +93,8 @@ function md5(content) {
 
 module.exports = {
 	uploadYoutubeToCloudflare,
+}
+
+function shellEscape(str) {
+		return `'${str.replace(/'/g, `'\\''`)}'`;
 }
