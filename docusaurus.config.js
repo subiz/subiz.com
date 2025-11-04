@@ -8,13 +8,32 @@ const config = {
 	url: 'https://subiz.com.vn',
 	baseUrl: '/docs',
 	onBrokenLinks: 'throw',
-	onBrokenMarkdownLinks: 'warn',
+	markdown: {
+		hooks: {
+			onBrokenMarkdownLinks: 'warn',
+		},
+	},
 	favicon: '/img/favicon.ico',
 	organizationName: 'subiz',
 	projectName: 'subizhome',
 	plugins: [
 		'plugin-image-zoom',
 		// require.resolve('docusaurus-lunpluginrp-search')
+		[
+			'@docusaurus/plugin-client-redirects',
+			{
+				redirects: [
+					{
+						to: '/735781858-faqs-cau-hoi-thuong-gap-ve-zns',
+						from: ['/docs/735781858-faqs---cau-hoi-thuong-gap-ve-zns'],
+					},
+					{
+						to: '/735781858-faqs-cau-hoi-thuong-gap-ve-zns',
+						from: ['/735781858-faqs---cau-hoi-thuong-gap-ve-zns'],
+					},
+				],
+			},
+		],
 	],
 	presets: [
 		[

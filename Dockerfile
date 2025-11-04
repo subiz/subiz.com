@@ -10,7 +10,6 @@ COPY package.json ./
 COPY sidebars.js ./
 COPY static/ ./static
 COPY src/ ./src
-COPY data/ ./data
 
 RUN npm i
 RUN npm run build
