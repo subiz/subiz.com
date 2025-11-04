@@ -24,6 +24,7 @@ async function parse(item, format, docM, env) {
 	if (checkH2(item)) return parseH2(item, docM)
 	if (checkH3(item)) return parseH3(item, docM)
 	if (checkH4(item)) return parseH4(item, docM)
+	if (checkH5(item)) return parseH5(item, docM)
 	if (checkVideo(item)) {
 		env.hasEmbedVideo = true
 		return parseEmbedVideo(item, docM)
@@ -208,19 +209,38 @@ function parseTitle(item, docM) {
 }
 
 function parseH1(item, docM) {
-	return '\n## ' + normalize(item.textContent) + '\n'
+	let id = sluggy(item.textContent).trim()
+	let suffix = '\n'
+	if (id) suffix = ' {#' + id + '}\n'
+	return '\n## ' + normalize(item.textContent) + suffix
 }
 
 function parseH2(item, docM) {
-	return '\n### ' + normalize(item.textContent) + '\n'
+	let id = sluggy(item.textContent).trim()
+	let suffix = '\n'
+	if (id) suffix = ' {#' + id + '}\n'
+	return '\n### ' + normalize(item.textContent) + suffix
 }
 
 function parseH3(item, docM) {
-	return '\n#### ' + normalize(item.textContent) + '\n'
+	let id = sluggy(item.textContent).trim()
+	let suffix = '\n'
+	if (id) suffix = ' {#' + id + '}\n'
+	return '\n#### ' + normalize(item.textContent) + suffix
 }
 
 function parseH4(item, docM) {
-	return '\n##### ' + normalize(item.textContent) + '\n'
+	let id = sluggy(item.textContent).trim()
+	let suffix = '\n'
+	if (id) suffix = ' {#' + id + '}\n'
+	return '\n##### ' + normalize(item.textContent) + suffix
+}
+
+function parseH5(item, docM) {
+	let id = sluggy(item.textContent).trim()
+	let suffix = '\n'
+	if (id) suffix = ' {#' + id + '}\n'
+	return '\n###### ' + normalize(item.textContent) + suffix
 }
 
 function parseEmbedVideo(item, docM) {
@@ -255,6 +275,11 @@ function checkH3(item) {
 function checkH4(item) {
 	if (!item.tagName) return false
 	return item.tagName.toLowerCase() == 'h4'
+}
+
+function checkH5(item) {
+	if (!item.tagName) return false
+	return item.tagName.toLowerCase() == 'h5'
 }
 
 function checkCodeblock(item) {
@@ -338,13 +363,25 @@ function trimBr(str) {
 // check ./driveapi.js/sluggy
 function sluggy(name) {
 	name = name || ''
-	return unicodeToAscii(name.toLowerCase().trim().replaceAll('?', '-').replaceAll(' ', '-').replaceAll('!', '-'))
+
+	let slug = unicodeToAscii(name.toLowerCase().trim())
+
+	// Allow only letters, numbers, hyphens, and slashes
+	slug = slug.replace(/[^a-z0-9/-]+/g, '-')
+
+	// Collapse multiple hyphens (but not slashes)
+	slug = slug.replace(/-+/g, '-')
+
+	// Remove leading/trailing hyphens or slashes
+	slug = slug.replace(/^[-]+|[-]+$/g, '')
+
+	return slug
 }
 
 function unicodeToAscii(str) {
 	str = str + ''
 	// work around Đ not work
-	str = str.replace('đ', 'd').replace('Đ', 'D')
+	str = str.replace('đ', 'd').replace('đ', 'd').replace('Đ', 'D')
 	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 }
 

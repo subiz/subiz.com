@@ -56,7 +56,7 @@ const config = {
 			},
 		},
 	},
-
+	clientModules: ['./static/js/custom.js'],
 	themeConfig: {
 		docs: {
 			sidebar: {

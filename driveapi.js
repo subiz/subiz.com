@@ -157,6 +157,9 @@ async function main() {
 		docM[entry.id] = entry
 	})
 
+	if (!fs.existsSync('./raw')) fs.mkdirSync('./raw')
+	if (!fs.existsSync('./block')) fs.mkdirSync('./block')
+
 	out.news = lo.orderBy(out.news, ['id'])
 	var i = 0
 	await flow.map(
@@ -346,7 +349,7 @@ function ensureDirectoryExistence(filePath) {
 function unicodeToAscii(str) {
 	str = str + ''
 	// work around Đ not work
-	str = str.replaceAll('đ', 'd').replaceAll('Đ', 'D')
+	str = str.replace('đ', 'd').replace('đ', 'd').replace('Đ', 'D')
 	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 }
 
@@ -523,7 +526,19 @@ last_update:
 // check convert.js/sluggy
 function sluggy(name) {
 	name = name || ''
-	return unicodeToAscii(name.toLowerCase().trim().replaceAll('?', '-').replaceAll(' ', '-').replaceAll('!', '-'))
+
+	let slug = unicodeToAscii(name.toLowerCase().trim())
+
+	// Allow only letters, numbers, hyphens, and slashes
+	slug = slug.replace(/[^a-z0-9/-]+/g, '-')
+
+	// Collapse multiple hyphens (but not slashes)
+	slug = slug.replace(/-+/g, '-')
+
+	// Remove leading/trailing hyphens or slashes
+	slug = slug.replace(/^[-]+|[-]+$/g, '')
+
+	return slug
 }
 
 function hashCode(str) {
