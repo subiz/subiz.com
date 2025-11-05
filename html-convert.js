@@ -29,23 +29,30 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 	})
 	if (!lo.size(extractVideoLinks)) return html
 
-	console.log('cache videoMapping', videoMapping)
 	for (let i = 0; i < lo.size(extractVideoLinks); i++) {
 		let link = extractVideoLinks[i].url
-		if (videoMapping[link]) continue
+		if (videoMapping[link]) {
+			console.log('CACHE HITTTTTTTTT', link + ': ' + JSON.stringify(videoMapping[link]))
+			continue
+		}
 
 		let res = await uploadYoutubeToCloudflare(link)
-		if (res.preview) videoMapping[link] = res.preview
+		if (res.preview) {
+			videoMapping[link] = {preview: res.preview}
+			if (res.input) {
+				lo.set(videoMapping, [link, 'resolution'], res.input)
+			}
+		}
 	}
 
 	lo.each(extractVideoLinks, (link) => {
-		let previewUrl = videoMapping[link.url]
+		let previewUrl = lo.get(videoMapping, [link.url, 'preview'])
 		if (!previewUrl) {
 			console.log('no cloudflare video url found', link.url)
 			previewUrl = link.url
 		}
 
-		let videoTag = `<embedvideo src="${previewUrl}"></embedvideo>`
+		let videoTag = `<embedvideo src="${previewUrl}" data-source-url="${link.url}"></embedvideo>`
 		$(link.dom).replaceWith(videoTag)
 	})
 

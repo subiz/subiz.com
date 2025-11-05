@@ -29,4 +29,5 @@ yarn-error.log*
 
 /block
 /raw
-/data
+data/*
+!data/header.json

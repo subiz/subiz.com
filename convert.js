@@ -3,13 +3,14 @@ const jsdom = require('jsdom')
 var flow = require('@subiz/flow')
 const html = fs.readFileSync('./full.html', 'utf8')
 const {JSDOM} = jsdom
+const lo = require('lodash')
 
-async function html2md(html, docM) {
+async function html2md(html, docM, videoMapping) {
 	const dom = new JSDOM(html)
 	let out = ''
 	let env = {}
 	await htmlMap(dom.window.document.body.childNodes, async (item, i) => {
-		out += await parse(item, undefined, docM || {}, env)
+		out += await parse(item, undefined, docM || {}, env, videoMapping || {})
 	})
 
 	out = out.trim() + '\n'
@@ -17,7 +18,7 @@ async function html2md(html, docM) {
 	return out
 }
 
-async function parse(item, format, docM, env) {
+async function parse(item, format, docM, env, videoMapping) {
 	if (!item) return
 	if (checkTitle(item)) return parseTitle(item, docM)
 	if (checkH1(item)) return parseH1(item, docM)
@@ -27,7 +28,7 @@ async function parse(item, format, docM, env) {
 	if (checkH5(item)) return parseH5(item, docM)
 	if (checkVideo(item)) {
 		env.hasEmbedVideo = true
-		return parseEmbedVideo(item, docM)
+		return parseEmbedVideo(item, videoMapping)
 	}
 	if (checkCodeblock(item)) return parseCodeblock(item, docM)
 	if (checkTable(item)) return parseTable(item, docM, env)
@@ -243,8 +244,10 @@ function parseH5(item, docM) {
 	return '\n###### ' + normalize(item.textContent) + suffix
 }
 
-function parseEmbedVideo(item, docM) {
-	return `\n<EmbedVideo src="${item.getAttribute('src')}" />`
+function parseEmbedVideo(item, videoMapping) {
+	let source = item.getAttribute('data-source-url')
+	let resolution = lo.get(videoMapping, [source, 'resolution']) || {}
+	return `\n<EmbedVideo src="${item.getAttribute('src')}" resolution={${JSON.stringify(resolution)}}/>`
 }
 
 function checkTitle(item, docM) {

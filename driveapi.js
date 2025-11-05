@@ -185,7 +185,7 @@ async function main() {
 				// TO DO convrt dataHtml to <embedvideo src="">
 				let newHtml = await standardlizeHtmlLinkToVideo(dataHtml, videoMapping)
 
-				let markdown = await html2md(newHtml, docM)
+				let markdown = await html2md(newHtml, docM, videoMapping)
 				let block = await html2Block(dataHtml, docM)
 				fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
 				blockM[entry.id] = block

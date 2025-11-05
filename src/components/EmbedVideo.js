@@ -2,7 +2,8 @@ import React from 'react'
 
 export default function EmbedVideo({src, resolution = {}}) {
 	const MIN_HW_RATIO = 0.5 // for common video on youtube with resolution 1920x1080
-	const MAX_HW_RATIO = 2.2 // for common video on short with resolution 864x1920
+	let MAX_HW_RATIO = 1.2 // for common video on short with resolution 864x1920
+	if (window.screenX < 600) MAX_HW_RATIO = 2.22 // in mobile screen, allow short video can be more sketchable
 
 	let ratio = MIN_HW_RATIO
 	if (
