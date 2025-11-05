@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1762310495030,
-  "updated": 1762310495030,
+  "fetched": 1762333539611,
+  "updated": 1762333539611,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối số tổng đài",
-      "modifiedTime": "2025-04-10T07:31:49.335Z",
-      "version": "872",
+      "modifiedTime": "2025-11-05T08:04:40.354Z",
+      "version": "878",
       "path_lower": "/90 Tổng đài điện thoại/1-ket-noi-so-tong-dai"
     },
     {
@@ -143,7 +143,7 @@
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
       "name": "index",
       "modifiedTime": "2025-11-05T02:38:14.948Z",
-      "version": "42",
+      "version": "46",
       "path_lower": "/index"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
-      "modifiedTime": "2024-09-05T08:22:07.391Z",
-      "version": "244",
+      "modifiedTime": "2025-11-05T08:07:57.655Z",
+      "version": "251",
       "path_lower": "/20 Tích hợp kênh tương tác/3-ket-noi-fanpage"
     },
     {
@@ -296,8 +296,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
-      "modifiedTime": "2025-11-04T10:36:15.611Z",
-      "version": "130",
+      "modifiedTime": "2025-11-05T04:33:13.608Z",
+      "version": "154",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -461,8 +461,8 @@
       ],
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
-      "modifiedTime": "2025-01-24T08:34:40.141Z",
-      "version": "440",
+      "modifiedTime": "2025-11-05T08:29:40.964Z",
+      "version": "449",
       "path_lower": "/90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2025-02-24T09:47:55.471Z",
-      "version": "202",
+      "version": "203",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -758,8 +758,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
-      "modifiedTime": "2024-09-16T07:54:37.493Z",
-      "version": "148",
+      "modifiedTime": "2025-11-05T08:07:18.113Z",
+      "version": "186",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
@@ -797,6 +797,13 @@
     }
   ],
   "video_mapping": {
+    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+      "resolution": {
+        "width": 1808,
+        "height": 1080
+      }
+    },
     "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
       "resolution": {
@@ -818,8 +825,43 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=kkzDSpR26dM&t=3s": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/40a55b5bf6eebffcd1dbe9a09c6283a9/watch",
+    "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://youtu.be/kkzDSpR26dM?si=9uo-TDWZxY4ipBuC&t=58": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/4be391a1b6177e984032269fdaee7290/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://youtu.be/kkzDSpR26dM?si=-ymvwiSCB8Dy68mF&t=94": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/80c07a0ac7b9ff82309512df9dc2650c/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=W2yWHCtsW-k": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5cc50bd43f66942a10ce40ccd22b0215/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=S9wVGrxhYks": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/7c6479cd78a4298de00aaf5d129b9e69/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080

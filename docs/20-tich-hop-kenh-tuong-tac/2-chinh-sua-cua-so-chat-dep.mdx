@@ -5,8 +5,10 @@ title: Chỉnh sửa cửa sổ chat Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2024-09-16T07:54:37.493Z
+  date: 2025-11-05T08:07:18.113Z
 ---
+
+import EmbedVideo from '@site/src/components/EmbedVideo.js';
 
 # Chỉnh sửa cửa sổ chat Subiz
 
@@ -54,36 +56,8 @@ Hướng dẫn thay đổi nút chat:
 
 
 
+<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch" resolution={{"width":1920,"height":1080}}/>
 
-[XEM VIDEO THAY ĐỔI NÚT CHAT](https://www.youtube.com/watch?v=idX1Mcv-Y0c)
-
-
-## Cách mở cửa sổ chat khi khách click hình ảnh hoặc đường link trên website {#cach-mo-cua-so-chat-khi-khach-click-hinh-anh-hoac-duong-link-tren-website}
-
-
-Bạn có thể cài đặt nút CTA (kêu gọi khách hàng động) ở vị trí bất kỳ trên website và mở cửa sổ chat khi khách nhấp chuột vào.
-
-
-
-<b>Hướng dẫn cài đặt:</b>
-
-- Tắt OFF nút chat Subiz tại trang [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design) (nếu cần)
-- Đặt mã API mở cửa sổ chat dưới đây vào code website, để ra lệnh mở cửa sổ chat khi khách click vào hình ảnh hoặc đường link trên website.
-
-
-```
-<script type="text/javascript">
-window.subiz('expandWidget')
-</script>
-
-```
-
-## hoặc {#hoac}
-
-```
-<a href="#nogo" onclick="subiz('expandWidget')">Text của </a>
-
-```
 
 ## Cách thay đổi vị trí nút chat trên website {#cach-thay-doi-vi-tri-nut-chat-tren-website}
 
@@ -203,6 +177,72 @@ Hướng dẫn cách thay đổi tên và thông điệp trên cửa sổ chat:
 
 
 ![](https://vcdn.subiz-cdn.com/file/fisgyrbgmdxvsikgarme_acpxkgumifuoofoosble/unnamed.png)
+
+## Thiết kế cửa sổ chat riêng cho từng website {#thiet-ke-cua-so-chat-rieng-cho-tung-website}
+
+
+Với khách hàng quản lý nhiều thương hiệu sản phẩm - dịch vụ trên nhiều website khác nhau, Subiz đã tích hợp thêm khả năng tuỳ chỉnh hiển thị riêng cửa sổ chat cho từng website của quý khách.
+
+
+
+Để thực hiện chỉnh sửa thiết kế cửa sổ chat riêng cho từng website, bạn làm theo các bước sau:
+
+- Mở [Cài đặt Website](https://app.subiz.com.vn/settings/website)
+- Chọn <b>Chỉnh sửa cửa sổ chat</b> tương ứng với mỗi website
+
+
+![](https://vcdn.subiz-cdn.com/file/fismeaqiehvxqpznzfci_acpxkgumifuoofoosble/unnamed.png)
+
+
+- Lựa chọn thay đổi màu sắc, kích thước, vị trí… như thông thường
+
+
+![](https://vcdn.subiz-cdn.com/file/fismeaqihfyslwpiehia_acpxkgumifuoofoosble/unnamed.png)
+
+
+- Chọn Đối tượng mục tiêu nếu bạn muốn đặt cửa sổ chat chỉ hiển thị trên những trang con cụ thể trên website
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fismeaqikmjmfbziqeoo_acpxkgumifuoofoosble/unnamed.png)
+
+
+- Bấm Lưu thay đổi để hệ thống ghi nhận thiết kế mới
+
+Trong trường bạn muốn tạo cửa sổ chat riêng cho từng trang con hay landing page, vui lòng làm theo hướng dẫn bên dưới.
+## Thiết kế cửa sổ chat riêng cho landing page {#thiet-ke-cua-so-chat-rieng-cho-landing-page}
+
+
+Không chỉ hỗ trợ hiển thị cửa sổ chat đẹp custom riêng cho mỗi website, Subiz còn hỗ trợ khách hàng tạo cửa sổ chat tới từng link con trên trang web, ví dụ như:
+
+- Link danh mục sản phẩm
+- Link con từng dịch vụ
+- Landing page
+
+Bạn có thể cài đặt nút CTA (kêu gọi khách hàng động) ở vị trí bất kỳ trên website và mở cửa sổ chat được thiết kế theo nội dung từng trang khi khách nhấp chuột vào.
+
+
+
+<b>Hướng dẫn cài đặt:</b>
+
+- Tắt OFF nút chat Subiz tại trang [Cài đặt cửa sổ chat](https://app.subiz.com.vn/chatbox/design) (nếu cần)
+- Đặt mã API mở cửa sổ chat dưới đây vào code website, để ra lệnh mở cửa sổ chat khi khách click vào hình ảnh hoặc đường link trên website.
+
+
+```
+<script type="text/javascript">
+window.subiz('expandWidget')
+</script>
+
+```
+
+## hoặc {#hoac}
+
+```
+<a href="#nogo" onclick="subiz('expandWidget')">Text của </a>
+
+```
 
 ## Gắn nút Facebook và Zalo trên cửa sổ chat {#gan-nut-facebook-va-zalo-tren-cua-so-chat}
 
