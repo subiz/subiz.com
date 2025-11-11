@@ -1,7 +1,6 @@
 const fs = require('fs')
 const jsdom = require('jsdom')
 var flow = require('@subiz/flow')
-const html = fs.readFileSync('./full.html', 'utf8')
 const {JSDOM} = jsdom
 const lo = require('lodash')
 
