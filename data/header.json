@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1762850075848,
-  "updated": 1762850075848,
+  "fetched": 1762858562501,
+  "updated": 1762858562501,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -87,8 +87,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
-      "modifiedTime": "2024-08-03T08:45:49.186Z",
-      "version": "245",
+      "modifiedTime": "2025-11-11T10:36:39.056Z",
+      "version": "251",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1VlAEz2cZGhe_BeDoFkQ5pvqy8Ur5d95SV6MklbFrOQY",
       "name": "4 Tự động hoàn thành hội thoại",
       "modifiedTime": "2024-11-15T08:38:31.719Z",
-      "version": "151",
+      "version": "153",
       "path_lower": "/40 Quản lý làm việc nhóm/4-tu-dong-hoan-thanh-hoi-thoai"
     },
     {
@@ -472,8 +472,8 @@
       ],
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
-      "modifiedTime": "2023-01-17T08:39:56.701Z",
-      "version": "123",
+      "modifiedTime": "2025-11-11T10:45:43.551Z",
+      "version": "133",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -615,8 +615,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
-      "modifiedTime": "2024-11-15T11:19:07.550Z",
-      "version": "623",
+      "modifiedTime": "2025-11-11T10:34:56.429Z",
+      "version": "639",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent-la-gi"
     },
     {
@@ -671,7 +671,7 @@
       "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
       "name": "3. FAQs - Câu hỏi thường gặp về ZNS",
       "modifiedTime": "2025-04-04T06:43:26.293Z",
-      "version": "40",
+      "version": "42",
       "path_lower": "/100 Marketing/3-faqs-cau-hoi-thuong-gap-ve-zns"
     },
     {
@@ -890,6 +890,13 @@
     },
     "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?a=5": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43ca10028fe3a1c7cb329b406d0076b3/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
+      }
+    },
+    "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch",
       "resolution": {
         "width": -1,
         "height": -1
