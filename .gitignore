@@ -21,7 +21,6 @@ yarn-error.log*
 \.cache
 
 /client_secret_457995922934-nshib5henv2keei1osok3k45b3jgrebt.apps.googleusercontent.com.json
-/token.json
 /subiz-version-4-4bd431b900b4.json
 /subiz-version-4-681a4d9d6092.json
 /dropboxapi.js

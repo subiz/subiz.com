@@ -9,7 +9,7 @@ fs.readdir(testFolder, (err, files) => {
 		let data = fs.readFileSync(testFolder + file, {encoding: 'utf8'})
 		request(
 			{
-					url: 'https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/articles/-?x-access-token=v6ag.agqmwfyuehpuzpehmv.rtsculxhwybbourvndvichennnvtarrfzhutorcldymuh&account-id=acpxkgumifuoofoosble',
+				url: 'https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/articles/-?x-access-token=v6ag.agqmwfyuehpuzpehmv.rtsculxhwybbourvndvichennnvtarrfzhutorcldymuh&account-id=acpxkgumifuoofoosble',
 				method: 'POST',
 				body: data,
 			},
