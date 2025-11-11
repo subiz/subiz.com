@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1762333539611,
-  "updated": 1762333539611,
+  "fetched": 1762846591370,
+  "updated": 1762846591370,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -109,8 +109,8 @@
       ],
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
-      "modifiedTime": "2022-11-02T10:35:01.542Z",
-      "version": "54",
+      "modifiedTime": "2025-11-05T10:33:27.783Z",
+      "version": "63",
       "path_lower": "/80 Thống kê báo cáo/6-4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -242,7 +242,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2023-04-20T09:56:20.265Z",
-      "version": "200",
+      "version": "202",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1Rkq88KiFUQKdCSaCa5gwBJlhLypbzUf4BRI2UWTlKqI",
       "name": "Hồ sơ khách hàng",
       "modifiedTime": "2025-04-10T07:38:01.240Z",
-      "version": "17",
+      "version": "19",
       "path_lower": "/60 Quản lý khách hàng/ho-so-khach-hang"
     },
     {
@@ -451,7 +451,7 @@
       "id": "1Z4Q6qn1peWEzZvhSRnfW8rEgmAn0f0u2Ung_v_kt5rA",
       "name": "2. Gửi tin nhắn ZNS trên Subiz",
       "modifiedTime": "2025-04-04T03:04:38.564Z",
-      "version": "66",
+      "version": "68",
       "path_lower": "/100 Marketing/2-gui-tin-nhan-zns-tren-subiz"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2025-02-24T09:47:55.471Z",
-      "version": "203",
+      "version": "204",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-31T02:12:53.974Z",
-      "version": "98",
+      "version": "99",
       "path_lower": "/video-doc-sample"
     },
     {
@@ -626,8 +626,8 @@
       ],
       "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
       "name": "5. Gộp khách hàng ",
-      "modifiedTime": "2024-03-09T04:33:48.095Z",
-      "version": "131",
+      "modifiedTime": "2025-11-06T10:10:04.002Z",
+      "version": "139",
       "path_lower": "/60 Quản lý khách hàng/5-gop-khach-hang"
     },
     {
@@ -671,7 +671,7 @@
       "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
       "name": "3. FAQs - Câu hỏi thường gặp về ZNS",
       "modifiedTime": "2025-04-04T06:43:26.293Z",
-      "version": "38",
+      "version": "40",
       "path_lower": "/100 Marketing/3-faqs-cau-hoi-thuong-gap-ve-zns"
     },
     {
@@ -759,7 +759,7 @@
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
       "modifiedTime": "2025-11-05T08:07:18.113Z",
-      "version": "186",
+      "version": "188",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2024-10-11T03:11:02.015Z",
-      "version": "251",
+      "modifiedTime": "2025-11-11T07:22:44.336Z",
+      "version": "259",
       "path_lower": "/readme"
     },
     {
@@ -862,6 +862,27 @@
     },
     "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?usp=drive_link": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/366a5f10a524c03721ed1da37395f8f8/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
+      }
+    },
+    "https://www.youtube.com/watch?v=jAkRovJXnDE": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6e437c8d8a991f5fe793ff00414afe15/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
+      }
+    },
+    "https://www.youtube.com/watch?v=ZgenYNwArb4": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/98b004cf5987c029f8f1d2b0b94fb933/watch",
       "resolution": {
         "width": 1920,
         "height": 1080

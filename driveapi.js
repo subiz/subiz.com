@@ -176,10 +176,6 @@ async function main() {
 				let out = extractFilename(entry)
 				let pathlowers = entry.path_lower.split('/')
 				pathlowers.pop() // remove file name
-				if (out.name && out.name.startsWith('_')) {
-					delete docM[entry.id]
-					return // skip
-				}
 
 				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
 				// TO DO convrt dataHtml to <embedvideo src="">
