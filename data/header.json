@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1762847408337,
-  "updated": 1762847408337,
+  "fetched": 1762850075848,
+  "updated": 1762850075848,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -759,7 +759,7 @@
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
       "modifiedTime": "2025-11-05T08:07:18.113Z",
-      "version": "188",
+      "version": "189",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2025-11-11T07:22:44.336Z",
-      "version": "259",
+      "modifiedTime": "2025-11-11T08:08:35.128Z",
+      "version": "269",
       "path_lower": "/readme"
     },
     {
@@ -886,6 +886,13 @@
       "resolution": {
         "width": 1920,
         "height": 1080
+      }
+    },
+    "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?a=5": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43ca10028fe3a1c7cb329b406d0076b3/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
       }
     }
   }

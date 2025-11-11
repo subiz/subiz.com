@@ -10,8 +10,7 @@ const execAsync = util.promisify(exec)
 const crypto = require('crypto')
 
 const CLOUDFLARE_ACCOUNT_ID = 'cc22eff135a40705ebe59955b450217d'
-const CLOUDFLARE_API_TOKEN = 'xgrzbPOX3ZvOKGiAVLmW125RGzJ01Le4mzaFexrb'
-
+const CLOUDFLARE_API_TOKEN = process.env.CLOUDFLARESTREAM // 'xgrzbPOX3ZvOKGiAVLmW125RGzJ01Le4mzaFexrb'
 function main() {
 	//uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=ZgenYNwArb4')
 }

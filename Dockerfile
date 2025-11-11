@@ -15,4 +15,4 @@ RUN npm i
 RUN npm run build
 
 EXPOSE 80
-CMD npm run serve -- --port 80 --host 0.0.0.0
+CMD ["/bin/sh", "-c", ". ./.env && npm run serve -- --port 80 --host 0.0.0.0"]
