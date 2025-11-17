@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1762858562501,
-  "updated": 1762858562501,
+  "fetched": 1763372772266,
+  "updated": 1763372772266,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -44,7 +44,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "1. Bot tự động nhắn tin",
       "modifiedTime": "2024-12-18T10:14:00.196Z",
-      "version": "398",
+      "version": "401",
       "path_lower": "/50 Tự động hóa/1-bot-tu-dong-nhan-tin"
     },
     {
@@ -77,7 +77,7 @@
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "7. Kênh Google",
       "modifiedTime": "2024-10-14T09:42:26.702Z",
-      "version": "161",
+      "version": "163",
       "path_lower": "/20 Tích hợp kênh tương tác/7-kenh-google"
     },
     {
@@ -88,7 +88,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
       "modifiedTime": "2025-11-11T10:36:39.056Z",
-      "version": "251",
+      "version": "252",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -131,8 +131,8 @@
       ],
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "6 Quản lý đội nhóm",
-      "modifiedTime": "2024-12-30T08:46:13.692Z",
-      "version": "142",
+      "modifiedTime": "2025-11-12T07:58:55.790Z",
+      "version": "159",
       "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
-      "modifiedTime": "2025-11-05T08:07:57.655Z",
-      "version": "251",
+      "modifiedTime": "2025-11-14T08:00:25.067Z",
+      "version": "261",
       "path_lower": "/20 Tích hợp kênh tương tác/3-ket-noi-fanpage"
     },
     {
@@ -473,7 +473,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
       "modifiedTime": "2025-11-11T10:45:43.551Z",
-      "version": "133",
+      "version": "134",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -616,7 +616,7 @@
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
       "modifiedTime": "2025-11-11T10:34:56.429Z",
-      "version": "639",
+      "version": "641",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent-la-gi"
     },
     {
@@ -726,7 +726,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2024-11-26T08:48:01.488Z",
-      "version": "267",
+      "version": "269",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -758,8 +758,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
-      "modifiedTime": "2025-11-05T08:07:18.113Z",
-      "version": "189",
+      "modifiedTime": "2025-11-17T05:14:29.808Z",
+      "version": "228",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {

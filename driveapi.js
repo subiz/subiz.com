@@ -60,8 +60,9 @@ async function fetchGoogleTree() {
 		fileM[file.id] = file
 	})
 
+
 	let onlyFiles = []
-	lo.map(files, (file) => {
+		lo.map(files, (file) => {
 		if (file.id == ROOT) return
 		let path_lowers = []
 		var p = file.parents[0]
