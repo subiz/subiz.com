@@ -389,16 +389,21 @@ function unicodeToAscii(str) {
 
 async function uploadImageToSubiz(url) {
 	try {
-		let resp = await fetch('https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
+		let resp = await fetch('https://api5.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
 			method: 'post',
 			headers: {'Content-Type': 'application/json'},
-			body: JSON.stringify({account_id: 'acpxkgumifuoofoosble', url: url}),
+			body: JSON.stringify({account_id: 'acpxkgumifuoofoosble', url}),
 		})
 
+		if (!resp.ok) throw new Error(`Upload failed: HTTP ${resp.status}`)
+
 		let out = await resp.json()
-		return out.url || url
+		if (!out.url) throw new Error('Upload failed: no url returned')
+
+		return out.url
 	} catch (e) {
-		return url
+		console.log(url)
+		throw e // do not return input url
 	}
 }
 

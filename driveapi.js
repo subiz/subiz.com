@@ -60,9 +60,8 @@ async function fetchGoogleTree() {
 		fileM[file.id] = file
 	})
 
-
 	let onlyFiles = []
-		lo.map(files, (file) => {
+	lo.map(files, (file) => {
 		if (file.id == ROOT) return
 		let path_lowers = []
 		var p = file.parents[0]
@@ -173,7 +172,6 @@ async function main() {
 				ensureDirectoryExistence('./data' + entry.path_lower)
 				console.log('EXPORTING', entry.path_lower)
 				await exportFile(entry.id, './data' + entry.path_lower)
-
 				let out = extractFilename(entry)
 				let pathlowers = entry.path_lower.split('/')
 				pathlowers.pop() // remove file name
