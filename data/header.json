@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1763787766116,
-  "updated": 1763787766116,
+  "fetched": 1763805853976,
+  "updated": 1763805853976,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -33,7 +33,7 @@
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "7. App mobile Subiz",
       "modifiedTime": "2025-11-21T10:26:27.317Z",
-      "version": "77",
+      "version": "80",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
     },
     {
@@ -186,8 +186,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại tin nhắn",
-      "modifiedTime": "2024-11-29T10:28:56.062Z",
-      "version": "473",
+      "modifiedTime": "2025-11-22T06:39:18.573Z",
+      "version": "481",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai-tin-nhan"
     },
     {
@@ -296,8 +296,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
-      "modifiedTime": "2025-11-05T04:33:13.608Z",
-      "version": "154",
+      "modifiedTime": "2025-11-22T06:32:34.271Z",
+      "version": "175",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -340,8 +340,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "4. Quản lý nhiều Fanpage",
-      "modifiedTime": "2025-10-28T09:25:06.873Z",
-      "version": "399",
+      "modifiedTime": "2025-11-22T05:05:35.552Z",
+      "version": "406",
       "path_lower": "/110 Ứng dụng nâng cao/4-quan-ly-nhieu-fanpage"
     },
     {
@@ -605,7 +605,7 @@
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
       "modifiedTime": "2025-11-22T04:58:54.542Z",
-      "version": "141",
+      "version": "142",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
