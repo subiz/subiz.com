@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1763805853976,
-  "updated": 1763805853976,
+  "fetched": 1764000298637,
+  "updated": 1764000298637,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -87,8 +87,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối hội thoại",
-      "modifiedTime": "2025-11-11T10:36:39.056Z",
-      "version": "252",
+      "modifiedTime": "2025-11-24T04:56:28.856Z",
+      "version": "277",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-hoi-thoai"
     },
     {
@@ -176,7 +176,7 @@
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Xử lý khi có nhân viên nghỉ việc trên Subiz",
       "modifiedTime": "2024-12-30T09:51:05.670Z",
-      "version": "379",
+      "version": "382",
       "path_lower": "/40 Quản lý làm việc nhóm/7-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz"
     },
     {
@@ -473,7 +473,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
       "modifiedTime": "2025-11-11T10:45:43.551Z",
-      "version": "134",
+      "version": "137",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "_Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-11-19T08:28:37.138Z",
-      "version": "84",
+      "modifiedTime": "2025-11-24T10:38:50.608Z",
+      "version": "192",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent là gì?",
       "modifiedTime": "2025-11-21T10:07:30.640Z",
-      "version": "676",
+      "version": "678",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent-la-gi"
     },
     {
@@ -808,18 +808,18 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
-      "resolution": {
-        "width": 864,
-        "height": 1920
-      }
-    },
     "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
       "resolution": {
         "width": 1808,
         "height": 1080
+      }
+    },
+    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
+      "resolution": {
+        "width": 864,
+        "height": 1920
       }
     },
     "https://www.youtube.com/watch?v=6DPEDcjejPw": {
@@ -897,6 +897,13 @@
       "resolution": {
         "width": 1280,
         "height": 608
+      }
+    },
+    "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
       }
     }
   }
