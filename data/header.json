@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1764000298637,
-  "updated": 1764000298637,
+  "fetched": 1764089439970,
+  "updated": 1764089439970,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -515,9 +515,9 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
-      "name": "_Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-11-24T10:38:50.608Z",
-      "version": "192",
+      "name": "Tích hợp Zalo cá nhân vào Subiz",
+      "modifiedTime": "2025-11-25T10:28:50.790Z",
+      "version": "340",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "1. Bảng tính năng Subiz",
       "modifiedTime": "2024-11-26T09:20:16.349Z",
-      "version": "266",
+      "version": "273",
       "path_lower": "/10 Làm quen với Subiz/1-bang-tinh-nang-subiz"
     },
     {
@@ -604,8 +604,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2025-11-22T04:58:54.542Z",
-      "version": "142",
+      "modifiedTime": "2025-11-25T04:08:21.447Z",
+      "version": "161",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
