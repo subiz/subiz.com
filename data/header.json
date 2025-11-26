@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1764089439970,
-  "updated": 1764089439970,
+  "fetched": 1764147014128,
+  "updated": 1764147014128,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -516,8 +516,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-11-25T10:28:50.790Z",
-      "version": "340",
+      "modifiedTime": "2025-11-26T04:02:06.229Z",
+      "version": "359",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -560,8 +560,8 @@
       ],
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "1. Bảng tính năng Subiz",
-      "modifiedTime": "2024-11-26T09:20:16.349Z",
-      "version": "273",
+      "modifiedTime": "2025-11-26T08:35:26.679Z",
+      "version": "294",
       "path_lower": "/10 Làm quen với Subiz/1-bang-tinh-nang-subiz"
     },
     {
@@ -736,8 +736,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2024-11-26T08:48:01.488Z",
-      "version": "269",
+      "modifiedTime": "2025-11-26T03:23:12.004Z",
+      "version": "290",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
