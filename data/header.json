@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1764147014128,
-  "updated": 1764147014128,
+  "fetched": 1764214533045,
+  "updated": 1764214533045,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2024-09-05T08:16:39.205Z",
-      "version": "469",
+      "modifiedTime": "2025-11-27T03:30:58.793Z",
+      "version": "510",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -164,8 +164,8 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2025-10-31T03:53:09.838Z",
-      "version": "212",
+      "modifiedTime": "2025-11-26T08:56:44.285Z",
+      "version": "219",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
     },
     {
@@ -517,7 +517,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "Tích hợp Zalo cá nhân vào Subiz",
       "modifiedTime": "2025-11-26T04:02:06.229Z",
-      "version": "359",
+      "version": "361",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -539,7 +539,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2025-02-24T09:47:55.471Z",
-      "version": "204",
+      "version": "206",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -616,7 +616,7 @@
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc cần làm",
       "modifiedTime": "2024-11-26T09:58:55.030Z",
-      "version": "132",
+      "version": "135",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec-can-lam"
     },
     {
@@ -737,7 +737,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2025-11-26T03:23:12.004Z",
-      "version": "290",
+      "version": "292",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
