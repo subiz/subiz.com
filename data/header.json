@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1764932434726,
-  "updated": 1764932434726,
+  "fetched": 1765011614263,
+  "updated": 1765011614263,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "1 Kết nối website",
-      "modifiedTime": "2025-12-04T02:55:46.524Z",
-      "version": "542",
+      "modifiedTime": "2025-12-06T02:15:46.054Z",
+      "version": "553",
       "path_lower": "/20 Tích hợp kênh tương tác/1-ket-noi-website"
     },
     {
@@ -220,7 +220,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
       "modifiedTime": "2025-11-27T03:36:56.204Z",
-      "version": "268",
+      "version": "270",
       "path_lower": "/20 Tích hợp kênh tương tác/3-ket-noi-fanpage"
     },
     {
@@ -307,8 +307,8 @@
       ],
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "8. Kết nối Instagram",
-      "modifiedTime": "2025-12-05T10:59:34.533Z",
-      "version": "191",
+      "modifiedTime": "2025-12-05T10:59:36.268Z",
+      "version": "193",
       "path_lower": "/20 Tích hợp kênh tương tác/8-ket-noi-instagram"
     },
     {
@@ -439,8 +439,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "6. Kết nối Email",
-      "modifiedTime": "2025-04-04T04:41:13.114Z",
-      "version": "279",
+      "modifiedTime": "2025-12-06T08:33:43.943Z",
+      "version": "287",
       "path_lower": "/20 Tích hợp kênh tương tác/6-ket-noi-email"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-12-05T10:58:29.663Z",
-      "version": "463",
+      "modifiedTime": "2025-12-06T08:28:00.003Z",
+      "version": "476",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -538,8 +538,8 @@
       ],
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2025-02-24T09:47:55.471Z",
-      "version": "206",
+      "modifiedTime": "2025-12-06T07:01:01.005Z",
+      "version": "241",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -769,8 +769,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "2 Chỉnh sửa cửa sổ chat đẹp",
-      "modifiedTime": "2025-12-01T06:58:56.349Z",
-      "version": "239",
+      "modifiedTime": "2025-12-06T08:50:44.619Z",
+      "version": "250",
       "path_lower": "/20 Tích hợp kênh tương tác/2-chinh-sua-cua-so-chat-dep"
     },
     {
@@ -781,7 +781,7 @@
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "1. Cách tạo mẫu tin nhắn ZNS",
       "modifiedTime": "2025-04-04T03:05:08.558Z",
-      "version": "72",
+      "version": "73",
       "path_lower": "/100 Marketing/1-cach-tao-mau-tin-nhan-zns"
     },
     {
