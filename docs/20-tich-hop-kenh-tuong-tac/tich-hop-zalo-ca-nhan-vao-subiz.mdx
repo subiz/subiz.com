@@ -5,7 +5,7 @@ title: Tích hợp & Quản lý Zalo cá nhân trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2025-12-06T08:28:00.003Z
+  date: 2025-12-12T10:06:29.617Z
 ---
 
 # Tích hợp & Quản lý Zalo cá nhân trên Subiz
@@ -124,6 +124,8 @@ Trong trường hợp gửi tin nhắn Zalo lỗi trên Subiz, hoặc nhận c�
 - Vào Cài đặt <b>[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)</b>.
 - Tạo Rule mới với điều kiện: Nguồn là <b>\[Tên tài khoản Zalo cá nhân\]</b> Hành động: Phân phối đến agent /Nhóm agent.
 - Hoặc chỉnh sửa Rule hiện có thêm kênh Zalo cá nhân.
+
+Với Subiz, nhiều nhân viên có thể đăng nhập và xử lý hội thoại cùng lúc trên cùng một số Zalo.
 ### Tự động trả lời tin nhắn Zalo Cá nhân {#tu-dong-tra-loi-tin-nhan-zalo-ca-nhan}
 
 
@@ -144,29 +146,38 @@ Sau khi tích hợp Zalo cá nhân vào Subiz, danh sách bạn bè sẽ đượ
 
 
 
-Cách 1: Trực tiếp trên trang Hội thoại khách
-
 - Tới thanh tìm kiếm ở menu bar trên cùng bên phải 🔍
 - Nhập <b>Số điện thoại</b> hoặc <b>Tên</b> khách hàng
+- Bấm <b>Tạo hội thoại mới</b> hoặc <b>Nhắn tin </b>ở sidebar bên phải ngay dưới tên khách hàng
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnascilgqzdermuleu_acpxkgumifuoofoosble/8e9cc95cd85946319302bbb5a15e49ff.png)
+
+
+- Chọn kênh gửi tin nhắn là Zalo cá nhân, gõ nội dung
 - Bấm <b>Gửi tin nhắn</b>
-
-Cách 2: Từ sidebar Hồ sơ khách hàng
-
-- Phía dưới tên nhấn icon Zalo cá nhân hoặc số điện thoại của khách
-- Chọn Nhắn tin Zalo
+### Nhắn tin với khách hàng có số điện thoại trên Subiz {#nhan-tin-voi-khach-hang-co-so-dien-thoai-tren-subiz}
 
 
+Trên Subiz, bạn cũng có thể <b>chủ động nhắn tin bằng kênh Zalo cá nhân</b> cho tập khách hàng khi có số điện thoại. Cách làm đơn giản:
 
-Cách 3: Trên trang Quản lý hồ sơ khách hàng
-
-- Chọn tập khách hàng từ kênh Zalo
-- Nhấn vào Khách hàng muốn nhắn tin, một hội thoại mở lên
-- Bấm <b>Gửi tin nhắn Zalo cá nhân</b>
-
-
-![](https://vcdn.subiz-cdn.com/file/fismwlhzcbusjikrsoja_acpxkgumifuoofoosble/6781122d008cdf678b0c6c9e80fd4577.png)
+- Tại sidebar bên phải, cột <b>Hồ sơ khách hàng</b>
+- Ngay dưới tên khách hàng nhấn <b>Nhắn tin</b>
+- Chọn <b>kênh nhắn tin là Zalo cá nhân mong muốn</b>
+- Gõ nội dung rồi bấm <b>Gửi tin nhắn</b>
+### Nhắn tin với thành viên trong Zalo group {#nhan-tin-voi-thanh-vien-trong-zalo-group}
 
 
+Để nhắn tin riêng với một thành viên bất kỳ trong Zalo group trên Subiz, bạn làm theo các bước sau:
+
+- Tại cột <b>Thông tin nhóm Zalo</b>, nhấn vào tên thành viên
+- Cửa sổ hồ sơ Khách quen thuộc hiện lên
+- Nhấn <b>Nhắn tin</b>
+- Chọn <b>kênh nhắn tin là Zalo cá nhân mong muốn</b>
+- Gõ nội dung rồi bấm <b>Gửi tin nhắn</b>
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnasdpxvgjmzmweolz_acpxkgumifuoofoosble/5e912979139adb2542177f2abb8b9ba6.png)
 
 ### Quản lý bạn bè (Kết bạn & Hủy kết bạn) {#quan-ly-ban-be-ket-ban-huy-ket-ban}
 
@@ -323,13 +334,21 @@ Những agent được phân phối phụ trách hội thoại từ kênh Zalo c
 #### Subiz có đồng bộ "Tin nhắn nhanh" từ app Zalo về không? {#subiz-co-dong-bo-tin-nhan-nhanh-tu-app-zalo-ve-khong}
 
 
-A: <b>Không</b>. Tuy nhiên, bạn vẫn có thể sử dụng chúng bằng cách cách thêm nội dung tin nhắn nhanh từ Zalo vào tính năng [Mẫu tin nhắn](https://app.subiz.com.vn/settings/message-template) của Subiz. 
+<b>Không</b>. Tuy nhiên, bạn vẫn có thể sử dụng chúng bằng cách cách thêm nội dung tin nhắn nhanh từ Zalo vào tính năng [Mẫu tin nhắn](https://app.subiz.com.vn/settings/message-template) của Subiz. 
 
 Tính năng này mạnh mẽ hơn, cho phép chia sẻ mẫu câu trả lời chung cho cả team và thống kê hiệu quả sử dụng. 
+#### Subiz có giới hạn số lượng tin nhắn lưu trữ không? {#subiz-co-gioi-han-so-luong-tin-nhan-luu-tru-khong}
+
+
+Không giới hạn.
 #### Tôi đang dùng Gói cơ bản có dùng được Zalo cá nhân không {#toi-dang-dung-goi-co-ban-co-dung-duoc-zalo-ca-nhan-khong}
 
 
-Gói cơ bản Subiz hỗ trợ trải nghiệm 14 ngày miễn phí. Sau đó bạn cần nâng cấp gói nâng cao để dùng được 03 tài khoản Zalo cá nhân.
+Gói cơ bản Subiz hỗ trợ trải nghiệm 14 ngày miễn phí tính từ khi tích hợp tài khoản lần đầu. Sau đó bạn cần nâng cấp gói nâng cao để dùng được 03 tài khoản Zalo cá nhân. Ưu đãi áp dụng tới hết ngày 30/01/2026.
+#### Subiz có giới hạn số nhân viên có thể cùng trả lời trên một tài khoản Zalo không? {#subiz-co-gioi-han-so-nhan-vien-co-the-cung-tra-loi-tren-mot-tai-khoan-zalo-khong}
+
+
+Không. Nhiều nhân viên có thể đăng nhập và xử lý hội thoại cùng lúc trên cùng một số Zalo.
 #### Có giới hạn số lượng tin nhắn gửi đi hàng ngày không? {#co-gioi-han-so-luong-tin-nhan-gui-di-hang-ngay-khong}
 
 

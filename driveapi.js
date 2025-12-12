@@ -187,7 +187,9 @@ async function main() {
 				entry.block = block
 				fs.writeFileSync('./data' + entry.path_lower, markdown, {encoding: 'utf8'})
 			} catch (e) {
+				if (e.response && e.response.body) {
 					console.log('EEEEEEEEEE', JSON.stringify(e.response.body))
+				} else console.log('eeeeeee', e)
 			}
 		},
 		5,
