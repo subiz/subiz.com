@@ -5,6 +5,7 @@ const html2md = require('./convert.js')
 const {uploadYoutubeToCloudflare} = require('./google-drive-image.js')
 
 function videoTextContentToUrl(text) {
+		console.log("DDDDDDDDDDDDDDD", text)
 	if (lo.startsWith(text, 'video ')) return text.replace('video ', '')
 	if (lo.startsWith(text, 'video=')) return text.replace('video=', '')
 	if (lo.startsWith(text, 'Video ')) return text.replace('Video ', '')
@@ -36,6 +37,7 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 			continue
 		}
 
+			console.log("KKKKKK", link)
 		let res = await uploadYoutubeToCloudflare(link)
 		if (res.preview) {
 			videoMapping[link] = {preview: res.preview}

@@ -177,7 +177,7 @@ async function main() {
 				pathlowers.pop() // remove file name
 
 				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
-				// TO DO convrt dataHtml to <embedvideo src="">
+					// TO DO convert dataHtml to <embedvideo src="">
 				let newHtml = await standardlizeHtmlLinkToVideo(dataHtml, videoMapping)
 
 				let markdown = await html2md(newHtml, docM, videoMapping)
