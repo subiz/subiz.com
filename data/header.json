@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766135129968,
-  "updated": 1766135129968,
+  "fetched": 1766138476642,
+  "updated": 1766138476642,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -737,7 +737,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "5. Sử dụng Subiz Chatbot AI",
       "modifiedTime": "2025-12-19T08:55:43.047Z",
-      "version": "186",
+      "version": "187",
       "path_lower": "/50 Tự động hóa/5-su-dung-subiz-chatbot-ai"
     },
     {
@@ -747,8 +747,8 @@
       ],
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "12. Google Analytics và Subiz",
-      "modifiedTime": "2025-12-19T08:55:04.372Z",
-      "version": "180",
+      "modifiedTime": "2025-12-19T09:13:44.935Z",
+      "version": "187",
       "path_lower": "/110 Ứng dụng nâng cao/12-google-analytics-va-subiz"
     },
     {
@@ -872,6 +872,20 @@
         "height": 1080
       }
     },
+    "https://www.youtube.com/watch?v=oi6nmPYPAPk": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/cda0a7faef8e814ac9effb37d94fd4b6/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=d4Fo9eOcgp4": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/95892bf0b92ff2863cac22552601949d/watch",
+      "resolution": {
+        "width": 1588,
+        "height": 1080
+      }
+    },
     "https://youtu.be/kkzDSpR26dM?si=9uo-TDWZxY4ipBuC&t=58": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/4be391a1b6177e984032269fdaee7290/watch",
       "resolution": {
@@ -900,8 +914,8 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=oi6nmPYPAPk": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/cda0a7faef8e814ac9effb37d94fd4b6/watch",
+    "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
       "resolution": {
         "width": -1,
         "height": -1
@@ -921,11 +935,11 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=d4Fo9eOcgp4": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/95892bf0b92ff2863cac22552601949d/watch",
+    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
-        "width": -1,
-        "height": -1
+        "width": 1920,
+        "height": 1080
       }
     },
     "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?a=5": {
@@ -935,11 +949,18 @@
         "height": 608
       }
     },
-    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
+    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
       "resolution": {
-        "width": 1920,
-        "height": 1080
+        "width": -1,
+        "height": -1
+      }
+    },
+    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
       }
     }
   }

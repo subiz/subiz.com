@@ -5,11 +5,20 @@ const html2md = require('./convert.js')
 const {uploadYoutubeToCloudflare} = require('./google-drive-image.js')
 
 function videoTextContentToUrl(text) {
-		console.log("DDDDDDDDDDDDDDD", text)
-	if (lo.startsWith(text, 'video ')) return text.replace('video ', '')
-	if (lo.startsWith(text, 'video=')) return text.replace('video=', '')
-	if (lo.startsWith(text, 'Video ')) return text.replace('Video ', '')
-	if (lo.startsWith(text, 'Video=')) return text.replace('Video=', '')
+	try {
+		const url = new URL(text)
+		if (url.hostname === 'www.google.com' && url.pathname === '/url') {
+			const params = new URLSearchParams(url.search)
+			const qParam = params.get('q')
+			if (qParam) {
+				return decodeURIComponent(qParam)
+			}
+		}
+		return text // Return original text if not a Google redirect or 'q' param is missing
+	} catch (error) {
+		// If text is not a valid URL, return it as is.
+		return ''
+	}
 }
 
 async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
@@ -19,14 +28,33 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 		const tds = $(table).find('td')
 		if (tds.length > 1) return
 
-		const text = lo.trim($(tds[0]).text()) || ''
-		if (text.startsWith('video') || text.startsWith('Video')) {
-			console.log('extractVideoLinks table 1 td', text)
-			extractVideoLinks.push({
-				dom: table,
-				url: videoTextContentToUrl(text),
-			}) // hoặc push chính table DOM cheerio nếu bạn muốn
+		let text = lo.trim($(tds[0]).text()) || ''
+		if (!lo.startsWith(text.toLowerCase(), 'video ') && !lo.startsWith(text.toLowerCase(), 'video=')) return
+		if (lo.startsWith(text, 'video ')) text = text.replace('video ', '')
+		if (lo.startsWith(text, 'video=')) text = text.replace('video=', '')
+		if (lo.startsWith(text, 'Video ')) text = text.replace('Video ', '')
+		if (lo.startsWith(text, 'Video=')) text = text.replace('Video=', '')
+
+		const anchorTag = $(tds[0]).find('a')
+		let videoLink = ''
+		if (anchorTag.length > 0) {
+			videoLink = anchorTag.attr('href')
+		} else {
+			// After stripping prefixes, check if the remaining text is a video link
+			if (text) {
+				// If text is not empty after stripping, consider it a potential video link
+				videoLink = text
+			}
 		}
+
+		videoLink = videoTextContentToUrl(videoLink)
+
+		if (!videoLink) return
+		console.log('extractVideoLinks table 1 td ->', videoLink)
+		extractVideoLinks.push({
+			dom: table,
+			url: videoLink,
+		})
 	})
 	if (!lo.size(extractVideoLinks)) return html
 
@@ -37,7 +65,7 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 			continue
 		}
 
-			console.log("KKKKKK", link)
+		console.log('KKKKKK', link)
 		let res = await uploadYoutubeToCloudflare(link)
 		if (res.preview) {
 			videoMapping[link] = {preview: res.preview}
