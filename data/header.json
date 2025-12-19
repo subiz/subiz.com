@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766138476642,
-  "updated": 1766138476642,
+  "fetched": 1766141001084,
+  "updated": 1766141001084,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -516,8 +516,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số mẫu kịch bản Bot ",
-      "modifiedTime": "2025-12-19T04:39:36.502Z",
-      "version": "186",
+      "modifiedTime": "2025-12-19T10:12:43.615Z",
+      "version": "193",
       "path_lower": "/50 Tự động hóa/2-mot-so-mau-kich-ban-bot"
     },
     {
@@ -736,8 +736,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "5. Sử dụng Subiz Chatbot AI",
-      "modifiedTime": "2025-12-19T08:55:43.047Z",
-      "version": "187",
+      "modifiedTime": "2025-12-19T10:11:21.704Z",
+      "version": "192",
       "path_lower": "/50 Tự động hóa/5-su-dung-subiz-chatbot-ai"
     },
     {
