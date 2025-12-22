@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766141001084,
-  "updated": 1766141001084,
+  "fetched": 1766390511517,
+  "updated": 1766390511517,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -22,7 +22,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Kết nối số tổng đài",
       "modifiedTime": "2025-11-20T10:04:49.467Z",
-      "version": "887",
+      "version": "888",
       "path_lower": "/90 Tổng đài điện thoại/1-ket-noi-so-tong-dai"
     },
     {
@@ -43,8 +43,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "1. Bot tự động nhắn tin",
-      "modifiedTime": "2025-12-18T10:10:28.991Z",
-      "version": "419",
+      "modifiedTime": "2025-12-20T03:14:30.881Z",
+      "version": "427",
       "path_lower": "/50 Tự động hóa/1-bot-tu-dong-nhan-tin"
     },
     {
@@ -99,7 +99,7 @@
       "id": "17sNt5a8-Op6VdjKTzSAqwEdNdystBvwBZGFE-dU-qzM",
       "name": "6.5 Thống kê phiếu ghi",
       "modifiedTime": "2025-12-18T08:59:22.220Z",
-      "version": "48",
+      "version": "50",
       "path_lower": "/80 Thống kê báo cáo/6-5-thong-ke-phieu-ghi"
     },
     {
@@ -120,8 +120,8 @@
       ],
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
-      "modifiedTime": "2025-11-05T10:33:27.783Z",
-      "version": "66",
+      "modifiedTime": "2025-12-22T04:16:43.354Z",
+      "version": "86",
       "path_lower": "/80 Thống kê báo cáo/6-4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -230,8 +230,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "3  Kết nối Fanpage",
-      "modifiedTime": "2025-11-27T03:36:56.204Z",
-      "version": "272",
+      "modifiedTime": "2025-12-20T02:11:51.964Z",
+      "version": "282",
       "path_lower": "/20 Tích hợp kênh tương tác/3-ket-noi-fanpage"
     },
     {
@@ -307,8 +307,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
-      "modifiedTime": "2025-11-22T06:32:34.271Z",
-      "version": "177",
+      "modifiedTime": "2025-12-20T03:15:02.679Z",
+      "version": "186",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1T4vpZymOARgBzsgpRA25DoqKeBXq1pA8n5UeyXYJyhk",
       "name": "9. Xử lý lỗi Zalo OA",
       "modifiedTime": "2024-11-26T09:53:48.077Z",
-      "version": "42",
+      "version": "43",
       "path_lower": "/30 Tư vấn khách hàng/9-xu-ly-loi-zalo-oa"
     },
     {
@@ -418,7 +418,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2025-07-03T10:58:03.193Z",
-      "version": "173",
+      "version": "174",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -495,7 +495,7 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "4. Gửi hàng loạt Email Marketing",
       "modifiedTime": "2025-04-03T02:59:54.326Z",
-      "version": "167",
+      "version": "168",
       "path_lower": "/100 Marketing/4-gui-hang-loat-email-marketing"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số mẫu kịch bản Bot ",
-      "modifiedTime": "2025-12-19T10:12:43.615Z",
-      "version": "193",
+      "modifiedTime": "2025-12-22T03:52:15.668Z",
+      "version": "327",
       "path_lower": "/50 Tự động hóa/2-mot-so-mau-kich-ban-bot"
     },
     {
@@ -527,8 +527,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-12-12T10:07:33.946Z",
-      "version": "505",
+      "modifiedTime": "2025-12-22T07:04:25.929Z",
+      "version": "516",
       "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -758,8 +758,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2025-12-03T07:50:55.406Z",
-      "version": "327",
+      "modifiedTime": "2025-12-22T07:17:20.609Z",
+      "version": "379",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -961,6 +961,13 @@
       "resolution": {
         "width": -1,
         "height": -1
+      }
+    },
+    "https://drive.google.com/file/d/1UyO10NT5frKUsnCp-vXGgXQdmXbEJmzk/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/0b577cd673536ae734055082ee126a50/watch",
+      "resolution": {
+        "width": 1596,
+        "height": 910
       }
     }
   }
