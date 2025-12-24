@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766549070427,
-  "updated": 1766549070427,
+  "fetched": 1766550934169,
+  "updated": 1766550934169,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -307,8 +307,8 @@
       ],
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "8. Xử lý lỗi trên Fanpage",
-      "modifiedTime": "2025-12-20T03:15:02.679Z",
-      "version": "186",
+      "modifiedTime": "2025-12-24T04:26:42.474Z",
+      "version": "194",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số mẫu kịch bản Bot ",
-      "modifiedTime": "2025-12-22T08:14:06.453Z",
-      "version": "343",
+      "modifiedTime": "2025-12-24T04:34:24.200Z",
+      "version": "356",
       "path_lower": "/50 Tự động hóa/2-mot-so-mau-kich-ban-bot"
     },
     {
@@ -527,8 +527,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "9. Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-12-24T03:58:43.569Z",
-      "version": "528",
+      "modifiedTime": "2025-12-24T04:04:23.444Z",
+      "version": "532",
       "path_lower": "/20 Tích hợp kênh tương tác/9-tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
@@ -813,8 +813,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2025-11-11T08:08:35.128Z",
-      "version": "270",
+      "modifiedTime": "2025-12-24T04:18:12.353Z",
+      "version": "276",
       "path_lower": "/readme"
     },
     {
