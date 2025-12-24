@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766572266856,
-  "updated": 1766572266856,
+  "fetched": 1766576328152,
+  "updated": 1766576328152,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "10. Kết nối website",
-      "modifiedTime": "2025-12-24T10:30:39.153Z",
-      "version": "574",
+      "modifiedTime": "2025-12-24T11:21:57.767Z",
+      "version": "597",
       "path_lower": "/20 Tích hợp kênh tương tác/10-ket-noi-website"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2025-12-24T10:23:10.409Z",
-      "version": "279",
+      "modifiedTime": "2025-12-24T11:38:15.067Z",
+      "version": "288",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
@@ -792,7 +792,7 @@
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "1. Mẫu tin nhắn ZNS",
       "modifiedTime": "2025-12-24T10:28:54.670Z",
-      "version": "94",
+      "version": "95",
       "path_lower": "/100 Marketing/1-mau-tin-nhan-zns"
     },
     {
@@ -819,18 +819,18 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
-      "resolution": {
-        "width": 864,
-        "height": 1920
-      }
-    },
     "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
       "resolution": {
         "width": 1808,
         "height": 1080
+      }
+    },
+    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
+      "resolution": {
+        "width": 864,
+        "height": 1920
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
@@ -854,13 +854,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
     "https://www.youtube.com/watch?v=oi6nmPYPAPk": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/cda0a7faef8e814ac9effb37d94fd4b6/watch",
       "resolution": {
@@ -875,15 +868,29 @@
         "height": 1080
       }
     },
-    "https://youtu.be/kkzDSpR26dM?si=9uo-TDWZxY4ipBuC&t=58": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/4be391a1b6177e984032269fdaee7290/watch",
+    "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
       }
     },
-    "https://youtu.be/kkzDSpR26dM?si=-ymvwiSCB8Dy68mF&t=94": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/80c07a0ac7b9ff82309512df9dc2650c/watch",
+    "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://drive.google.com/file/d/1UyO10NT5frKUsnCp-vXGgXQdmXbEJmzk/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/0b577cd673536ae734055082ee126a50/watch",
+      "resolution": {
+        "width": 1596,
+        "height": 910
+      }
+    },
+    "https://www.youtube.com/watch?v=_9fWwl9hsxs": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f65f28a2a3c916f6b6fd065c9d359e44/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -903,13 +910,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
-      "resolution": {
-        "width": -1,
-        "height": -1
-      }
-    },
     "https://www.youtube.com/watch?v=jAkRovJXnDE": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6e437c8d8a991f5fe793ff00414afe15/watch",
       "resolution": {
@@ -924,8 +924,15 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
+    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -938,32 +945,11 @@
         "height": 608
       }
     },
-    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
+    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
-        "width": -1,
-        "height": -1
-      }
-    },
-    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
-      "resolution": {
-        "width": -1,
-        "height": -1
-      }
-    },
-    "https://drive.google.com/file/d/1UyO10NT5frKUsnCp-vXGgXQdmXbEJmzk/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/0b577cd673536ae734055082ee126a50/watch",
-      "resolution": {
-        "width": 1596,
-        "height": 910
-      }
-    },
-    "https://www.youtube.com/watch?v=_9fWwl9hsxs": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f65f28a2a3c916f6b6fd065c9d359e44/watch",
-      "resolution": {
-        "width": -1,
-        "height": -1
+        "width": 1920,
+        "height": 1080
       }
     }
   }

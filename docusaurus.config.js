@@ -36,10 +36,6 @@ const config = {
 						from: ['/300561377-gui-tin-nhan-zns-tren-subiz'],
 					},
 					{
-						to: '/735781858-faqs-ve-zns',
-						from: ['/735781858-faqs-cau-hoi-thuong-gap-ve-zns'],
-					},
-					{
 						to: '/1168493719-email-marketing',
 						from: ['/1168493719-gui-hang-loat-email-marketing'],
 					},
@@ -119,7 +115,6 @@ const config = {
 						to: '/456469809-tich-hop-dau-so',
 						from: ['/456469809-ket-noi-so-tong-dai'],
 					},
-
 					{
 						to: '/735781858-faqs-ve-zns',
 						from: ['/docs/735781858-faqs---cau-hoi-thuong-gap-ve-zns'],
