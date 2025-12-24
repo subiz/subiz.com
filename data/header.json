@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1766390511517,
-  "updated": 1766390511517,
+  "fetched": 1766549070427,
+  "updated": 1766549070427,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -516,8 +516,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "2. Một số mẫu kịch bản Bot ",
-      "modifiedTime": "2025-12-22T03:52:15.668Z",
-      "version": "327",
+      "modifiedTime": "2025-12-22T08:14:06.453Z",
+      "version": "343",
       "path_lower": "/50 Tự động hóa/2-mot-so-mau-kich-ban-bot"
     },
     {
@@ -526,10 +526,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
-      "name": "Tích hợp Zalo cá nhân vào Subiz",
-      "modifiedTime": "2025-12-22T07:04:25.929Z",
-      "version": "516",
-      "path_lower": "/20 Tích hợp kênh tương tác/tich-hop-zalo-ca-nhan-vao-subiz"
+      "name": "9. Tích hợp Zalo cá nhân vào Subiz",
+      "modifiedTime": "2025-12-24T03:58:43.569Z",
+      "version": "528",
+      "path_lower": "/20 Tích hợp kênh tương tác/9-tich-hop-zalo-ca-nhan-vao-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -626,8 +626,8 @@
       ],
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc cần làm",
-      "modifiedTime": "2024-11-26T09:58:55.030Z",
-      "version": "135",
+      "modifiedTime": "2025-12-23T09:06:50.787Z",
+      "version": "148",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec-can-lam"
     },
     {
@@ -736,8 +736,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "5. Sử dụng Subiz Chatbot AI",
-      "modifiedTime": "2025-12-19T10:11:21.704Z",
-      "version": "192",
+      "modifiedTime": "2025-12-23T06:48:16.946Z",
+      "version": "216",
       "path_lower": "/50 Tự động hóa/5-su-dung-subiz-chatbot-ai"
     },
     {
