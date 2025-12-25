@@ -25,6 +25,10 @@ const config = {
 				redirects: [
 					{
 						to: '/352944605-bang-tinh-nang',
+						from: ['/352944605-bang-tinh-nang-subiz'],
+					},
+					{
+						to: '/352944605-bang-tinh-nang',
 						from: ['/docs/352944605-bang-tinh-nang-subiz'],
 					},
 					{
@@ -114,10 +118,6 @@ const config = {
 					{
 						to: '/456469809-tich-hop-dau-so',
 						from: ['/456469809-ket-noi-so-tong-dai'],
-					},
-					{
-						to: '/735781858-faqs-ve-zns',
-						from: ['/docs/735781858-faqs---cau-hoi-thuong-gap-ve-zns'],
 					},
 					{
 						to: '/735781858-faqs-ve-zns',
