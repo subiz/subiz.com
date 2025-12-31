@@ -127,6 +127,10 @@ const config = {
 						to: '/735781858-faqs-ve-zns',
 						from: ['/735781858-faqs-cau-hoi-thuong-gap-ve-zns'],
 					},
+					{
+						to: '/1068952124-tu-dong-phan-hoi-fanpage',
+						from: ['/1139647591-fanpage'],
+					},
 				],
 			},
 		],
