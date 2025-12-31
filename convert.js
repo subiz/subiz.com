@@ -326,23 +326,32 @@ function checkTable(item) {
 	return ncell > 1
 }
 
-function normalize(str, format) {
+function normalize(text, format) {
+	let str = text
+		.replace(/\\/g, '\\\\') // Backslash (must be first)
+		.replace(/\{/g, '\\{') // Opening brace
+		.replace(/\}/g, '\\}') // Closing brace
+		.replace(/\*/g, '\\*') // Asterisk
+		.replace(/_/g, '\\_') // Underscore
+		.replace(/\[/g, '\\[') // Opening bracket
+		.replace(/\]/g, '\\]') // Closing bracket
+		.replace(/\(/g, '\\(') // Opening paren
+		.replace(/\)/g, '\\)') // Closing paren
+		.replace(/#/g, '\\#') // Hash
+		.replace(/!/g, '\\!') // Exclamation
+		.replace(/`/g, '\\`') // Backtick
+
 	// receive text
 	str = str || ''
 	str = str.replace(/[\t\r\n]/gm, ' ')
 	str = str.replace(/\s\s+/g, ' ')
-
-	str = str.replace(/\*/g, '\\*')
-	str = str.replace(/\_/g, '\\_')
 	str = str.replace(/>/g, '&gt;')
 	str = str.replace(/</g, '&lt;')
-	str = str.replace(/\[/g, '\\[')
-	str = str.replace(/\]/g, '\\]')
 	str = str.replace(/\|/g, '\\|')
-	str = str.replace(/`/g, '\\`')
 	if (format && format.singleline) {
 		str = str.replace(/\r\n|\r|\n/g, '<br />')
 	}
+
 	return str
 }
 
