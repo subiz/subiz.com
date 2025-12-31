@@ -52,7 +52,7 @@ const config = {
 						from: ['/1139647591-ket-noi-fanpage'],
 					},
 					{
-						to: '/1068952124-tu-dong-phan-hoi-fanpage',
+						to: '/1139647591-fanpage',
 						from: ['/1068952124-cac-tinh-nang-subiz-ho-tro-fanpage'],
 					},
 					{
@@ -128,8 +128,8 @@ const config = {
 						from: ['/735781858-faqs-cau-hoi-thuong-gap-ve-zns'],
 					},
 					{
-						to: '/1068952124-tu-dong-phan-hoi-fanpage',
-						from: ['/1139647591-fanpage'],
+						to: '/1139647591-fanpage',
+						from: ['/1068952124-tu-dong-phan-hoi-fanpage'],
 					},
 				],
 			},
