@@ -108,6 +108,10 @@ const config = {
 						from: ['/1968656234-subiz-live-khach-truy-cap-web'],
 					},
 					{
+						to: '/1812321398-tich-hop-zalo-cloud-connect',
+						from: ['/1812321398-ket-noi-cuoc-goi-zalo-oa'],
+					},
+					{
 						to: '/1221805713-khach-hang-tiem-nang',
 						from: ['/1221805713-quan-ly-khach-tiem-nang'],
 					},
