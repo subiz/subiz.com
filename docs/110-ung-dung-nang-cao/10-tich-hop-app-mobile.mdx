@@ -5,7 +5,7 @@ title: Tích hợp app mobile
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2025-11-04T12:07:26.353Z
+  date: 2026-01-08T09:38:43.228Z
 ---
 
 # Tích hợp app mobile
@@ -49,6 +49,58 @@ Ví dụ tích hợp Subiz trên app mobile của [Hoa Sen Home](https://play.go
 
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifujkvytnbyvpgz_acpxkgumifuoofoosble/e64238a91ee126d16428da1092858ab0.png)
+
+## Hiện số tin nhắn chưa đọc trên nút CTA  {#hien-so-tin-nhan-chua-doc-tren-nut-cta}
+
+
+Bạn muốn hiện số tin nhắn khách chưa đọc trên nút chat CTA của App Mobile 
+![](https://vcdn.subiz-cdn.com/file/fisnrgarytrgsjxfzgmq_acpxkgumifuoofoosble/853b27f6ca5e39c2156c726a22c8e738.png)
+
+
+bạn hãy đặt mã SDK dưới đây vào nút CTA đó:
+
+
+```
+<script type="text/javascript">
+let unreadCount = 0
+async function updateUnreadCount () {
+  unreadCount = await subiz('countUnreadMessages')
+}
+// display unread noti when customer visit page first time
+updateUnreadCount()
+function renderUnreadNoti () {
+  // TODO
+  // Your own logic to render unread noti
+}
+subiz('onEvent', ev => {
+  // listen all Subiz event
+  if (!ev) return
+  
+  // check there's mew message from agent, we should +1 in unread noti
+  if (ev.type === 'message_sent') {
+    let bytype = ev.by && ev.by.type
+    if (bytype === 'agent') {
+      updateUnreadCount()
+    }
+  }
+  
+  // check nessage is seen by customer
+   if (ev.type === 'message_pong') {
+    let bytype = ev.by && ev.by.type
+    if (bytype === 'user') {
+      if (ev.data && ev.data.message) {
+        let pongs = ev.data.message.pongs || []
+        let isSeenEvent = pongs.find(pong => pong.type === 'seen')
+        if (isSeenEvent) {
+          updateUnreadCount()
+        }
+      }
+    }
+  }
+})
+</script>
+
+```
 
 ## Thống kê hội thoại theo nguồn app mobile {#thong-ke-hoi-thoai-theo-nguon-app-mobile}
 

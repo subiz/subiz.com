@@ -24,6 +24,22 @@ const config = {
 			{
 				redirects: [
 					{
+						to: '/1387158228-quan-ly-hoi-thoai',
+						from: ['/1387158228-quan-ly-hoi-thoai-tin-nhan'],
+					},
+					{
+						to: '/456469809-tich-hop-dau-so',
+						from: ['/66096501-chien-dich-telesales'],
+					},
+					{
+						to: '/2039731542-nhac-viec',
+						from: ['/2039731542-nhac-viec-can-lam'],
+					},
+					{
+						to: '/1957649110-sdk-tuy-chinh-cua-so-chat',
+						from: ['/1957649110-api-ket-noi-subiz'],
+					},
+					{
 						to: '/352944605-bang-tinh-nang',
 						from: ['/352944605-bang-tinh-nang-subiz'],
 					},
