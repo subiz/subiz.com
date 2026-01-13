@@ -24,6 +24,14 @@ const config = {
 			{
 				redirects: [
 					{
+						to: '/115690085-khac-phuc-su-co',
+						from: [
+							'/344116404-xu-ly-loi-tong-dai',
+							'/1045817660-xu-ly-loi-tren-fanpage',
+							'/1779729704-xu-ly-loi-zalo-oa',
+						],
+					},
+					{
 						to: '/1387158228-quan-ly-hoi-thoai',
 						from: ['/1387158228-quan-ly-hoi-thoai-tin-nhan'],
 					},
