@@ -35,10 +35,7 @@ const config = {
 						to: '/1387158228-quan-ly-hoi-thoai',
 						from: ['/1387158228-quan-ly-hoi-thoai-tin-nhan'],
 					},
-					{
-						to: '/456469809-tich-hop-dau-so',
-						from: ['/66096501-chien-dich-telesales'],
-					},
+
 					{
 						to: '/2039731542-nhac-viec',
 						from: ['/2039731542-nhac-viec-can-lam'],
@@ -131,10 +128,7 @@ const config = {
 						to: '/1968656234-subiz-live',
 						from: ['/1968656234-subiz-live-khach-truy-cap-web'],
 					},
-					{
-						to: '/1812321398-tich-hop-zalo-cloud-connect',
-						from: ['/1812321398-ket-noi-cuoc-goi-zalo-oa'],
-					},
+
 					{
 						to: '/1221805713-khach-hang-tiem-nang',
 						from: ['/1221805713-quan-ly-khach-tiem-nang'],
@@ -144,8 +138,13 @@ const config = {
 						from: ['/1802811302-nhan-phan-loai-khach-hang'],
 					},
 					{
-						to: '/456469809-tich-hop-dau-so',
-						from: ['/456469809-ket-noi-so-tong-dai'],
+						to: '/1625367101-tong-dai',
+						from: [
+							'/456469809-ket-noi-so-tong-dai',
+							'/66096501-chien-dich-telesales',
+							'/1812321398-ket-noi-cuoc-goi-zalo-oa',
+							'/456469809-tich-hop-dau-so',
+						],
 					},
 					{
 						to: '/735781858-faqs-ve-zns',

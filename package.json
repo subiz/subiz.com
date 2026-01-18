@@ -25,12 +25,12 @@
 		"clsx": "^2.1.1",
 		"date-fns": "^4.1.0",
 		"form-data": "^4.0.5",
-		"googleapis": "^169.0.0",
+		"googleapis": "^170.1.0",
 		"jsdom": "^27.4.0",
 		"plugin-image-zoom": "^1.2.0",
 		"prism-react-renderer": "^2.4.1",
-		"react": "^18.3.1",
-		"react-dom": "^18.3.1",
+		"react": "^19.2.3",
+		"react-dom": "^19.2.3",
 		"request": "^2.88.2"
 	},
 	"browserslist": {
@@ -47,6 +47,6 @@
 	},
 	"devDependencies": {
 		"lodash": "^4.17.21",
-		"prettier": "^3.7.4"
+		"prettier": "^3.8.0"
 	}
 }

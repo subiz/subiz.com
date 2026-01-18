@@ -62,13 +62,15 @@ function parseCodeblock(item) {
 
 async function parseNote(item, format, docM, env) {
 	const rows = item.rows
-	const firstTd = item.querySelector('p')
-	let out = await parsePara(firstTd, format, docM, env)
-	let texts = out.trim().split(':')
-	let typ = texts[0].toLowerCase()
-	texts.shift()
-	let content = texts.join(':').trim()
-	content = content.replace(/:::/g, '&#58;&#58;&#58;')
+	const ps = item.querySelectorAll('p')
+		let typ = ps[0].textContent.trim().toLowerCase()
+	let content = ''
+	for (var i = 1; i < ps.length; i++) {
+		let out = await parsePara(ps[i], format, docM, env)
+		content += out.trim().replace(/:::/g, '&#58;&#58;&#58;')
+		content += '\n\n'
+	}
+	content = content.trim()
 
 	return `
 :::${typ}
@@ -359,11 +361,11 @@ function checkNote(item) {
 
 	const text = item.rows[0].cells[0].textContent.toLowerCase().trim()
 	if (
-		text.startsWith('note:') ||
-		text.startsWith('tip:') ||
-		text.startsWith('info:') ||
-		text.startsWith('warning:') ||
-		text.startsWith('danger:')
+		text.startsWith('note') ||
+		text.startsWith('tip') ||
+		text.startsWith('info') ||
+		text.startsWith('warning') ||
+		text.startsWith('danger')
 	) {
 		return true
 	}
