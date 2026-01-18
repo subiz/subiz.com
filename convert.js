@@ -4,7 +4,10 @@ var flow = require('@subiz/flow')
 const {JSDOM} = jsdom
 const lo = require('lodash')
 
+const {standardlizeHtmlLinkToVideo} = require('./html-convert.js')
+
 async function html2md(html, docM, videoMapping) {
+	html = await standardlizeHtmlLinkToVideo(html, videoMapping)
 	const dom = new JSDOM(html)
 	let out = ''
 	let env = {}
@@ -29,6 +32,8 @@ async function parse(item, format, docM, env, videoMapping) {
 		env.hasEmbedVideo = true
 		return parseEmbedVideo(item, videoMapping)
 	}
+
+	if (checkNote(item)) return parseNote(item, format, docM, env)
 	if (checkCodeblock(item)) return parseCodeblock(item, docM)
 	if (checkTable(item)) return parseTable(item, docM, env)
 	return parsePara(item, format, docM, env)
@@ -53,6 +58,23 @@ function parseCodeblock(item) {
 	})
 
 	return '\n```\n' + codeContent(code) + '\n```\n'
+}
+
+async function parseNote(item, format, docM, env) {
+	const rows = item.rows
+	const firstTd = item.querySelector('p')
+	let out = await parsePara(firstTd, format, docM, env)
+	let texts = out.trim().split(':')
+	let typ = texts[0].toLowerCase()
+	texts.shift()
+	let content = texts.join(':').trim()
+	content = content.replace(/:::/g, '&#58;&#58;&#58;')
+
+	return `
+:::${typ}
+${content}
+:::
+`
 }
 
 async function parseTable(item, docM, env) {
@@ -165,8 +187,8 @@ async function parsePara(item, org_format, docM, env) {
 
 		// quote
 		let format = Object.assign({}, org_format)
-		let doitalic = false
-		let dobold = false
+		let doitalic = item.tagName.toLowerCase() == 'i'
+		let dobold = item.tagName.toLowerCase() == 'b'
 		if (!format.italic && item.style.fontStyle == 'italic') {
 			format.italic = true
 			doitalic = true
@@ -324,6 +346,28 @@ function checkTable(item) {
 		})
 	})
 	return ncell > 1
+}
+
+function checkNote(item) {
+	// <table><tr><td>Note:</td></tr></table>
+	if (!item.tagName) return false
+	if (item.tagName.toLowerCase() !== 'table') return false
+
+	const rows = item.rows
+	if (rows.length !== 1) return false
+	if (rows[0].cells.length !== 1) return false //
+
+	const text = item.rows[0].cells[0].textContent.toLowerCase().trim()
+	if (
+		text.startsWith('note:') ||
+		text.startsWith('tip:') ||
+		text.startsWith('info:') ||
+		text.startsWith('warning:') ||
+		text.startsWith('danger:')
+	) {
+		return true
+	}
+	return false
 }
 
 function normalize(text, format) {

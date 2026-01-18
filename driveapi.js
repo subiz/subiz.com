@@ -11,8 +11,6 @@ var html2md = require('./convert.js')
 var html2Block = require('./convert_block.js')
 var ROOT = '1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE'
 
-const {standardlizeHtmlLinkToVideo} = require('./html-convert.js')
-
 let blockM = {}
 let CAT = {
 	10: '2', // Làm quen với Subiz/
@@ -150,9 +148,7 @@ async function main() {
 		let out = extractFilename(entry)
 		let pathlowers = entry.path_lower.split('/')
 		pathlowers.pop() // remove file name
-		if (out.name && out.name.startsWith('_')) {
-			return // skip
-		}
+		if (shouldSkip(out, entry.path_lower)) return
 
 		docM[entry.id] = entry
 	})
@@ -177,10 +173,7 @@ async function main() {
 				pathlowers.pop() // remove file name
 
 				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
-					// TO DO convert dataHtml to <embedvideo src="">
-				let newHtml = await standardlizeHtmlLinkToVideo(dataHtml, videoMapping)
-
-				let markdown = await html2md(newHtml, docM, videoMapping)
+				let markdown = await html2md(dataHtml, docM, videoMapping)
 				let block = await html2Block(dataHtml, docM)
 				fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
 				blockM[entry.id] = block
@@ -211,7 +204,7 @@ async function main() {
 		let out = extractFilename(entry)
 		let pathlowers = entry.path_lower.split('/')
 		pathlowers.pop() // remove file name
-		if (out.name && out.name.startsWith('_')) return // skip
+		if (shouldSkip(out, entry.path_lower)) return
 		if (!out.locale || out.locale == 'vi' || out.locale == 'vn') {
 			vnfilemap[pathlowers.join('/') + '/' + out.index] = sluggy(name) // convertToSlug(name) + '.md'
 		}
@@ -229,7 +222,7 @@ async function main() {
 
 		let name = sluggy(entry.path_lower)
 		let out = extractFilename(entry)
-		if (out.name && out.name.startsWith('_')) return // skip
+		if (shouldSkip(out, entry.path_lower)) return
 
 		let fileName = './docs' + name + '.mdx'
 		if (out.locale == 'en') {
@@ -265,6 +258,7 @@ async function main() {
 id: ${hashCode(entry.id)}
 slug: /${slug}
 title: ${title}
+hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 last_update:
@@ -488,6 +482,7 @@ function writeFileHeader(entries, videoMapping, fetched, updated) {
 }
 
 function genFolderIndex(name, docM) {
+	if (shouldSkip({name: name})) return
 	let sluggyname = sluggy(name)
 	let links = []
 
@@ -511,6 +506,7 @@ function genFolderIndex(name, docM) {
 		`---
 title: ${dirname}
 pagination_next: null
+hide_table_of_contents: true
 pagination_prev: null
 last_update:
    date: ${last_updated}
@@ -561,4 +557,12 @@ async function authorize() {
 		scopes: SCOPES,
 	})
 	return auth.getClient()
+}
+
+function shouldSkip(out, path_lower) {
+	if (path_lower && path_lower.indexOf('/_') > -1) return true
+	if (out.name && out.name.startsWith('_')) {
+		return true // skip
+	}
+	return false
 }

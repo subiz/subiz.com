@@ -42,7 +42,7 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 		// 2️⃣ Dùng yt-dlp để tải video, xuất file mp4 (best quality)
 		console.log(`⬇️  Đang tải video từ: ${youtubeUrl}`)
 		const {stdout} = await execAsync(
-			`cd videos && yt-dlp --cookies-from-browser chrome ${shellEscape(youtubeUrl)} -f "mp4" -o ${shellEscape(dlFileName + '.mp4')}`,
+			`cd videos && yt-dlp ${shellEscape(youtubeUrl)} -f "mp4" -o ${shellEscape(dlFileName + '.mp4')}`,
 		)
 
 		let filePath = outputDir + '/' + `${dlFileName}.mp4`
