@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1768730171144,
-  "updated": 1768730171144,
+  "fetched": 1768792605527,
+  "updated": 1768792605527,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -176,7 +176,7 @@
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
       "modifiedTime": "2025-12-24T06:37:47.619Z",
-      "version": "237",
+      "version": "239",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
     },
     {
@@ -241,8 +241,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-01-05T04:08:34.662Z",
-      "version": "367",
+      "modifiedTime": "2026-01-19T02:28:39.035Z",
+      "version": "375",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -461,8 +461,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-01-14T02:09:44.273Z",
-      "version": "389",
+      "modifiedTime": "2026-01-19T02:45:15.790Z",
+      "version": "396",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -550,7 +550,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
       "modifiedTime": "2026-01-18T09:35:30.336Z",
-      "version": "609",
+      "version": "610",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -605,7 +605,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-31T02:12:53.974Z",
-      "version": "105",
+      "version": "107",
       "path_lower": "/video-doc-sample"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2025-12-29T04:35:23.348Z",
-      "version": "171",
+      "modifiedTime": "2026-01-19T02:46:15.163Z",
+      "version": "182",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
@@ -747,8 +747,8 @@
       ],
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8 SDK tuỳ chỉnh cửa sổ chat  ",
-      "modifiedTime": "2026-01-09T03:01:23.209Z",
-      "version": "157",
+      "modifiedTime": "2026-01-19T02:09:29.862Z",
+      "version": "166",
       "path_lower": "/110 Ứng dụng nâng cao/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -846,8 +846,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2026-01-18T09:28:32.767Z",
-      "version": "341",
+      "modifiedTime": "2026-01-19T02:07:11.275Z",
+      "version": "357",
       "path_lower": "/readme"
     },
     {
@@ -881,18 +881,18 @@
         "height": 1920
       }
     },
-    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
-      "resolution": {
-        "width": 1808,
-        "height": 1080
-      }
-    },
     "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
       "resolution": {
         "width": 640,
         "height": 360
+      }
+    },
+    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+      "resolution": {
+        "width": 1808,
+        "height": 1080
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
@@ -916,20 +916,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    "https://drive.google.com/file/d/1UyO10NT5frKUsnCp-vXGgXQdmXbEJmzk/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/0b577cd673536ae734055082ee126a50/watch",
-      "resolution": {
-        "width": 1596,
-        "height": 910
-      }
-    },
     "https://www.youtube.com/watch?v=oi6nmPYPAPk": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/cda0a7faef8e814ac9effb37d94fd4b6/watch",
       "resolution": {
@@ -949,6 +935,20 @@
       "resolution": {
         "width": 1920,
         "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://drive.google.com/file/d/1UyO10NT5frKUsnCp-vXGgXQdmXbEJmzk/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/0b577cd673536ae734055082ee126a50/watch",
+      "resolution": {
+        "width": 1596,
+        "height": 910
       }
     },
     "https://www.youtube.com/watch?v=_9fWwl9hsxs": {
@@ -1014,18 +1014,18 @@
         "height": 1080
       }
     },
-    "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?a=5": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43ca10028fe3a1c7cb329b406d0076b3/watch",
-      "resolution": {
-        "width": 1280,
-        "height": 608
-      }
-    },
     "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
+      }
+    },
+    "https://drive.google.com/file/d/1zlz-RNMrnecIxakFcLBePPE4XB_NxkuA/view?a=5": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43ca10028fe3a1c7cb329b406d0076b3/watch",
+      "resolution": {
+        "width": 1280,
+        "height": 608
       }
     }
   }

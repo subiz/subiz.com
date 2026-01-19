@@ -258,7 +258,6 @@ async function main() {
 id: ${hashCode(entry.id)}
 slug: /${slug}
 title: ${title}
-hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 last_update:
@@ -506,7 +505,6 @@ function genFolderIndex(name, docM) {
 		`---
 title: ${dirname}
 pagination_next: null
-hide_table_of_contents: true
 pagination_prev: null
 last_update:
    date: ${last_updated}
