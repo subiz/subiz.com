@@ -180,6 +180,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .menu__link {
+	font-weight: 400;
 	text-decoration: none;
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -542,7 +543,16 @@ body {
 }
 
 b {
+	font-weight: 600;
+}
+
+.DocSearch-Title strong, .theme-admonition.alert {
 	font-weight: 500;
+}
+
+a {
+	color: #112051;
+	font-weight: 400;
 }
 
 .theme-doc-footer-edit-meta-row {
