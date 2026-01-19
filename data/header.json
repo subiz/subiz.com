@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1768792605527,
-  "updated": 1768792605527,
+  "fetched": 1768803158331,
+  "updated": 1768803158331,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -55,7 +55,7 @@
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "10. Kết nối website",
       "modifiedTime": "2026-01-06T09:52:06.536Z",
-      "version": "605",
+      "version": "607",
       "path_lower": "/20 Tích hợp kênh tương tác/10-ket-noi-website"
     },
     {
@@ -241,8 +241,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-01-19T02:28:39.035Z",
-      "version": "375",
+      "modifiedTime": "2026-01-19T03:59:50.901Z",
+      "version": "384",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -462,7 +462,7 @@
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
       "modifiedTime": "2026-01-19T02:45:15.790Z",
-      "version": "396",
+      "version": "397",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2026-01-19T02:46:15.163Z",
-      "version": "182",
+      "modifiedTime": "2026-01-19T03:29:32.842Z",
+      "version": "195",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
@@ -846,8 +846,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2026-01-19T02:07:11.275Z",
-      "version": "357",
+      "modifiedTime": "2026-01-19T05:28:34.864Z",
+      "version": "381",
       "path_lower": "/readme"
     },
     {

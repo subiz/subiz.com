@@ -204,6 +204,10 @@ const config = {
 	},
 	clientModules: ['./static/js/custom.js'],
 	themeConfig: {
+		tableOfContents: {
+			minHeadingLevel: 2,
+			maxHeadingLevel: 2,
+		},
 		docs: {
 			sidebar: {
 				hideable: false,
