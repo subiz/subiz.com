@@ -45,20 +45,20 @@ const config = {
 						from: ['/1957649110-api-ket-noi-subiz'],
 					},
 					{
-						to: '/352944605-bang-tinh-nang',
+						to: '/50701647-hanh-trinh-su-dung',
 						from: ['/352944605-bang-tinh-nang-subiz'],
 					},
 					{
-						to: '/352944605-bang-tinh-nang',
-						from: ['/docs/352944605-bang-tinh-nang-subiz'],
-					},
-					{
-						to: '/1543153800-mau-tin-nhan-zns',
-						from: ['/1543153800-cach-tao-mau-tin-nhan-zns'],
-					},
-					{
-						to: '/300561377-gui-tin-nhan-zns',
-						from: ['/300561377-gui-tin-nhan-zns-tren-subiz'],
+						to: '/391541760-zns-zalo',
+						from: [
+							'/735781858-faqs-ve-zns',
+							'/735781858-faqs---cau-hoi-thuong-gap-ve-zns',
+							'/735781858-faqs-cau-hoi-thuong-gap-ve-zns',
+							'/1543153800-cach-tao-mau-tin-nhan-zns',
+							'/1543153800-mau-tin-nhan-zns',
+							'/300561377-gui-tin-nhan-zns',
+							'/300561377-gui-tin-nhan-zns-tren-subiz',
+						],
 					},
 					{
 						to: '/1168493719-email-marketing',
@@ -146,14 +146,7 @@ const config = {
 							'/456469809-tich-hop-dau-so',
 						],
 					},
-					{
-						to: '/735781858-faqs-ve-zns',
-						from: ['/735781858-faqs---cau-hoi-thuong-gap-ve-zns'],
-					},
-					{
-						to: '/735781858-faqs-ve-zns',
-						from: ['/735781858-faqs-cau-hoi-thuong-gap-ve-zns'],
-					},
+
 					{
 						to: '/1139647591-fanpage',
 						from: ['/1068952124-tu-dong-phan-hoi-fanpage'],
