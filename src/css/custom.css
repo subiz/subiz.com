@@ -639,3 +639,7 @@ a {
 .theme-doc-footer-edit-meta-row .theme-last-updated b {
 	font-weight: 400;
 }
+
+.hidden {
+	display: none !important;
+}
