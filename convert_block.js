@@ -3,6 +3,7 @@ const jsdom = require('jsdom')
 var lo = require('lodash')
 var flow = require('@subiz/flow')
 const {JSDOM} = jsdom
+const {getSlug, hashCode, sluggy} = require('./util.js')
 
 async function html2block(html, docM) {
 	const dom = new JSDOM(html)
@@ -382,19 +383,6 @@ function trimBr(str) {
 		str = newstr
 	}
 	return str
-}
-
-// check ./driveapi.js/sluggy
-function sluggy(name) {
-	name = name || ''
-	return unicodeToAscii(name.toLowerCase().trim().replaceAll('?', '-').replaceAll(' ', '-').replaceAll('!', '-'))
-}
-
-function unicodeToAscii(str) {
-	str = str + ''
-	// work around Đ not work
-	str = str.replace('đ', 'd').replace('Đ', 'D')
-	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 }
 
 async function uploadImageToSubiz(url) {

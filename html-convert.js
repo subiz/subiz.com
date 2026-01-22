@@ -65,7 +65,7 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 			continue
 		}
 
-		console.log('KKKKKK', link)
+		console.log('Uploading to cloudflare', link)
 		let res = await uploadYoutubeToCloudflare(link)
 		if (res.preview) {
 			videoMapping[link] = {preview: res.preview}

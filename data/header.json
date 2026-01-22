@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1768819918740,
-  "updated": 1768819918740,
+  "fetched": 1769088463056,
+  "updated": 1769088463056,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,8 +11,19 @@
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
       "modifiedTime": "2025-12-17T07:12:57.474Z",
-      "version": "346",
+      "version": "348",
       "path_lower": "/110 Ứng dụng nâng cao/3-quan-ly-nhieu-website"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
+      "name": "Nhúng mã vào giao diện website",
+      "modifiedTime": "2026-01-22T12:39:48.622Z",
+      "version": "25",
+      "path_lower": "/1000 Tổng hợp/nhung-ma-vao-giao-dien-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -53,9 +64,9 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
-      "name": "10. Kết nối website",
-      "modifiedTime": "2026-01-19T08:12:06.564Z",
-      "version": "612",
+      "name": "_10. Kết nối website",
+      "modifiedTime": "2026-01-22T10:37:39.112Z",
+      "version": "636",
       "path_lower": "/20 Tích hợp kênh tương tác/10-ket-noi-website"
     },
     {
@@ -65,8 +76,8 @@
       ],
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại",
-      "modifiedTime": "2025-12-24T08:35:11.160Z",
-      "version": "130",
+      "modifiedTime": "2026-01-22T09:28:09.317Z",
+      "version": "138",
       "path_lower": "/60 Quản lý khách hàng/4-nhan-phan-loai"
     },
     {
@@ -76,8 +87,8 @@
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "70. Google Business",
-      "modifiedTime": "2025-12-24T07:58:47.329Z",
-      "version": "179",
+      "modifiedTime": "2026-01-22T07:31:19.294Z",
+      "version": "186",
       "path_lower": "/20 Tích hợp kênh tương tác/70-google-business"
     },
     {
@@ -99,7 +110,7 @@
       "id": "17sNt5a8-Op6VdjKTzSAqwEdNdystBvwBZGFE-dU-qzM",
       "name": "6.5 Thống kê phiếu ghi",
       "modifiedTime": "2025-12-18T08:59:22.220Z",
-      "version": "51",
+      "version": "53",
       "path_lower": "/80 Thống kê báo cáo/6-5-thong-ke-phieu-ghi"
     },
     {
@@ -132,7 +143,7 @@
       "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
       "name": "2. Tích hợp Zalo Cloud Connect",
       "modifiedTime": "2026-01-09T02:04:05.605Z",
-      "version": "213",
+      "version": "215",
       "path_lower": "/_90 Tổng đài điện thoại/2-tich-hop-zalo-cloud-connect"
     },
     {
@@ -153,8 +164,8 @@
       ],
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
       "name": "index",
-      "modifiedTime": "2025-11-05T02:38:14.948Z",
-      "version": "53",
+      "modifiedTime": "2026-01-22T11:30:51.796Z",
+      "version": "59",
       "path_lower": "/index"
     },
     {
@@ -164,8 +175,8 @@
       ],
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "5 Giám sát viên hội thoại ",
-      "modifiedTime": "2024-12-30T08:46:09.152Z",
-      "version": "114",
+      "modifiedTime": "2026-01-21T04:49:31.380Z",
+      "version": "122",
       "path_lower": "/40 Quản lý làm việc nhóm/5-giam-sat-vien-hoi-thoai"
     },
     {
@@ -176,19 +187,8 @@
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
       "modifiedTime": "2025-12-24T06:37:47.619Z",
-      "version": "239",
+      "version": "243",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
-      ],
-      "id": "1HnkXaqdKL5Q4xm9e881mfpD8-tqmGWddgk89JzbCP8s",
-      "name": "1. ZNS Zalo ",
-      "modifiedTime": "2026-01-19T10:48:57.801Z",
-      "version": "440",
-      "path_lower": "/100 Marketing/1-zns-zalo"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -208,8 +208,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-01-16T09:09:37.348Z",
-      "version": "98",
+      "modifiedTime": "2026-01-22T06:59:15.635Z",
+      "version": "115",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -253,7 +253,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
       "modifiedTime": "2026-01-19T10:32:44.870Z",
-      "version": "395",
+      "version": "396",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -362,8 +362,8 @@
       ],
       "id": "1RbeJaUaQ3sW1MK5ZGCZpfRU0UqIXM-DNomxP5XCgXL4",
       "name": "15. Cập nhật mới trên Subiz",
-      "modifiedTime": "2024-11-29T10:31:04.893Z",
-      "version": "140",
+      "modifiedTime": "2026-01-21T04:36:45.167Z",
+      "version": "151",
       "path_lower": "/110 Ứng dụng nâng cao/15-cap-nhat-moi-tren-subiz"
     },
     {
@@ -373,8 +373,8 @@
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "4. Quản lý nhiều Fanpage",
-      "modifiedTime": "2025-11-22T05:05:35.552Z",
-      "version": "408",
+      "modifiedTime": "2026-01-21T04:23:40.419Z",
+      "version": "414",
       "path_lower": "/110 Ứng dụng nâng cao/4-quan-ly-nhieu-fanpage"
     },
     {
@@ -479,6 +479,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1Z4Q6qn1peWEzZvhSRnfW8rEgmAn0f0u2Ung_v_kt5rA",
+      "name": "_2. Gửi tin nhắn ZNS",
+      "modifiedTime": "2026-01-22T07:01:18.504Z",
+      "version": "91",
+      "path_lower": "/100 Marketing/2-gui-tin-nhan-zns"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1_4ZLl8xCtYr-5B1rat9iZONAlP38BSOW3kbeoocq1DU",
@@ -495,7 +506,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-11-05T08:29:40.964Z",
-      "version": "451",
+      "version": "453",
       "path_lower": "/_90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -517,7 +528,7 @@
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "2. Email Marketing",
       "modifiedTime": "2026-01-19T10:23:48.950Z",
-      "version": "206",
+      "version": "207",
       "path_lower": "/100 Marketing/2-email-marketing"
     },
     {
@@ -538,8 +549,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "11. Kịch bản Chatbot mẫu",
-      "modifiedTime": "2025-12-24T08:14:02.228Z",
-      "version": "373",
+      "modifiedTime": "2026-01-21T04:18:53.534Z",
+      "version": "382",
       "path_lower": "/50 Tự động hóa/11-kich-ban-chatbot-mau"
     },
     {
@@ -593,8 +604,8 @@
       ],
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
       "name": "_1. Bảng tính năng",
-      "modifiedTime": "2026-01-19T10:01:57.101Z",
-      "version": "334",
+      "modifiedTime": "2026-01-22T03:22:12.091Z",
+      "version": "344",
       "path_lower": "/10 Làm quen với Subiz/1-bang-tinh-nang"
     },
     {
@@ -616,7 +627,7 @@
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
       "modifiedTime": "2026-01-14T02:10:44.549Z",
-      "version": "254",
+      "version": "256",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -692,8 +703,8 @@
       ],
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "5. Subiz đa ngôn ngữ",
-      "modifiedTime": "2025-12-25T10:22:43.406Z",
-      "version": "212",
+      "modifiedTime": "2026-01-22T10:11:55.322Z",
+      "version": "218",
       "path_lower": "/110 Ứng dụng nâng cao/5-subiz-da-ngon-ngu"
     },
     {
@@ -721,6 +732,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
+      "name": "_3. FAQs về ZNS",
+      "modifiedTime": "2026-01-22T07:01:24.707Z",
+      "version": "56",
+      "path_lower": "/100 Marketing/3-faqs-ve-zns"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1DCP_Kc0t1KxB5ltPZw2zptzeVwemLBQ2"
       ],
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
@@ -735,9 +757,9 @@
         "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
       ],
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
-      "name": "8 SDK tuỳ chỉnh cửa sổ chat  ",
-      "modifiedTime": "2026-01-19T02:09:29.862Z",
-      "version": "166",
+      "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
+      "modifiedTime": "2026-01-21T04:25:05.891Z",
+      "version": "168",
       "path_lower": "/110 Ứng dụng nâng cao/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -758,8 +780,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-01-09T02:22:30.046Z",
-      "version": "251",
+      "modifiedTime": "2026-01-21T10:33:34.139Z",
+      "version": "277",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -809,13 +831,35 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
+      "name": "1. ZBS Zalo",
+      "modifiedTime": "2026-01-22T11:22:54.684Z",
+      "version": "225",
+      "path_lower": "/100 Marketing/1-zbs-zalo"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-01-14T03:12:56.444Z",
-      "version": "319",
+      "modifiedTime": "2026-01-22T10:29:53.869Z",
+      "version": "399",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
+      ],
+      "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
+      "name": "_1. Mẫu tin nhắn ZNS",
+      "modifiedTime": "2026-01-22T07:01:09.306Z",
+      "version": "100",
+      "path_lower": "/100 Marketing/1-mau-tin-nhan-zns"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -825,7 +869,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "438",
+      "version": "446",
       "path_lower": "/readme"
     },
     {
@@ -852,11 +896,11 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
+    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
       "resolution": {
-        "width": 864,
-        "height": 1920
+        "width": 1808,
+        "height": 1080
       }
     },
     "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
@@ -866,22 +910,15 @@
         "height": 360
       }
     },
-    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
       "resolution": {
-        "width": 1808,
-        "height": 1080
+        "width": 864,
+        "height": 1920
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    "https://www.youtube.com/watch?v=6DPEDcjejPw": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/ca5532c951a06dd0e6fefdfc67d0f49b/watch",
       "resolution": {
         "width": 1920,
         "height": 1080

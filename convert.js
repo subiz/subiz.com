@@ -1,9 +1,10 @@
+var docusaunanus_config = require('./docusaurus.config.js')
 const fs = require('fs')
 const jsdom = require('jsdom')
 var flow = require('@subiz/flow')
 const {JSDOM} = jsdom
 const lo = require('lodash')
-
+const {getSlug, hashCode, sluggy} = require('./util.js')
 const {standardlizeHtmlLinkToVideo} = require('./html-convert.js')
 
 async function html2md(html, docM, videoMapping) {
@@ -63,7 +64,7 @@ function parseCodeblock(item) {
 async function parseNote(item, format, docM, env) {
 	const rows = item.rows
 	const ps = item.querySelectorAll('p')
-		let typ = ps[0].textContent.trim().toLowerCase()
+	let typ = ps[0].textContent.trim().toLowerCase()
 	let content = ''
 	for (var i = 1; i < ps.length; i++) {
 		let out = await parsePara(ps[i], format, docM, env)
@@ -147,16 +148,28 @@ async function parsePara(item, org_format, docM, env) {
 			let qs = new URL(url).searchParams
 			url = qs.get('q') || ''
 		}
-		if (url.startsWith('https://docs.google.com/document/d/')) {
-			let doc_id = url.substr('https://docs.google.com/document/d/'.length)
+
+		let linkname = normalize(item.textContent, org_format)
+		// https://docs.google.com/document/u/0/d/1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo/edit
+		// https://docs.google.com/document/d/1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo/edit
+		if (url.startsWith('https://docs.google.com/document/')) {
+			let splits = url.split('/d/')
+			// splits.shift()
+			let doc_id = splits[1].split('/')[0]
+
+			// let doc_id = url.substr('https://docs.google.com/document/d/'.length)
 			doc_id = doc_id.split('/')[0]
 			doc_id = doc_id.split('#')[0]
+			doc_id = doc_id.split('?')[0]
+			doc_id = doc_id.split('&')[0]
 			if (docM[doc_id]) {
-				let fileName = sluggy(docM[doc_id].path_lower) + '.md'
-				return '[' + (normalize(item.textContent, org_format) || url) + '](' + fileName + ')'
+				let fileName = sluggy(docM[doc_id].path_lower) + '.mdx'
+				return '[' + getrefdocname(linkname) || 'Link' + '](' + fileName + ')'
 			}
 		}
-		return '[' + (normalize(item.textContent, org_format) || url) + '](' + url + ')'
+
+		if (linkname.trim() == '') return ' ' // google just split link into 2 part, ignore
+		return '[' + linkname + '](' + url + ')'
 	}
 
 	if (tagname == 'ol' || tagname == 'ul') {
@@ -417,31 +430,6 @@ function trimBr(str) {
 	return str
 }
 
-// check ./driveapi.js/sluggy
-function sluggy(name) {
-	name = name || ''
-
-	let slug = unicodeToAscii(name.toLowerCase().trim())
-
-	// Allow only letters, numbers, hyphens, and slashes
-	slug = slug.replace(/[^a-z0-9/-]+/g, '-')
-
-	// Collapse multiple hyphens (but not slashes)
-	slug = slug.replace(/-+/g, '-')
-
-	// Remove leading/trailing hyphens or slashes
-	slug = slug.replace(/^[-]+|[-]+$/g, '')
-
-	return slug
-}
-
-function unicodeToAscii(str) {
-	str = str + ''
-	// work around Đ not work
-	str = str.replace('đ', 'd').replace('đ', 'd').replace('Đ', 'D')
-	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-}
-
 async function uploadImageToSubiz(url) {
 	try {
 		let resp = await fetch('https://api5.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
@@ -466,6 +454,16 @@ function htmlMap(dom, f, n) {
 	let items = []
 	dom.forEach((item) => items.push(item))
 	return flow.map(items, f, n)
+}
+
+function getrefdocname(name) {
+	let ns = name.split('.')
+	if (ns.length == 1) {
+		return name.trim()
+	}
+
+	ns.shift()
+	return ns.join(name, '.').trim()
 }
 
 module.exports = html2md
