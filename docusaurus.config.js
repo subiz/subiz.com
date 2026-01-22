@@ -49,8 +49,13 @@ const config = {
 						from: ['/352944605-bang-tinh-nang-subiz'],
 					},
 					{
-						to: '/391541760-zns-zalo',
+						to: '/583253150-cua-so-chat',
+						from: ['/1583390769-ket-noi-website'],
+					},
+					{
+						to: '616313114-zbs-zalo',
 						from: [
+							'/391541760-zns-zalo',
 							'/735781858-faqs-ve-zns',
 							'/735781858-faqs---cau-hoi-thuong-gap-ve-zns',
 							'/735781858-faqs-cau-hoi-thuong-gap-ve-zns',
