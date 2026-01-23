@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769145207967,
-  "updated": 1769145207967,
+  "fetched": 1769156826638,
+  "updated": 1769156826638,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -66,7 +66,7 @@
       "id": "11VmBLQspI0hluQIDggLRWEI3LTRWU6ZLo6X9sk9K5jE",
       "name": "_10. Kết nối website",
       "modifiedTime": "2026-01-22T10:37:39.112Z",
-      "version": "636",
+      "version": "637",
       "path_lower": "/20 Tích hợp kênh tương tác/10-ket-noi-website"
     },
     {
@@ -77,7 +77,7 @@
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại",
       "modifiedTime": "2026-01-22T09:28:09.317Z",
-      "version": "143",
+      "version": "144",
       "path_lower": "/60 Quản lý khách hàng/4-nhan-phan-loai"
     },
     {
@@ -209,7 +209,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-01-23T04:46:20.012Z",
-      "version": "121",
+      "version": "123",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -472,8 +472,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-01-19T02:45:15.790Z",
-      "version": "398",
+      "modifiedTime": "2026-01-23T08:04:25.624Z",
+      "version": "409",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
       "modifiedTime": "2026-01-23T05:00:21.232Z",
-      "version": "636",
+      "version": "640",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
       "modifiedTime": "2026-01-23T05:02:28.736Z",
-      "version": "263",
+      "version": "267",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -704,7 +704,7 @@
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "5. Subiz đa ngôn ngữ",
       "modifiedTime": "2026-01-22T10:11:55.322Z",
-      "version": "224",
+      "version": "225",
       "path_lower": "/110 Ứng dụng nâng cao/5-subiz-da-ngon-ngu"
     },
     {
@@ -769,8 +769,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-01-23T05:03:27.100Z",
-      "version": "265",
+      "modifiedTime": "2026-01-23T07:52:24.610Z",
+      "version": "291",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -834,9 +834,9 @@
         "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
-      "name": "_1. ZBS Zalo",
-      "modifiedTime": "2026-01-23T05:10:41.076Z",
-      "version": "289",
+      "name": "1. ZBS Zalo",
+      "modifiedTime": "2026-01-23T07:35:26.454Z",
+      "version": "329",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -858,7 +858,7 @@
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "_1. Mẫu tin nhắn ZNS",
       "modifiedTime": "2026-01-22T07:01:09.306Z",
-      "version": "100",
+      "version": "102",
       "path_lower": "/100 Marketing/1-mau-tin-nhan-zns"
     },
     {
