@@ -345,9 +345,8 @@ a {
 }
 
 .markdown a:hover {
-	background-color: #f4faff;
 	text-decoration: none;
-	border-bottom: 1px solid #a0b7ff;
+	border-bottom: 1.5px solid #beceff;
 	color: var(--ifm-color-primary);
 }
 
@@ -551,7 +550,7 @@ body {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	font-size: 0.9rem;
-	font-weight: 500;
+	font-weight: inherit;
 }
 
 .theme-admonition.alert b {
@@ -606,14 +605,8 @@ b {
 	font-weight: 600;
 }
 
-.DocSearch-Title strong,
-.theme-admonition.alert {
-	font-weight: 500;
-}
-
 a {
-	color: #112051;
-	font-weight: 400;
+	color: inherit;
 }
 
 .theme-doc-footer-edit-meta-row {

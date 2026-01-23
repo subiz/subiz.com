@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769088463056,
-  "updated": 1769088463056,
+  "fetched": 1769145207967,
+  "updated": 1769145207967,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -20,10 +20,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
-      "name": "Nhúng mã vào giao diện website",
-      "modifiedTime": "2026-01-22T12:39:48.622Z",
-      "version": "25",
-      "path_lower": "/1000 Tổng hợp/nhung-ma-vao-giao-dien-website"
+      "name": "Nhúng mã code Subiz vào website",
+      "modifiedTime": "2026-01-23T04:12:46.351Z",
+      "version": "55",
+      "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -77,7 +77,7 @@
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại",
       "modifiedTime": "2026-01-22T09:28:09.317Z",
-      "version": "138",
+      "version": "143",
       "path_lower": "/60 Quản lý khách hàng/4-nhan-phan-loai"
     },
     {
@@ -208,8 +208,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-01-22T06:59:15.635Z",
-      "version": "115",
+      "modifiedTime": "2026-01-23T04:46:20.012Z",
+      "version": "121",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -242,7 +242,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "142",
+      "version": "143",
       "path_lower": "/110 Ứng dụng nâng cao/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
@@ -252,8 +252,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-01-19T10:32:44.870Z",
-      "version": "396",
+      "modifiedTime": "2026-01-23T04:18:01.105Z",
+      "version": "407",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -560,8 +560,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-01-18T09:35:30.336Z",
-      "version": "611",
+      "modifiedTime": "2026-01-23T05:00:21.232Z",
+      "version": "636",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -626,8 +626,8 @@
       ],
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
-      "modifiedTime": "2026-01-14T02:10:44.549Z",
-      "version": "256",
+      "modifiedTime": "2026-01-23T05:02:28.736Z",
+      "version": "263",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -704,7 +704,7 @@
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "5. Subiz đa ngôn ngữ",
       "modifiedTime": "2026-01-22T10:11:55.322Z",
-      "version": "218",
+      "version": "224",
       "path_lower": "/110 Ứng dụng nâng cao/5-subiz-da-ngon-ngu"
     },
     {
@@ -769,8 +769,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-01-05T09:41:35.283Z",
-      "version": "247",
+      "modifiedTime": "2026-01-23T05:03:27.100Z",
+      "version": "265",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -834,9 +834,9 @@
         "18EMcN-I5D21hjP7aj2Lc2zGObhaE_GNu"
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
-      "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-01-22T11:22:54.684Z",
-      "version": "225",
+      "name": "_1. ZBS Zalo",
+      "modifiedTime": "2026-01-23T05:10:41.076Z",
+      "version": "289",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -846,8 +846,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-01-22T10:29:53.869Z",
-      "version": "399",
+      "modifiedTime": "2026-01-23T04:13:21.056Z",
+      "version": "420",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
@@ -1041,6 +1041,13 @@
       "resolution": {
         "width": 1280,
         "height": 608
+      }
+    },
+    "https://www.youtube.com/watch?v=67dyW9RBD3o": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
       }
     }
   }

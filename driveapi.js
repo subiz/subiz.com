@@ -297,9 +297,11 @@ last_update:
 		console.log(stdout)
 	})
 
-		// make index identical to 3-cac-goi-dich-vu
+	// fs.writeFileSync('./docs/1000-tong-hop/index2.mdx', genAllPage(docM), {encoding: 'utf8'})
+
+	// make index identical to 3-cac-goi-dich-vu
 	let copydata = fs.readFileSync('./docs/10-lam-quen-voi-subiz/3-cac-goi-dich-vu.mdx')
-		let copydatas = copydata.toString().split('---')
+	let copydatas = copydata.toString().split('---')
 	copydatas[1] = `
 id: 321138315
 slug: /

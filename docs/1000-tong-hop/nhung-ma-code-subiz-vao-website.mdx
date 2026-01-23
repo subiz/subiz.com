@@ -1,0 +1,112 @@
+---
+id: 21395065
+slug: /21395065-nhung-ma-code-subiz-vao-website
+title: Nhúng mã code Subiz vào website
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2026-01-23T04:12:46.351Z
+---
+
+# Nhúng mã code Subiz vào website
+
+
+Sau khi [lấy được mã code cửa sổ chat Subiz](https://subiz.com.vn/docs/583253150-cua-so-chat#lay-ma-nhung), bạn cần đi tới trang quản trị website và làm theo hướng dẫn tương ứng với nền tảng của doanh nghiệp:
+
+- WordPress
+- LadiPage
+- Sapo
+- Haravan
+- Google Tag Manager
+## WordPress {#wordpress}
+
+
+- Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor.
+- Bước 2: Tìm file footer.php bên cột bên phải và mở file này.
+- Bước 3: Sao chép [mã nhúng Subiz tại đây](about:blank#h.yimw5wg2q3tq).
+- Bước 4 Dán mã nhúng Subiz trước thẻ `body` đóng
+- Bước 5: Kiểm tra trên trang WordPress có dùng plugin cache nào không? Nếu có cần xóa cache để lưu mã nhúng Subiz vừa cài đặt. Ví dụ: WP Rocket, [Comet Cache](https://wordpress.org/plugins/comet-cache/), [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/),...
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoieaactbidweriuj_acpxkgumifuoofoosble/f0b4c31a5de8e866cb38e6f5ec06648f.png)
+
+
+
+## LadiPage {#ladipage}
+
+
+01. [Login tài khoản ](https://ladipage.vn)[LadiPage](https://ladipage.vn) và chọn Landing page bạn muốn đặt Subiz.
+11. Vào <b>Cài đặt trang</b> tại góc dưới bên phải màn hình.
+21. Chọn tab <b>Mã theo dõi tuỳ chỉnh</b>
+31. Dán mã nhúng Subiz vào vị trí đặt là "<b>Thêm vào trước thẻ body</b>”
+41. Chọn <b>Save</b> &gt; Chọn <b>Xuất bản</b>.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoieavhacujadrzly_acpxkgumifuoofoosble/3080efb376841a8eda153bbbde089b47.png)
+
+## Sapo {#sapo}
+
+
+01. Đăng nhập trang quản trị website của Sapo &gt; Chọn Website.
+11. Chọn <b>Giao diện</b> &gt; <b>Thao tác</b> &gt; <b>Chỉnh sửa HTML/CSS.</b>
+21. Chọn Them.bwt &gt; Tìm thẻ “body” &gt; dán mã trước thẻ “body”
+31. <b>Lưu</b> để hoàn thành.
+
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fisgyrdigqwulvcvrvfb_acpxkgumifuoofoosble/unnamed.gif)
+
+
+
+## Haravan {#haravan}
+
+
+
+
+01. Đăng nhập [trang quản lý website của Haravan](https://myharavan.com/admin/auth/login)
+11. Chọn <b>Website</b> &gt; chọn <b>Giao diện</b> &gt; chọn
+21. Chọn <b>theme.liquid</b> trong Layouts &gt; Tìm thẻ “head” &gt; dán mã nhúng ngay sau thẻ “head”
+31. Chọn <b>Lưu</b> để hoàn thành.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisgyraxfpflpwgdegnq_acpxkgumifuoofoosble/unnamed.gif)
+
+## Google Tag Manager  {#google-tag-manager}
+
+
+Khi bạn sử dụng Google Tag Manager trên website, bạn có thể tích hợp Subiz chat vào website thông qua Google Tag Manager theo các bước như sau:
+
+Bước 1: Đăng nhập [Tagmanager.google.com](https://tagmanager.google.com/#/home)
+
+Bước 2: Chọn account quản lý website sẽ tích hợp Subiz chat tại <b>All account</b>.
+
+Bước 3: Tại <b>WORKSPACE </b>chọn<b> Tags, </b>nhấp<b> NEW</b> để tạo tag mới
+
+Bước 4: Điền tên Tag để phân biệt các Tag và chức năng của Tag
+
+Bước 5: Nhúng mã code Subiz
+
+- Tại <b>Tag Configuration &gt; </b>Custom HTML &gt; dán mã nhúng
+- Chọn ✓<b>Support document.write</b>
+- Chọn <b>All Pages</b> ở <b>Triggering</b> nếu muốn hiển thị cửa sổ chat Subiz trên tất cả các trang của website
+
+<b>Lưu ý</b>: Trigger là điều kiện bạn muốn thẻ Tag Subiz chat sẽ hoạt động. Bạn có thể tùy chọn Trigger theo nhu cầu riêng. Ví dụ:
+
+- Tất cả các trang của website \(All Pages\) sẽ hiển thị cửa sổ Subiz chat.
+- Chỉ một số trang \(Some Pages\) sẽ hiển thị cửa sổ Subiz chat.
+- Khách có một hành động cụ thể như Click, kéo scroll chuột, hay sau một khoảng thời gian vào website,.... sẽ hiển thị cửa sổ Subiz chat.
+
+Bước 6: Chọn <b>SAVE</b>, chọn <b>SUBMIT</b> ở góc phải màn hình 
+
+Bước 7: Điền thông tin mô tả trong mục <b>Publish and Create Version</b> &gt; chọn <b>PUBLISH</b> để hoàn thành.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoidztllutekcxcwa_acpxkgumifuoofoosble/11cb633c561f224ba44dfb6a9e320599.png)
+
+## Kiểm tra hoạt động cửa sổ chat Subiz {#kiem-tra-hoat-dong-cua-so-chat-subiz}
+
+
+Vào website, F5 tải trang để cập nhật thay đổi và thấy cửa sổ chat ở góc phải màn hình là cài đặt thành công. Nhắn tin test trên cửa sổ chat và quay lại [trang quản lý hội thoại chat trên Subiz](https://app.subiz.com.vn/convo) để phản hồi tin nhắn đó.
+
+Tiếp theo, cùng [thiết kế hiển thị, lời chào cửa sổ chat](https://subiz.com.vn/docs/583253150-cua-so-chat#chinh-sua) theo thông tin của doanh nghiệp mình nhé.
