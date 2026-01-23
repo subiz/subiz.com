@@ -17,18 +17,20 @@ Subiz hỗ trợ bạn quản lý và tương tác khách hàng trên nhiều we
 
 - Theo dõi toàn bộ khách truy cập trên tất cả website.
 - Trả lời nhanh chóng tất cả tin nhắn từ bất kỳ website nào.
-- Hiển thị cửa sổ chat riêng cho từng website.
+- Cá nhân hóa giao diện cửa sổ chat cho từng website khác nhau.
 - Tùy chỉnh Bot tự động gửi tin nhắn riêng biệt cho từng website.
 - Phân chia hội thoại theo từng website tới các nhân viên phụ trách.
 ## Hướng dẫn cài đặt {#huong-dan-cai-dat}
 
 
-- Bước 1: Tích hợp thêm website
-- Bước 2: Thiết kế cửa sổ chat riêng cho từng website
-- Bước 3: Phân phối khách hàng theo từng website
-- Bước 4: Bot tự động trả lời theo từng website
-- Bước 5: Thống kê hội thoại từng website
-### Bước 1: Tích hợp thêm website {#buoc-1-tich-hop-them-website}
+- Bước 1: Quản lý danh sách website
+- Bước 2: Thêm Agent phụ trách từng website
+- Bước 3: Tùy chỉnh cửa sổ chat cho website đầu tiên
+- Bước 4: Cài đặt API sửa cửa sổ chat cho các website khác
+- Bước 5: Phân phối khách hàng theo từng website
+- Bước 6: Bot tự động trả lời theo từng website
+- Bước 7: Thống kê hội thoại từng website
+### Bước 1: Quản lý danh sách website {#buoc-1-quan-ly-danh-sach-website}
 
 
 Thêm danh sách tên miền website vào trang [Cài đặt website](https://app.subiz.com.vn/website/install) của Subiz để quản lý tất cả các website trên cùng một giao diện Subiz. 
@@ -40,40 +42,167 @@ Sau đó bạn sao chép mã nhúng Subiz và dán vào code website.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoidtscmoygcxeijw_acpxkgumifuoofoosble/151b688f93c5ee29baf983dabc36bae4.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrborbfszfljirqm_acpxkgumifuoofoosble/unnamed.png)
  
-### Bước 2: Thiết kế cửa sổ chat riêng cho từng website  {#buoc-2-thiet-ke-cua-so-chat-rieng-cho-tung-website}
+### Bước 2: Thêm Agent phụ trách từng website {#buoc-2-them-agent-phu-trach-tung-website}
 
 
-Khi bạn kinh doanh nhiều thương hiệu sản phẩm - dịch vụ trên nhiều website khác nhau. Bạn có thể tạo cửa sổ chat hiển thị thương hiệu riêng của từng website. 
+Để hiển thị thông tin thương hiệu trên cửa sổ chat, tạo Agent mới có họ tên và ảnh đại diện của thương hiệu.
 
 
 
 Hướng dẫn tạo thêm agent: 
 
-- Mở [Cài đặt Website](https://app.subiz.com.vn/settings/website)
-- Chọn <b>Chỉnh sửa cửa sổ chat</b> tương ứng với mỗi website
+- Vào trang [cài đặt agent](https://app.subiz.com.vn/settings/agents)
+- Chọn Mời agent
+- Nhập họ tên là tên thương hiệu, rồi chỉnh sửa agent để thay đổi ảnh đại diện là logo thương hiệu
+- Lưu ý: Mỗi agent sẽ có 1 mã định dạng, bạn lấy mã agent bằng cách chọn chỉnh sửa agent, xem trên tab trình duyệt hiện “agent\_id”.
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoigqrmkyywdopefs_acpxkgumifuoofoosble/b68038794742ce391fe8306da009f5b6.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbovxhkkwdggwaw_acpxkgumifuoofoosble/unnamed.png)
+
+### Bước 3: Cài cửa sổ chat cho website đầu tiên {#buoc-3-cai-cua-so-chat-cho-website-dau-tien}
 
 
-- Lựa chọn thay đổi màu sắc, kích thước, vị trí… như thông thường
+Tại trang [Chỉnh sửa cửa sổ chat](https://app.subiz.com.vn/chatbox/design), bạn cài cửa sổ chat cho website đầu tiên như sau:
 
-
-![](https://vcdn.subiz-cdn.com/file/fismoigqwrljlxtfovfh_acpxkgumifuoofoosble/203615bfffd021f42ba5898d99b7a178.png)
-
-
-- Chọn Đối tượng mục tiêu nếu bạn muốn đặt cửa sổ chat chỉ hiển thị trên những trang con cụ thể trên website
+- Sửa lần lượt tiêu đề, lời chào phù hợp với thương hiệu của 1 website.
+- Bật/ Tắt bảng hỏi thông tin trước khi chat và khi offline nếu cần
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoigrejrbxthlvkuc_acpxkgumifuoofoosble/50ffc695eafe13ff35662914c02795c6.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpcsuizweaepmg_acpxkgumifuoofoosble/unnamed.png)
+
+### Bước 4: Cài đặt API sửa cửa sổ chat cho các website khác {#buoc-4-cai-dat-api-sua-cua-so-chat-cho-cac-website-khac}
 
 
-- Bấm Lưu thay đổi để hệ thống ghi nhận thiết kế mới
-### Bước 3: Phân phối khách hàng theo từng website {#buoc-3-phan-phoi-khach-hang-theo-tung-website}
+Sử dụng mã API để tùy chỉnh cửa sổ chat cho từng website khác nhau:
+
+- Thay đổi tên thương hiệu, ảnh logo hiển thị theo thông tin của agent đã tạo ở bước 2 phía trên. Lưu ý: Trong đoạn mã API cần lấy “agent\_id” theo hướng dẫn tại bước 2. Sửa lời chào, màu sắc.
+- Đặt mã API sửa cửa sổ chat ngay dưới mã nhúng Subiz để dễ quản lý
+
+<b>Ví dụ mã API sửa tiêu đề, lời chào hiển thị tên/ ảnh thương hiệu</b>
+
+
+```
+<script>
+  subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      header: {
+      layout: 'agent',
+      agent_ids: ['agpzooihzhajkqcebf'],
+    },
+      caption: {vi_VN: 'Tư vấn viên'},
+      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
+      greeting: {
+        agent_id: "agpzooihzhajkqcebf",
+        greeting: {
+          vi_VN: 'Xin chào, hãy chat tư vấn ngay tại đây nhé :wave:'
+        },
+      },
+    },
+  })
+</script>
+
+// Lưu ý cần sửa các nội dung sau:
+agent_ids
+caption
+tagline
+greeting
+
+
+```
+
+
+
+
+<b>Ví dụ API sửa màu cửa sổ chat, tiêu đề, lời chào</b>
+
+
+```
+<script>
+subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      caption: {vi_VN: 'Doanh nghiệp', en_US: 'My Business'},      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
+      greeting: {
+        greeting: {
+          vi_VN: 'Xin chào, hãy chat với tôi nhé', 
+          en_US: "Hi, let's have a chat"
+        },
+      },
+      background: 'linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12)',
+      primary_color: '#051937',
+    },
+  })
+</script>
+
+// Lưu ý cần sửa các nội dung sau:
+caption
+greeting
+background
+
+
+```
+
+
+
+
+<b>Ví dụ API thay đổi nút chat</b>
+```
+<script>
+subiz('overrideChatbox', {
+  chatbox: {
+    desktop_button: {
+      background_mask_url: 'https://public-gcs.subiz-cdn.com/dashboard-v4/public/img/bubble/bubble_00.svg',
+    background_image_url: '',
+      margin_x: 20,
+      margin_y: 20,
+      position: 'right',
+    },
+    mobile_button: {
+      background_mask_url: 'https://public-gcs.subiz-cdn.com/dashboard-v4/public/img/bubble/bubble_00.svg',
+            background_image_url: '',
+
+      margin_x: 10,
+      margin_y: 10,
+      position: 'left',
+    },
+  },
+})
+</script>
+
+```
+
+
+
+
+<b>Ví dụ API sửa tiêu đề và lời chào</b>
+```
+<script>
+  subiz('overrideChatbox', {
+    type: 'chatbox',
+    chatbox: {
+      caption: {vi_VN: 'Tư vấn viên'},
+      tagline: {vi_VN: 'Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn Quý khách.'},
+      greeting: {
+        vi_VN: 'Xin chào, hãy chat tư vấn ngay tại đây nhé :wave:'
+      },
+    },
+  })
+</script>
+
+
+// Lưu ý cần sửa các nội dung sau:
+caption
+tagline
+greeting
+
+```
+
+### Bước 5: Phân phối khách hàng theo từng website {#buoc-5-phan-phoi-khach-hang-theo-tung-website}
 
 
 Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting):
@@ -85,9 +214,9 @@ Khi bạn muốn phân chia chat từ một website cụ thể cho các agent t�
 Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoidvqydcujtgjgox_acpxkgumifuoofoosble/248c98dd5a104137229138acc3bca849.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpigdvvifnuewz_acpxkgumifuoofoosble/unnamed.png)
 
-### Bước 4: Bot tự động trả lời theo từng website {#buoc-4-bot-tu-dong-tra-loi-theo-tung-website}
+### Bước 6: Bot tự động trả lời theo từng website {#buoc-6-bot-tu-dong-tra-loi-theo-tung-website}
 
 
 Bot tự động chào đón và trả lời riêng cho từng website. 
@@ -98,17 +227,17 @@ Bot tự động chào đón và trả lời riêng cho từng website.
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoidwfeqnyuravbdf_acpxkgumifuoofoosble/bb6a6c54e27557bd3e0f02ef30f9e24f.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbpnhgtrvbhdgef_acpxkgumifuoofoosble/unnamed.png)
 
 
 
-### Bước 5: Thống kê hội thoại của mỗi website {#buoc-5-thong-ke-hoi-thoai-cua-moi-website}
+### Bước 7: Thống kê hội thoại của mỗi website {#buoc-7-thong-ke-hoi-thoai-cua-moi-website}
 
 
 Vào [Thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo), chọn Theo website để xem chi tiết số lượng hội thoại từ từng nguồn.
 
 
-![](https://vcdn.subiz-cdn.com/file/fismoidwlmqxcuwfhcaz_acpxkgumifuoofoosble/1a0288a6b3e598899a6073e3b65174e0.png)
+![](https://vcdn.subiz-cdn.com/file/fisgyrbptbtpjbaiftkr_acpxkgumifuoofoosble/unnamed.png)
 
 ### 
 

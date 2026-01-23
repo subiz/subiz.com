@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769156826638,
-  "updated": 1769156826638,
+  "fetched": 1769158849778,
+  "updated": 1769158849778,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -87,8 +87,8 @@
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "70. Google Business",
-      "modifiedTime": "2026-01-22T07:31:19.294Z",
-      "version": "186",
+      "modifiedTime": "2026-01-23T08:46:15.219Z",
+      "version": "192",
       "path_lower": "/20 Tích hợp kênh tương tác/70-google-business"
     },
     {
@@ -253,7 +253,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
       "modifiedTime": "2026-01-23T04:18:01.105Z",
-      "version": "407",
+      "version": "409",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -351,8 +351,8 @@
       ],
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "80. Instagram",
-      "modifiedTime": "2026-01-02T06:37:13.849Z",
-      "version": "210",
+      "modifiedTime": "2026-01-23T08:52:18.944Z",
+      "version": "216",
       "path_lower": "/20 Tích hợp kênh tương tác/80-instagram"
     },
     {
@@ -472,8 +472,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-01-23T08:04:25.624Z",
-      "version": "409",
+      "modifiedTime": "2026-01-23T08:44:54.437Z",
+      "version": "416",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -704,7 +704,7 @@
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
       "name": "5. Subiz đa ngôn ngữ",
       "modifiedTime": "2026-01-22T10:11:55.322Z",
-      "version": "225",
+      "version": "226",
       "path_lower": "/110 Ứng dụng nâng cao/5-subiz-da-ngon-ngu"
     },
     {
@@ -770,7 +770,7 @@
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
       "modifiedTime": "2026-01-23T07:52:24.610Z",
-      "version": "291",
+      "version": "293",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -847,7 +847,7 @@
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
       "modifiedTime": "2026-01-23T04:13:21.056Z",
-      "version": "420",
+      "version": "422",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
