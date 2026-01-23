@@ -1,10 +1,291 @@
 ---
 id: 102007810
 slug: /102007810-kich-ban-chatbot-mau
-title: https://docs.google.com/document/d/1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08
+title: Mẫu kịch bản Auto Chatbot
 pagination_next: null
 pagination_prev: null
 last_update:
   date: 2026-01-21T04:18:53.534Z
 ---
 
+# Mẫu kịch bản Auto Chatbot
+
+# Một số mẫu kịch bản Auto Chatbot 
+
+## Mẫu Bot phân phối khách theo chi nhánh {#mau-bot-phan-phoi-khach-theo-chi-nhanh}
+
+
+Sử dụng cho các doanh nghiệp có từ 2 chi nhánh trở lên, có chi nhánh ở nhiều vị trí khác nhau. Bot tự động giúp bạn:
+
+- Phân khách hàng ở khu vực nào tới đúng Agent phụ trách khu vực, chi nhánh đó.
+- Khách hàng gặp đúng tư vấn viên hỗ trợ, tránh mất thời gian chờ đợi.
+
+Ví dụ: Doanh nghiệp có 3 cơ sở: ở Miền Bắc, Miền Trung, Miền Nam. Bot sẽ:
+
+01. Tự động hỏi khách ở khu vực nào
+11. Gợi ý các nút lựa chọn
+21. Nhận phản hồi & bot tự động phân tới Agent phụ trách.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifodnvdthjknqii_acpxkgumifuoofoosble/9d5d00bede5b2dcb16dd5e9537d6b206.png)
+
+
+<b>Hướng dẫn tạo Bot Phân phối khách hàng cho agent phụ trách theo từng chi nhánh</b>
+
+Bước 1: Tạo Bot
+
+- Vào [trang cài đặt Bot](https://app.subiz.com.vn/bots), hoặc click mở trang ‘Nhân viên AI’
+- Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn ‘Bot chào khách’, chọn Sử dụng.
+
+<b>Bước 2. Thiết kế kịch bản Bot</b>
+
+<b>Hành động 1:</b> Hỏi khách ở khu vực nào?
+
+Để xác định khu vực của khách. Bạn hãy tạo tin nhắn Bot khéo léo hỏi thăm khu vực của khách, hiện sẵn các gợi ý khu vực mời khách chọn nhanh. Cụ thể:
+
+- Click chuột vào hành động đầu tiên, nhập tin nhắn hỏi khu vực của khách.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifowqgernaezbtb_acpxkgumifuoofoosble/04c70b396bd116b7163de530476ee700.png)
+
+
+- Chọn Thêm gợi ý và điền các khu vực. Ví dụ: Miền Bắc, Miền Trung, Miền Nam.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifpfqdcysbffwwe_acpxkgumifuoofoosble/5b2b4fc0be4d55f605cb04f7aa728a5a.png)
+
+
+- Mỗi lần nhấp vào Thêm gợi ý Subiz sẽ hiển thị một ô thông tin để bạn điền khu vực bạn muốn phân loại. Bạn cũng có thể quan sát trong sơ đồ kịch bản.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifppbzzgswkwhny_acpxkgumifuoofoosble/88689746010006c5a70e7bfcbdfacd82.png)
+
+
+- Để xóa bớt, nhấp chuột vào ô muốn xóa, đợi hiển thị biểu tượng thùng rác, kích chuột vào đó để xóa.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifpwgtqnsplwlmz_acpxkgumifuoofoosble/acfc972be0c5b1085914f559ac99df9c.png)
+
+
+<b>Gợi ý</b>: Luôn tích chọn Bắt buộc khách lựa chọn gợi ý để đảm bảo phân loại được khách hàng và phân chia chat tới đúng Agent phụ trách. 
+
+<b>Hành động 2: </b>Phân phối tới Agent phụ trách. 
+
+Ngay khi khách chọn khu vực, Bot sẽ phân phối chat cho nhân sự phụ trách. Trong kịch bản Bot, thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể. 
+
+Cách thực hiện: 
+
+- Nhấp chuột vào luồng phân phối bạn muốn. Ví dụ: Miền Bắc phân tới Hà My. Bạn nhấp chọn Phân phối tới Agent cụ thể.
+- Nhấp chuột vào dấu \(+\) và lựa chọn Agent là Hà My.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifqczxjxreripti_acpxkgumifuoofoosble/c3effce79a1054820650c9c3a3e2a57e.png)
+
+
+- Nhấp chuột vào dấu \(+\) sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn.
+
+<b>Bước 3. Cài đặt điều kiện nâng cao cho bot</b>
+
+- Sửa tên và ảnh bot hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp.
+- Mô tả công việc để phân loại với Bot khác.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifqkuggxifjgjlh_acpxkgumifuoofoosble/8c5fe720fa3a291bd655aa4a45a9385e.png)
+
+
+- Chọn điều kiện Bot chạy khi nào? Tích chọn Khách gửi tin nhắn hay khách xem Website tùy vào mục đích sử dụng của bạn.
+
+Ngoài ra, bạn có thể cài đặt thêm các điều kiện các về thời gian, nhóm khách hàng, ngôn ngữ. 
+
+Sau khi đã hoàn thành kịch bản bot và điều kiện chạy bot. Bạn di chuột lên góc trên bên phải màn hình chọn: 
+
+- <b>Chạy thử</b>: Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại.
+- <b>Lưu</b>: Lưu lại kịch bản
+- <b>Xuất bản</b>: Kích hoạt bot chạy.
+
+
+## Mẫu Bot phân phối khách theo phòng ban {#mau-bot-phan-phoi-khach-theo-phong-ban}
+
+
+Ngoài phân chia theo vùng miền, vị trí địa lý, bạn có thể phân chia theo phòng ban làm việc, phân loại sản phẩm để khách hàng lựa chọn và phân phối tới đúng Agent phụ trách. 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqmezdszgwzbiqi_acpxkgumifuoofoosble/a0c14e5422e18770cd64ed066b723f2c.png)
+<b>Hướng dẫn tạo Bot Phân phối khách cho phòng ban phụ trách</b>
+
+<b>Bước 1: Tạo Bot</b>
+
+- Vào [trang cài đặt Bot](https://app.subiz.com.vn/bots), hoặc click mở trang ‘Nhân viên AI’
+- Di chuột lên trên góc màn hình bên phải chọn Tạo Bot. Nhấp chọn ‘Bot chào khách’, chọn Sử dụng.
+
+<b>Bước 2. Thiết kế kịch bản Bot</b>
+
+Hành động 1: <b>Hỏi nhu cầu của khách</b> 
+
+Để xác định phòng ban hỗ trợ khách. Bạn hãy tạo tin nhắn Bot khéo léo hỏi thăm nhu cầu của khách, hiện sẵn các gợi ý mời khách chọn nhanh. Cụ thể:
+
+- Click chuột vào hành động đầu tiên, nhập tin nhắn hỏi nhu cầu của khách.
+- Bật ON chờ khách phản hồi hoặc chọn gợi ý mới chia chat cho agent
+- Chọn Thêm gợi ý và điền các phòng ban. Ví dụ: Tư vấn, báo giá, kĩ thuật, khiếu nại,...
+
+Mỗi lần nhấp vào Thêm gợi ý Subiz sẽ hiển thị một ô thông tin để bạn điền khu vực bạn muốn phân loại. Bạn cũng có thể quan sát trong sơ đồ kịch bản bên dưới 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqmmjfjdkvhayos_acpxkgumifuoofoosble/ec977aa4b5fe8932c7cf936ac404389d.png)
+
+
+- Để xóa bớt, nhấp chuột vào ô muốn xóa, đợi hiển thị biểu tượng thùng rác, kích chuột vào đó để xóa.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqmptabddmmlrgi_acpxkgumifuoofoosble/c3b6ef9f870e3ce2ec78e98feb264c53.png)
+
+
+<b>Gợi ý</b>: Luôn tích chọn Bắt buộc khách lựa chọn gợi ý để đảm bảo phân loại được khách hàng và phân chia chat tới đúng Agent phụ trách. 
+
+<b>Hành động 2: </b>Phân phối tới Agent phụ trách. 
+
+Ngay khi khách chọn nhu cầu, Bot sẽ phân phối chat cho nhân sự phụ trách. Trong kịch bản Bot, thêm các gợi ý về khu vực, sơ đồ kịch bản ở mỗi khu vực hiển thị “chưa phân phối”. Để phân phối bạn nhấp chuột vào dòng chữ đó để tạo hành động Gửi cho Agent cụ thể. 
+
+Cách thực hiện: 
+
+- Nhấp chuột vào luồng phân phối bạn muốn. 
+
+Ví dụ: Khách cần báo giá sẽ giao cho sale Hà My. Bạn sẽ chọn dấu \(+\) và lựa chọn phân phối agent cụ thể Hà My.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqmxbtgfjsrzrqw_acpxkgumifuoofoosble/e5e28fe3b02ce9748ffbb5e9f82432e5.png)
+
+
+- Nhấp chuột vào dấu \(+\) sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn.
+
+<b>Bước 3. Cài đặt điều kiện nâng cao cho bot</b>
+
+- Sửa tên và ảnh bot hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp.
+- Mô tả công việc giúp phân loại với Bot khác.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqnbbujxbvtzdha_acpxkgumifuoofoosble/5c13d8e82b1d679a0c905076f65aa204.png)
+
+
+- Chọn điều kiện Bot chạy khi nào? Tích chọn Khách gửi tin nhắn hay khách xem Website tùy vào mục đích sử dụng của bạn.
+
+Ngoài ra, bạn có thể cài đặt thêm các điều kiện các về thời gian, nhóm khách hàng, ngôn ngữ. 
+
+Sau khi đã hoàn thành kịch bản bot và điều kiện chạy bot. Bạn di chuột lên góc trên bên phải màn hình chọn: 
+
+- <b>Chạy thử</b>: Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại.
+- <b>Lưu</b>: Lưu lại kịch bản
+- <b>Xuất bản</b>: Kích hoạt bot chạy.
+
+
+## Mẫu Bot tự động trả lời ngoài giờ làm việc  {#mau-bot-tu-dong-tra-loi-ngoai-gio-lam-viec}
+
+
+Ngoài giờ làm việc, khách liên hệ không được trả lời có thể tìm tới dịch vụ khác. Hãy để Chatbot giúp bạn tăng cơ hội bán hàng bằng cách trả lời khách nhanh chóng, thu thập thông tin khách hàng. 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqzazolvdspduhh_acpxkgumifuoofoosble/5bf4e3b94a4250b418e370f7a1dffa9f.png)
+
+
+
+
+<b>Hướng dẫn tạo Bot trả lời ngoài giờ làm việc</b>
+
+<b>Bước 1: Tạo Bot</b>
+
+- Vào [trang cài đặt Bot](https://app.subiz.com.vn/bots), hoặc click mở trang ‘Nhân viên AI’
+- Di chuột lên trên góc màn hình bên phải chọn Tạo Bot, nhấp chọn ‘Bot Offline’, chọn ‘Sử dụng’ mẫu kịch bản sẵn.
+
+<b>Bước 2: Thiết kế kịch bản Bot</b>
+
+<b>Hành động 1:</b> Thêm tư vấn viên vào chat 
+
+Một số khách chỉ gửi 1 tin nhắn rồi không tương tác thêm. Vì vậy bạn hãy thêm agent ngay từ đầu cuộc chat, Bot vẫn tự động trả lời khi agent vắng mặt, nhưng agent dễ dàng xem lại chat và chăm sóc lại khách hàng, không bỏ sót bất kỳ khách nào.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqzfyuprxkzahpe_acpxkgumifuoofoosble/68bbc08b50b62936afa0625126d4c230.png)
+<b>Hành động 2:</b> Hỏi thăm nhu cầu khách hàng
+
+Để khách vừa có trải nghiệm được hỗ trợ và bạn vừa xác định được nhu cầu khách hàng. Hãy tạo tin nhắn Bot cảm ơn khách hàng liên hệ và hiện sẵn các nhu cầu thường gặp để khách dễ dàng chia sẻ với bạn. Cụ thể:
+
+- Click chuột vào hành động gửi tin nhắn, sửa nội dung hỏi nhu cầu của khách.
+- Bật ON chờ khách phản hồi mới chạy hành động 3
+- Chọn Thêm gợi ý và điền các nhu cầu thường gặp \(tối đa 3-5 gợi ý\). Ví dụ: Tư vấn, báo giá, kĩ thuật, khiếu nại,...
+
+Mỗi lần nhấp vào ‘Thêm gợi ý’ Subiz sẽ hiển thị một ô thông tin để bạn điền nhu cầu khách hàng. Bạn cũng có thể quan sát trong sơ đồ kịch bản bên dưới 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqzkpzaacrdyksb_acpxkgumifuoofoosble/ac8980cd925c24ad0e4690209de13e8a.png)
+
+
+- Để xóa bớt, nhấp chuột vào ô muốn xóa, đợi hiển thị biểu tượng thùng rác, kích chuột vào đó để xóa.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisneyqmptabddmmlrgi_acpxkgumifuoofoosble/c3b6ef9f870e3ce2ec78e98feb264c53.png)
+
+
+<b>Gợi ý</b>: Bạn có thể dùng Bot tự động trả lời những câu hỏi thường gặp về hệ thống cửa hàng, chương trình ưu đãi, hướng dẫn thanh toán,... Bằng cách nhấp chuột vào dấu 
+![](https://vcdn.subiz-cdn.com/file/fisngtwealkmdxjiayeh_acpxkgumifuoofoosble/285247ce4acc5617fa010567548478a5.png)
+ sau các nhu cầu và thêm câu trả lời sẵn cho nhu cầu đó. 
+
+ 
+
+Hành động 3: Hỏi SĐT khách 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqznxayuvutilea_acpxkgumifuoofoosble/43687df31455e54088898f51055b2048.png)
+
+
+- Click chuột vào dấu 
+![](https://vcdn.subiz-cdn.com/file/fisngtwealkmdxjiayeh_acpxkgumifuoofoosble/285247ce4acc5617fa010567548478a5.png)
+ sau các nhu cầu
+- Chọn hành động ‘Hỏi số điện thoại’
+- Sửa tin nhắn khéo léo xin số khách
+- Để Bot không hỏi lại tới khi khách cho số, bạn có thể cài Bot hỏi số 1 lần, khách có thể phản hồi nội dung bất kỳ theo cài đặt dưới đây
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqzspxeezarqflo_acpxkgumifuoofoosble/1add3d3d9fe79f4c1e545856d9bfadbd.png)
+
+
+<b>Hành động 4: Hẹn lịch tư vấn </b>
+
+- Click chuột vào hành động gửi tin nhắn cuối cùng trong kịch bản mẫu, sửa nội dung tin nhắn giúp khách yên tâm sẽ được hỗ trợ sớm nhất.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngcqzwxsidlytxjlf_acpxkgumifuoofoosble/a62f5314a24e88e2cda4f0f1027efead.png)
+
+
+- Nhấp chuột vào dấu 
+![](https://vcdn.subiz-cdn.com/file/fisngtwealkmdxjiayeh_acpxkgumifuoofoosble/285247ce4acc5617fa010567548478a5.png)
+ sau hành động gửi Agent nếu muốn thêm hành động sau đó và lựa chọn hành động bạn mong muốn.
+
+<b>Bước 3. Cài đặt điều kiện Bot trả lời vào ngoài giờ làm việc </b>
+
+- Sửa tên và ảnh bot hiển thị khi nhắn tin với khách bằng. Subiz khuyên bạn nên dùng tên Doanh nghiệp hoặc tư vấn viên để thêm phần chuyên nghiệp.
+- Mô tả công việc giúp phân loại với Bot khác.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngtweoaebmnckkjol_acpxkgumifuoofoosble/72f92531ce48718910447680f450c55a.png)
+
+
+- Chọn điều kiện Bot chạy khi ‘Khách gửi tin nhắn’ và chọn kênh muốn Bot trả lời.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngtweqrkgouwcozox_acpxkgumifuoofoosble/c8d5f1a3c9f053783d62858b15242cc8.png)
+
+
+- Kéo xuống dưới mục Thời gian, bạn chọn điều kiện chạy vào ‘ngoài giờ làm việc’, ấn nút 
+![](https://vcdn.subiz-cdn.com/file/fisngtwevvuteqxaecds_acpxkgumifuoofoosble/6c6a93dea2c43583ff3deb2c38ab7414.png)
+ và thêm khung giờ làm việc của công ty bạn.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisngtweztvmwitkmbuw_acpxkgumifuoofoosble/05feae34f926ac4379930170171753a6.png)
+
+
+Ngoài ra, bạn có thể cài đặt thêm các điều kiện về nhóm khách hàng, ngôn ngữ. 
+
+Sau khi đã hoàn thành kịch bản bot và điều kiện chạy bot. Bạn di chuột lên góc trên bên phải màn hình chọn: 
+
+- <b>Chạy thử</b>: Xem bot chạy như thế nào, nội dung thời gian có như mong muốn không, nếu không thì điều chỉnh lại.
+- <b>Lưu</b>: Lưu lại kịch bản
+- <b>Xuất bản</b>: Kích hoạt bot chạy.

@@ -1,10 +1,282 @@
 ---
 id: 1625367101
 slug: /1625367101-tong-dai
-title: https://docs.google.com/document/d/1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4
+title: Tổng đài
 pagination_next: null
 pagination_prev: null
 last_update:
   date: 2026-01-23T05:02:28.736Z
 ---
 
+import EmbedVideo from '@site/src/components/EmbedVideo.js';
+
+# Tổng đài
+
+## Giới thiệu {#gioi-thieu}
+
+
+<b>Tổng đài Subiz</b> là giải pháp giúp doanh nghiệp quản lý mọi cuộc gọi đến và đi ngay trên một nền tảng duy nhất, kết hợp cùng các kênh nhắn tin như Facebook, Zalo, Website, Email, Instagram.
+### Điều kiện sử dụng Tổng đài trên Subiz {#dieu-kien-su-dung-tong-dai-tren-subiz}
+
+
+Để bắt đầu sử dụng tính năng Tổng đài Subiz, bạn cần đảm bảo:
+
+- Đang sử dụng gói dịch vụ Subiz
+- Cần có ít nhất một số điện thoại tổng đài để kết nối.
+- Có tài khoản Admin để thực hiện các thiết lập kỹ thuật.
+- Thiết bị đầu cuối: Máy tính \(có tai nghe/micro\), máy điện thoại VoIP.
+### Lưu ý khi mua số điện thoại {#luu-y-khi-mua-so-dien-thoai}
+
+
+- Các đầu số 1900, 1800 chỉ nhận cuộc gọi đến, không gọi đi được.
+- Cân nhắc mua thêm dịch vụ Brandname để hạn chế tối đa bị chặn cuộc gọi/đánh dấu spam từ khách hàng.
+## Tích hợp {#tich-hop}
+
+### Thêm số điện thoại {#them-so-dien-thoai}
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigvqputzhppsdbz_acpxkgumifuoofoosble/603e5241c59c11058362af6d68dabdc9.png)
+
+
+01. Tới trang <b>[Cài đặt Tổng đài](https://app.subiz.com.vn/settings/call-center)</b>
+11. Nhấn nút <b>Thêm đầu số</b>.
+21. Nhấn chọn <b>Tôi đã có số SIP, giúp tôi kết nối vào Subiz</b>
+31. Điền đầu số tổng đài bạn đã mua trước đó vào ô
+41. Yêu cầu nhà cung cấp dịch vụ viễn thông cấu hình số điện thoại trỏ về địa chỉ IP của Subiz
+
+- Với VNPT sẽ cấu hình về IP Subiz 14.225.168.165:5060
+- Với các nhà cung cấp khác cấu hình về IP Subiz 27.71.226.145:5060
+
+Gửi lại Subiz các thông số cấu hình nhà mạng cung cấp để được hỗ trợ thông luồng.
+
+Khi trạng thái chuyển <b>Hoạt động</b> là cài đặt thành công.
+### Kết nối Zalo Cloud Connect {#ket-noi-zalo-cloud-connect}
+
+
+Zalo Cloud Connect \(ZCC\) là giải pháp giúp doanh nghiệp gọi điện trực tiếp từ [Zalo OA](https://subiz.com.vn/docs/297964546-zalo-oa) tới khách hàng ngay trên nền tảng Subiz. Tích hợp theo các bước sau:
+
+Bước 1: [Tích hợp kênh Zalo OA](https://app.subiz.com.vn/settings/zalo) lên Subiz
+
+Bước 2: Gửi yêu cầu đến Subiz cấu hình đón cuộc gọi ZCC với mã OA ID
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigvvugijjajhxnt_acpxkgumifuoofoosble/1865f85dc34a41b20c4c08a12f3b81cb.png)
+
+
+- Email gửi từ: email làm việc trên Subiz
+- Địa chỉ nhận email: [support@subiz.com](mailto:support@subiz.com)
+- Nội dung email: Yêu cầu Subiz tạo nhánh kết nối cuộc gọi cho OA ID của bạn
+
+Bước 3: Thiết lập trên tài khoản Zalo OA, phân luồng cuộc gọi về Subiz 
+
+- Tới [trang quản lý Zalo OA](https://oa.zalo.me/manage/oa)
+- Chọn <b>Thiết lập cuộc gọi</b>
+- Nhấn tab tính năng <b>ZCC</b> &gt; <b>+ Chọn nhánh mới</b>
+- Nhập “<b><i>Subiz</i></b>” vào các trường giá trị rồi kéo thanh trượt sang phải để bật hiển thị
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigvzvsugurizsyp_acpxkgumifuoofoosble/956b9f17352609e5ac20bd8cdc260c7c.png)
+
+
+Nhấn <b>Lưu</b> là hoàn tất cài đặt.
+### Xoá số tổng đài {#xoa-so-tong-dai}
+
+
+01. Tới trang <b>[Cài đặt Tổng đài](https://app.subiz.com.vn/settings/call-center)</b>
+11. Lựa chọn số tổng đài muốn xoá, nhấp biểu tượng thùng rác ở dòng tương ứng.
+## Kết nối điện thoại VoIP {#ket-noi-dien-thoai-voip}
+
+
+<b>Điện thoại VoIP \(Voice over Internet Protocol\)</b> là thiết bị hoặc ứng dụng dùng để gọi điện qua mạng Internet thay vì đường dây điện thoại truyền thống, chuyển âm thanh thành gói dữ liệu để truyền đi.
+### Cấu hình trên Subiz {#cau-hinh-tren-subiz}
+
+
+- Tại trang <b>[Cài đặt Tổng đài](https://app.subiz.com.vn/settings/call-center)</b>
+- Nhìn tới mục <b>Điện thoại bàn</b> &gt; Chọn <b>Thêm điện thoại</b>
+- Nhập các thông số cài đặt cho điện thoại trên hộp Cài đặt thiết bị điện thoại
+- Nhấn <b>Bắt đầu kết nối</b> để nhận thông số kết nối cho máy
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwbutqgmujzdgr_acpxkgumifuoofoosble/64ff6a50c1b5e30f563ec334e199235d.png)
+
+### Cấu hình tại trang quản lý điện thoại VoIP {#cau-hinh-tai-trang-quan-ly-dien-thoai-voip}
+
+
+- Tại trang quản lý điện thoại VoIP, chọn <b>ACCOUNTS</b>
+- Chọn <b>General Settings</b>
+- Nhập các thông số Subiz vào trường cài đặt:
+
+Account Name
+
+SIP Server
+
+SIP User ID
+
+Authenticate ID
+
+Authenticate Password
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwfkdzjivejzxp_acpxkgumifuoofoosble/8deae6cc776bcabd0fa158113a9fc7c6.png)
+
+
+Xem thêm video hướng dẫn cấu hình tại đây:
+
+
+<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8433945d0aeaf3f14a5d736e310010ff/watch" resolution={{"width":1920,"height":1080}}/>
+## Gọi điện cho khách {#goi-dien-cho-khach}
+
+
+- Tại trang [Cài đặt Tổng đài](https://app.subiz.com.vn/settings/call-center) nhấn <b>Cài đặt</b>
+- Kéo xuống dưới cùng tìm đến mục <b>Kiểm soát gọi ra</b>
+- Kéo thanh trượt sang phải, tick ô <b>Chọn agent được phép gọi ra</b>
+- Chọn agent phụ trách rồi nhấn <b>Lưu cài đặt</b>.
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoieshhynhvabvmxp_acpxkgumifuoofoosble/e78e86bec73fe15a12154b6ef9d55d4e.png)
+
+#### Hướng dẫn gọi ra {#huong-dan-goi-ra}
+
+
+Sau khi tích hợp tổng đài thành công, trên màn hình dashboard làm việc sẽ xuất hiện icon điện thoại màu xanh lá cây ở góc dưới bên phải, ở cột hồ sơ khách hàng. 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwjkwginebhxkz_acpxkgumifuoofoosble/11191dfa983bf32bd938f384847d77c9.png)
+
+
+Nếu được cấp quyền gọi ra, nhân sự có thể thực hiện cuộc gọi từ:
+
+- Gọi chủ động với box Gọi điện
+- Gọi từ Hồ sơ khách hàng
+- Gọi từ Subiz Mobile app
+#### Hướng dẫn gọi nội bộ miễn phí {#huong-dan-goi-noi-bo-mien-phi}
+
+
+Các cuộc gọi tới số máy nhánh nội bộ trên Subiz là hoàn toàn miễn phí. 
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwnbxarsqgpqxt_acpxkgumifuoofoosble/df77ec623da5dcf59f3bbe1e978b6b0a.png)
+
+
+Tại box gọi, chỉ cần gõ số máy nhánh rồi bấm gọi.
+## Nhận cuộc gọi đến {#nhan-cuoc-goi-den}
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwpnqihazrtnkk_acpxkgumifuoofoosble/de7a2c0e0273b10478d1bc6dd11b98c1.png)
+
+
+Tương tự như tất cả các kênh làm việc được tích hợp lên Subiz, quản lý sẽ cần tạo rule phân phối để lựa chọn nhân sự phụ trách:
+
+- Tới trang [cài đặt](https://app.subiz.com.vn/settings/rule-setting) nhấn <b>Tạo rule phân phối</b>
+- Chọn loại hội thoại là <b>Gọi điện</b>
+- Cài đặt các trường thông tin, lựa chọn agent phụ trách, lời thoại chờ…
+### Phân chia phụ trách theo nhánh {#phan-chia-phu-trach-theo-nhanh}
+
+
+Hỗ trợ khi bạn muốn phân luồng nhận cuộc gọi khách hàng theo chi nhánh hoặc các phòng ban phụ trách chuyên biệt.
+
+Ví dụ: Khách bấm phím 1 sẽ chuyển tới nhóm nhân sự chi nhánh Hà Nội, bấm phím 2 cuộc gọi sẽ đổ chuông cho nhóm nhân sự Hồ Chí Minh. Cài đặt như sau:
+
+- Tới trang [cài đặt](https://app.subiz.com.vn/settings/rule-setting) nhấn <b>Tạo rule phân phối</b>
+- Chọn loại hội thoại là <b>Gọi điện</b>
+- Lựa chọn số điện thoại, thời gian nhận cuộc gọi
+- Chọn <b>Menu thoại tự động</b> và bắt đầu cài đặt lời thoại audio, các nhánh số & nhân sự phụ trách nhánh tương ứng.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwucykvgskzihj_acpxkgumifuoofoosble/060373ae03b6ddf48eb60553e944ddd1.png)
+
+### Thêm máy nhánh {#them-may-nhanh}
+
+
+Mỗi máy nhánh trong tính năng Tổng đài sẽ tương ứng với 1 agent \(nhân viên làm việc\) trên Subiz. Để thêm máy nhánh, bạn chỉ cần [mời thêm agent](https://app.subiz.com.vn/settings/agents), hệ thống sẽ tự động tạo số nhánh tổng đài.
+
+Số máy nhánh có thể được chỉnh sửa như sau:
+
+- Tới trang [cài đặt agent](https://app.subiz.com.vn/settings/agents)
+- Chọn <b>Chỉnh sửa</b> &gt; Tìm tới mục Tổng đài
+- Lựa chọn số máy nhánh mong muốn
+
+<b>Lưu ý</b>: Số máy nhánh có thể được tuỳ chỉnh nhưng cần đáp ứng điều kiện phải đảm bảo có 4 chữ số.
+### Lời thoại chờ {#loi-thoai-cho}
+
+
+Để thêm lời thoại chờ cho cuộc gọi tới bạn có thể thao tác tại:
+
+- Nút <b>Cài đặt</b> ở trang tích hợp số điện thoại tổng đài, hoặc
+- Khi cài đặt Rule phân phối với lựa chọn <b>Menu thoại tự động</b>
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigwymeznnhwjcbc_acpxkgumifuoofoosble/59121e14865deaba6d1e43d054e7487c.png)
+
+
+- Tìm và nhấn vào mục <b>Lời thoại chờ</b>
+
+Lúc này bạn sẽ có thể lựa chọn file có sẵn hoặc tạo file mới. Subiz cho phép bạn tải tệp ghi âm có sẵn hoặc sử dụng <b>Máy đọc tự động chuyển từ văn bản thành lời loại</b>.
+
+- Nghe lại file rồi nhấn <b>Xác nhận</b> để lưu.
+### Ghi âm cuộc gọi {#ghi-am-cuoc-goi}
+
+#### Bật ghi âm cuộc gọi {#bat-ghi-am-cuoc-goi}
+
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigxaxluywpnjoje_acpxkgumifuoofoosble/acd99311723866e2165a82eae6c8bdf0.png)
+
+
+- Tại [trang Cài đặt số tổng đài](https://app.subiz.com.vn/settings/call-center)
+- Nhấn <b>Cài đặt</b> ở dòng tương ứng của số điện thoại
+- Cuộn chuột xuống dưới, kéo thanh trượt sang phải ở trường <b>Ghi âm cuộc gọi</b>
+
+Thanh trượt chuyển màu xanh lá cây là bật thành công. Bạn F5 trang làm việc để cập nhật cài đặt mới nhé.
+
+Với mỗi cuộc gọi thành công, nhân sự có thể nghe lại file ghi âm cuộc gọi ngay ở hội thoại cuộc gọi:
+
+
+![](https://vcdn.subiz-cdn.com/file/fismoifosrmiiqzcaxrv_acpxkgumifuoofoosble/bc2b5be19bc1cf9d665976febce9103c.png)
+
+#### Lưu file ghi âm cuộc gọi {#luu-file-ghi-am-cuoc-goi}
+
+
+Subiz hỗ trợ lưu file ghi âm tối đa 12 tháng. Để lấy link file ghi âm, bạn sẽ thao tác ở phần Thống kê cuộc gọi:
+
+- Tới trang [Thống kê cuộc gọi](https://app.subiz.com.vn/new-reports/call)
+- Lựa chọn số điện thoại, thời gian &gt; bấm <b>Danh sách cuộc gọi</b> ở góc trên bên phải
+- Thêm điều kiện lọc nếu cần rồi chọn <b>Xuất dữ liệu</b>
+- [Mở file .csv bằng excel](https://www.youtube.com/watch?v=mJgbIMfkCwY)
+- Tìm tới cột <b>Ghi âm cuộc gọi</b> để lấy link file ghi âm tương ứng nhé.
+
+
+![](https://vcdn.subiz-cdn.com/file/fisnuigxftkqkrxibhnq_acpxkgumifuoofoosble/fa0896986102786abc5fc240b53df163.png)
+
+## FAQs {#faqs}
+
+#### 1. Tôi có số tổng đài dạng sim vật lý thì tích hợp vào Subiz được không?  {#1-toi-co-so-tong-dai-dang-sim-vat-ly-thi-tich-hop-vao-subiz-duoc-khong}
+
+
+Không. Bạn cần có số điện thoại SIP Trunk để quản lý nghe gọi trên phần mềm tổng đài như Subiz. 
+#### 2. Subiz có bán số điện thoại tổng đài không?  {#2-subiz-co-ban-so-dien-thoai-tong-dai-khong}
+
+
+Không. Subiz cung cấp phần mềm quản lý cuộc gọi. Bạn sẽ mua số điện thoại trực tiếp từ các nhà mạng viễn thông như Viettel, VNPT, FPT, CMC, iTel...
+#### 3. Tôi có thể thêm nhiều số điện thoại được không?  {#3-toi-co-the-them-nhieu-so-dien-thoai-duoc-khong}
+
+
+Hoàn toàn được. Subiz cho phép quản lý nhiều loại số điện thoại của các nhà mạng khác nhau trên cùng một tài khoản. 
+#### 4. Tôi có thể nghe gọi bằng thiết bị nào?  {#4-toi-co-the-nghe-goi-bang-thiet-bi-nao}
+
+
+Bạn có thể nghe gọi trên nhiều thiết bị khác nhau như máy bàn voip, headphone máy tính, điện thoại di động. Trong đó, máy bàn voip được khuyến nghị sử dụng bởi chất lượng âm thanh và đường truyền tốt.
+#### 5. Subiz có ghi âm cuộc gọi không?  {#5-subiz-co-ghi-am-cuoc-goi-khong}
+
+
+Có. Subiz hỗ trợ ghi âm cuộc gọi và lưu trữ ghi âm 12 tháng. 
+#### 6. Tôi có thể xem lại cuộc gọi của một nhân viên cụ thể không?  {#6-toi-co-the-xem-lai-cuoc-goi-cua-mot-nhan-vien-cu-the-khong}
+
+
+Có. Bạn vào trang Thống kê cuộc gọi lọc theo tên nhân viên để xem lại toàn bộ lịch sử cuộc gọi và nghe ghi âm. 
+#### 7. Subiz có thống kê và báo cáo cuộc gọi không?  {#7-subiz-co-thong-ke-va-bao-cao-cuoc-goi-khong}
+
+
+Có. Subiz cung cấp báo cáo chi tiết về số lượng cuộc gọi, tỷ lệ gọi ra thành công, cuộc gọi nhỡ, thời lượng gọi của từng số điện thoại và hiệu suất của từng nhân viên.
