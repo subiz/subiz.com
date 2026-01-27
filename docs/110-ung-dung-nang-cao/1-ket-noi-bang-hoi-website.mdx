@@ -5,29 +5,19 @@ title: Kết nối bảng hỏi trên website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-01-15T07:51:46.525Z
+  date: 2026-01-26T10:39:13.788Z
 ---
 
 # Kết nối bảng hỏi trên website
 
 
 
-## Mục đích {#muc-dich}
+## Tiện ích {#tien-ich}
 
 
 
 
-Website của bạn đã thiết kế 1 bảng hỏi thông tin khách như bảng báo giá, bảng liên hệ, phiếu thu thập ý kiến của khách hàng,...
-
-
-
-Bạn muốn chuyển dữ liệu khách hàng điền bảng hỏi thông tin trên website về phần mềm Subiz, nhằm giúp tư vấn viên tập trung chăm sóc khách hàng. Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz.
-## Lưu ý một số thuật ngữ {#luu-y-mot-so-thuat-ngu}
-
-
-- <b>Bảng hỏi</b>: Bảng hỏi thông tin khách hàng trên website. Subiz ghi nhận đây là 1 kênh tương tác khách hàng, giúp agent thống kê chuyển đổi khách.
-- <b>Popup</b>: Chức năng trên Subiz cho trung chuyển thông tin khách điền bảng hỏi vào Subiz.
-- <b>API JS</b>: Một mã lệnh được đặt vào code website, cho phép chuyển dữ liệu đi khi khách điền bảng hỏi.
+Website của bạn có các bảng hỏi thông tin như bảng báo giá, bảng liên hệ, phiếu thu thập ý kiến của khách hàng,... Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz để bạn tập trung nhận thông tin chăm sóc khách hàng.
 ## Hướng dẫn triển khai {#huong-dan-trien-khai}
 
 ### Bước 1: Kiểm tra trường thông tin khách trên Subiz {#buoc-1-kiem-tra-truong-thong-tin-khach-tren-subiz}
@@ -35,16 +25,17 @@ Bạn muốn chuyển dữ liệu khách hàng điền bảng hỏi thông tin t
 
 
 
-Để lưu các thông tin khách điền trong bảng hỏi trên website vào phần mềm Subiz thì phần mềm Subiz cần có các trường thông tin tương ứng.
+Các thông tin khách điền trong bảng hỏi trên website sẽ tự động lưu vào các trường thông tin Subiz tương ứng. Hãy kiểm tra và tạo thêm trường thông tin chưa có trên Subiz bằng cách: 
+
+- Mở trang Cài đặt
+- ở thanh bên trái màn hình chọn Trường thông tin
+- chọn Tạo mới
+- nhập thông tin và chọn Lưu.
 
 
 
-Bạn kiểm tra trên Subiz có các trường lưu trữ thông tin khách điền chưa tại trang [TRƯỜNG THÔNG TIN](https://app.subiz.com.vn/settings/user-attributes). Nếu Subiz chưa có? Bạn sẽ tạo trường thông tin mới trên Subiz.
 
-
-
-
-![](https://vcdn.subiz-cdn.com/file/fishbrcbfufagcaipnuv_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifskxbpfyxpvohn_acpxkgumifuoofoosble/7bc3724b492aa8911354ef65a0c8a1cd.png)
 
 
 
@@ -53,31 +44,21 @@ Bạn kiểm tra trên Subiz có các trường lưu trữ thông tin khách đi
 ### Bước 2: Tạo popup mới trên Subiz {#buoc-2-tao-popup-moi-tren-subiz}
 
 
-Khách điền thông tin qua bảng hỏi website sẽ được chuyển vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup (ID popup) thêm vào API JavaScript tại bước 3.
+Khách điền thông tin trên bảng hỏi website sẽ được chuyền vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\) thêm vào mã SDK tại bước 3.
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrcbnbtwgrfqbgdk_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoiftdhaogkjqqvrb_acpxkgumifuoofoosble/bcdae6e43149b61356edce8aa7122513.png)
 
-
-
-
-<b>Chức năng nổi bật</b>: Giúp agent nhận được thông báo tức thì ngay khi khách điền bảng hỏi website, bạn cài đặt thêm cho popup cho phép “tạo hội thoại sau khi điền bảng hỏi”
-
-
-![](https://vcdn.subiz-cdn.com/file/fishbrcbsgulljfcccpv_acpxkgumifuoofoosble/unnamed.png)
-
-
-
-### Bước 3: Đặt API Js vào code website {#buoc-3-dat-api-js-vao-code-website}
+### Bước 3: Đặt mã SDK vào code website {#buoc-3-dat-ma-sdk-vao-code-website}
 
 
 
 
-Bạn cần viết hàm API JavaScript để gửi dữ liệu từ bảng hỏi thông tin trên website đến Subiz sau khi khách hàng nhập xong thông tin.
+Bạn cần viết hàm SDK ra lệnh gửi dữ liệu khách điền bảng hỏi cho Subiz.
 
 
 
-Ví dụ mẫu API JavaScript Subiz có cấu trúc như sau:
+Ví dụ mẫu SDK Subiz có cấu trúc như sau:
 ```
 <script>
   subiz('submitForm', 'cprsxvtpgbiiedribdzcj', [
@@ -91,7 +72,7 @@ Ví dụ mẫu API JavaScript Subiz có cấu trúc như sau:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrcbwsdpgcsvfxce_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoiftyyxtsarwgdcr_acpxkgumifuoofoosble/6311825283ef17f1b6a43a2519ad2f0e.png)
 
 
 
@@ -101,12 +82,12 @@ Ví dụ bảng hỏi trên website thiết kế như sau:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrccaamkxbspwluu_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifudwxmpajstdtn_acpxkgumifuoofoosble/6d07fd197788f24530e02a1babd03ee5.png)
 
 
 
 
-Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã API JavaScript Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút "Gửi".
+Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã SDK Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút "Gửi".
 
 
 
@@ -115,56 +96,50 @@ Dưới đây là cách bạn nối bảng hỏi trên với Subiz:
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrccdpxzelmtmqsf_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifunypcqcukfnqn_acpxkgumifuoofoosble/6fb308709bb20018acbd20fcfa6d4d3a.png)
 
 ### Bước 4: Agent nhận thông tin khách trên Subiz {#buoc-4-agent-nhan-thong-tin-khach-tren-subiz}
 
 
-Các agent sẽ nhận được thông tin khách điền bảng hỏi tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
+Agent sẽ nhận được thông tin khách điền bảng hỏi tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrccjjetcgxcrxfp_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifuxfdyqbncmndb_acpxkgumifuoofoosble/1d5057e24db0ecfa33996cfd56b60a21.png)
 
 
 
 
 [Xem hướng dẫn quản lý danh sách khách tiềm năng](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
-## —-------
-
 ## Câu hỏi thường gặp {#cau-hoi-thuong-gap}
-
-### Câu hỏi 1 {#cau-hoi-1}
 
 
 <b>Tôi muốn chỉ 1 số nhân viên xem được khách điền bảng hỏi thông tin được không?</b>
 
 <b>Trả lời</b>: Hoàn toàn làm được.
 
-Khách điền thông tin bảng hỏi sẽ được tạo thành hội thoại nên bạn có thể phân chia agent nhân viên xem được khách bằng cách cài đặt rule phân phối hội thoại và chọn điều kiện kênh tương tác là Bảng hỏi thông tin.
+Khách điền bảng hỏi sẽ được tạo thành hội thoại nên bạn có thể phân chia agent nhân viên xem được khách bằng cách cài đặt rule phân phối hội thoại và chọn điều kiện kênh tương tác là Bảng hỏi thông tin.
 
 [Xem thêm hướng dẫn sử dụng rule phân phối.](https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai)
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrccnywegkbyfahj_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifvejqkiikovgdc_acpxkgumifuoofoosble/68b2d5bf72bb7319f37e40a295547280.png)
 
 
-
-### Câu hỏi 2 {#cau-hoi-2}
 
 
 <b>Tôi muốn xuất danh sách khách điền thông tin bảng hỏi được không?</b>
 
 <b>Trả lời</b>: Hoàn toàn làm được.
 
-Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup (Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên) và chọn xuất file dữ liệu về. 
+Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup \(Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên\) và chọn xuất file dữ liệu về. 
 
 [Xem hướng dẫn sử dụng trang Khách.](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fishbrccufbmwmkpxomp_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifvisapjntpmshn_acpxkgumifuoofoosble/64918ea520c444896cdd068f41695f26.png)

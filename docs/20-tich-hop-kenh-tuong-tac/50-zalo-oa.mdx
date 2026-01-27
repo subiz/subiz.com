@@ -5,7 +5,7 @@ title: Zalo OA
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-01-23T09:09:53.904Z
+  date: 2026-01-24T06:53:52.215Z
 ---
 
 import EmbedVideo from '@site/src/components/EmbedVideo.js';
@@ -25,19 +25,20 @@ import EmbedVideo from '@site/src/components/EmbedVideo.js';
 ## Tích hợp {#tich-hop}
 
 
-- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới phần cài đặt
-- Tại sidebar bên Chọn [Tích hợp Zalo](https://app.subiz.com.vn/settings/zalo)
-- Chọn Tích hợp Zalo Official Account và làm theo các bước cấp quyền
+Tại [dashboard làm việc sau khi đăng nhập Subiz](https://app.subiz.com.vn/convo), làm theo các bước sau:
 
-
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Tại sidebar bên trái, chọn <b>TÍCH HỢP</b> &gt; <b>Zalo OA</b>
+- Nhấn nút <b>+ Tích hợp Zalo Official Account</b> và làm theo các bước cấp quyền
 <EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch" resolution={{"width":-1,"height":-1}}/>
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
 
 Để đảm bảo tin nhắn từ Zalo OA sẽ chuyển tới đúng tài khoản agent phụ trách trên Subiz, bạn sẽ cần phân luồng các hội thoại về cho người phụ trách & trả lời. 
 
-- Vào Cài đặt <b>[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)</b>.
-- Tạo Rule mới với điều kiện: Nguồn là <b>\[Tên tài khoản Zalo OA\]</b> Hành động: Phân phối đến agent /Nhóm agent.
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Tại sidebar bên trái, chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tạo Rule mới với điều kiện: Kênh tương tác là <b>\[Tên tài khoản Zalo OA\]</b> Hành động: Phân phối đến agent /Nhóm agent
 - Hoặc chỉnh sửa Rule hiện có thêm kênh Zalo OA.
 ## Phản hồi tự động {#phan-hoi-tu-dong}
 
@@ -46,20 +47,21 @@ Tài khoản Zalo OA cũng có thể tận dụng tính năng bot chat tự đ�
 
 <b>Thêm kênh Zalo OA vào Bot có sẵn</b>
 
-- Vào [Cài đặt ](https://app.subiz.com.vn/bots)<b>[Bot](https://app.subiz.com.vn/bots)</b><b> </b>
-- Chọn Subiz Bot
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Tại sidebar bên trái, chọn <b>HỘI THOẠI</b> &gt; <b>Bot</b>
+- Chọn auto bot
 - Nhấn <b>Chỉnh sửa</b>
 - Tích thêm Kênh tương tác Zalo OA
 ## Tích hợp ZCC {#tich-hop-zcc}
 
 
-Gửi yêu cầu đến Subiz cấu hình đón cuộc gọi ZCC với mã OA ID
+Bước 1: Gửi yêu cầu đến Subiz cấu hình đón cuộc gọi ZCC với mã OA ID
 
 - Email gửi từ: email làm việc trên Subiz
 - Địa chỉ nhận email: [support@subiz.com](mailto:support@subiz.com)
 - Nội dung email: Yêu cầu Subiz tạo nhánh kết nối cuộc gọi cho OA ID của bạn
 
-Thiết lập trên tài khoản Zalo OA, phân luồng cuộc gọi về Subiz 
+Bước 2: Thiết lập trên tài khoản Zalo OA, phân luồng cuộc gọi về Subiz 
 
 - Tới [trang quản lý Zalo OA](https://oa.zalo.me/manage/oa)
 - Chọn <b>Thiết lập cuộc gọi</b>
@@ -70,7 +72,7 @@ Nhấn <b>Lưu</b> là hoàn tất cài đặt.
 ## Gửi ZNS {#gui-zns}
 
 
-Zalo Notification Service \(ZNS\) cho phép doanh nghiệp gửi tin nhắn chăm sóc khách hàng, thông báo giao dịch tự động trực tiếp từ Subiz đến ứng dụng Zalo của người dùng dựa trên số điện thoại. Khác với tin nhắn thông thường, tin ZNS sẽ có phí từ 200-300đ mỗi tin.
+<b>Zalo Notification Service \(ZNS\)</b> cho phép doanh nghiệp gửi tin nhắn chăm sóc khách hàng, thông báo giao dịch tự động trực tiếp từ Subiz đến ứng dụng Zalo của người dùng dựa trên số điện thoại. Khác với tin nhắn thông thường, tin ZNS sẽ có phí từ 200 - 300đ mỗi tin.
 ### Gửi ZNS từng khách lẻ {#gui-zns-tung-khach-le}
 
 
@@ -85,7 +87,7 @@ Sau khi gửi thành công, bạn sẽ nhìn thấy 1 thông báo ngay trên h�
 ### Gửi tin nhắn hàng loạt với ZNS {#gui-tin-nhan-hang-loat-voi-zns}
 
 
-- Tới [trang Khách](https://app.subiz.com.vn/lead)
+- Tới [trang Khách](https://app.subiz.com.vn/lead) theo đường link ở menu bar phía trên màn hình làm việc
 - Tick chọn các khách hàng hoặc tập khách muốn gửi tin ZNS hàng loạt
 - Nhấn <b>Gửi ZNS</b> ở menu phía trên bên phải màn hình
 - Chọn mẫu tin ZNS cần gửi
