@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769477131362,
-  "updated": 1769477131362,
+  "fetched": 1769564549635,
+  "updated": 1769564549635,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -76,8 +76,8 @@
       ],
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại",
-      "modifiedTime": "2026-01-24T07:57:12.863Z",
-      "version": "171",
+      "modifiedTime": "2026-01-27T04:15:41.520Z",
+      "version": "183",
       "path_lower": "/60 Quản lý khách hàng/4-nhan-phan-loai"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
       "name": "index",
       "modifiedTime": "2026-01-22T11:30:51.796Z",
-      "version": "59",
+      "version": "61",
       "path_lower": "/index"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-01-24T04:22:58.356Z",
-      "version": "151",
+      "modifiedTime": "2026-01-27T04:11:31.660Z",
+      "version": "158",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -440,7 +440,7 @@
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Khách hàng tiềm năng",
       "modifiedTime": "2025-12-24T08:17:17.209Z",
-      "version": "497",
+      "version": "500",
       "path_lower": "/60 Quản lý khách hàng/3-khach-hang-tiem-nang"
     },
     {
@@ -483,8 +483,8 @@
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2026-01-26T04:27:45.263Z",
-      "version": "640",
+      "modifiedTime": "2026-01-27T01:35:32.671Z",
+      "version": "660",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -615,8 +615,8 @@
       ],
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2026-01-26T04:51:55.773Z",
-      "version": "306",
+      "modifiedTime": "2026-01-27T01:36:56.017Z",
+      "version": "316",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
       "modifiedTime": "2026-01-26T10:39:13.788Z",
-      "version": "240",
+      "version": "248",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -649,7 +649,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-31T02:12:53.974Z",
-      "version": "107",
+      "version": "109",
       "path_lower": "/video-doc-sample"
     },
     {
@@ -714,8 +714,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2025-12-24T07:59:48.075Z",
-      "version": "696",
+      "modifiedTime": "2026-01-27T10:24:19.798Z",
+      "version": "706",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -750,6 +750,17 @@
       "modifiedTime": "2026-01-26T05:01:40.700Z",
       "version": "186",
       "path_lower": "/30 Tư vấn khách hàng/3-tag-hoi-thoai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
+      "name": "_WorkFlow",
+      "modifiedTime": "2026-01-27T11:11:45.994Z",
+      "version": "30",
+      "path_lower": "/50 Tự động hóa/workflow"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -813,8 +824,8 @@
       ],
       "id": "1pORF9Dh58nCSAWYAR4SoSj1faLCbNxHlPMuqYA1SEdU",
       "name": "_List các bài viết",
-      "modifiedTime": "2026-01-26T05:07:40.846Z",
-      "version": "30",
+      "modifiedTime": "2026-01-27T04:27:41.246Z",
+      "version": "39",
       "path_lower": "/1000 Tổng hợp/list-cac-bai-viet"
     },
     {
@@ -846,8 +857,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2025-12-24T06:37:53.780Z",
-      "version": "390",
+      "modifiedTime": "2026-01-27T04:13:19.144Z",
+      "version": "397",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -868,8 +879,8 @@
       ],
       "id": "1svYIgAXCWaLHnCKBPW0dN1OH9RE-a4Pd9wXo0w-Ah90",
       "name": "Chatbot AI Hỏi thăm lại thông minh",
-      "modifiedTime": "2026-01-26T09:47:02.994Z",
-      "version": "31",
+      "modifiedTime": "2026-01-27T01:44:57.454Z",
+      "version": "40",
       "path_lower": "/1000 Tổng hợp/chatbot-ai-hoi-tham-lai-thong-minh"
     },
     {
@@ -890,8 +901,8 @@
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-01-26T09:16:19.424Z",
-      "version": "371",
+      "modifiedTime": "2026-01-27T10:28:55.576Z",
+      "version": "443",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -924,7 +935,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "446",
+      "version": "449",
       "path_lower": "/readme"
     },
     {
@@ -951,13 +962,6 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
-      "resolution": {
-        "width": 1808,
-        "height": 1080
-      }
-    },
     "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
       "resolution": {
@@ -970,6 +974,13 @@
       "resolution": {
         "width": 864,
         "height": 1920
+      }
+    },
+    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+      "resolution": {
+        "width": 1808,
+        "height": 1080
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
@@ -993,20 +1004,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=d4Fo9eOcgp4": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/95892bf0b92ff2863cac22552601949d/watch",
-      "resolution": {
-        "width": 1588,
-        "height": 1080
-      }
-    },
-    "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
     "https://www.youtube.com/watch?v=XkAFJFvsUbA": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f924a71a64bd65b37dac5db07eea41c7/watch",
       "resolution": {
@@ -1019,6 +1016,13 @@
       "resolution": {
         "width": 1596,
         "height": 910
+      }
+    },
+    "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
       }
     },
     "https://www.youtube.com/watch?v=_9fWwl9hsxs": {
@@ -1039,6 +1043,13 @@
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/7c6479cd78a4298de00aaf5d129b9e69/watch",
       "resolution": {
         "width": 1920,
+        "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=d4Fo9eOcgp4": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/95892bf0b92ff2863cac22552601949d/watch",
+      "resolution": {
+        "width": 1588,
         "height": 1080
       }
     },
@@ -1070,15 +1081,22 @@
         "height": 360
       }
     },
-    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
+    "https://www.youtube.com/watch?v=67dyW9RBD3o": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
+      "resolution": {
+        "width": 640,
+        "height": 360
+      }
+    },
+    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
+    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -1096,13 +1114,6 @@
       "resolution": {
         "width": 1280,
         "height": 608
-      }
-    },
-    "https://www.youtube.com/watch?v=67dyW9RBD3o": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
-      "resolution": {
-        "width": -1,
-        "height": -1
       }
     }
   }
