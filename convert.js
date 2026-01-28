@@ -64,14 +64,16 @@ function parseCodeblock(item) {
 async function parseNote(item, format, docM, env) {
 	const rows = item.rows
 	const ps = item.querySelectorAll('p')
-	let typ = ps[0].textContent.trim().toLowerCase()
 	let content = ''
-	for (var i = 1; i < ps.length; i++) {
+	for (var i = 0; i < ps.length; i++) {
 		let out = await parsePara(ps[i], format, docM, env)
 		content += out.trim().replace(/:::/g, '&#58;&#58;&#58;')
 		content += '\n\n'
 	}
-	content = content.trim()
+	content = content.trim() || ''
+	let typ = content.split(/\s+/)[0]
+	content = content.slice(typ.length).trim()
+	typ = typ.split(':')[0].trim().toLowerCase()
 
 	return `
 :::${typ}
