@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769564549635,
-  "updated": 1769564549635,
+  "fetched": 1769678457699,
+  "updated": 1769678457699,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -43,8 +43,8 @@
       ],
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "7. App mobile Subiz",
-      "modifiedTime": "2026-01-26T10:34:35.026Z",
-      "version": "100",
+      "modifiedTime": "2026-01-28T09:37:30.770Z",
+      "version": "142",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
     },
     {
@@ -99,7 +99,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
       "modifiedTime": "2025-12-24T08:00:18.692Z",
-      "version": "288",
+      "version": "292",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -176,7 +176,7 @@
       "id": "1FMw4j8iAi2YmrMtvEGl1PdLXTAKSIVK-SlouMu1_OkU",
       "name": "_5 Giám sát viên hội thoại ",
       "modifiedTime": "2026-01-24T07:56:57.320Z",
-      "version": "127",
+      "version": "129",
       "path_lower": "/40 Quản lý làm việc nhóm/5-giam-sat-vien-hoi-thoai"
     },
     {
@@ -319,7 +319,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "_4. Chiến dịch telesales",
       "modifiedTime": "2026-01-08T09:03:13.432Z",
-      "version": "170",
+      "version": "171",
       "path_lower": "/_90 Tổng đài điện thoại/4-chien-dich-telesales"
     },
     {
@@ -429,7 +429,7 @@
       "id": "1UjfxpYSpVymxVgoKJUGWIr54LgAsRDeUXOZaiYDLCGk",
       "name": "Hoàn thành hội thoại là gì?",
       "modifiedTime": "2026-01-24T08:40:05.033Z",
-      "version": "15",
+      "version": "17",
       "path_lower": "/1000 Tổng hợp/hoan-thanh-hoi-thoai-la-gi"
     },
     {
@@ -484,8 +484,19 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2026-01-27T01:35:32.671Z",
-      "version": "660",
+      "version": "661",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
+      "name": "Hướng dẫn tạo mẫu ZBS",
+      "modifiedTime": "2026-01-29T03:08:11.707Z",
+      "version": "72",
+      "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -552,6 +563,17 @@
       "modifiedTime": "2025-11-11T10:45:43.551Z",
       "version": "137",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1_qmSOHu1D7WnBDJf2QqdWByLBtP5gn-R-frHNP5YYgc",
+      "name": "_Phân biệt Agent thành viên và agent phụ trách hội thoại",
+      "modifiedTime": "2026-01-28T11:08:04.476Z",
+      "version": "9",
+      "path_lower": "/1000 Tổng hợp/phan-biet-agent-thanh-vien-va-agent-phu-trach-hoi-thoai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -626,8 +648,8 @@
       ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
-      "modifiedTime": "2026-01-26T10:39:13.788Z",
-      "version": "248",
+      "modifiedTime": "2026-01-29T06:52:36.300Z",
+      "version": "272",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -703,8 +725,8 @@
       ],
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc",
-      "modifiedTime": "2026-01-26T10:21:54.109Z",
-      "version": "243",
+      "modifiedTime": "2026-01-29T09:00:36.105Z",
+      "version": "268",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec"
     },
     {
@@ -714,8 +736,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-01-27T10:24:19.798Z",
-      "version": "706",
+      "modifiedTime": "2026-01-28T11:26:13.600Z",
+      "version": "774",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -770,7 +792,7 @@
       "id": "1nOazVFOV_CWWlDBMmM4v3zjviFPvcZpnRUNlt4Wyq2M",
       "name": "6. Cài đặt thông báo",
       "modifiedTime": "2026-01-26T10:33:16.550Z",
-      "version": "52",
+      "version": "54",
       "path_lower": "/30 Tư vấn khách hàng/6-cai-dat-thong-bao"
     },
     {
@@ -802,8 +824,8 @@
       ],
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
-      "modifiedTime": "2026-01-21T04:25:05.891Z",
-      "version": "170",
+      "modifiedTime": "2026-01-29T09:08:57.233Z",
+      "version": "193",
       "path_lower": "/110 Ứng dụng nâng cao/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -814,7 +836,7 @@
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
       "modifiedTime": "2026-01-24T06:53:52.215Z",
-      "version": "352",
+      "version": "355",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -823,10 +845,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1pORF9Dh58nCSAWYAR4SoSj1faLCbNxHlPMuqYA1SEdU",
-      "name": "_List các bài viết",
-      "modifiedTime": "2026-01-27T04:27:41.246Z",
-      "version": "39",
-      "path_lower": "/1000 Tổng hợp/list-cac-bai-viet"
+      "name": "_Nháp List các bài cần viết",
+      "modifiedTime": "2026-01-28T11:26:51.837Z",
+      "version": "63",
+      "path_lower": "/1000 Tổng hợp/nhap-list-cac-bai-can-viet"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -847,7 +869,7 @@
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "12. Google Analytics và Subiz",
       "modifiedTime": "2025-12-19T09:13:44.935Z",
-      "version": "187",
+      "version": "188",
       "path_lower": "/110 Ứng dụng nâng cao/12-google-analytics-va-subiz"
     },
     {
@@ -880,7 +902,7 @@
       "id": "1svYIgAXCWaLHnCKBPW0dN1OH9RE-a4Pd9wXo0w-Ah90",
       "name": "Chatbot AI Hỏi thăm lại thông minh",
       "modifiedTime": "2026-01-27T01:44:57.454Z",
-      "version": "40",
+      "version": "42",
       "path_lower": "/1000 Tổng hợp/chatbot-ai-hoi-tham-lai-thong-minh"
     },
     {
@@ -901,8 +923,8 @@
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-01-27T10:28:55.576Z",
-      "version": "443",
+      "modifiedTime": "2026-01-28T08:25:41.041Z",
+      "version": "523",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -1114,6 +1136,13 @@
       "resolution": {
         "width": 1280,
         "height": 608
+      }
+    },
+    "https://www.youtube.com/watch?v=LM1lzc6649I": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
       }
     }
   }
