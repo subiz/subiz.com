@@ -5,7 +5,7 @@ title: SDK tùy chỉnh cửa sổ chat
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-01-29T09:08:57.233Z
+  date: 2026-01-29T10:11:38.938Z
 ---
 
 # SDK tùy chỉnh cửa sổ chat 
@@ -17,7 +17,7 @@ Subiz cung cấp bộ mã SDK cho phép bạn tùy chỉnh cửa sổ chat websi
 
 - Mở cửa sổ chat ở bất cứ vị trí nào trên website
 - Hiển thị số tin nhắn khách chưa đọc ở bất cứ vị trí nào trên website
-- Đồng bộ thông tin khách đăng nhập website về cửa sổ chat.
+- Đồng bộ thông tin khách đăng nhập website vào Subiz.
 ## Mở cửa sổ chat ở bất cứ vị trí nào trên website {#mo-cua-so-chat-o-bat-cu-vi-tri-nao-tren-website}
 
 
@@ -122,10 +122,10 @@ subiz('onEvent', ev => {
 
 
 
-## Đồng bộ thông tin khách từ vào Subiz {#dong-bo-thong-tin-khach-tu-vao-subiz}
+## Đồng bộ thông tin khách đăng nhập website vào Subiz {#dong-bo-thong-tin-khach-dang-nhap-website-vao-subiz}
 
 
-Bạn muốn đồng bộ thông tin khách vào Subiz hoặc khách đăng nhập website sẽ hiện thông tin trên Subiz. Bạn sẽ dùng mã SDK dưới đây ra lệnh chuyển thông tin khách về Subiz: 
+Bạn muốn khách đăng nhập website sẽ hiện thông tin trên Subiz. Bạn sẽ dùng mã SDK dưới đây ra lệnh chuyền thông tin sang Subiz khi có khách đăng nhập website: 
 ```
 <script>
 subiz('updateUserAttributes', [{ key: 'fullname', text : 'David' }]);

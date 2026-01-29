@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769678457699,
-  "updated": 1769678457699,
+  "fetched": 1769684507544,
+  "updated": 1769684507544,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -98,8 +98,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
-      "modifiedTime": "2025-12-24T08:00:18.692Z",
-      "version": "292",
+      "modifiedTime": "2026-01-29T10:38:26.405Z",
+      "version": "309",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -495,7 +495,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-01-29T03:08:11.707Z",
-      "version": "72",
+      "version": "73",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -725,8 +725,8 @@
       ],
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc",
-      "modifiedTime": "2026-01-29T09:00:36.105Z",
-      "version": "268",
+      "modifiedTime": "2026-01-29T10:12:07.668Z",
+      "version": "274",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec"
     },
     {
@@ -824,8 +824,8 @@
       ],
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
-      "modifiedTime": "2026-01-29T09:08:57.233Z",
-      "version": "193",
+      "modifiedTime": "2026-01-29T10:11:38.938Z",
+      "version": "202",
       "path_lower": "/110 Ứng dụng nâng cao/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -923,8 +923,8 @@
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-01-28T08:25:41.041Z",
-      "version": "523",
+      "modifiedTime": "2026-01-29T10:26:28.357Z",
+      "version": "530",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {

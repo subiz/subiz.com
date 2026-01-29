@@ -5,7 +5,7 @@ title: Rule phân phối
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2025-12-24T08:00:18.692Z
+  date: 2026-01-29T10:38:26.405Z
 ---
 
 import EmbedVideo from '@site/src/components/EmbedVideo.js';
@@ -15,60 +15,31 @@ import EmbedVideo from '@site/src/components/EmbedVideo.js';
 ## Rule phân phối là gì? {#rule-phan-phoi-la-gi}
 
 
-
-
 <b>[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)</b> là chức năng tự động phân chia hội thoại của khách hàng rồi giao cho nhân viên trả lời tư vấn khách, giúp chuyên môn hóa công việc cho từng nhân viên và nâng cao chất lượng dịch vụ khách hàng.
-
-
-
-Ví dụ: 
-
-- Rule chia theo vùng miền: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam.
-- Rule theo kênh tương tác: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B.
-- Rule theo hiệu suất của nhân viên: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fismpqracmkvyonxyebr_acpxkgumifuoofoosble/6aaca671e1b8f14aa6f4ababeb42b8d8.png)
 
 
-
-
-Một số điểm nổi bật của Rule phân phối:
-
-- Bạn được tạo nhiều rule phân phối khác nhau
-- Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới.
-
-
-
-<b>XEM VIDEO RULE PHÂN PHỐI HỘI THOẠI</b>
+- <b>Rule chia theo vùng miền</b>: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam.
+- <b>Rule theo kênh tương tác</b>: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B.
+- <b>Rule theo hiệu suất của nhân viên</b>: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất.
 
 
 <EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch" resolution={{"width":1920,"height":1080}}/>
+## Tạo rule hội thoại {#tao-rule-hoi-thoai}
 
 
-## Hướng dẫn tạo rule phân phối {#huong-dan-tao-rule-phan-phoi}
+
+:::warning
+Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới. Nên khi tạo rule mới xong cần check lại các rule có trước đó, nếu trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
+:::
+
+
 
 
 Để tạo rule phân phối bạn cần thức hiện 2 bước:
 
-
-
-<b>Bước 1: Xác định quy tắc phân chia khách cho agent</b>
-
-- Đặc điểm phân loại của khách hàng là gì? Ví dụ theo vùng miền, theo nguồn khách hàng, theo thời gian khách liên hệ,....
-- Agent nào phụ trách trả lời khách hàng?
-
-
-
-Khi đó, số lượng rule cần tạo sẽ tương ứng với số lượng nhóm khách của bạn
-
-
-
-<b>Bước 2: Cài đặt rule phân phối</b>
-
-Hướng dẫn cài đặt:
-
-- Mở trang Cài đặt
 - Xem cột chức năng bên trái, tìm [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
 - chọn Tạo Rule phân phối
 - Nhập tên Rule để nhận biết rule này làm nhiệm vụ gì?
@@ -82,7 +53,9 @@ Hướng dẫn cài đặt:
 ![](https://vcdn.subiz-cdn.com/file/fismpqrakjudorrpuvtb_acpxkgumifuoofoosble/c6be242eb9143749f0ee8f2d1b3f0b99.png)
 
 
+Tạo rule tổng đài
 
+Chỉnh sửa rule
 ## Rule phân phối mẫu {#rule-phan-phoi-mau}
 
 ### Rule phân phối theo kênh Website, Fanpage, Zalo {#rule-phan-phoi-theo-kenh-website-fanpage-zalo}
@@ -98,11 +71,7 @@ Hướng dẫn cài đặt:
 
 - <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể
 - <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể
-
-
 ### Rule phân phối theo vùng miền {#rule-phan-phoi-theo-vung-mien}
-
-
 
 
 <b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm agent Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
@@ -116,8 +85,6 @@ Hướng dẫn cài đặt:
 
 - <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
 - <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
-
-
 ### Rule phân phối theo thời gian làm việc {#rule-phan-phoi-theo-thoi-gian-lam-viec}
 
 
