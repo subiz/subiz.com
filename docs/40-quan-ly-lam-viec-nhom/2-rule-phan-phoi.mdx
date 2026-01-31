@@ -5,94 +5,96 @@ title: Rule phân phối
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-01-29T10:38:26.405Z
+  date: 2026-01-30T04:43:11.685Z
 ---
 
 import EmbedVideo from '@site/src/components/EmbedVideo.js';
 
 # Rule phân phối
 
-## Rule phân phối là gì? {#rule-phan-phoi-la-gi}
+## Lợi ích {#loi-ich}
 
 
 <b>[Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)</b> là chức năng tự động phân chia hội thoại của khách hàng rồi giao cho nhân viên trả lời tư vấn khách, giúp chuyên môn hóa công việc cho từng nhân viên và nâng cao chất lượng dịch vụ khách hàng.
+<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch" resolution={{"width":1920,"height":1080}}/>
+
+Sau khi tích hợp các kênh tương tác trên Subiz, quản lý cần tới trang cài đặt để thực hiện việc <b>giao cho nhân sự phụ trách phản hồi khách hàng</b>. Việc cài đặt rule chi tiết sẽ phụ thuộc vào nhu cầu thực tế của mỗi doanh nghiệp, có thể kể tên như:
+
+- Rule phân chia hội thoại theo chi nhánh, vùng miền.
+- Rule phân phối cuộc gọi cho phòng ban phụ trách \(phòng bán hàng, phòng hỗ trợ kỹ thuật, phòng bảo hành…\).
+- Rule phân chia phụ trách theo kênh, theo fanpage hay theo số Zalo cá nhân, số hotline cụ thể.
+- Rule phân chia theo hiệu suất nhân sự \(chia đều khách cho toàn bộ nhân sự, chia theo nhân sự trả lời nhanh nhất\).
+## Tạo rule {#tao-rule}
+
 
 
 ![](https://vcdn.subiz-cdn.com/file/fismpqracmkvyonxyebr_acpxkgumifuoofoosble/6aaca671e1b8f14aa6f4ababeb42b8d8.png)
 
-
-- <b>Rule chia theo vùng miền</b>: Chia khách miền Bắc cho nhân viên miền Bắc, chia khách miền Nam cho nhân viên miền Nam.
-- <b>Rule theo kênh tương tác</b>: Chia khách từ Fanpage cho nhân viên A, chia khách website cho nhân viên B.
-- <b>Rule theo hiệu suất của nhân viên</b>: Chia đều khách cho mỗi nhân viên, chia khách cho nhân viên trả lời nhanh nhất.
-
-
-<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8ca63b01a27d476cb55519ef9d26f56e/watch" resolution={{"width":1920,"height":1080}}/>
-## Tạo rule hội thoại {#tao-rule-hoi-thoai}
-
-
-
-:::warning
-Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới. Nên khi tạo rule mới xong cần check lại các rule có trước đó, nếu trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
+:::info
+Rule phân phối hoạt động như phễu lọc gồm nhiều tầng lớp. Khách liên hệ được lọc theo thứ tự rule từ trên xuống dưới.
 :::
 
-
-
-
-Để tạo rule phân phối bạn cần thức hiện 2 bước:
-
-- Xem cột chức năng bên trái, tìm [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
-- chọn Tạo Rule phân phối
-- Nhập tên Rule để nhận biết rule này làm nhiệm vụ gì?
-- Chọn điều kiện lọc khách hàng
-- Chọn Phân phối tới, thêm agent trả lời khách
-- Nhấp Tạo Rule là xong
+### Rule phân phối tin nhắn {#rule-phan-phoi-tin-nhan}
 
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fismpqrakjudorrpuvtb_acpxkgumifuoofoosble/c6be242eb9143749f0ee8f2d1b3f0b99.png)
+01. Nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+11. Từ sidebar trên trái chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+21. Nhấn nút <b>Tạo Rule phân phối</b> ở góc trên bên phải màn hình
+31. Chọn Loại hội thoại là <b>Tin nhắn</b>
+41. Tại mục <b>Điều kiện</b>, tick chọn kênh tương tác
+51. Chọn <b>Thêm điều kiện</b> để lọc khách hàng theo các tiêu chí riêng
+61. Giao việc cho nhân sự tại mục <b>Phân phối tới</b>
+71. Chọn <b>Giám sát viên rule</b> - người sẽ được mời vào toàn hội thoại thỏa mãn điều kiện ở trên, giám sát nhân sự làm việc
+81. Bấm <b>Tạo Rule</b> là xong.
+### Rule phân phối cuộc gọi {#rule-phan-phoi-cuoc-goi}
 
 
-Tạo rule tổng đài
-
-Chỉnh sửa rule
-## Rule phân phối mẫu {#rule-phan-phoi-mau}
-
-### Rule phân phối theo kênh Website, Fanpage, Zalo {#rule-phan-phoi-theo-kenh-website-fanpage-zalo}
-
-
-
-
-<b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
+01. Nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+11. Từ sidebar trên trái chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+21. Nhấn nút <b>Tạo Rule phân phối</b> ở góc trên bên phải màn hình
+31. Chọn Loại hội thoại là <b>Cuộc gọi</b>
+41. Tại mục <b>Điều kiện</b>, chọn số điện thoại tổng đài
+51. Chọn <b>Thêm điều kiện</b> để lọc khách hàng theo các tiêu chí riêng
+61. Chọn nhân sự phụ trách số điện thoại tương ứng, cách thức đổ chuông, phân nhánh kèm theo lời thoại chờ \(nếu cần\) tại mục <b>Hành động</b>
+71. Thêm <b>Giám sát viên rule</b> để nhận được các hội thoại đến từ kênh tổng đài
+81. Bấm <b>Tạo Rule</b> để lưu.
 
 
+:::tip
+Để các trao đổi với khách hàng luôn được liền mạch, đảm bảo khách hàng gặp được đúng tư vấn viên đang tư vấn mình trước đó, hãy bật lựa chọn <b>Ưu tiên agent nói chuyện với khách trước đó</b>.
+:::
 
-<b>Giải pháp</b>: Tạo 2 Rule phân phối tương ứng 2 nhóm chat website và chat Fanpage + Zalo
+## Chỉnh sửa {#chinh-sua}
 
-- <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể
-- <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể
-### Rule phân phối theo vùng miền {#rule-phan-phoi-theo-vung-mien}
-
-
-<b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm agent Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
+#### Thay đổi thông tin {#thay-doi-thong-tin}
 
 
-
-<b>Giải pháp</b>: Tạo nhóm agent HN và nhóm Agent HCM; Sau đó tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM
-
-- <b>Bước 1</b>: Tạo nhóm agent tại [trang Nhóm agent](https://app.subiz.com.vn/settings/agents-group)
-- <b>Bước 2</b> : Tạo rule phân phối cho nhóm agent tương ứng theo vị trí địa lý
-
-- <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
-- <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
-### Rule phân phối theo thời gian làm việc {#rule-phan-phoi-theo-thoi-gian-lam-viec}
+- Nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Từ sidebar trên trái chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Nhấn <b>Chỉnh sửa</b> ở phía cuối dòng tương ứng
+- Thay đổi thông tin cần thiết
+- Nhấn <b>Cập nhật</b> để lưu.
+#### Thay đổi vị trí {#thay-doi-vi-tri}
 
 
-<b>Tình huống</b>: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
+Do cơ chế quét rule chạy điều kiện từ trên xuống dưới nên khi tạo rule mới xong cần check lại các rule có trước đó. Trường hợp trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
+
+Thao tác như sau:
+
+- Nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Từ sidebar trên trái chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Nhấn & giữ vào biểu tượng ፧፧ ở đầu dòng rule, kéo chuột lên hoặc xuống để điều chỉnh vị trí.
+#### Xoá rule {#xoa-rule}
 
 
+- Nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Từ sidebar trên trái chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tìm rule cần xoá, nhấn biểu tượng thùng rác ở cuối dòng tương ứng
+- Bấm <b>Xác nhận</b> để xoá rule.
 
-<b>Giải pháp</b>: Tạo 2 rule phân phối tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
 
-- <b>Rule 1</b>: Điều kiện Rule chọn Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
-- <b>Rule 2</b>: Điều kiện Rule chọn Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
+:::note
+Với các rule có tag <b>Hệ thống</b> - là các điều kiện được hệ thống Subiz tạo tự động theo thiết kế các auto bot. Để chỉnh sửa, bạn sẽ cần tới [trang quản lý bot](https://app.subiz.com.vn/bots) để điều chỉnh tại phần <b>Cài đặt</b> với bot theo kịch bản hoặc <b>Điều kiện chạy bot</b> với chatbot AI.
+:::

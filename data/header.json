@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1769684507544,
-  "updated": 1769684507544,
+  "fetched": 1769854301539,
+  "updated": 1769854301539,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -98,8 +98,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
-      "modifiedTime": "2026-01-29T10:38:26.405Z",
-      "version": "309",
+      "modifiedTime": "2026-01-30T04:43:11.685Z",
+      "version": "363",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -121,7 +121,7 @@
       "id": "18tKj8WjsdCwJaJStiqQmHMdz-D9KIyyGsyz2MfLQYo4",
       "name": "3. Rule phân phối cuộc gọi",
       "modifiedTime": "2024-11-29T03:39:52.102Z",
-      "version": "120",
+      "version": "125",
       "path_lower": "/_90 Tổng đài điện thoại/3-rule-phan-phoi-cuoc-goi"
     },
     {
@@ -495,7 +495,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-01-29T03:08:11.707Z",
-      "version": "73",
+      "version": "80",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -508,6 +508,17 @@
       "modifiedTime": "2025-12-17T08:55:36.776Z",
       "version": "61",
       "path_lower": "/80 Thống kê báo cáo/6-3-thong-ke-cuoc-goi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
+      "name": "Rule phân phối mẫu trên Subiz",
+      "modifiedTime": "2026-01-30T10:58:39.347Z",
+      "version": "185",
+      "path_lower": "/1000 Tổng hợp/rule-phan-phoi-mau-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -560,8 +571,8 @@
       ],
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "3 Giờ làm việc",
-      "modifiedTime": "2025-11-11T10:45:43.551Z",
-      "version": "137",
+      "modifiedTime": "2026-01-30T08:44:20.907Z",
+      "version": "148",
       "path_lower": "/40 Quản lý làm việc nhóm/3-gio-lam-viec"
     },
     {
@@ -615,8 +626,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-01-24T02:53:26.804Z",
-      "version": "658",
+      "modifiedTime": "2026-01-31T03:11:30.869Z",
+      "version": "666",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -736,8 +747,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-01-28T11:26:13.600Z",
-      "version": "774",
+      "modifiedTime": "2026-01-30T08:41:13.264Z",
+      "version": "782",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -770,7 +781,7 @@
       "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
       "name": "3. Tag hội thoại",
       "modifiedTime": "2026-01-26T05:01:40.700Z",
-      "version": "186",
+      "version": "188",
       "path_lower": "/30 Tư vấn khách hàng/3-tag-hoi-thoai"
     },
     {
@@ -792,7 +803,7 @@
       "id": "1nOazVFOV_CWWlDBMmM4v3zjviFPvcZpnRUNlt4Wyq2M",
       "name": "6. Cài đặt thông báo",
       "modifiedTime": "2026-01-26T10:33:16.550Z",
-      "version": "54",
+      "version": "56",
       "path_lower": "/30 Tư vấn khách hàng/6-cai-dat-thong-bao"
     },
     {
@@ -857,8 +868,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-01-26T09:45:55.402Z",
-      "version": "287",
+      "modifiedTime": "2026-01-30T10:23:44.452Z",
+      "version": "318",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -924,7 +935,7 @@
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
       "modifiedTime": "2026-01-29T10:26:28.357Z",
-      "version": "530",
+      "version": "532",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {

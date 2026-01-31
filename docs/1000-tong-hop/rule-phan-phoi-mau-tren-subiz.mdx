@@ -1,0 +1,130 @@
+---
+id: 1652325030
+slug: /1652325030-rule-phan-phoi-mau-tren-subiz
+title: Rule phân phối mẫu trên Subiz
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2026-01-30T10:58:39.347Z
+---
+
+# Rule phân phối mẫu trên Subiz
+
+:::warning
+Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều tầng lớp. Hội thoại được lọc theo thứ tự rule từ trên xuống dưới. Nên khi tạo rule mới xong cần check lại các rule có trước đó, nếu trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
+:::
+
+## Rule phân phối tin nhắn {#rule-phan-phoi-tin-nhan}
+
+#### Rule phân phối theo kênh {#rule-phan-phoi-theo-kenh}
+
+
+<b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
+
+
+
+<b>Giải pháp</b>: Tạo 2 Rule phân phối tương ứng 2 nhóm chat website và chat Fanpage + Zalo
+
+- <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể
+- <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể
+#### Rule phân phối theo vùng miền {#rule-phan-phoi-theo-vung-mien}
+
+
+<b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm agent Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
+
+
+
+<b>Giải pháp</b>: Tạo nhóm agent HN và nhóm Agent HCM; Sau đó tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM
+
+- <b>Bước 1</b>: Tạo nhóm agent tại [trang Nhóm agent](https://app.subiz.com.vn/settings/agents-group)
+- <b>Bước 2</b> : Tạo rule phân phối cho nhóm agent tương ứng theo vị trí địa lý
+
+- <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
+- <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
+#### Rule phân phối theo thời gian làm việc {#rule-phan-phoi-theo-thoi-gian-lam-viec}
+
+
+<b>Tình huống</b>: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
+
+
+
+<b>Giải pháp</b>: Tạo 2 rule phân phối tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
+
+- <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
+- <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
+#### Rule phân phối theo ca trực  {#rule-phan-phoi-theo-ca-truc}
+
+
+<b>Tình huống</b>: Doanh nghiệp chia lịch mỗi ngày 1 agent trực chat, yêu cầu tự động phân phối chat cho agent có ca trực. 
+
+
+
+<b>Giải pháp</b>: Tạo 2 Rule phân phối chat trong giờ cho người trực hôm nay và chat ngoài giờ cho người trực ca tiếp theo
+
+- <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc + bật chỉ phân cho agent online
+- <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc + chọn phân phối cho agent trả lời nhanh nhất
+#### Rule phân phối theo bài viết Fanpage  {#rule-phan-phoi-theo-bai-viet-fanpage}
+
+
+<b>Tình huống</b>: 
+
+
+
+<b>Giải pháp</b>: 
+### Rule phân phối cuộc gọi {#rule-phan-phoi-cuoc-goi}
+
+#### Rule phân phối cuộc gọi lần lượt cho từng agent  {#rule-phan-phoi-cuoc-goi-lan-luot-cho-tung-agent}
+
+
+<b>Tình huống: </b>Doanh nghiệp muốn khách liên hệ sẽ đổ chuông lần lượt từng agent, nếu agent không trả lời trong 5-10s sẽ đổ chuông agent kế tiếp, cho đến khi có agent trả lời cuộc gọi hoặc khách dập máy. 
+
+
+
+<b>Giải pháp:</b> Tạo Rule phân phối cuộc gọi với điều kiện ‘đổ chuông lần lượt từng agent’.
+#### Rule phân phối cuộc gọi theo số điện thoại  {#rule-phan-phoi-cuoc-goi-theo-so-dien-thoai}
+
+
+<b>Tình huống:</b> Doanh nghiệp có 2 số điện thoại tổng đài, muốn khách gọi tới số A sẽ đổ chuông agent A, khách gọi tới số B sẽ đổ chuông agent B. 
+
+
+
+<b>Giải pháp:</b> Tạo 2 Rule phân phối cuộc gọi từng số điện thoại 
+
+- Rule 1: Điều kiện Rule chọn số điện thoại A + chọn đổ chuông tới agent A
+- Rule 2: Điều kiện Rule chọn số điện thoại B + chọn đổ chuông tới agent B
+#### Rule phân phối cuộc gọi theo phòng ban/chi nhánh \(phân nhánh + menu thoại\) {#rule-phan-phoi-cuoc-goi-theo-phong-ban/chi-nhanh-phan-nhanh-menu-thoai}
+
+
+<b>Tình huống:</b> Doanh nghiệp có 2 phòng ban là phòng kinh doanh và phòng kỹ thuật, muốn khách gọi điện sẽ tự nối máy tới phòng ban phụ trách. 
+
+
+
+<b>Giải pháp:</b> Tạo Rule phân phối cuộc gọi với menu thoại, mời khách ấn chọn gặp phòng ban tương ứng. 
+
+- Phím 1: Đổ chuông tới nhóm kinh doanh
+- Phím 2: Đổ chuông tới nhóm kỹ thuật
+#### Rule phân phối cuộc gọi theo thời gian làm việc  {#rule-phan-phoi-cuoc-goi-theo-thoi-gian-lam-viec}
+
+
+<b>Tình huống: </b>Ngoài giờ làm việc, khách gọi sẽ nghe lời thoại thông báo ngoài giờ hẹn hỗ trợ sau và cúp máy. Trong giờ làm việc, khách gọi sẽ nghe lời thoại chào mừng và cuộc gọi đổ chuông tới agent. 
+
+
+
+<b>Giải pháp:</b> Tạo 2 Rule phân phối cuộc gọi trong và ngoài giờ làm việc
+
+- Rule 1: Chọn thêm điều kiện thời gian Ngoài giờ làm việc + thêm lời thoại ngoài giờ + chọn cúp máy sau đó
+- Rule 2: Chọn thêm điều kiện thời gian Trong giờ làm việc + thêm lời thoại trong giờ + chọn đổ chuông agent
+#### Rule phân phối cuộc gọi nhỡ {#rule-phan-phoi-cuoc-goi-nho}
+
+
+<b>Tình huống: </b>Doanh nghiệp quản lý và thống kê việc xử lý cuộc gọi nhỡ. Agent sẽ được thông báo nhắc nhở khi có cuộc gọi nhỡ chưa xử lý xong. 
+
+
+
+<b>Giải pháp: </b>Trong Rule phân phối cuộc gọi + bật tạo Phiếu ghi khi có cuộc gọi nhỡ 
+
+Lưu ý: Tính năng Phiếu ghi khả dụng cho các gói từ Nâng Cao trở lên. 
+
+
+
+https://drive.google.com/drive/folders/1h1OLAxgyf2WZoQ85JAaStXxuU\_8FJbvQ
