@@ -206,6 +206,7 @@ async function parsePara(item, org_format, docM, env) {
 		let format = Object.assign({}, org_format)
 		let doitalic = item.tagName.toLowerCase() == 'i'
 		let dobold = item.tagName.toLowerCase() == 'b'
+		let dounderline = false
 		if (!format.italic && item.style.fontStyle == 'italic') {
 			format.italic = true
 			doitalic = true
@@ -219,6 +220,11 @@ async function parsePara(item, org_format, docM, env) {
 			format.code = true
 		}
 
+		if (!format.underline && item.style.textDecoration === 'underline' && childTagName !== 'a') {
+			format.underline = true
+			dounderline = true
+		}
+
 		if (format.code) {
 			out += '`' + normalize(item.textContent) + '`'
 			return
@@ -228,6 +234,7 @@ async function parsePara(item, org_format, docM, env) {
 		if (doitalic) ret = '<i>' + ret + '</i>'
 		// Pattern **a:**b cannot parse to <b>a:</b>b beacause pucntual character cannot followed by delitmier **
 		if (dobold) ret = '<b>' + ret + '</b>'
+		if (dounderline) ret = '<u>' + ret + '</u>'
 		out += ret
 	})
 	return out
