@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770267045286,
-  "updated": 1770267045286,
+  "fetched": 1770290917305,
+  "updated": 1770290917305,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -209,7 +209,7 @@
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Bàn giao dữ liệu",
       "modifiedTime": "2026-02-02T09:35:21.926Z",
-      "version": "419",
+      "version": "420",
       "path_lower": "/40 Quản lý làm việc nhóm/7-ban-giao-du-lieu"
     },
     {
@@ -473,7 +473,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2026-02-02T03:30:20.586Z",
-      "version": "182",
+      "version": "185",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -572,7 +572,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "1.1 Giờ làm việc",
       "modifiedTime": "2026-02-02T09:36:08.174Z",
-      "version": "167",
+      "version": "168",
       "path_lower": "/40 Quản lý làm việc nhóm/1-1-gio-lam-viec"
     },
     {
@@ -671,7 +671,7 @@
       "id": "1eTU8hvkLGJk8tCKbCQEAgTKbD6KMlJvDa07a5R2lg8E",
       "name": "_14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2026-02-02T07:51:32.721Z",
-      "version": "58",
+      "version": "60",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -693,7 +693,7 @@
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
       "modifiedTime": "2026-02-03T09:34:39.576Z",
-      "version": "914",
+      "version": "916",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -901,8 +901,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-02-05T04:49:41.549Z",
-      "version": "326",
+      "modifiedTime": "2026-02-05T04:49:50.024Z",
+      "version": "329",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -945,8 +945,8 @@
       ],
       "id": "1snn9j-9YC3BB_9K98xOO8XLLFdTk46EMz6xgfIWAgo4",
       "name": "_Đo lường chuyển đổi quảng cáo Facebook Ads ",
-      "modifiedTime": "2026-02-05T04:37:10.611Z",
-      "version": "373",
+      "modifiedTime": "2026-02-05T07:23:59.782Z",
+      "version": "389",
       "path_lower": "/1000 Tổng hợp/do-luong-chuyen-doi-quang-cao-facebook-ads"
     },
     {

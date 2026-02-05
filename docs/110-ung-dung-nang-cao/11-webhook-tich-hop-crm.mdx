@@ -24,7 +24,7 @@ Ví dụ:
 - Khi tư vấn viên cập nhật thông tin của khách hàng trên Subiz. Webhook gửi thông tin này sang server của bạn.
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbrzwtdyxaicekm_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifcthxupvsvfmzk_acpxkgumifuoofoosble/9b03afb5a9a5aa48c4e380733f0e2db0.png)
 
 ## Bạn cần chuẩn bị những gì? {#ban-can-chuan-bi-nhung-gi}
 
@@ -32,11 +32,11 @@ Ví dụ:
 Để sử dụng được tính năng webhook, bạn phải:
 
 01. Sở hữu một máy chủ HTTP công khai trên internet.
-11. Xử lý gói tin nhận được từ webhook (biết code).
+11. Xử lý gói tin nhận được từ webhook \(biết code\).
 
-Bạn có thể tự dựng máy chủ vật lý hoặc thuê máy chủ ảo. Khi tạo dựng được máy chủ, bạn cần cung cấp một đường dẫn URL (endpoint) để nhận dữ liệu từ subiz. Thông thường URL sẽ có dạng[ ](https://example.com/webhooks)[https://example.com/webhooks](https://example.com/webhooks) hoặc[ ](http://192.123.233.244/webhook)[http://192.123.233.244/webhook](http://192.123.233.244/webhook).
+Bạn có thể tự dựng máy chủ vật lý hoặc thuê máy chủ ảo. Khi tạo dựng được máy chủ, bạn cần cung cấp một đường dẫn URL \(endpoint\) để nhận dữ liệu từ subiz. Thông thường URL sẽ có dạng [https://example.com/webhooks](https://example.com/webhooks) hoặc [http://192.123.233.244/webhook](http://192.123.233.244/webhook).
 
-Subiz sẽ gửi dữ liệu sang endpoint này với một định dạng đã được quy chuẩn, bạn cần phải hiểu định dạng này và biết cách lấy được những thông tin mình quan tâm. (Định dạng sẽ được mô tả chi tiết ở phần sau).
+Subiz sẽ gửi dữ liệu sang endpoint này với một định dạng đã được quy chuẩn, bạn cần phải hiểu định dạng này và biết cách lấy được những thông tin mình quan tâm. \(Định dạng sẽ được mô tả chi tiết ở phần sau\).
 
 Ví dụ về một gói dữ liệu subiz sẽ gửi sang:
 ```
@@ -76,13 +76,13 @@ Vì việc ghi nhận gửi thành công cực kỳ quan trọng, endpoint của
 ### Kiểm tra webhook signature  {#kiem-tra-webhook-signature}
 
 
-Subiz sẽ (không bắt buộc) ký các event webhook gửi sang endpoint của bạn. Việc này cho phép bạn xác thực gói tin nhận được là từ Subiz gửi sang, chứ không phải của một bên khác.
+Subiz sẽ \(không bắt buộc\) ký các event webhook gửi sang endpoint của bạn. Việc này cho phép bạn xác thực gói tin nhận được là từ Subiz gửi sang, chứ không phải của một bên khác.
 
 Phần này hướng dẫn bạn cách xác thực chữ ký, ngoài ra nó cung cấp một số đoạn code mẫu giúp bạn dễ dàng hình hơn.
 #### Tại sao bạn cần xác thực {#tai-sao-ban-can-xac-thuc}
 
 
-Endpoint của bạn sớm hay muộn cũng sẽ bị công khai trên internet (có thể do search engine quét được, có thể do nhà cung cấp mạng sơ ý để lộ dữ liệu, ...). Khi bị đối tượng phá hoại dò được, chúng có thể gửi các gói tin giả mạo, gây xáo trộn, phá hỏng tính toàn vẹn dữ liệu, tồi tệ hơn, chúng có thể chiếm được quyền điều khiển server (qua một số lỗ hổng bảo mật trên server của bạn).
+Endpoint của bạn sớm hay muộn cũng sẽ bị công khai trên internet \(có thể do search engine quét được, có thể do nhà cung cấp mạng sơ ý để lộ dữ liệu, ...\). Khi bị đối tượng phá hoại dò được, chúng có thể gửi các gói tin giả mạo, gây xáo trộn, phá hỏng tính toàn vẹn dữ liệu, tồi tệ hơn, chúng có thể chiếm được quyền điều khiển server \(qua một số lỗ hổng bảo mật trên server của bạn\).
 
 "<i>Ôi, chắc chẳng ai thèm hack server mình đâu, còn bao việc</i>" là suy nghĩ của hầu hết nhà phát triển trước khi phát hiện ra mình bị hack.
 
@@ -95,14 +95,14 @@ Một lưu ý trước khi bạn bắt đầu là cơ chế xác thực chỉ á
 Bạn có thể thiết lập mật khẩu cho webhook bằng cách đăng nhập vào Dashboard của Subiz. Vào Setting → Webhook → Chỉnh sửa, rồi chọn thay đổi ô Mật khẩu
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbsdubiodlbwskc_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifdhvylakeetfys_acpxkgumifuoofoosble/6a2f2a55eb161f1f29dfb5ac20b6f4ff.png)
 
 
 Khi chọn mật khẩu, bạn nên sử dụng một mật khẩu ngẫu nhiên, càng dài sẽ càng bảo mật và không nhất thiết phải chứa ký tự đặc biệt. Nếu mật khẩu bị lộ, bên thứ 3 có thể giả dạng Subiz để gửi event không tin cậy sang endpoint của bạn.
 
 Mật khẩu này sẽ được sử dụng mỗi khi Subiz gửi tin sang endpoint của bạn. Chúng tôi sẽ tạo ra một chữ ký riêng biệt cho từng gói tin rồi gắn vào header \`\`X-Hub-Signature-256\` trước khi gửi tới endpoint của bạn.
 
-Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> ([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github). HMAC đươc triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
+Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> \([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github\). HMAC đươc triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
 ```
 HMAC(hashFunction, secret, message) => signature
 HMAC("sha256", "sEcRet2", "chào buổi sáng") ⇒ sha256=f8e31a0ae3b14162acb325782cc4577677d30cc7e5132fbbdfae94b7a576a7b5
@@ -201,16 +201,16 @@ puts Base64.encode64(hash)
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbshuwgcatnyrze_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifdodmwgrbmzuhl_acpxkgumifuoofoosble/b6f773d43419528758af87bdb8ed061e.png)
 
 
-Đầu gửi (subiz)
+Đầu gửi \(subiz\)
 
 01. Lấy mật khẩu và nội dung body của gói tin cần gửi đi, chạy qua thuật toán HMAC-sha256. Kết quả nhận được chính là chữ ký.
 11. Đưa chữ ký vào trong HTTP header X-Hub-Signature-256. Ví dụ X-Hub-Signature-256: sha256=766c10dbe4387
 21. Gửi HTTP request tới endpoint
 
-Đầu nhận (endpoint của bạn)
+Đầu nhận \(endpoint của bạn\)
 
 01. Khi nhận được request mới, đọc HTTP header X-Hub-Signature-256, bóc tách để lấy chữ ký cho gói tin nhận được.
 11. Lấy mật khẩu và nội dung body của gói tin nhận được, chạy qua thuật toán HMAC-sha256 để lấy chữ ký chuẩn.
@@ -265,7 +265,7 @@ Mỗi sự kiện sẽ có các trường thông tin chung như ví dụ bên d�
 
 
 
-![](https://vcdn.subiz-cdn.com/file/fisgyrbsmgahvoccxrny_acpxkgumifuoofoosble/unnamed.png)
+![](https://vcdn.subiz-cdn.com/file/fismoifduydldtyfmuwp_acpxkgumifuoofoosble/03dbb8d960852d5bd5d2fb79ff2e73c0.png)
 
 
 <b>user\_created</b>
