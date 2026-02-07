@@ -110,8 +110,32 @@ const config = {
 						from: ['/972963943-rule-phan-phoi-hoi-thoai'],
 					},
 					{
-						to: '/33314021-ban-giao-truoc-khi-agent-nghi',
-						from: ['/33314021-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz'],
+						to: '/33314021-ban-giao-du-lieu',
+						from: ['/33314021-ban-giao-truoc-khi-agent-nghi', '/33314021-xu-ly-khi-co-nhan-vien-nghi-viec-tren-subiz'],
+					},
+					{
+						to: '/21395065-nhung-ma-code-subiz-vao-website',
+						from: ['/21395065-nhung-ma-vao-giao-dien-website'],
+					},
+					{
+						to: '/1387158228-quan-ly-hoi-thoai',
+						from: ['/956862628-giam-sat-vien-hoi-thoai', '/573485226-tu-dong-hoan-thanh-hoi-thoai'],
+					},
+					{
+						to: '/1625367101-tong-dai',
+						from: [
+							'/573464542-quan-ly-nhieu-tong-dai',
+							'/846069684-rule-phan-phoi-cuoc-goi',
+							'/900316123-su-dung-tong-dai',
+						],
+					},
+					{
+						to: '/1954376476-gio-lam-viec',
+						from: ['/1954376476-gio-lam-viec'],
+					},
+					{
+						to: '/628554948-agent',
+						from: ['/1893632067-quan-ly-doi-nhom'],
 					},
 					{
 						to: '/1540866648-auto-chatbot',

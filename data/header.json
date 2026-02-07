@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770290917305,
-  "updated": 1770290917305,
+  "fetched": 1770458448198,
+  "updated": 1770458448198,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -57,6 +57,17 @@
       "modifiedTime": "2026-02-04T02:32:59.756Z",
       "version": "481",
       "path_lower": "/50 Tự động hóa/10-auto-chatbot"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
+      "name": "Thông tin liên hệ Subiz ",
+      "modifiedTime": "2026-02-07T09:31:23.099Z",
+      "version": "24",
+      "path_lower": "/1000 Tổng hợp/thong-tin-lien-he-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -264,7 +275,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "145",
+      "version": "147",
       "path_lower": "/110 Ứng dụng nâng cao/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
@@ -494,8 +505,8 @@
       ],
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
-      "modifiedTime": "2026-01-29T03:08:11.707Z",
-      "version": "82",
+      "modifiedTime": "2026-02-07T09:58:29.618Z",
+      "version": "87",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -692,8 +703,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-02-03T09:34:39.576Z",
-      "version": "916",
+      "modifiedTime": "2026-02-07T06:50:06.111Z",
+      "version": "926",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -758,8 +769,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2026-01-19T03:29:32.842Z",
-      "version": "195",
+      "modifiedTime": "2026-02-07T06:52:34.707Z",
+      "version": "201",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
@@ -890,8 +901,8 @@
       ],
       "id": "1pORF9Dh58nCSAWYAR4SoSj1faLCbNxHlPMuqYA1SEdU",
       "name": "_Nháp List các bài cần viết",
-      "modifiedTime": "2026-02-02T07:19:35.845Z",
-      "version": "72",
+      "modifiedTime": "2026-02-07T07:52:47.972Z",
+      "version": "79",
       "path_lower": "/1000 Tổng hợp/nhap-list-cac-bai-can-viet"
     },
     {
@@ -945,8 +956,8 @@
       ],
       "id": "1snn9j-9YC3BB_9K98xOO8XLLFdTk46EMz6xgfIWAgo4",
       "name": "_Đo lường chuyển đổi quảng cáo Facebook Ads ",
-      "modifiedTime": "2026-02-05T07:23:59.782Z",
-      "version": "389",
+      "modifiedTime": "2026-02-07T07:02:51.726Z",
+      "version": "441",
       "path_lower": "/1000 Tổng hợp/do-luong-chuyen-doi-quang-cao-facebook-ads"
     },
     {
@@ -979,7 +990,7 @@
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
       "modifiedTime": "2026-01-29T10:26:28.357Z",
-      "version": "532",
+      "version": "534",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -1034,7 +1045,7 @@
       "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
       "name": "6. Hỗ trợ khách trong Lễ Tết ",
       "modifiedTime": "2025-07-03T08:20:31.015Z",
-      "version": "139",
+      "version": "141",
       "path_lower": "/110 Ứng dụng nâng cao/6-ho-tro-khach-trong-le-tet"
     }
   ],
