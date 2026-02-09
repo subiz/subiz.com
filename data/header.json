@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770458448198,
-  "updated": 1770458448198,
+  "fetched": 1770632716901,
+  "updated": 1770632716901,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -64,10 +64,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
-      "name": "Thông tin liên hệ Subiz ",
-      "modifiedTime": "2026-02-07T09:31:23.099Z",
-      "version": "24",
-      "path_lower": "/1000 Tổng hợp/thong-tin-lien-he-subiz"
+      "name": "Thông tin cơ bản về Subiz",
+      "modifiedTime": "2026-02-09T08:25:12.739Z",
+      "version": "67",
+      "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -88,7 +88,7 @@
       "id": "12-Luc4VoCG1FRdTJ7f95lkUiAh5_bCUd9-jD-elsK2Y",
       "name": "4. Nhãn phân loại",
       "modifiedTime": "2026-01-27T04:15:41.520Z",
-      "version": "185",
+      "version": "187",
       "path_lower": "/60 Quản lý khách hàng/4-nhan-phan-loai"
     },
     {
@@ -230,8 +230,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-01-27T04:11:31.660Z",
-      "version": "158",
+      "modifiedTime": "2026-02-09T09:29:33.073Z",
+      "version": "178",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -252,8 +252,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-01-26T03:23:01.455Z",
-      "version": "612",
+      "modifiedTime": "2026-02-09T06:34:21.330Z",
+      "version": "620",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-01-24T08:43:18.159Z",
-      "version": "446",
+      "modifiedTime": "2026-02-09T07:12:27.292Z",
+      "version": "453",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -428,8 +428,8 @@
       ],
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live",
-      "modifiedTime": "2026-01-14T06:14:24.824Z",
-      "version": "386",
+      "modifiedTime": "2026-02-09T07:29:09.967Z",
+      "version": "393",
       "path_lower": "/60 Quản lý khách hàng/1-subiz-live"
     },
     {
@@ -440,7 +440,7 @@
       "id": "1UjfxpYSpVymxVgoKJUGWIr54LgAsRDeUXOZaiYDLCGk",
       "name": "Hoàn thành hội thoại là gì?",
       "modifiedTime": "2026-01-24T08:40:05.033Z",
-      "version": "17",
+      "version": "19",
       "path_lower": "/1000 Tổng hợp/hoan-thanh-hoi-thoai-la-gi"
     },
     {
@@ -450,8 +450,8 @@
       ],
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Khách hàng tiềm năng",
-      "modifiedTime": "2025-12-24T08:17:17.209Z",
-      "version": "502",
+      "modifiedTime": "2026-02-09T07:20:08.554Z",
+      "version": "514",
       "path_lower": "/60 Quản lý khách hàng/3-khach-hang-tiem-nang"
     },
     {
@@ -495,7 +495,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2026-02-04T09:07:12.874Z",
-      "version": "672",
+      "version": "674",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -505,8 +505,8 @@
       ],
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
-      "modifiedTime": "2026-02-07T09:58:29.618Z",
-      "version": "87",
+      "modifiedTime": "2026-02-09T03:03:03.732Z",
+      "version": "132",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Rule phân phối mẫu trên Subiz",
       "modifiedTime": "2026-02-03T09:37:23.805Z",
-      "version": "219",
+      "version": "221",
       "path_lower": "/1000 Tổng hợp/rule-phan-phoi-mau-tren-subiz"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-01-31T03:11:30.869Z",
-      "version": "666",
+      "modifiedTime": "2026-02-09T07:11:40.488Z",
+      "version": "673",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -703,8 +703,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-02-07T06:50:06.111Z",
-      "version": "926",
+      "modifiedTime": "2026-02-09T03:37:40.768Z",
+      "version": "935",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -737,7 +737,7 @@
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
       "modifiedTime": "2026-02-02T05:06:22.263Z",
-      "version": "292",
+      "version": "294",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -803,7 +803,7 @@
       "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
       "name": "5. Gộp khách hàng ",
       "modifiedTime": "2025-12-24T08:18:55.359Z",
-      "version": "151",
+      "version": "153",
       "path_lower": "/60 Quản lý khách hàng/5-gop-khach-hang"
     },
     {
@@ -912,8 +912,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-02-05T04:49:50.024Z",
-      "version": "329",
+      "modifiedTime": "2026-02-09T06:42:59.207Z",
+      "version": "336",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -934,8 +934,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-01-27T04:13:19.144Z",
-      "version": "397",
+      "modifiedTime": "2026-02-09T07:10:58.155Z",
+      "version": "407",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -957,7 +957,7 @@
       "id": "1snn9j-9YC3BB_9K98xOO8XLLFdTk46EMz6xgfIWAgo4",
       "name": "_Đo lường chuyển đổi quảng cáo Facebook Ads ",
       "modifiedTime": "2026-02-07T07:02:51.726Z",
-      "version": "441",
+      "version": "443",
       "path_lower": "/1000 Tổng hợp/do-luong-chuyen-doi-quang-cao-facebook-ads"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-01-29T10:26:28.357Z",
-      "version": "534",
+      "modifiedTime": "2026-02-09T02:47:46.823Z",
+      "version": "543",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "449",
+      "version": "451",
       "path_lower": "/readme"
     },
     {

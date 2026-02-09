@@ -122,16 +122,16 @@ const config = {
 						from: ['/956862628-giam-sat-vien-hoi-thoai', '/573485226-tu-dong-hoan-thanh-hoi-thoai'],
 					},
 					{
+						to: '/1732524189-thong-tin-co-ban-ve-subiz',
+						from: ['/1732524189-thong-tin-lien-he-subiz'],
+					},
+					{
 						to: '/1625367101-tong-dai',
 						from: [
 							'/573464542-quan-ly-nhieu-tong-dai',
 							'/846069684-rule-phan-phoi-cuoc-goi',
 							'/900316123-su-dung-tong-dai',
 						],
-					},
-					{
-						to: '/1954376476-gio-lam-viec',
-						from: ['/1954376476-gio-lam-viec'],
 					},
 					{
 						to: '/628554948-agent',
