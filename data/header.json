@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770632716901,
-  "updated": 1770632716901,
+  "fetched": 1770716929309,
+  "updated": 1770716929309,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -65,8 +65,8 @@
       ],
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
-      "modifiedTime": "2026-02-09T08:25:12.739Z",
-      "version": "67",
+      "modifiedTime": "2026-02-10T09:35:56.413Z",
+      "version": "90",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -134,6 +134,17 @@
       "modifiedTime": "2024-11-29T03:39:52.102Z",
       "version": "125",
       "path_lower": "/_90 Tổng đài điện thoại/3-rule-phan-phoi-cuoc-goi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
+      "name": "Pricing",
+      "modifiedTime": "2026-02-10T09:47:41.667Z",
+      "version": "29",
+      "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -231,7 +242,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-02-09T09:29:33.073Z",
-      "version": "178",
+      "version": "179",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -890,8 +901,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-01-24T06:53:52.215Z",
-      "version": "355",
+      "modifiedTime": "2026-02-10T03:13:51.154Z",
+      "version": "385",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -956,8 +967,8 @@
       ],
       "id": "1snn9j-9YC3BB_9K98xOO8XLLFdTk46EMz6xgfIWAgo4",
       "name": "_Đo lường chuyển đổi quảng cáo Facebook Ads ",
-      "modifiedTime": "2026-02-07T07:02:51.726Z",
-      "version": "443",
+      "modifiedTime": "2026-02-09T10:28:07.472Z",
+      "version": "447",
       "path_lower": "/1000 Tổng hợp/do-luong-chuyen-doi-quang-cao-facebook-ads"
     },
     {
