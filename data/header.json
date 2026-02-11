@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770795614815,
-  "updated": 1770795614815,
+  "fetched": 1770808227532,
+  "updated": 1770808227532,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -65,8 +65,8 @@
       ],
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
-      "modifiedTime": "2026-02-11T04:18:29.165Z",
-      "version": "109",
+      "modifiedTime": "2026-02-11T08:23:01.521Z",
+      "version": "119",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -142,8 +142,8 @@
       ],
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
-      "modifiedTime": "2026-02-11T07:35:58.885Z",
-      "version": "117",
+      "modifiedTime": "2026-02-11T10:49:56.380Z",
+      "version": "134",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -208,9 +208,20 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2025-12-24T06:37:47.619Z",
-      "version": "243",
+      "modifiedTime": "2026-02-11T11:08:40.882Z",
+      "version": "259",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
+      "name": "_Json",
+      "modifiedTime": "2026-02-11T10:55:38.563Z",
+      "version": "15",
+      "path_lower": "/1000 Tổng hợp/json"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -945,8 +956,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-02-09T07:10:58.155Z",
-      "version": "407",
+      "modifiedTime": "2026-02-11T09:33:20.761Z",
+      "version": "415",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
