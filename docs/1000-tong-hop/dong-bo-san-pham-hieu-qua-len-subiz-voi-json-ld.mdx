@@ -1,0 +1,87 @@
+---
+id: 706493308
+slug: /706493308-dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld
+title: Đồng bộ sản phẩm website với JSON-LD
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2026-02-12T10:34:42.286Z
+---
+
+# Đồng bộ sản phẩm website với JSON-LD
+
+## Json-ld là gì? {#json-ld-la-gi}
+
+
+<b>Json-ld</b> \(JavaScript Object Notation for Linked Data\) là một đoạn mã có cấu trúc, được chèn vào website để mô tả về sản phẩm, giúp các hệ thống \(như Google, Subiz\) hiểu được chính xác sản phẩm website đang bán.
+
+
+
+JSON-LD được dùng để quy phạm nhiều thông tin như sản phẩm, doanh nghiệp hay ưu đãi, … Tuy nhiên, JSON-LD về sản phẩm là quan trọng nhất, định nghĩa JSON-LD chi tiết cho một sản phẩm bạn có thể xem [tại đây](https://schema.org/Product).
+
+
+
+Ví dụ một đoạn mã JSON-LD cho sản phẩm "Điện thoại Xiaomi Redmi Note 13, giá 4.190.000đ"
+```
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Xiaomi Redmi Note 13 Pro 5G 8GB/128GB",
+  "image": "https://example.com/image.jpg",
+  "sku": "67677",
+  "description": "Snapdragon 7s Gen 2 - Màn hình AMOLED - Bảo hành 12 tháng",
+  "url": "https://example.com/san-pham",
+  "offers": {
+    "@type": "Offer",
+    "price": "4190000",
+    "priceCurrency": "VND",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+
+```
+
+## Tại sao website nên có JSON-LD {#tai-sao-website-nen-co-json-ld}
+
+
+Nếu website của bạn có JSON-LD như đoạn mã ở trên, [Google sẽ đánh giá cao website của bạn hơn](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=vi), tăng khả năng sản phẩm của bạn xuất hiện trên Google Shopping, AI Overview, Google Image product result, Google Lens.
+
+
+
+Ngoài ra, Subiz sẽ đồng bộ toàn bộ sản phẩm của bạn lên kho sản phẩm trên Subiz. Mỗi khi bạn cập nhật giá sản phẩm trên website, Subiz sẽ tự biết và cập nhật theo mà không cần bạn phải nhập tay lại trên giao diện Subiz.
+
+
+## Các trường thông tin bắt buộc {#cac-truong-thong-tin-bat-buoc}
+
+
+Về mô tả toàn bộ các trường thông tin khả dụng, bạn có thể xem tại đây, dưới đây chỉ liệt kê những trường tối thiểu bạn phải có để tính năng đồng bộ sản phẩm hoạt động:
+
+- <b>name</b>: Tên sản phẩm., ví dụ: "Iphone 16"
+- <b>sku</b>: Mã định danh duy nhất cho từng sản phẩm. Ví dụ: "135344", "iphon-16-b"
+- <b>price</b>: Giá sản phẩm \(phải để định dạng số, không chứa ký tự đặc biệt như dấu chấm, phẩy hay chữ "đ"\).
+- <b>image</b>: Link ảnh đại diện cho sản phẩm.
+- <b>url</b>: Link website mô tả chi tiết sản phẩm.
+- <b>availability</b>: Trạng thái hàng hóa \(Sẵn hàng/Hết hàng\)
+## FAQs {#faqs}
+
+#### Làm sao để biết website của tôi đã có json-ld? {#lam-sao-de-biet-website-cua-toi-da-co-json-ld}
+
+
+Để kiểm tra bạn thao tác như sau:
+
+- Tới link 1 sản phẩm cụ thể
+- Nhấn tổ hợp phím <b>Ctrl/cmd+U</b> hoặc nhấn chuột phải chọn <b>View Page Source</b>
+- Bấm <b>ctrl/cmd+F</b> để mở box tìm kiếm, gõ `json` hoặc `ld+json`
+#### Làm sao để cài json-ld lên website? {#lam-sao-de-cai-json-ld-len-website}
+
+
+Bạn liên hệ với quản trị viên website hoặc đơn vị phụ trách thiết kế website yêu cầu.
+#### Website của tôi đã có cấu trúc json-ld nhưng không lấy được sản phẩm nào khi đồng bộ lên Subiz {#website-cua-toi-da-co-cau-truc-json-ld-nhung-khong-lay-duoc-san-pham-nao-khi-ong-bo-len-subiz}
+
+
+Hãy chắc chắn rằng trong cấu trúc website đã có trường `"@type": "Product"`
+:::tip
+Dán <b>link một sản phẩm bất kỳ</b> vào công cụ [Rich Results Test](https://search.google.com/test/rich-results?authuser=2), nếu hiện trạng thái <b>Sản phẩm \(Product\)</b> màu xanh là website đã sẵn sàng đồng bộ lên Subiz.
+:::

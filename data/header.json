@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770808227532,
-  "updated": 1770808227532,
+  "fetched": 1770892574396,
+  "updated": 1770892574396,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -65,8 +65,8 @@
       ],
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
-      "modifiedTime": "2026-02-11T08:23:01.521Z",
-      "version": "119",
+      "modifiedTime": "2026-02-12T09:56:34.826Z",
+      "version": "142",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -143,7 +143,7 @@
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
       "modifiedTime": "2026-02-11T10:49:56.380Z",
-      "version": "134",
+      "version": "142",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -208,8 +208,8 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2026-02-11T11:08:40.882Z",
-      "version": "259",
+      "modifiedTime": "2026-02-12T07:19:52.946Z",
+      "version": "280",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
     },
     {
@@ -218,10 +218,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
-      "name": "_Json",
-      "modifiedTime": "2026-02-11T10:55:38.563Z",
-      "version": "15",
-      "path_lower": "/1000 Tổng hợp/json"
+      "name": "Đồng bộ sản phẩm hiệu quả lên Subiz với JSON-LD",
+      "modifiedTime": "2026-02-12T10:34:42.286Z",
+      "version": "101",
+      "path_lower": "/1000 Tổng hợp/dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -229,9 +229,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1HLgVhVOgdWs75bKovoGFNBWiSzkSEiYoWiKqkcqu7gg",
-      "name": "_Bật thông báo Subiz trên máy tính",
-      "modifiedTime": "2026-01-26T10:29:19.159Z",
-      "version": "11",
+      "name": "Bật thông báo Subiz trên máy tính",
+      "modifiedTime": "2026-02-12T09:56:10.193Z",
+      "version": "38",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-may-tinh"
     },
     {
@@ -262,9 +262,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1J7gT1rQrZ-Bvbsw0n_nE99WAKs7kjDcp6b7towJFQBE",
-      "name": "_Bật thông báo Subiz trên mobile",
-      "modifiedTime": "2026-01-26T10:29:41.133Z",
-      "version": "10",
+      "name": "Bật thông báo Subiz trên mobile",
+      "modifiedTime": "2026-02-12T10:30:17.084Z",
+      "version": "28",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-mobile"
     },
     {
@@ -462,7 +462,7 @@
       "id": "1UjfxpYSpVymxVgoKJUGWIr54LgAsRDeUXOZaiYDLCGk",
       "name": "Hoàn thành hội thoại là gì?",
       "modifiedTime": "2026-01-24T08:40:05.033Z",
-      "version": "19",
+      "version": "21",
       "path_lower": "/1000 Tổng hợp/hoan-thanh-hoi-thoai-la-gi"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-02-09T03:03:03.732Z",
-      "version": "132",
+      "version": "133",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -615,8 +615,8 @@
       ],
       "id": "1_qmSOHu1D7WnBDJf2QqdWByLBtP5gn-R-frHNP5YYgc",
       "name": "_Phân biệt Agent thành viên và agent phụ trách hội thoại",
-      "modifiedTime": "2026-01-28T11:08:04.476Z",
-      "version": "9",
+      "modifiedTime": "2026-02-12T10:35:26.018Z",
+      "version": "15",
       "path_lower": "/1000 Tổng hợp/phan-biet-agent-thanh-vien-va-agent-phu-trach-hoi-thoai"
     },
     {
@@ -831,6 +831,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1lWGTXE7KYl3Ui5PXtCWOBrSXRWWNKS1_ptDPMqfL-ys",
+      "name": "_ Mẫu  kịch bản Chatbot Auto",
+      "modifiedTime": "2026-02-12T10:34:35.342Z",
+      "version": "7",
+      "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
       ],
       "id": "1md_ZmnG3p8Fi4WV7W10Vdce7yasBUyNygffTq4sGrDM",
@@ -919,17 +930,6 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
-      ],
-      "id": "1pORF9Dh58nCSAWYAR4SoSj1faLCbNxHlPMuqYA1SEdU",
-      "name": "_Nháp List các bài cần viết",
-      "modifiedTime": "2026-02-07T07:52:47.972Z",
-      "version": "79",
-      "path_lower": "/1000 Tổng hợp/nhap-list-cac-bai-can-viet"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
@@ -937,6 +937,17 @@
       "modifiedTime": "2026-02-09T06:42:59.207Z",
       "version": "336",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
+      "name": "_ Tag và nhãn khác gì nhau",
+      "modifiedTime": "2026-02-12T10:34:11.348Z",
+      "version": "6",
+      "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -957,7 +968,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2026-02-11T09:33:20.761Z",
-      "version": "415",
+      "version": "423",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1066,8 +1077,8 @@
       ],
       "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
       "name": "6. Hỗ trợ khách trong Lễ Tết ",
-      "modifiedTime": "2025-07-03T08:20:31.015Z",
-      "version": "141",
+      "modifiedTime": "2026-02-12T10:12:00.064Z",
+      "version": "220",
       "path_lower": "/110 Ứng dụng nâng cao/6-ho-tro-khach-trong-le-tet"
     }
   ],
