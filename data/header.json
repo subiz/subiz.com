@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1770892574396,
-  "updated": 1770892574396,
+  "fetched": 1771262264026,
+  "updated": 1771262264026,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -65,8 +65,8 @@
       ],
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
-      "modifiedTime": "2026-02-12T09:56:34.826Z",
-      "version": "142",
+      "modifiedTime": "2026-02-13T03:49:20.212Z",
+      "version": "155",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
       "name": "Đồng bộ sản phẩm hiệu quả lên Subiz với JSON-LD",
-      "modifiedTime": "2026-02-12T10:34:42.286Z",
-      "version": "101",
+      "modifiedTime": "2026-02-12T10:35:59.029Z",
+      "version": "106",
       "path_lower": "/1000 Tổng hợp/dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld"
     },
     {
@@ -241,8 +241,8 @@
       ],
       "id": "1IfFLZyTbriE4cyBtHb1uBiA_u0k3lLQNaNh5x6Rodz8",
       "name": "7 Bàn giao dữ liệu",
-      "modifiedTime": "2026-02-02T09:35:21.926Z",
-      "version": "420",
+      "modifiedTime": "2026-02-13T04:07:23.664Z",
+      "version": "435",
       "path_lower": "/40 Quản lý làm việc nhóm/7-ban-giao-du-lieu"
     },
     {
@@ -264,7 +264,7 @@
       "id": "1J7gT1rQrZ-Bvbsw0n_nE99WAKs7kjDcp6b7towJFQBE",
       "name": "Bật thông báo Subiz trên mobile",
       "modifiedTime": "2026-02-12T10:30:17.084Z",
-      "version": "28",
+      "version": "30",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-mobile"
     },
     {
@@ -527,8 +527,8 @@
       ],
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
-      "modifiedTime": "2026-02-09T03:03:03.732Z",
-      "version": "133",
+      "modifiedTime": "2026-02-12T10:40:59.931Z",
+      "version": "146",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -594,7 +594,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-11-05T08:29:40.964Z",
-      "version": "453",
+      "version": "454",
       "path_lower": "/_90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -615,8 +615,8 @@
       ],
       "id": "1_qmSOHu1D7WnBDJf2QqdWByLBtP5gn-R-frHNP5YYgc",
       "name": "_Phân biệt Agent thành viên và agent phụ trách hội thoại",
-      "modifiedTime": "2026-02-12T10:35:26.018Z",
-      "version": "15",
+      "modifiedTime": "2026-02-12T10:35:42.887Z",
+      "version": "18",
       "path_lower": "/1000 Tổng hợp/phan-biet-agent-thanh-vien-va-agent-phu-trach-hoi-thoai"
     },
     {
@@ -725,8 +725,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-02-09T03:37:40.768Z",
-      "version": "935",
+      "modifiedTime": "2026-02-13T02:39:15.007Z",
+      "version": "942",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -1045,7 +1045,7 @@
       "id": "1vUk76fP4g-JbKbZOzSp3x0hXTD6huvgOp_0TSMIn8y4",
       "name": "_1. Mẫu tin nhắn ZNS",
       "modifiedTime": "2026-01-22T07:01:09.306Z",
-      "version": "102",
+      "version": "105",
       "path_lower": "/100 Marketing/1-mau-tin-nhan-zns"
     },
     {
