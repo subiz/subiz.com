@@ -5,7 +5,7 @@ title: Rule phân phối mẫu trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-02-03T09:37:23.805Z
+  date: 2026-02-24T08:01:59.996Z
 ---
 
 # Rule phân phối mẫu trên Subiz
@@ -41,7 +41,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
 - <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
-### Rule phân phối theo thời gian làm việc {#rule-phan-phoi-theo-thoi-gian-lam-viec}
+### Rule phân phối trong giờ làm việc và ngoài giờ làm việc {#rule-phan-phoi-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
 
 
 <b>Tình huống</b>: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
@@ -52,10 +52,18 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
+### Rule phân phối theo giờ cụ thể  {#rule-phan-phoi-theo-gio-cu-the}
+
+
+<b>Tình huống:</b> Doanh nghiệp muốn phân công cho agent A phụ trách chat khung giờ từ 22:00 thứ Sáu tới 12:00 thứ Bảy.
+
+
+
+<b>Giải pháp:</b> Tạo Rule phân phối, thêm điều kiện thời gian tuỳ chỉnh là thứ Sáu từ 22:00 tới 12:00 ngày hôm sau, chọn phân phối cho agent A. 
 ### Rule phân phối theo ca trực  {#rule-phan-phoi-theo-ca-truc}
 
 
-<b>Tình huống</b>: Doanh nghiệp phân công mỗi ngày một agent trực chat \(ví dụ agent A trực hôm nay, agent B trực ngày mai\). Yêu cầu hệ thống tự động phân phối hội thoại cho agent tới ca trực. 
+<b>Tình huống</b>: Doanh nghiệp phân công mỗi ngày một agent trực chat \(ví dụ agent A trực hôm nay, agent B trực ngày mai\). Yêu cầu hệ thống tự động phân phối hội thoại cho agent theo ca trực. 
 
 
 
