@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1772125581215,
-  "updated": 1772125581215,
+  "fetched": 1772158606681,
+  "updated": 1772158606681,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -143,7 +143,7 @@
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
       "modifiedTime": "2026-02-26T04:35:47.565Z",
-      "version": "179",
+      "version": "181",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -307,8 +307,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-02-09T07:12:27.292Z",
-      "version": "453",
+      "modifiedTime": "2026-02-27T02:14:00.642Z",
+      "version": "467",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -946,7 +946,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "_ Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-02-12T10:34:11.348Z",
-      "version": "14",
+      "version": "16",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
