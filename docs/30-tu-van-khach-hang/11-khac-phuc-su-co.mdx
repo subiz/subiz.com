@@ -5,7 +5,7 @@ title: Khắc phục sự cố
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-02-26T03:54:43.378Z
+  date: 2026-02-28T09:03:02.030Z
 ---
 
 # Khắc phục sự cố
@@ -36,6 +36,22 @@ Cần kiểm tra trạng thái kết nối của fanpage về Subiz, có thể �
 Inspect \(F12\) để kiểm tra đã nhúng thành công mã code Subiz trên website hay chưa? Nếu đã lưu mà bị mất mã code, cần báo quản trị viên website kiểm tra xem có đang sử dụng plugin ngầm nào hay không.
 ## Kênh Fanpage {#kenh-fanpage}
 
+### Không thể kết nối Fanpage {#khong-the-ket-noi-fanpage}
+
+
+Không thể kết nối Fanpage vào Subiz, thông báo ‘1’ 
+
+- Nguyên nhân: Hết hạn token kết nối
+- Khắc phục: Đổi tài khoản Facebook Admin khác để tích hợp Fanpage
+
+
+
+Không thể kết nối Fanpage, báo ‘Sorry. Something went wrong’
+
+- Nguyên nhân: Tài khoản Facebook Admin hiện không có quyền tích hợp Fanpage
+- Khắc phục: Đổi tài khoản Facebook Admin khác để tích hợp Fanpage
+### Thông báo lỗi thường gặp trên kênh Fanpage  {#thong-bao-loi-thuong-gap-tren-kenh-fanpage}
+
 
 
 
@@ -50,6 +66,7 @@ Inspect \(F12\) để kiểm tra đã nhúng thành công mã code Subiz trên w
 |facebook doesn't receive the message|Nền tảng Messenger bị lỗi, chập chờn. Vui lòng chờ giây lát và thử lại|
 |\#10: Không gửi được tin do ứng dụng khác kiểm soát|Sai cấu hình chuyển giao. Vào Cài đặt Fanpage &gt; Tin nhắn nâng cao &gt; Chọn Subiz làm "Người nhận chính".|
 |Không tìm thấy Fanpage|Meta thay đổi hệ thống làm ngắt kết nối tới Subiz. Tích hợp lại Fanpage: Vào Subiz &gt; Cài đặt &gt; Tích hợp Facebook để kết nối lại.|
+|Kết nối Fanpage gián đoạn|Fanpage ngắt kết nối với Subiz. Tích hợp lại Fanpage: Vào Subiz &gt; Cài đặt &gt; Tích hợp Facebook để kết nối lại.|
 
 
 
@@ -95,11 +112,14 @@ Cần liên hệ quản lý để xử lý cấp quyền, mua gói dịch vụ Z
 |Lỗi gửi tin nhắn vui lòng thử lại sau.<br /><br />\{"error":-224,"message":"The OA needs to upgrade OA Tier Package to use this feature. See more on [https://zalo.cloud/oa/pricing](https://zalo.cloud/oa/pricing)|Tài khoản Zalo OA doanh nghiệp đến kỳ thanh toán. Vui lòng báo quản lý mua gói cho tài khoản Zalo OA doanh nghiệp.|
 |-321, Zalo Cloud Account associated with this app is out of money or unable to be charged|Tài khoản Zalo Cloud \(ZCA\) liên kết với OA đã hết tiền \(không đủ số dư\). Vui lòng nạp tiền tài khoản Zalo Cloud.|
 |Lỗi gửi tin nhắn ZBS|Nhấn vào thông báo lỗi xem nguyên nhân, điều chỉnh và gửi lại ZBS|
+|Kết nối Zalo OA gián đoạn|Zalo OA ngắt kết nối với Subiz. Tích hợp lại Zalo OA: Vào Subiz &gt; Cài đặt &gt; Tích hợp Zalo OA để kết nối lại.|
 
 
 
 
-Với những thông báo lỗi chung chung: Lỗi gửi tin nhắn. Vui lòng thử lại sau ?, hãy nhấn vào dấu hỏi chấm để check chi tiết lỗi.
+Với những thông báo lỗi chung chung: Lỗi gửi tin nhắn. Vui lòng thử lại sau ?, hãy nhấn vào dấu hỏi chấm để xem chi tiết lỗi.
+
+
 ## Cuộc gọi tổng đài {#cuoc-goi-tong-dai}
 
 #### Số điện thoại không gọi ra được cho tất cả khách hàng. {#so-dien-thoai-khong-goi-ra-duoc-cho-tat-ca-khach-hang}
@@ -112,4 +132,3 @@ Bạn cần check với nhà cung cấp số điện thoại xem có đang bị 
 
 
 Có thể khách hàng chặn cuộc gọi, hãy gọi test tới số cá nhân. Cân nhắc đăng ký dịch vụ brandname để tăng độ uy tín, tránh bị đánh số điện thoại spam.
-## Tải tài liệu lên Subiz {#tai-tai-lieu-len-subiz}

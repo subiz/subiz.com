@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1772158606681,
-  "updated": 1772158606681,
+  "fetched": 1772269420244,
+  "updated": 1772269420244,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
-      "modifiedTime": "2026-02-26T03:44:32.317Z",
-      "version": "109",
+      "modifiedTime": "2026-02-28T04:53:50.247Z",
+      "version": "114",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Auto Chatbot",
-      "modifiedTime": "2026-02-04T02:32:59.756Z",
-      "version": "481",
+      "modifiedTime": "2026-02-27T08:37:54.734Z",
+      "version": "488",
       "path_lower": "/50 Tự động hóa/10-auto-chatbot"
     },
     {
@@ -94,6 +94,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "12RBUIBB81d3lLjJz-RC4HnP4Ks0w-2LNZ9xQXoyrVm0",
+      "name": "_10. Auto Chatbot",
+      "modifiedTime": "2026-02-27T09:08:08.595Z",
+      "version": "25",
+      "path_lower": "/50 Tự động hóa/10-auto-chatbot"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
@@ -121,7 +132,7 @@
       "id": "17sNt5a8-Op6VdjKTzSAqwEdNdystBvwBZGFE-dU-qzM",
       "name": "6.5 Thống kê phiếu ghi",
       "modifiedTime": "2025-12-18T08:59:22.220Z",
-      "version": "55",
+      "version": "56",
       "path_lower": "/80 Thống kê báo cáo/6-5-thong-ke-phieu-ghi"
     },
     {
@@ -143,7 +154,7 @@
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
       "modifiedTime": "2026-02-26T04:35:47.565Z",
-      "version": "181",
+      "version": "182",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -153,8 +164,8 @@
       ],
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
-      "modifiedTime": "2025-12-22T04:16:43.354Z",
-      "version": "86",
+      "modifiedTime": "2026-02-27T02:55:07.842Z",
+      "version": "92",
       "path_lower": "/80 Thống kê báo cáo/6-4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -165,7 +176,7 @@
       "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
       "name": "2. Tích hợp Zalo Cloud Connect",
       "modifiedTime": "2026-01-09T02:04:05.605Z",
-      "version": "217",
+      "version": "219",
       "path_lower": "/_90 Tổng đài điện thoại/2-tich-hop-zalo-cloud-connect"
     },
     {
@@ -252,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-02-26T03:54:43.378Z",
-      "version": "198",
+      "modifiedTime": "2026-02-28T09:03:02.030Z",
+      "version": "221",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -307,8 +318,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-02-27T02:14:00.642Z",
-      "version": "467",
+      "modifiedTime": "2026-02-27T02:29:30.966Z",
+      "version": "478",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -330,7 +341,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2025-12-17T08:54:17.919Z",
-      "version": "221",
+      "version": "228",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -671,7 +682,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
       "modifiedTime": "2026-02-09T07:11:40.488Z",
-      "version": "673",
+      "version": "675",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -739,6 +750,17 @@
       "modifiedTime": "2026-01-22T03:22:12.091Z",
       "version": "348",
       "path_lower": "/10 Làm quen với Subiz/1-bang-tinh-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
+      "name": "_ Mẫu kịch bản Chu trình ",
+      "modifiedTime": "2026-02-27T10:20:39.582Z",
+      "version": "11",
+      "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -869,7 +891,7 @@
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "_Chu trình",
       "modifiedTime": "2026-02-03T07:47:26.250Z",
-      "version": "80",
+      "version": "82",
       "path_lower": "/50 Tự động hóa/chu-trinh"
     },
     {
@@ -923,8 +945,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-02-25T10:02:52.916Z",
-      "version": "392",
+      "modifiedTime": "2026-02-28T07:55:11.729Z",
+      "version": "402",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -935,7 +957,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
       "modifiedTime": "2026-02-26T01:53:49.698Z",
-      "version": "339",
+      "version": "341",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -946,7 +968,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "_ Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-02-12T10:34:11.348Z",
-      "version": "16",
+      "version": "19",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -967,8 +989,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-02-26T02:50:25.548Z",
-      "version": "448",
+      "modifiedTime": "2026-02-27T09:03:03.712Z",
+      "version": "485",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1056,7 +1078,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "451",
+      "version": "453",
       "path_lower": "/readme"
     },
     {
