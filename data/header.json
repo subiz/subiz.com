@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1772269420244,
-  "updated": 1772269420244,
+  "fetched": 1772421601749,
+  "updated": 1772421601749,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -33,7 +33,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Tích hợp đầu số",
       "modifiedTime": "2026-01-09T03:39:43.469Z",
-      "version": "977",
+      "version": "978",
       "path_lower": "/_90 Tổng đài điện thoại/1-tich-hop-dau-so"
     },
     {
@@ -55,7 +55,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Auto Chatbot",
       "modifiedTime": "2026-02-27T08:37:54.734Z",
-      "version": "488",
+      "version": "491",
       "path_lower": "/50 Tự động hóa/10-auto-chatbot"
     },
     {
@@ -97,10 +97,10 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "12RBUIBB81d3lLjJz-RC4HnP4Ks0w-2LNZ9xQXoyrVm0",
-      "name": "_10. Auto Chatbot",
-      "modifiedTime": "2026-02-27T09:08:08.595Z",
-      "version": "25",
-      "path_lower": "/50 Tự động hóa/10-auto-chatbot"
+      "name": "_Auto Chatbot",
+      "modifiedTime": "2026-03-02T03:17:58.968Z",
+      "version": "32",
+      "path_lower": "/50 Tự động hóa/auto-chatbot"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -143,7 +143,7 @@
       "id": "18tKj8WjsdCwJaJStiqQmHMdz-D9KIyyGsyz2MfLQYo4",
       "name": "3. Rule phân phối cuộc gọi",
       "modifiedTime": "2024-11-29T03:39:52.102Z",
-      "version": "125",
+      "version": "126",
       "path_lower": "/_90 Tổng đài điện thoại/3-rule-phan-phoi-cuoc-goi"
     },
     {
@@ -176,7 +176,7 @@
       "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
       "name": "2. Tích hợp Zalo Cloud Connect",
       "modifiedTime": "2026-01-09T02:04:05.605Z",
-      "version": "219",
+      "version": "220",
       "path_lower": "/_90 Tổng đài điện thoại/2-tich-hop-zalo-cloud-connect"
     },
     {
@@ -242,7 +242,7 @@
       "id": "1HLgVhVOgdWs75bKovoGFNBWiSzkSEiYoWiKqkcqu7gg",
       "name": "Bật thông báo Subiz trên máy tính",
       "modifiedTime": "2026-02-12T09:56:10.193Z",
-      "version": "38",
+      "version": "40",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-may-tinh"
     },
     {
@@ -263,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-02-28T09:03:02.030Z",
-      "version": "221",
+      "modifiedTime": "2026-02-28T09:03:09.781Z",
+      "version": "227",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "_4. Chiến dịch telesales",
       "modifiedTime": "2026-01-08T09:03:13.432Z",
-      "version": "173",
+      "version": "174",
       "path_lower": "/_90 Tổng đài điện thoại/4-chien-dich-telesales"
     },
     {
@@ -385,7 +385,7 @@
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
       "modifiedTime": "2025-04-03T03:40:06.817Z",
-      "version": "110",
+      "version": "111",
       "path_lower": "/_90 Tổng đài điện thoại/5-quan-ly-nhieu-tong-dai"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Rule phân phối mẫu trên Subiz",
       "modifiedTime": "2026-02-24T08:01:59.996Z",
-      "version": "243",
+      "version": "245",
       "path_lower": "/1000 Tổng hợp/rule-phan-phoi-mau-tren-subiz"
     },
     {
@@ -605,7 +605,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-11-05T08:29:40.964Z",
-      "version": "454",
+      "version": "455",
       "path_lower": "/_90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -857,8 +857,8 @@
       ],
       "id": "1lWGTXE7KYl3Ui5PXtCWOBrSXRWWNKS1_ptDPMqfL-ys",
       "name": "_ Mẫu  kịch bản Chatbot Auto",
-      "modifiedTime": "2026-02-12T10:34:35.342Z",
-      "version": "10",
+      "modifiedTime": "2026-03-02T03:16:18.557Z",
+      "version": "27",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
     },
     {
@@ -968,7 +968,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "_ Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-02-12T10:34:11.348Z",
-      "version": "19",
+      "version": "21",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1078,7 +1078,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "453",
+      "version": "456",
       "path_lower": "/readme"
     },
     {
