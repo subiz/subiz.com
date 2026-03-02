@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1772421601749,
-  "updated": 1772421601749,
+  "fetched": 1772449629798,
+  "updated": 1772449629798,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -55,7 +55,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Auto Chatbot",
       "modifiedTime": "2026-02-27T08:37:54.734Z",
-      "version": "491",
+      "version": "493",
       "path_lower": "/50 Tự động hóa/10-auto-chatbot"
     },
     {
@@ -99,7 +99,7 @@
       "id": "12RBUIBB81d3lLjJz-RC4HnP4Ks0w-2LNZ9xQXoyrVm0",
       "name": "_Auto Chatbot",
       "modifiedTime": "2026-03-02T03:17:58.968Z",
-      "version": "32",
+      "version": "34",
       "path_lower": "/50 Tự động hóa/auto-chatbot"
     },
     {
@@ -153,8 +153,8 @@
       ],
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
-      "modifiedTime": "2026-02-26T04:35:47.565Z",
-      "version": "182",
+      "modifiedTime": "2026-03-02T10:18:42.864Z",
+      "version": "196",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -264,7 +264,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-02-28T09:03:09.781Z",
-      "version": "227",
+      "version": "230",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Rule phân phối mẫu trên Subiz",
       "modifiedTime": "2026-02-24T08:01:59.996Z",
-      "version": "245",
+      "version": "247",
       "path_lower": "/1000 Tổng hợp/rule-phan-phoi-mau-tren-subiz"
     },
     {
@@ -858,7 +858,7 @@
       "id": "1lWGTXE7KYl3Ui5PXtCWOBrSXRWWNKS1_ptDPMqfL-ys",
       "name": "_ Mẫu  kịch bản Chatbot Auto",
       "modifiedTime": "2026-03-02T03:16:18.557Z",
-      "version": "27",
+      "version": "29",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-02-27T09:03:03.712Z",
-      "version": "485",
+      "modifiedTime": "2026-03-02T11:00:32.649Z",
+      "version": "492",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1078,7 +1078,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-01-19T08:27:13.441Z",
-      "version": "456",
+      "version": "457",
       "path_lower": "/readme"
     },
     {
