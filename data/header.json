@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773079776777,
-  "updated": 1773079776777,
+  "fetched": 1773159512977,
+  "updated": 1773159512977,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -182,6 +182,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1EQ-FqfIR9kA5-g-C_4H4ExpRUSEWN6BXN25mtXKoyrY",
+      "name": "_ Tính năng tính phí riêng",
+      "modifiedTime": "2026-03-10T09:58:50.685Z",
+      "version": "8",
+      "path_lower": "/1000 Tổng hợp/tinh-nang-tinh-phi-rieng"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE"
       ],
       "id": "1EX57pG0Jx9dUyaWQDEwoBRcNCkiC71lEYBxSxI9ZwAI",
@@ -252,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-03-09T09:51:29.209Z",
-      "version": "341",
+      "modifiedTime": "2026-03-10T04:57:09.429Z",
+      "version": "348",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -527,8 +538,8 @@
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2026-03-09T09:28:51.604Z",
-      "version": "699",
+      "modifiedTime": "2026-03-10T04:26:37.149Z",
+      "version": "742",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -682,7 +693,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
       "modifiedTime": "2026-02-09T07:11:40.488Z",
-      "version": "675",
+      "version": "678",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -813,8 +824,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2026-02-07T06:52:34.707Z",
-      "version": "202",
+      "modifiedTime": "2026-03-10T03:25:18.567Z",
+      "version": "217",
       "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
@@ -946,7 +957,7 @@
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
       "modifiedTime": "2026-03-06T09:43:58.159Z",
-      "version": "421",
+      "version": "423",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -956,8 +967,8 @@
       ],
       "id": "1pHUxvbIf_zatPYj9kuWnMBK85qNExjLLgu1hiU1PpJ8",
       "name": "Đọc mail báo cáo hoạt động hàng tuần trên Subiz",
-      "modifiedTime": "2026-03-09T08:56:21.600Z",
-      "version": "73",
+      "modifiedTime": "2026-03-10T09:59:14.040Z",
+      "version": "83",
       "path_lower": "/1000 Tổng hợp/doc-mail-bao-cao-hoat-dong-hang-tuan-tren-subiz"
     },
     {
@@ -979,7 +990,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "_ Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-02-12T10:34:11.348Z",
-      "version": "21",
+      "version": "23",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1100,7 +1111,7 @@
       "id": "1yLfKCTQCzEFiJxuVGTGI5W80fh4edHGVxeDv2OXaK70",
       "name": "_Hồ sơ khách hàng (ND cũ)",
       "modifiedTime": "2026-01-14T11:35:17.195Z",
-      "version": "94",
+      "version": "96",
       "path_lower": "/60 Quản lý khách hàng/ho-so-khach-hang-nd-cu"
     },
     {
