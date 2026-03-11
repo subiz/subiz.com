@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773159512977,
-  "updated": 1773159512977,
+  "fetched": 1773225152626,
+  "updated": 1773225152626,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -66,7 +66,7 @@
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
       "modifiedTime": "2026-02-13T03:49:20.212Z",
-      "version": "156",
+      "version": "158",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -143,7 +143,7 @@
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
       "modifiedTime": "2026-03-09T08:16:55.432Z",
-      "version": "306",
+      "version": "311",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2026-02-25T08:00:59.324Z",
-      "version": "300",
+      "modifiedTime": "2026-03-11T10:07:22.485Z",
+      "version": "306",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
     },
     {
@@ -963,13 +963,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1pHUxvbIf_zatPYj9kuWnMBK85qNExjLLgu1hiU1PpJ8",
-      "name": "Đọc mail báo cáo hoạt động hàng tuần trên Subiz",
-      "modifiedTime": "2026-03-10T09:59:14.040Z",
-      "version": "83",
-      "path_lower": "/1000 Tổng hợp/doc-mail-bao-cao-hoat-dong-hang-tuan-tren-subiz"
+      "name": "6.6 Mail báo cáo hoạt động hàng tuần",
+      "modifiedTime": "2026-03-11T10:03:09.169Z",
+      "version": "118",
+      "path_lower": "/80 Thống kê báo cáo/6-6-mail-bao-cao-hoat-dong-hang-tuan"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -978,8 +978,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-03-09T10:27:45.803Z",
-      "version": "350",
+      "modifiedTime": "2026-03-11T10:26:34.945Z",
+      "version": "370",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
