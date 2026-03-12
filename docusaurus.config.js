@@ -24,10 +24,6 @@ const config = {
 			{
 				redirects: [
 					{
-						to: '/42911075-tich-hop-app-mobile',
-						from: [],
-					},
-					{
 						to: '/115690085-khac-phuc-su-co',
 						from: [
 							'/344116404-xu-ly-loi-tong-dai',
