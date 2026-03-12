@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "fetched": 1773225152626,
-  "updated": 1773225152626,
+  "fetched": 1773311516956,
+  "updated": 1773311516956,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
-      "modifiedTime": "2025-12-17T07:12:57.474Z",
-      "version": "349",
-      "path_lower": "/110 Ứng dụng nâng cao/3-quan-ly-nhieu-website"
+      "modifiedTime": "2026-03-12T10:30:36.666Z",
+      "version": "354",
+      "path_lower": "/1000 Tổng hợp/3-quan-ly-nhieu-website"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -142,8 +142,8 @@
       ],
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
-      "modifiedTime": "2026-03-09T08:16:55.432Z",
-      "version": "311",
+      "modifiedTime": "2026-03-12T08:49:28.352Z",
+      "version": "347",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -219,8 +219,8 @@
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
       "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2026-03-11T10:07:22.485Z",
-      "version": "306",
+      "modifiedTime": "2026-03-12T03:16:13.987Z",
+      "version": "315",
       "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
     },
     {
@@ -303,13 +303,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "147",
-      "path_lower": "/110 Ứng dụng nâng cao/2-tu-dong-thu-thap-thong-tin-khach"
+      "version": "150",
+      "path_lower": "/1000 Tổng hợp/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -435,13 +435,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "4. Quản lý nhiều Fanpage",
-      "modifiedTime": "2026-01-21T04:23:40.419Z",
-      "version": "414",
-      "path_lower": "/110 Ứng dụng nâng cao/4-quan-ly-nhieu-fanpage"
+      "modifiedTime": "2026-03-12T10:30:46.724Z",
+      "version": "422",
+      "path_lower": "/1000 Tổng hợp/4-quan-ly-nhieu-fanpage"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -527,8 +527,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-02-02T03:30:20.586Z",
-      "version": "185",
+      "modifiedTime": "2026-03-12T10:18:05.252Z",
+      "version": "203",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -692,8 +692,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-02-09T07:11:40.488Z",
-      "version": "678",
+      "modifiedTime": "2026-03-12T09:06:31.023Z",
+      "version": "700",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -723,17 +723,6 @@
       "parents": [
         "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
       ],
-      "id": "1eTU8hvkLGJk8tCKbCQEAgTKbD6KMlJvDa07a5R2lg8E",
-      "name": "_14. Đồng bộ chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-02-02T07:51:32.721Z",
-      "version": "60",
-      "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
-      ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
       "modifiedTime": "2026-01-29T06:52:36.300Z",
@@ -747,8 +736,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-02-13T02:39:15.007Z",
-      "version": "942",
+      "modifiedTime": "2026-03-12T07:01:23.412Z",
+      "version": "952",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -798,13 +787,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1hGcbZOEllQ9LgCU3X1H8EwNjqGHXZ_t01NWidTnkNEk",
       "name": "10. Tích hợp app mobile",
       "modifiedTime": "2026-01-08T09:38:43.228Z",
-      "version": "126",
-      "path_lower": "/110 Ứng dụng nâng cao/10-tich-hop-app-mobile"
+      "version": "129",
+      "path_lower": "/1000 Tổng hợp/10-tich-hop-app-mobile"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -820,13 +809,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "7. Phiếu ghi chăm sóc khách hàng",
       "modifiedTime": "2026-03-10T03:25:18.567Z",
-      "version": "217",
-      "path_lower": "/110 Ứng dụng nâng cao/7-phieu-ghi-cham-soc-khach-hang"
+      "version": "221",
+      "path_lower": "/40 Quản lý làm việc nhóm/7-phieu-ghi-cham-soc-khach-hang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -941,13 +930,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
       "modifiedTime": "2026-01-29T10:11:38.938Z",
-      "version": "202",
-      "path_lower": "/110 Ứng dụng nâng cao/8-sdk-tuy-chinh-cua-so-chat"
+      "version": "205",
+      "path_lower": "/1000 Tổng hợp/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -963,13 +952,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1pHUxvbIf_zatPYj9kuWnMBK85qNExjLLgu1hiU1PpJ8",
-      "name": "6.6 Mail báo cáo hoạt động hàng tuần",
-      "modifiedTime": "2026-03-11T10:03:09.169Z",
-      "version": "118",
-      "path_lower": "/80 Thống kê báo cáo/6-6-mail-bao-cao-hoat-dong-hang-tuan"
+      "name": "Mail báo cáo hoạt động hàng tuần ",
+      "modifiedTime": "2026-03-12T10:05:34.387Z",
+      "version": "126",
+      "path_lower": "/1000 Tổng hợp/mail-bao-cao-hoat-dong-hang-tuan"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -979,7 +968,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
       "modifiedTime": "2026-03-11T10:26:34.945Z",
-      "version": "370",
+      "version": "371",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -996,13 +985,13 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
-        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "12. Google Analytics và Subiz",
       "modifiedTime": "2025-12-19T09:13:44.935Z",
-      "version": "188",
-      "path_lower": "/110 Ứng dụng nâng cao/12-google-analytics-va-subiz"
+      "version": "191",
+      "path_lower": "/1000 Tổng hợp/12-google-analytics-va-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1011,8 +1000,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-03-06T08:06:10.018Z",
-      "version": "508",
+      "modifiedTime": "2026-03-12T04:13:59.599Z",
+      "version": "518",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1025,17 +1014,6 @@
       "modifiedTime": "2025-07-03T08:03:49.713Z",
       "version": "120",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
-      ],
-      "id": "1snn9j-9YC3BB_9K98xOO8XLLFdTk46EMz6xgfIWAgo4",
-      "name": "_Đo lường chuyển đổi quảng cáo Facebook Ads ",
-      "modifiedTime": "2026-02-25T10:22:57.357Z",
-      "version": "542",
-      "path_lower": "/1000 Tổng hợp/do-luong-chuyen-doi-quang-cao-facebook-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1058,6 +1036,17 @@
       "modifiedTime": "2026-03-09T04:14:34.824Z",
       "version": "287",
       "path_lower": "/60 Quản lý khách hàng/2-khach-tiem-nang"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1uSsorVGzmJVkwVrVxCvH5nco4IOZtI3S_IV2S0QmUPY",
+      "name": "_ 14. Đồng bộ chuyển đổi Facebook Ads",
+      "modifiedTime": "2026-03-12T10:16:18.489Z",
+      "version": "8",
+      "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
