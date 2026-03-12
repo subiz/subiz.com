@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773314174302,
-  "updated": 1773314174302,
+  "fetched": 1773314840839,
+  "updated": 1773314840839,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -528,7 +528,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2026-03-12T10:59:29.466Z",
-      "version": "210",
+      "version": "211",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -813,8 +813,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "8. Phiếu ghi (ticket)",
-      "modifiedTime": "2026-03-12T11:12:53.276Z",
-      "version": "233",
+      "modifiedTime": "2026-03-12T11:24:56.179Z",
+      "version": "236",
       "path_lower": "/40 Quản lý làm việc nhóm/8-phieu-ghi-ticket"
     },
     {
