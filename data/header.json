@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773311516956,
-  "updated": 1773311516956,
+  "fetched": 1773313170382,
+  "updated": 1773313170382,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,7 +11,7 @@
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
       "modifiedTime": "2026-03-12T10:30:36.666Z",
-      "version": "354",
+      "version": "356",
       "path_lower": "/1000 Tổng hợp/3-quan-ly-nhieu-website"
     },
     {
@@ -440,7 +440,7 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "4. Quản lý nhiều Fanpage",
       "modifiedTime": "2026-03-12T10:30:46.724Z",
-      "version": "422",
+      "version": "423",
       "path_lower": "/1000 Tổng hợp/4-quan-ly-nhieu-fanpage"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2026-03-12T10:18:05.252Z",
-      "version": "203",
+      "version": "204",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -725,8 +725,8 @@
       ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
-      "modifiedTime": "2026-01-29T06:52:36.300Z",
-      "version": "272",
+      "modifiedTime": "2026-03-12T10:58:29.159Z",
+      "version": "276",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -812,10 +812,10 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
-      "name": "7. Phiếu ghi chăm sóc khách hàng",
-      "modifiedTime": "2026-03-10T03:25:18.567Z",
-      "version": "221",
-      "path_lower": "/40 Quản lý làm việc nhóm/7-phieu-ghi-cham-soc-khach-hang"
+      "name": "8. Phiếu ghi (ticket)",
+      "modifiedTime": "2026-03-12T10:32:45.747Z",
+      "version": "227",
+      "path_lower": "/40 Quản lý làm việc nhóm/8-phieu-ghi-ticket"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1045,7 +1045,7 @@
       "id": "1uSsorVGzmJVkwVrVxCvH5nco4IOZtI3S_IV2S0QmUPY",
       "name": "_ 14. Đồng bộ chuyển đổi Facebook Ads",
       "modifiedTime": "2026-03-12T10:16:18.489Z",
-      "version": "8",
+      "version": "9",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {

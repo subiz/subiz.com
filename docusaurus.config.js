@@ -24,6 +24,10 @@ const config = {
 			{
 				redirects: [
 					{
+						to: '/587325543-phieu-ghi-ticket',
+						from: ['/587325543-phieu-ghi-cham-soc-khach-hang'],
+					},
+					{
 						to: '/115690085-khac-phuc-su-co',
 						from: [
 							'/344116404-xu-ly-loi-tong-dai',
