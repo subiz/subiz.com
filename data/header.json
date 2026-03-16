@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773592642142,
-  "updated": 1773592642142,
+  "fetched": 1773650697303,
+  "updated": 1773650697303,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -143,7 +143,7 @@
       "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
       "name": "_Pricing",
       "modifiedTime": "2026-03-12T08:49:28.352Z",
-      "version": "347",
+      "version": "349",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -186,8 +186,8 @@
       ],
       "id": "1EQ-FqfIR9kA5-g-C_4H4ExpRUSEWN6BXN25mtXKoyrY",
       "name": "_ Tính năng tính phí riêng",
-      "modifiedTime": "2026-03-10T09:58:50.685Z",
-      "version": "9",
+      "modifiedTime": "2026-03-16T08:42:22.953Z",
+      "version": "28",
       "path_lower": "/1000 Tổng hợp/tinh-nang-tinh-phi-rieng"
     },
     {
@@ -671,7 +671,7 @@
       "id": "1bHIcuEd7_V20EWstutZERJOxBj_zduryX3139KX6aJk",
       "name": "_Hỏi thăm lại thông minh dùng workflow",
       "modifiedTime": "2026-02-02T10:54:29.861Z",
-      "version": "78",
+      "version": "80",
       "path_lower": "/1000 Tổng hợp/hoi-tham-lai-thong-minh-dung-workflow"
     },
     {
@@ -759,7 +759,7 @@
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
       "modifiedTime": "2026-02-27T10:20:39.582Z",
-      "version": "11",
+      "version": "13",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -813,8 +813,8 @@
       ],
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "8. Phiếu ghi (ticket)",
-      "modifiedTime": "2026-03-12T11:26:17.421Z",
-      "version": "239",
+      "modifiedTime": "2026-03-16T02:12:58.074Z",
+      "version": "246",
       "path_lower": "/40 Quản lý làm việc nhóm/8-phieu-ghi-ticket"
     },
     {
@@ -835,8 +835,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-03-03T10:13:11.048Z",
-      "version": "817",
+      "modifiedTime": "2026-03-16T07:55:15.076Z",
+      "version": "856",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -889,10 +889,10 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
-      "name": "_Chu trình",
-      "modifiedTime": "2026-02-03T07:47:26.250Z",
-      "version": "82",
-      "path_lower": "/50 Tự động hóa/chu-trinh"
+      "name": "22. Chu trình",
+      "modifiedTime": "2026-03-16T08:00:07.181Z",
+      "version": "98",
+      "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -901,8 +901,8 @@
       ],
       "id": "1nOazVFOV_CWWlDBMmM4v3zjviFPvcZpnRUNlt4Wyq2M",
       "name": "6. Cài đặt thông báo",
-      "modifiedTime": "2026-01-26T10:33:16.550Z",
-      "version": "56",
+      "modifiedTime": "2026-03-16T02:06:51.172Z",
+      "version": "63",
       "path_lower": "/30 Tư vấn khách hàng/6-cai-dat-thong-bao"
     },
     {
@@ -967,8 +967,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-03-13T04:23:02.969Z",
-      "version": "404",
+      "modifiedTime": "2026-03-16T04:42:24.275Z",
+      "version": "426",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -977,9 +977,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
-      "name": "_ Tag và nhãn khác gì nhau",
-      "modifiedTime": "2026-03-14T08:59:55.986Z",
-      "version": "89",
+      "name": "Tag và nhãn khác gì nhau",
+      "modifiedTime": "2026-03-16T08:10:39.401Z",
+      "version": "114",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1000,8 +1000,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-03-12T04:13:59.599Z",
-      "version": "518",
+      "modifiedTime": "2026-03-16T07:57:50.486Z",
+      "version": "525",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
