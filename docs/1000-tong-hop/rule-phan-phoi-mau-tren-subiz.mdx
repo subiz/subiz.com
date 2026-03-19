@@ -1,14 +1,14 @@
 ---
 id: 1652325030
 slug: /1652325030-rule-phan-phoi-mau-tren-subiz
-title: Rule phân phối mẫu trên Subiz
+title: Mẫu rule phân phối
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-14T06:46:07.363Z
+  date: 2026-03-18T07:27:18.837Z
 ---
 
-# Rule phân phối mẫu trên Subiz
+# Mẫu rule phân phối 
 
 :::warning
 Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều tầng lớp. Hội thoại được lọc theo thứ tự rule từ trên xuống dưới. Nên khi tạo rule mới xong cần check lại các rule có trước đó, nếu trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
@@ -16,7 +16,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 ## Rule phân phối tin nhắn {#rule-phan-phoi-tin-nhan}
 
-### Rule phân phối theo kênh {#rule-phan-phoi-theo-kenh}
+### Chia theo kênh {#chia-theo-kenh}
 
 
 <b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
@@ -27,7 +27,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể
 - <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể
-### Rule phân phối theo vùng miền {#rule-phan-phoi-theo-vung-mien}
+### Chia theo vùng miền {#chia-theo-vung-mien}
 
 
 <b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm agent Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
@@ -41,7 +41,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
 - <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
-### Rule phân phối trong giờ làm việc và ngoài giờ làm việc {#rule-phan-phoi-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
+### Chia trong giờ làm việc và ngoài giờ làm việc {#chia-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
 
 
 <b>Tình huống</b>: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
@@ -52,7 +52,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
-### Rule phân phối theo giờ cụ thể  {#rule-phan-phoi-theo-gio-cu-the}
+### Chia theo giờ cụ thể  {#chia-theo-gio-cu-the}
 
 
 <b>Tình huống:</b> Doanh nghiệp muốn phân công cho agent A phụ trách chat khung giờ từ 22:00 thứ Sáu tới 12:00 thứ Bảy.
@@ -60,7 +60,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 
 <b>Giải pháp:</b> Tạo Rule phân phối, thêm điều kiện thời gian tuỳ chỉnh là thứ Sáu từ 22:00 tới 12:00 ngày hôm sau, chọn phân phối cho agent A. 
-### Rule phân phối theo ca trực  {#rule-phan-phoi-theo-ca-truc}
+### Chia theo ca trực  {#chia-theo-ca-truc}
 
 
 <b>Tình huống</b>: Doanh nghiệp phân công mỗi ngày một agent trực chat \(ví dụ agent A trực hôm nay, agent B trực ngày mai\). Yêu cầu hệ thống tự động phân phối hội thoại cho agent theo ca trực. 
@@ -71,7 +71,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc + bật chỉ phân cho agent online
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc + chọn phân phối cho agent trả lời nhanh nhất
-### Rule phân phối theo bài viết Fanpage  {#rule-phan-phoi-theo-bai-viet-fanpage}
+### Chia theo bài viết Fanpage  {#chia-theo-bai-viet-fanpage}
 
 
 <b>Tình huống:</b> Doanh nghiệp muốn giao chat từ 1 bài viết Fanpage cụ thể cho agent A trả lời.
@@ -81,7 +81,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 <b>Giải pháp:</b> Tạo Rule thêm điều kiện ‘Facebook Post ID’ + chọn bài viết cụ thể + chọn phân phối tới agent A
 ## Rule phân phối cuộc gọi {#rule-phan-phoi-cuoc-goi}
 
-### Rule phân phối cuộc gọi lần lượt cho từng agent  {#rule-phan-phoi-cuoc-goi-lan-luot-cho-tung-agent}
+### Chia cuộc gọi lần lượt cho từng agent  {#chia-cuoc-goi-lan-luot-cho-tung-agent}
 
 
 <b>Tình huống: </b>Doanh nghiệp muốn khách liên hệ sẽ đổ chuông lần lượt từng agent, nếu agent không trả lời trong 5-10s sẽ đổ chuông agent kế tiếp, cho đến khi có agent trả lời cuộc gọi hoặc khách dập máy. 
@@ -89,7 +89,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 
 <b>Giải pháp:</b> Tạo Rule phân phối cuộc gọi với điều kiện ‘đổ chuông lần lượt từng agent’.
-### Rule phân phối cuộc gọi theo số điện thoại  {#rule-phan-phoi-cuoc-goi-theo-so-dien-thoai}
+### Chia cuộc gọi theo số điện thoại  {#chia-cuoc-goi-theo-so-dien-thoai}
 
 
 <b>Tình huống:</b> Doanh nghiệp có 2 số điện thoại tổng đài, muốn khách gọi tới số A sẽ đổ chuông agent A, khách gọi tới số B sẽ đổ chuông agent B. 
@@ -100,7 +100,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - Rule 1: Điều kiện Rule chọn số điện thoại A + chọn đổ chuông tới agent A
 - Rule 2: Điều kiện Rule chọn số điện thoại B + chọn đổ chuông tới agent B
-### Rule phân phối cuộc gọi theo phòng ban/chi nhánh {#rule-phan-phoi-cuoc-goi-theo-phong-ban/chi-nhanh}
+### Chia cuộc gọi theo phòng ban/chi nhánh {#chia-cuoc-goi-theo-phong-ban/chi-nhanh}
 
 
 <b>Tình huống:</b> Doanh nghiệp có 2 phòng ban là phòng kinh doanh và phòng kỹ thuật, muốn khách gọi điện sẽ tự nối máy tới phòng ban phụ trách. 
@@ -111,7 +111,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - Phím 1: Đổ chuông tới nhóm kinh doanh
 - Phím 2: Đổ chuông tới nhóm kỹ thuật
-### Rule phân phối cuộc gọi theo thời gian làm việc  {#rule-phan-phoi-cuoc-goi-theo-thoi-gian-lam-viec}
+### Chia cuộc gọi theo thời gian làm việc  {#chia-cuoc-goi-theo-thoi-gian-lam-viec}
 
 
 <b>Tình huống: </b>Ngoài giờ làm việc, khách gọi sẽ nghe lời thoại thông báo ngoài giờ hẹn hỗ trợ sau và cúp máy. Trong giờ làm việc, khách gọi sẽ nghe lời thoại chào mừng và cuộc gọi đổ chuông tới agent. 
@@ -122,7 +122,7 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 
 - Rule 1: Chọn thêm điều kiện thời gian Ngoài giờ làm việc + thêm lời thoại ngoài giờ + chọn cúp máy sau đó
 - Rule 2: Chọn thêm điều kiện thời gian Trong giờ làm việc + thêm lời thoại trong giờ + chọn đổ chuông agent
-### Rule phân phối cuộc gọi nhỡ {#rule-phan-phoi-cuoc-goi-nho}
+### Chia cuộc gọi nhỡ {#chia-cuoc-goi-nho}
 
 
 <b>Tình huống: </b>Doanh nghiệp quản lý và thống kê việc xử lý cuộc gọi nhỡ. Agent sẽ được thông báo nhắc nhở khi có cuộc gọi nhỡ chưa xử lý xong. 

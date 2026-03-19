@@ -5,7 +5,7 @@ title: Webhook tích hợp CRM
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2025-07-03T08:11:13.930Z
+  date: 2026-03-17T09:05:46.745Z
 ---
 
 # Webhook tích hợp CRM
@@ -13,7 +13,7 @@ last_update:
 ## Webhook là gì? {#webhook-la-gi}
 
 
-Subiz sử dụng webhooks để thông báo cho bạn biết một sự kiện đã xảy ra trong tài khoản. Qua đó bạn có thể tích hợp Subiz với các bên khác như CRM, SMS, ... 
+Webhook là tính năng tự động gửi dữ liệu real-time từ Subiz sang bên thứ ba \(CRM, SMS, Google Sheet...\) ngay khi có sự kiện phát sinh như: có tin nhắn mới, có khách hàng điền form, tư vấn viên cập nhật thông tin,...
 
 Webhook lắng nghe các sự kiện xảy ra trong tài khoản subiz rồi gửi chi tiết sự kiện sang máy chủ của bạn.
 
@@ -21,10 +21,14 @@ Ví dụ:
 
 - Khi một người dùng mới vào website, Webhook thông báo sang cho server của bạn.
 - Khi một người dùng Facebook gửi tin nhắn lên Fanpage. Webhook chuyển tin nhắn này tới server của bạn.
-- Khi tư vấn viên cập nhật thông tin của khách hàng trên Subiz. Webhook gửi thông tin này sang server của bạn.
+- Khi khách hàng được cập nhật thông tin trên Subiz. Webhook gửi thông tin này sang server của bạn.
 
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifcthxupvsvfmzk_acpxkgumifuoofoosble/9b03afb5a9a5aa48c4e380733f0e2db0.png)
+
+
+Subiz hỗ trợ nhiều loại sự kiện liên quan đến hội thoại, người dùng \(khách hàng\), theo dõi website và đơn hàng:
+![](https://vcdn.subiz-cdn.com/file/fisphxuxswohswlswqxc_acpxkgumifuoofoosble/c2db8ba42ea45c37f81596a37f2f7e8e.png)
 
 ## Bạn cần chuẩn bị những gì? {#ban-can-chuan-bi-nhung-gi}
 
@@ -66,7 +70,7 @@ Ví dụ về một gói dữ liệu subiz sẽ gửi sang:
 ## Xây dựng endpoint nhận webhook {#xay-dung-endpoint-nhan-webhook}
 
 
-Việc đầu tiên cần làm là xây dựng endpoint nhận dữ liệu của riêng bạn. Tạo một webhook endpoint trên server của bạn không khác gì việc tạo một trang mới trên website của bạn. Nếu bạn sử dụng PHP, bạn sẽ cần tạo một file .php mới. Nếu bạn sử dụng NodeJS framework Express, bạn sẽ cần tạo một route mới với đường dẫn mong muốn.
+Việc đầu tiên cần làm là xây dựng endpoint nhận dữ liệu của riêng bạn. Tạo một webhook endpoint trên server của bạn không khác gì việc tạo một trang mới trên website của bạn. Nếu bạn sử dụng PHP, bạn sẽ cần tạo một file .php mới. Nếu bạn sử dụng NodeJS framework Express, bạn sẽ cần tạo một route mới với đường dẫn mong muốn.
 
 Trước khi bắt đầu code, bạn lưu ý phải trả về mã HTTP 2xx thật nhanh. Khi bạn trả về 2xx chúng tôi hiểu endpoint của bạn đã nhận được dữ liệu thành công. Tất cả các mã ngoài khoảng này, kể cả 3xx, đều chỉ ra rằng bạn chưa nhận được event.
 
@@ -102,7 +106,7 @@ Khi chọn mật khẩu, bạn nên sử dụng một mật khẩu ngẫu nhiên
 
 Mật khẩu này sẽ được sử dụng mỗi khi Subiz gửi tin sang endpoint của bạn. Chúng tôi sẽ tạo ra một chữ ký riêng biệt cho từng gói tin rồi gắn vào header \`\`X-Hub-Signature-256\` trước khi gửi tới endpoint của bạn.
 
-Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> \([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github\). HMAC đươc triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
+Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> \([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github\). HMAC được triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
 ```
 HMAC(hashFunction, secret, message) => signature
 HMAC("sha256", "sEcRet2", "chào buổi sáng") ⇒ sha256=f8e31a0ae3b14162acb325782cc4577677d30cc7e5132fbbdfae94b7a576a7b5
