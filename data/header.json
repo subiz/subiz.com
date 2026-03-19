@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773895799442,
-  "updated": 1773895799442,
+  "fetched": 1773934648312,
+  "updated": 1773934648312,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -55,7 +55,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản sẵn ",
       "modifiedTime": "2026-03-19T04:46:44.828Z",
-      "version": "538",
+      "version": "540",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban-san"
     },
     {
@@ -134,17 +134,6 @@
       "modifiedTime": "2024-11-29T03:39:52.102Z",
       "version": "126",
       "path_lower": "/_90 Tổng đài điện thoại/3-rule-phan-phoi-cuoc-goi"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
-      ],
-      "id": "1AkRFsNtl--GzXYS6QYFhPLNOYttbcgTiQdf8JmPlD7Y",
-      "name": "_Pricing",
-      "modifiedTime": "2026-03-16T11:13:17.496Z",
-      "version": "374",
-      "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -242,7 +231,7 @@
       "id": "1HLgVhVOgdWs75bKovoGFNBWiSzkSEiYoWiKqkcqu7gg",
       "name": "Bật thông báo Subiz trên máy tính",
       "modifiedTime": "2026-02-12T09:56:10.193Z",
-      "version": "42",
+      "version": "44",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-may-tinh"
     },
     {
@@ -484,7 +473,7 @@
       "id": "1UoUWnT9-vK--bCwbKQMVBzvB7Nw15FClTUmZ0fMGkjA",
       "name": "_Chatbot kịch bản sẵn",
       "modifiedTime": "2026-03-18T07:58:57.794Z",
-      "version": "50",
+      "version": "52",
       "path_lower": "/50 Tự động hóa/chatbot-kich-ban-san"
     },
     {
@@ -704,7 +693,7 @@
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "30. Popup",
       "modifiedTime": "2026-02-04T04:28:23.345Z",
-      "version": "473",
+      "version": "476",
       "path_lower": "/50 Tự động hóa/30-popup"
     },
     {
@@ -758,8 +747,8 @@
       ],
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
-      "modifiedTime": "2026-03-18T06:48:46.518Z",
-      "version": "53",
+      "modifiedTime": "2026-03-19T10:39:29.483Z",
+      "version": "70",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -1043,10 +1032,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
-      "name": "Tài liệu không có tiêu đề",
-      "modifiedTime": "2026-03-19T04:44:48.344Z",
-      "version": "37",
-      "path_lower": "/1000 Tổng hợp/tai-lieu-khong-co-tieu-de"
+      "name": "_Pricing ",
+      "modifiedTime": "2026-03-19T10:29:50.267Z",
+      "version": "134",
+      "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1100,7 +1089,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-03-18T08:40:53.522Z",
-      "version": "471",
+      "version": "473",
       "path_lower": "/readme"
     },
     {
