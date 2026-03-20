@@ -146,12 +146,12 @@ const config = {
 						from: ['/1893632067-quan-ly-doi-nhom'],
 					},
 					{
-						to: '/1540866648-auto-chatbot',
-						from: ['/1540866648-bot-tu-dong-nhan-tin'],
+						to: '/102007810-mau-chatbot-kich-ban',
+						from: ['/102007810-kich-ban-chatbot-mau', '/102007810-mot-so-mau-kich-ban-bot'],
 					},
 					{
-						to: '/102007810-kich-ban-chatbot-mau',
-						from: ['/102007810-mot-so-mau-kich-ban-bot'],
+						to: '/1540866648-chatbot-kich-ban-san',
+						from: ['/1540866648-auto-chatbot', '/1540866648-bot-tu-dong-nhan-tin'],
 					},
 					{
 						to: '/698043010-chatbot-ai',
