@@ -24,6 +24,10 @@ const config = {
 			{
 				redirects: [
 					{
+						to: '/1652325030-mau-rule-phan-phoi',
+						from: ['/1652325030-rule-phan-phoi-mau-tren-subiz'],
+					},
+					{
 						to: '/587325543-phieu-ghi-ticket',
 						from: ['/587325543-phieu-ghi-cham-soc-khach-hang'],
 					},

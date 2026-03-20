@@ -1,11 +1,11 @@
 ---
 id: 1652325030
-slug: /1652325030-rule-phan-phoi-mau-tren-subiz
+slug: /1652325030-mau-rule-phan-phoi
 title: Mẫu rule phân phối
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-18T07:27:18.837Z
+  date: 2026-03-20T11:03:28.894Z
 ---
 
 # Mẫu rule phân phối 
@@ -19,28 +19,28 @@ Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều t
 ### Chia theo kênh {#chia-theo-kenh}
 
 
-<b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu agent 1 trực chat trên website, agent 2 trực chat trên Fanpage và Zalo
+<b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu nhân viên A trực chat trên website, nhân viên B trực chat trên Fanpage và Zalo
 
 
 
 <b>Giải pháp</b>: Tạo 2 Rule phân phối tương ứng 2 nhóm chat website và chat Fanpage + Zalo
 
-- <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 agent cụ thể
-- <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới 1 agent cụ thể
+- <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 nhân viên A
+- <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới nhân viên B
 ### Chia theo vùng miền {#chia-theo-vung-mien}
 
 
-<b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm agent Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
+<b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm nhân viên Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
 
 
 
-<b>Giải pháp</b>: Tạo nhóm agent HN và nhóm Agent HCM; Sau đó tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM
+<b>Giải pháp</b>: Tạo nhóm nhân viên HN và nhóm nhân viên HCM; Sau đó tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM
 
-- <b>Bước 1</b>: Tạo nhóm agent tại [trang Nhóm agent](https://app.subiz.com.vn/settings/agents-group)
-- <b>Bước 2</b> : Tạo rule phân phối cho nhóm agent tương ứng theo vị trí địa lý
+- <b>Bước 1</b>: Tạo nhóm nhân viên tại [trang Nhóm ](https://app.subiz.com.vn/settings/agents-group)[nhân viên](https://app.subiz.com.vn/settings/agents-group)
+- <b>Bước 2</b> : Tạo rule phân phối cho nhóm nhân viên tương ứng theo vị trí địa lý
 
-- <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm agent HN
-- <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm agent HCM
+- <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm nhân viên HN
+- <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm nhân viên HCM
 ### Chia trong giờ làm việc và ngoài giờ làm việc {#chia-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
 
 

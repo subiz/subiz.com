@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1773934648312,
-  "updated": 1773934648312,
+  "fetched": 1774009524775,
+  "updated": 1774009524775,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -175,8 +175,8 @@
       ],
       "id": "1EQ-FqfIR9kA5-g-C_4H4ExpRUSEWN6BXN25mtXKoyrY",
       "name": "_ Tính năng tính phí riêng",
-      "modifiedTime": "2026-03-16T10:32:55.032Z",
-      "version": "44",
+      "modifiedTime": "2026-03-20T10:13:28.617Z",
+      "version": "51",
       "path_lower": "/1000 Tổng hợp/tinh-nang-tinh-phi-rieng"
     },
     {
@@ -516,8 +516,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đồng bộ chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-03-13T07:04:52.814Z",
-      "version": "227",
+      "modifiedTime": "2026-03-20T04:17:23.394Z",
+      "version": "242",
       "path_lower": "/110 Ứng dụng nâng cao/14-dong-bo-chuyen-doi-facebook-ads"
     },
     {
@@ -559,10 +559,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
-      "name": "Rule phân phối mẫu trên Subiz",
-      "modifiedTime": "2026-03-18T07:27:18.837Z",
-      "version": "261",
-      "path_lower": "/1000 Tổng hợp/rule-phan-phoi-mau-tren-subiz"
+      "name": "Mẫu Rule phân phối ",
+      "modifiedTime": "2026-03-20T11:03:28.894Z",
+      "version": "282",
+      "path_lower": "/1000 Tổng hợp/mau-rule-phan-phoi"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -616,7 +616,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "1.1 Giờ làm việc",
       "modifiedTime": "2026-02-02T09:36:08.174Z",
-      "version": "169",
+      "version": "170",
       "path_lower": "/40 Quản lý làm việc nhóm/1-1-gio-lam-viec"
     },
     {
@@ -747,8 +747,8 @@
       ],
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
-      "modifiedTime": "2026-03-19T10:39:29.483Z",
-      "version": "70",
+      "modifiedTime": "2026-03-20T10:33:49.244Z",
+      "version": "132",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -814,7 +814,7 @@
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc",
       "modifiedTime": "2026-01-29T10:12:07.668Z",
-      "version": "275",
+      "version": "276",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec"
     },
     {
@@ -934,8 +934,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-03-18T07:36:12.145Z",
-      "version": "434",
+      "modifiedTime": "2026-03-20T11:11:26.659Z",
+      "version": "448",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -1000,8 +1000,8 @@
       ],
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "13 Đo lường chuyển đổi Google Ads",
-      "modifiedTime": "2025-07-03T08:03:49.713Z",
-      "version": "121",
+      "modifiedTime": "2026-03-20T07:00:04.717Z",
+      "version": "133",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
       "name": "_2. Khách tiềm năng",
       "modifiedTime": "2026-03-09T04:14:34.824Z",
-      "version": "289",
+      "version": "290",
       "path_lower": "/60 Quản lý khách hàng/2-khach-tiem-nang"
     },
     {
@@ -1033,8 +1033,8 @@
       ],
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
-      "modifiedTime": "2026-03-19T10:29:50.267Z",
-      "version": "134",
+      "modifiedTime": "2026-03-20T02:33:38.202Z",
+      "version": "145",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
