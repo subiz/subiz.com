@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774009524775,
-  "updated": 1774009524775,
+  "fetched": 1774286874560,
+  "updated": 1774286874560,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -560,8 +560,8 @@
       ],
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Mẫu Rule phân phối ",
-      "modifiedTime": "2026-03-20T11:03:28.894Z",
-      "version": "282",
+      "modifiedTime": "2026-03-23T06:37:49.284Z",
+      "version": "296",
       "path_lower": "/1000 Tổng hợp/mau-rule-phan-phoi"
     },
     {
@@ -662,6 +662,17 @@
       "modifiedTime": "2026-02-02T10:54:29.861Z",
       "version": "81",
       "path_lower": "/1000 Tổng hợp/hoi-tham-lai-thong-minh-dung-workflow"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1bXEbP_2qnSye-aY68xkuIh0eFxKTu425cs8G7iRipSM",
+      "name": "Giải thích thuật ngữ Subiz ",
+      "modifiedTime": "2026-03-23T09:21:09.053Z",
+      "version": "51",
+      "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -824,8 +835,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-03-16T10:13:14.251Z",
-      "version": "861",
+      "modifiedTime": "2026-03-23T10:39:14.652Z",
+      "version": "909",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -957,7 +968,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
       "modifiedTime": "2026-03-16T04:42:24.275Z",
-      "version": "428",
+      "version": "432",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
