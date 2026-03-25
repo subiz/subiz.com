@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774348345983,
-  "updated": 1774348345983,
+  "fetched": 1774407828208,
+  "updated": 1774407828208,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản sẵn ",
-      "modifiedTime": "2026-03-19T04:46:44.828Z",
-      "version": "540",
+      "modifiedTime": "2026-03-25T01:56:04.247Z",
+      "version": "547",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban-san"
     },
     {
@@ -604,8 +604,8 @@
       ],
       "id": "1_XYxHm3qFe2ge_eK9qYM7S_R1GaXrCgmhHoAFNqr6h0",
       "name": "Bản sao của 20. Chatbot AI",
-      "modifiedTime": "2026-03-24T10:07:27.870Z",
-      "version": "121",
+      "modifiedTime": "2026-03-24T10:45:06.856Z",
+      "version": "127",
       "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
     },
     {
@@ -979,7 +979,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
       "modifiedTime": "2026-03-24T03:15:59.139Z",
-      "version": "449",
+      "version": "451",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
