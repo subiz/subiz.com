@@ -47,6 +47,7 @@
 	},
 	"devDependencies": {
 		"lodash": "^4.17.23",
-		"prettier": "^3.8.1"
+		"prettier": "^3.8.1",
+		"tape": "^5.9.0"
 	}
 }
