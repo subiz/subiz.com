@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774408123330,
-  "updated": 1774408123330,
+  "fetched": 1774408731738,
+  "updated": 1774408731738,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản sẵn ",
-      "modifiedTime": "2026-03-25T01:56:04.247Z",
-      "version": "547",
+      "modifiedTime": "2026-03-25T03:11:33.405Z",
+      "version": "560",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban-san"
     },
     {
@@ -692,8 +692,8 @@
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
       "name": "11. Mẫu Chatbot kịch bản ",
-      "modifiedTime": "2026-03-16T10:11:58.996Z",
-      "version": "419",
+      "modifiedTime": "2026-03-25T03:12:55.132Z",
+      "version": "426",
       "path_lower": "/50 Tự động hóa/11-mau-chatbot-kich-ban"
     },
     {
@@ -979,7 +979,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
       "modifiedTime": "2026-03-24T03:15:59.139Z",
-      "version": "451",
+      "version": "453",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -1138,15 +1138,15 @@
     }
   ],
   "video_mapping": {
-    "https://www.youtube.com/watch?v=LM1lzc6649I": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
+    "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
       "resolution": {
         "width": 640,
         "height": 360
       }
     },
-    "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
+    "https://www.youtube.com/watch?v=LM1lzc6649I": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
       "resolution": {
         "width": 640,
         "height": 360
@@ -1159,18 +1159,18 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
-      "resolution": {
-        "width": 864,
-        "height": 1920
-      }
-    },
     "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
       "resolution": {
         "width": 1808,
         "height": 1080
+      }
+    },
+    "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/b70013deb30f2858eadd5c515060c3a9/watch",
+      "resolution": {
+        "width": 864,
+        "height": 1920
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
