@@ -10,7 +10,6 @@ var path = require('path')
 var datefns = require('date-fns')
 var html2md = require('./convert.js')
 var html2Block = require('./convert_block.js')
-var ROOT = '1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE'
 
 let blockM = {}
 let CAT = {
@@ -41,7 +40,7 @@ let drive // google drive client
 
 const CREDENTIALS_PATH = path.join(process.cwd(), './subiz-version-4-681a4d9d6092.json')
 
-async function fetchGoogleTree() {
+async function fetchGoogleTree(ROOT) {
 	let files = []
 	await listFileInFolder(ROOT, files)
 	// build path
@@ -120,7 +119,7 @@ async function main() {
 	let current = header.entries || []
 	console.log('[2/4] Fetching Drive metadata')
 	let start = Date.now()
-	let hot = await fetchGoogleTree()
+	let hot = await fetchGoogleTree('1HgcqdE1utC6gAz1kGhUApCdjJD1FvtOE')
 	console.log('Took', datefns.formatDistanceToNowStrict(start) + ', got', hot.length, 'files')
 
 	console.log('[3/4] Merging with local file')
@@ -314,7 +313,53 @@ last_update:
 	fs.writeFileSync('./docs/1000-tong-hop/_category_.yml', `className: hidden`, {encoding: 'utf8'})
 }
 
+async function exportAISample() {
+	let authClient = await authorize()
+	drive = google.drive({version: 'v3', auth: authClient})
+
+	fs.rmSync('./aisample', {recursive: true, force: true})
+	ensureDirectoryExistence('./aisample')
+	console.log('[2/4] Fetching Drive metadata')
+	let start = Date.now()
+	let hot = await fetchGoogleTree('1PwBb2qbG-GCCHxSxmSVvhnYeezNZjgas')
+
+	console.log('Took', datefns.formatDistanceToNowStrict(start) + ', got', hot.length, 'files')
+
+	console.log('[3/4] Merging with local file')
+	let out = await diffDrive([], hot)
+
+	let docM = {}
+	lo.map(hot, (entry) => {
+		let out = extractFilename(entry)
+		let pathlowers = entry.path_lower.split('/')
+		pathlowers.pop() // remove file name
+		docM[entry.id] = entry
+	})
+
+	out.news = lo.orderBy(out.news, ['id'])
+	var i = 0
+	await flow.map(
+		out.news,
+		async (entry) => {
+			i++
+			//			if (i > 5) return
+			try {
+				// if (entry.name.indexOf('20') == -1) return
+				console.log('EXPORTING', entry.path_lower)
+				ensureDirectoryExistence('./aisample' + entry.path_lower + '.html')
+				await exportFile(entry.id, './aisample' + entry.path_lower + '.html')
+			} catch (e) {
+				if (e.response && e.response.body) {
+					console.log('EEEEEEEEEE', JSON.stringify(e.response.body))
+				} else console.log('eeeeeee', e)
+			}
+		},
+		5,
+	)
+}
+
 main()
+// exportAISample()
 
 function cleanEmptyFoldersRecursively(folder) {
 	if (!fs.existsSync(folder)) return
