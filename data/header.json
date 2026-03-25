@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774407828208,
-  "updated": 1774407828208,
+  "fetched": 1774408123330,
+  "updated": 1774408123330,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -603,9 +603,9 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1_XYxHm3qFe2ge_eK9qYM7S_R1GaXrCgmhHoAFNqr6h0",
-      "name": "Bản sao của 20. Chatbot AI",
-      "modifiedTime": "2026-03-24T10:45:06.856Z",
-      "version": "127",
+      "name": "_Bản sao của 20. Chatbot AI",
+      "modifiedTime": "2026-03-25T03:05:06.743Z",
+      "version": "129",
       "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
     },
     {
@@ -1138,11 +1138,25 @@
     }
   ],
   "video_mapping": {
+    "https://www.youtube.com/watch?v=LM1lzc6649I": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
+      "resolution": {
+        "width": 640,
+        "height": 360
+      }
+    },
     "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
       "resolution": {
         "width": 640,
         "height": 360
+      }
+    },
+    "https://www.youtube.com/watch?v=S9wVGrxhYks": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/7c6479cd78a4298de00aaf5d129b9e69/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
       }
     },
     "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
@@ -1215,13 +1229,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=S9wVGrxhYks": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/7c6479cd78a4298de00aaf5d129b9e69/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
     "https://www.youtube.com/watch?v=d4Fo9eOcgp4": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/95892bf0b92ff2863cac22552601949d/watch",
       "resolution": {
@@ -1250,13 +1257,6 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=Wl658KCi_Ps": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43a2cc76fb45d7781160b65d32b3ca0a/watch",
-      "resolution": {
-        "width": 640,
-        "height": 360
-      }
-    },
     "https://www.youtube.com/watch?v=67dyW9RBD3o": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
       "resolution": {
@@ -1264,15 +1264,22 @@
         "height": 360
       }
     },
-    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
+    "https://www.youtube.com/watch?v=Wl658KCi_Ps": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/43a2cc76fb45d7781160b65d32b3ca0a/watch",
+      "resolution": {
+        "width": 640,
+        "height": 360
+      }
+    },
+    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
       }
     },
-    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
+    "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -1290,13 +1297,6 @@
       "resolution": {
         "width": 1280,
         "height": 608
-      }
-    },
-    "https://www.youtube.com/watch?v=LM1lzc6649I": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
-      "resolution": {
-        "width": -1,
-        "height": -1
       }
     }
   }
