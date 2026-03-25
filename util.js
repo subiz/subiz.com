@@ -12,7 +12,7 @@
 	1.1.en. subiz la gi => {name: subiz la gi, locale: 'en'}
 	1.1en.subiz la gi => { name: subiz la gi, locale: ''}
 */
-
+var lo = require('lodash')
 function extractFilename(entry) {
 	let str = entry.name || ''
 	if (str.startsWith('/')) str = str.substr(1)
@@ -106,7 +106,41 @@ function getSlug(entry) {
 	return slug
 }
 
+function cleanMarkdown(markdown) {
+	if (!markdown) return ''
+	let lines = markdown.split('\n')
+	let h1Indices = []
+	for (let i = 0; i < lines.length; i++) {
+		if (lines[i].startsWith('# ')) {
+			h1Indices.push(i)
+		}
+	}
+
+	if (h1Indices.length <= 1) return markdown
+
+	// Remove all except the last H1
+	let lastH1Index = h1Indices[h1Indices.length - 1]
+	let newLines = []
+	for (let i = 0; i < lines.length; i++) {
+		if (lines[i].startsWith('# ') && i !== lastH1Index) {
+			continue
+		}
+		newLines.push(lines[i])
+	}
+	return newLines.join('\n')
+}
+
+function findTitle(markdown) {
+	let lines = markdown.split('\n')
+	let title = lo.find(lines, (line) => line.startsWith('#'))
+	if (!title) title = ''
+	title = title.split('{#')[0] // prevent title like 'Nhac viec {#nhac-viec}'
+	return (title = title.replace(/^(#)*/, '').trim())
+}
+
 module.exports = {
+	findTitle,
+	cleanMarkdown,
 	sluggy,
 	getSlug,
 	hashCode,

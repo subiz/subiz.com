@@ -1,7 +1,7 @@
 const readline = require('readline')
 var crypto = require('crypto')
 const {google} = require('googleapis')
-const {extractFilename, getSlug, hashCode, sluggy} = require('./util.js')
+const {extractFilename, getSlug, hashCode, sluggy, findTitle, cleanMarkdown} = require('./util.js')
 const {execSync, exec} = require('child_process')
 var lo = require('lodash')
 var flow = require('@subiz/flow')
@@ -219,6 +219,7 @@ async function main() {
 				.readFileSync('./data' + entry.path_lower, {encoding: 'utf8', flag: 'r'})
 				.toString()
 				.trim()
+			data = cleanMarkdown(data)
 		} catch (e) {}
 
 		let name = sluggy(entry.path_lower)
@@ -236,11 +237,7 @@ async function main() {
 		ensureDirectoryExistence(fileName)
 		console.log('COPYING', fileName)
 
-		let lines = data.split('\n')
-		let title = lo.find(lines, (line) => line.startsWith('#'))
-		if (!title) title = ''
-		title = title.split('{#')[0] // prevent title like 'Nhac viec {#nhac-viec}'
-		title = title.replace(/^(#)*/, '').trim() || 'https://docs.google.com/document/d/' + entry.id
+		let title = findTitle(data) || 'https://docs.google.com/document/d/' + entry.id
 		// generate index for a category
 		let pathlowers = entry.path_lower.split('/')
 		pathlowers.pop() // remove file name
