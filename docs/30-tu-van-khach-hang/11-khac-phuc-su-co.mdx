@@ -5,13 +5,13 @@ title: Khắc phục sự cố
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-17T03:50:48.601Z
+  date: 2026-03-26T07:11:32.931Z
 ---
 
 # Khắc phục sự cố
 
 
-Trong quá trình làm việc trên Subiz, đôi khi bạn sẽ gặp các<b> thông báo lỗi/sự cố</b> trên dashboard. Dưới đây là cách khắc phục nhanh - hỗ trợ làm việc thông suốt trên Subiz, bạn tham khảo nhé.
+Trong quá trình làm việc trên Subiz, đôi khi bạn sẽ gặp các <b>thông báo lỗi/sự cố</b> trên dashboard. Dưới đây là cách khắc phục nhanh - hỗ trợ làm việc thông suốt trên Subiz, bạn tham khảo nhé.
 ## Màn hình hội thoại {#man-hinh-hoi-thoai}
 
 #### Màn hình hội thoại bị lag, không load được dữ liệu. {#man-hinh-hoi-thoai-bi-lag-khong-load-duoc-du-lieu}
@@ -22,18 +22,25 @@ Khắc phục bằng cách refresh trang làm việc \(nhấn F5 hoặc nút ⟳
 
 
 Kiểm tra [cài đặt múi giờ](https://app.subiz.com.vn/profile/) trên tài khoản Subiz của bạn. Múi giờ chuẩn Việt Nam là +7:00. 
-#### Gửi tin nhắn đi báo “Lỗi hệ thống. Vui lòng thử lại sau.” {#gui-tin-nhan-di-bao-loi-he-thong-vui-long-thu-lai-sau}
-
-
-Khi gặp thông báo này, hệ thống có thể đang gián đoạn tức thời, vui lòng đợi khoảng 3-5 phút, load lại trang làm việc để kiểm tra hệ thống. Nếu vẫn chưa được, hãy mô tả tình trạng với Subiz để được hỗ trợ sớm nhất có thể.
-#### Không gửi được tin nhắn {#khong-gui-duoc-tin-nhan}
-
-
-Khi không gửi được tin nhắn, bên dưới tin nhắn sẽ hiển thị dòng chữ màu đỏ thông báo nguyên nhân. Nếu thông báo chung chung như ‘Lỗi gửi tin nhắn. Vui lòng thử lại sau ?’, hãy nhấn vào dấu \(?\) để xem nguyên nhân cụ thể, hoặc gửi nội dung nguyên nhân đó cho Subiz để được hỗ trợ.
 #### Cài đặt rule phân phối đúng nhưng không thấy tin nhắn/bình luận từ fanpage đổ về Subiz. {#cai-dat-rule-phan-phoi-dung-nhung-khong-thay-tin-nhan/binh-luan-tu-fanpage-o-ve-subiz}
 
 
 Cần kiểm tra trạng thái kết nối của fanpage về Subiz, có thể đang bị gián đoạn nên không có tin nhắn đổ về. Hoặc bạn kiểm tra lại rule phân phối xem có rule nào ở phía trên cũng đang set chạy cho page này không.
+## Không gửi được tin nhắn {#khong-gui-duoc-tin-nhan}
+
+
+Khi không gửi được tin nhắn, bạn sẽ thấy thông báo lỗi màu đỏ ngay dưới tin nhắn. Hãy <b>xem nội dung thông báo</b> là gì để khắc phục nhanh:
+
+
+
+|<b>Thông báo </b>|<b>Khắc phục nhanh </b>|
+|--|--|
+|Lỗi hệ thống. Vui lòng thử lại sau|Hệ thống có thể gián đoạn tức thời. Vui lòng chờ ít phút và tải lại trang làm việc.|
+|Lỗi gửi tin nhắn. Vui lòng thử lại sau ?|Nhấn vào dấu \(?\) để xem nguyên nhân cụ thể là gì|
+| expired\_token|Hết hạn kết nối kênh. Vui lòng tích hợp lại kênh đó vào Subiz: Vào Subiz &gt; Cài đặt &gt; Tích hợp kênh &gt; Nhấn tích hợp|
+
+
+
 ## Cửa sổ chat {#cua-so-chat}
 
 #### Đã nhúng mã code nhưng cửa sổ chat vẫn chưa hiển thị. {#da-nhung-ma-code-nhung-cua-so-chat-van-chua-hien-thi}
@@ -59,6 +66,7 @@ Inspect \(F12\) để kiểm tra đã nhúng thành công mã code Subiz trên w
 |Kết nối Fanpage gián đoạn|Fanpage ngắt kết nối với Subiz. Tích hợp lại Fanpage: Vào Subiz &gt; Cài đặt &gt; Tích hợp Facebook để kết nối lại.|
 |Không thể tích hợp Fanpage vào Subiz, thông báo ‘1’|Meta không cho tài khoản Facebook Admin của bạn tích hợp toàn bộ Fanpage cùng lúc. Vui lòng chia nhỏ lượng Fanpage trong mỗi lần tích hợp|
 | Không thể tích hợp Fanpage, báo ‘Sorry. Something went wrong’|Tài khoản Facebook Admin hiện không có quyền tích hợp Fanpage. Đổi tài khoản Facebook Admin khác để tích hợp Fanpage|
+| expired\_token|Fanpage hết hạn kết nối với Subiz. Tích hợp lại Fanpage: Vào Subiz &gt; Cài đặt &gt; Tích hợp Facebook để kết nối lại.|
 
 
 
@@ -94,14 +102,14 @@ Cần liên hệ quản lý để xử lý cấp quyền, mua gói dịch vụ Z
 
 
 
-|<b>Thông báo</b>|<b>Khắc phục nhanh</b>|
+|Thông báo|Khắc phục nhanh|
 |--|--|
 |\{"error":-230,"message":"User has not interacted with the OA in the past 7 days"\}|Quá hạn 7 ngày kể từ tin nhắn cuối cùng khách gửi. Tìm cách liên hệ khách qua kênh khác.|
 |Error validating access token|Token hết hạn. Vui lòng tích hợp lại Fanpage|
 |\{"error":-224"\}|Không thể gửi tin. Vui lòng báo quản lý mua gói cho tài khoản Zalo OA doanh nghiệp|
 |\{"error":-216"\}|Token hết hạn. Vui lòng tích hợp lại Zalo OA|
 |\{"error":-244,"message":"User has blocked this OA"\}|Khách chưa theo dõi hoặc đã chặn OA này|
-|Lỗi gửi tin nhắn vui lòng thử lại sau.<br /><br />\{"error":-224,"message":"The OA needs to upgrade OA Tier Package to use this feature. See more on [https://zalo.cloud/oa/pricing](https://zalo.cloud/oa/pricing)|Tài khoản Zalo OA doanh nghiệp đến kỳ thanh toán. Vui lòng báo quản lý mua gói cho tài khoản Zalo OA doanh nghiệp.|
+|Lỗi gửi tin nhắn vui lòng thử lại sau.<br /><br />\{"error":-224,"message":"The OA needs to upgrade OA Tier Package to use this feature. See more on[ https://zalo.cloud/oa/pricing](https://zalo.cloud/oa/pricing)|Tài khoản Zalo OA doanh nghiệp đến kỳ thanh toán. Vui lòng báo quản lý mua gói cho tài khoản Zalo OA doanh nghiệp.|
 |-321, Zalo Cloud Account associated with this app is out of money or unable to be charged|Tài khoản Zalo Cloud \(ZCA\) liên kết với OA đã hết tiền \(không đủ số dư\). Vui lòng nạp tiền tài khoản Zalo Cloud.|
 |Lỗi gửi tin nhắn ZBS|Nhấn vào thông báo lỗi xem nguyên nhân, điều chỉnh và gửi lại ZBS|
 |Kết nối Zalo OA gián đoạn|Zalo OA ngắt kết nối với Subiz. Tích hợp lại Zalo OA: Vào Subiz &gt; Cài đặt &gt; Tích hợp Zalo OA để kết nối lại.|
