@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774514813532,
-  "updated": 1774514813532,
+  "fetched": 1774530053927,
+  "updated": 1774530053927,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -175,8 +175,8 @@
       ],
       "id": "1EQ-FqfIR9kA5-g-C_4H4ExpRUSEWN6BXN25mtXKoyrY",
       "name": "_ Tính năng tính phí riêng",
-      "modifiedTime": "2026-03-20T10:13:28.617Z",
-      "version": "52",
+      "modifiedTime": "2026-03-26T09:14:55.764Z",
+      "version": "60",
       "path_lower": "/1000 Tổng hợp/tinh-nang-tinh-phi-rieng"
     },
     {
@@ -220,7 +220,7 @@
       "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
       "name": "Đồng bộ sản phẩm hiệu quả lên Subiz với JSON-LD",
       "modifiedTime": "2026-02-12T10:35:59.029Z",
-      "version": "110",
+      "version": "112",
       "path_lower": "/1000 Tổng hợp/dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2025-12-17T08:54:17.919Z",
-      "version": "235",
+      "version": "236",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "_8. Xử lý lỗi trên Fanpage",
       "modifiedTime": "2026-01-13T11:36:34.823Z",
-      "version": "208",
+      "version": "209",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -604,8 +604,8 @@
       ],
       "id": "1_XYxHm3qFe2ge_eK9qYM7S_R1GaXrCgmhHoAFNqr6h0",
       "name": "_Bản sao của 20. Chatbot AI",
-      "modifiedTime": "2026-03-26T08:43:14.855Z",
-      "version": "345",
+      "modifiedTime": "2026-03-26T10:22:29.538Z",
+      "version": "413",
       "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
     },
     {
@@ -934,8 +934,8 @@
       ],
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
       "name": "5.1 Sản phẩm",
-      "modifiedTime": "2026-01-16T10:52:38.135Z",
-      "version": "250",
+      "modifiedTime": "2026-03-26T10:40:09.328Z",
+      "version": "262",
       "path_lower": "/70 Quản lý đơn hàng/5-1-san-pham"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "13 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2026-03-20T07:00:04.717Z",
-      "version": "140",
+      "version": "141",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
     },
     {

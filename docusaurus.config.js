@@ -86,6 +86,10 @@ const config = {
 						from: ['/1139647591-ket-noi-fanpage'],
 					},
 					{
+						to: '/777741175-ho-so-khach-hang',
+						from: ['/1991884824-ho-so-khach-hang'],
+					},
+					{
 						to: '/1139647591-fanpage',
 						from: ['/1068952124-cac-tinh-nang-subiz-ho-tro-fanpage'],
 					},
@@ -111,7 +115,7 @@ const config = {
 					},
 					{
 						to: '/628554948-agent',
-						from: ['/628554948-agent-la-gi'],
+						from: ['/628554948-agent-la-gi', '/628554948-agent-la-gi-'],
 					},
 					{
 						to: '/972963943-rule-phan-phoi',
@@ -139,6 +143,7 @@ const config = {
 							'/573464542-quan-ly-nhieu-tong-dai',
 							'/846069684-rule-phan-phoi-cuoc-goi',
 							'/900316123-su-dung-tong-dai',
+							'/tong-dai-dien-thoai',
 						],
 					},
 					{
@@ -147,7 +152,11 @@ const config = {
 					},
 					{
 						to: '/102007810-mau-chatbot-kich-ban',
-						from: ['/102007810-kich-ban-chatbot-mau', '/102007810-mot-so-mau-kich-ban-bot'],
+						from: [
+							'/102007810-kich-ban-chatbot-mau',
+							'/102007810-mot-so-mau-kich-ban-bot',
+							'/102007810-mot-so-vi-du-kich-ban-bot',
+						],
 					},
 					{
 						to: '/1540866648-chatbot-kich-ban-san',
