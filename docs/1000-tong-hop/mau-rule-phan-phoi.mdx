@@ -1,61 +1,63 @@
 ---
 id: 1652325030
 slug: /1652325030-mau-rule-phan-phoi
-title: Mẫu rule phân phối
+title: Các cách tự động chia khách hàng \(Rule phân phối\)
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-23T06:37:49.284Z
+  date: 2026-03-28T07:47:01.593Z
 ---
 
-# Mẫu rule phân phối 
+# Các cách tự động chia khách hàng \(Rule phân phối\) 
+
+## Tự động chia khách là gì? {#tu-dong-chia-khach-la-gi}
+
+
+Ngay khi khách hàng nhắn tin hoặc gọi điện đến, hệ thống Subiz sẽ <b>tự động giao khách cho đúng nhân viên</b> phụ trách. Bạn không cần phải ngồi trực để chỉ định người trả lời thủ công.
+
+
+
+Ví dụ: 
+
+- Khách nhắn từ Facebook → giao cho nhóm Facebook
+- Khách ở Hà Nội → giao cho nhóm Hà Nội
+- Ngoài giờ → nhân viên nào trả lời khách nhanh nhất thì nhận
+
 
 :::warning
-Rule phân phối hội thoại hoạt động như phễu lọc gồm nhiều tầng lớp. Hội thoại được lọc theo thứ tự rule từ trên xuống dưới. Nên khi tạo rule mới xong cần kiểm tra lại các rule có trước đó, nếu trùng điều kiện kênh tương tác, cần <b>kéo rule mới tạo lên trên rule cũ</b> để hệ thống lọc sử dụng.
+Khi doanh nghiệp có nhiều cách chia khách thì hệ thống sẽ xét lần lượt từng cách chia khách từ trên xuống dưới. Cách ở đầu danh sách sẽ được ưu tiên. Nếu bị trùng điều kiện, cách phía dưới sẽ không chạy.
+
+Vì vậy, nếu bạn có từ 2 cách chia khách, hãy <b>kéo cái mới tạo lên trên cùng </b>của danh sách để hệ thống ưu tiên áp dụng trước.
 :::
 
-## Rule phân phối tin nhắn {#rule-phan-phoi-tin-nhan}
+## Chia khách nhắn tin  {#chia-khach-nhan-tin}
 
-### Chia theo kênh {#chia-theo-kenh}
-
-
-<b>Tình huống</b>: Doanh nghiệp có 3 kênh chat khách hàng là website, Fanpage, Zalo. Yêu cầu nhân viên A trực chat trên website, nhân viên B trực chat trên Fanpage và Zalo
+### Chia theo kênh bán hàng  {#chia-theo-kenh-ban-hang}
 
 
-
-<b>Giải pháp</b>: Tạo 2 Rule phân phối tương ứng 2 nhóm chat website và chat Fanpage + Zalo
-
-- <b>Rule 1</b>: Điều kiện Rule chọn kênh tương tác là website - Chọn Phân phối 1 nhân viên A
-- <b>Rule 2</b>: Điều kiện Rule chọn kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới nhân viên B
-### Chia theo vùng miền {#chia-theo-vung-mien}
-
-
-<b>Tình huống</b>: Doanh nghiệp có 2 chi nhánh Hà Nội và Hồ Chí Minh. Yêu cầu nhóm nhân viên Hà Nội trực chat khách từ các tỉnh thành lân cận Hà Nội và nhóm HCM trực chat khách từ các tỉnh thành lân cận HCM
+<b>Tình huống</b>: Doanh nghiệp muốn nhân viên A chuyên trực chat Website, còn nhân viên B chuyên trực Facebook và Zalo.
 
 
 
-<b>Giải pháp</b>: Tạo nhóm nhân viên HN và nhóm nhân viên HCM; Sau đó tạo 2 rule phân phối tương ứng nhóm khách chat vùng HN và nhóm khách chat vùng HCM
+<b>Giải pháp</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng 2 nhóm chat website và chat Fanpage + Zalo
 
-- <b>Bước 1</b>: Tạo nhóm nhân viên tại [trang Nhóm ](https://app.subiz.com.vn/settings/agents-group)[nhân viên](https://app.subiz.com.vn/settings/agents-group)
-- <b>Bước 2</b> : Tạo rule phân phối cho nhóm nhân viên tương ứng theo vị trí địa lý
-
-- <b>Rule 1</b>: Điều kiện Rule chọn Vị trí thành phố là Hanoi và thêm các thành phố lân cận - Phân phối tới nhóm nhân viên HN
-- <b>Rule 2</b>: Điều kiện Rule chọn Vị trí thành phố là Ho Chi Minh City và thêm tỉnh/thành lân cận - Phân phối tới nhóm nhân viên HCM
+- <b>Rule 1</b>: Điều kiện kênh tương tác là website - Chọn Phân phối tới nhân viên A.
+- <b>Rule 2</b>: Điều kiện kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới nhân viên B.
 ### Chia trong giờ làm việc và ngoài giờ làm việc {#chia-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
 
 
-<b>Tình huống</b>: Trong giờ làm việc, cuộc chat sẽ chia đều vòng tròn cho agent. Ngoài giờ làm việc, các cuộc chat chia cho agent trả lời nhanh nhất để khi agent trả lời thì các agent khác không xem chat đó nữa.
+<b>Tình huống</b>: Trong giờ làm việc thì chia đều cho cả nhóm mỗi người 1 khách. Ngoài giờ thì ưu tiên khách được trả lời sớm nhất có thể, ai phản hồi nhanh nhất sẽ được quyền nhận khách.
 
 
 
-<b>Giải pháp</b>: Tạo 2 rule phân phối tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
+<b>Giải pháp</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
 ### Chia theo giờ cụ thể  {#chia-theo-gio-cu-the}
 
 
-<b>Tình huống:</b> Doanh nghiệp muốn phân công cho agent A phụ trách chat khung giờ từ 22:00 thứ Sáu tới 12:00 thứ Bảy.
+<b>Tình huống:</b> Doanh nghiệp muốn phân công cho agent A phụ trách chat khung giờ từ 22:00 thứ Sáu tới 12:00 thứ Bảy. Nhân viên A phụ trách ca đêm từ 22:00 Thứ Sáu đến 08:00 sáng Thứ Bảy
 
 
 

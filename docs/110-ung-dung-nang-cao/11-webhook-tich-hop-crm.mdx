@@ -5,7 +5,7 @@ title: Webhook tích hợp CRM
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-17T09:05:46.745Z
+  date: 2026-03-27T09:25:26.217Z
 ---
 
 # Webhook tích hợp CRM
@@ -307,28 +307,48 @@ Xảy ra khi có một người dùng mới được tạo có thể trên websi
 
 <b>user\_info\_updated</b>
 
-Xảy ra khi có một người dùng mới cập nhật thông
+Xảy ra khi có một người dùng mới cập nhật thông tin
 ```
 {
-  "id": "evqwjnqmicmcubixmhbuyefli",
-  "account_id": "acpxkgumifuoofoosble",
-  "created": 1608955412824,
-  "type": "user_created",
-  "by": {
-    "device": {
-      "ip": "2402:800:41f5:4794:582b:2fb9:8308:1d61",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH2061) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36",
-      "referrer": "https://subiz.com.vn/vi/?utm_source=id-acqowkxgexdswgfswawn&utm_medium=widget&utm_campaign=widget_referral"
-    }
-  },
-  "data": {
-    "user": {
-      "id": "usqwjnqmiclzmjttbqjzo",
-      "account_id": "acpxkgumifuoofoosble",
-      "attributes": [
-        { "key": "created", "datetime": "2020-12-26T04:03:32Z" },
-        { "key": "seen", "datetime": "2020-12-26T04:03:32Z" },
-        { "key": "acpxkgumifuoofoosble_subizv4_subikon", "datetime": "2020-12-26T04:03:32Z" }
+  "events": [
+    {
+      "id": "evsklunazulefktuakcairrcl",
+      "account_id": "acriviayfmabzskstrpq",
+      "created": 1756088815623,
+      "type": "user_info_updated",
+      "data": {
+        "user": {
+          "id": "usskixczcisilewingagv",
+          "account_id": "acriviayfmabzskstrpq",
+          "attributes": [
+            {
+              "key": "created",
+              "modified": 1755679499300,
+              "by_type": "subiz",
+              "datetime": "2025-08-20T08:44:59Z"
+            },
+            {
+              "key": "seen",
+              "modified": 1755680660643,
+              "by_type": "subiz",
+              "datetime": "2025-08-20T09:04:20Z",
+              "by": "system"
+            },
+            {
+              "key": "modified",
+              "modified": 1756088815617,
+              "by_type": "agent",
+              "datetime": "2025-08-25T02:26:55Z",
+              "by": "agrmzcjfkwhnlwjmgy",
+              "user_value": "2025-08-20T09:04:20Z"
+            },
+            {
+              "key": "first_interact",
+              "modified": 1755679591822,
+              "by_type": "subiz",
+              "text": "start_conversation"
+            },
+…Còn tiếp…
       ]
     }
   }
@@ -336,6 +356,12 @@ Xảy ra khi có một người dùng mới cập nhật thông
 
 
 ```
+
+
+
+:::tip
+Trong gói tin có rất nhiều dữ liệu liên quan tới sự kiện bạn quan tâm. Hãy thử tạo 1 sự kiện và khám phá nhé.
+:::
 
 
 <b>[Xem chi tiết link hướng dẫn sử dụng webhook](https://www.notion.so/Webhook-e4b38eb769fe46e19be8ec9e8e2e73bf)</b>
