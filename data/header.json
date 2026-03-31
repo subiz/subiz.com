@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774839060322,
-  "updated": 1774839060322,
+  "fetched": 1774941591572,
+  "updated": 1774941591572,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -329,8 +329,8 @@
       ],
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
-      "modifiedTime": "2025-12-17T08:54:17.919Z",
-      "version": "237",
+      "modifiedTime": "2026-03-31T04:13:39.887Z",
+      "version": "253",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -352,7 +352,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "_4. Chiến dịch telesales",
       "modifiedTime": "2026-01-08T09:03:13.432Z",
-      "version": "176",
+      "version": "177",
       "path_lower": "/_90 Tổng đài điện thoại/4-chien-dich-telesales"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1Qp44L-fB2FduHyvHxP8_G4Scip72z3BHPbG_iUghawc",
       "name": "_8. Xử lý lỗi trên Fanpage",
       "modifiedTime": "2026-01-13T11:36:34.823Z",
-      "version": "210",
+      "version": "211",
       "path_lower": "/30 Tư vấn khách hàng/8-xu-ly-loi-tren-fanpage"
     },
     {
@@ -596,17 +596,6 @@
       "modifiedTime": "2026-01-14T02:32:29.663Z",
       "version": "19",
       "path_lower": "/20 Tích hợp kênh tương tác/google-business"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
-      ],
-      "id": "1_XYxHm3qFe2ge_eK9qYM7S_R1GaXrCgmhHoAFNqr6h0",
-      "name": "_Bản sao của 20. Chatbot AI",
-      "modifiedTime": "2026-03-27T07:52:58.665Z",
-      "version": "439",
-      "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -842,6 +831,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "1jxX9A6L9yGz5wy4e6IYyM7RTn1d5Q8SQaeC3otc54ac",
+      "name": "_Bản sao của 20. Chatbot AI",
+      "modifiedTime": "2026-03-31T07:12:24.147Z",
+      "version": "6",
+      "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
@@ -871,6 +871,17 @@
       "modifiedTime": "2026-03-02T03:16:18.557Z",
       "version": "36",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
+      "name": "Khám phá các tính năng của Chatbot AI ",
+      "modifiedTime": "2026-03-31T07:16:46.221Z",
+      "version": "11",
+      "path_lower": "/1000 Tổng hợp/kham-pha-cac-tinh-nang-cua-chatbot-ai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -967,8 +978,8 @@
       ],
       "id": "1pHUxvbIf_zatPYj9kuWnMBK85qNExjLLgu1hiU1PpJ8",
       "name": "Mail báo cáo hoạt động hàng tuần ",
-      "modifiedTime": "2026-03-17T09:17:04.708Z",
-      "version": "139",
+      "modifiedTime": "2026-03-31T03:43:31.971Z",
+      "version": "150",
       "path_lower": "/1000 Tổng hợp/mail-bao-cao-hoat-dong-hang-tuan"
     },
     {
@@ -978,8 +989,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-03-25T04:19:42.957Z",
-      "version": "474",
+      "modifiedTime": "2026-03-31T07:18:25.209Z",
+      "version": "486",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
