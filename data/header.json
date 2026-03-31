@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1774943036503,
-  "updated": 1774943036503,
+  "fetched": 1774956418870,
+  "updated": 1774956418870,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -330,7 +330,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2026-03-31T04:13:39.887Z",
-      "version": "253",
+      "version": "255",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -879,8 +879,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các tính năng của Chatbot AI ",
-      "modifiedTime": "2026-03-31T07:22:51.087Z",
-      "version": "15",
+      "modifiedTime": "2026-03-31T11:26:15.387Z",
+      "version": "31",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-tinh-nang-cua-chatbot-ai"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-03-31T07:42:25.026Z",
-      "version": "499",
+      "modifiedTime": "2026-03-31T11:26:25.761Z",
+      "version": "531",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
