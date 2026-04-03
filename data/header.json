@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1775029474448,
-  "updated": 1775029474448,
+  "fetched": 1775189597344,
+  "updated": 1775189597344,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -143,7 +143,7 @@
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
       "modifiedTime": "2026-02-27T02:55:07.842Z",
-      "version": "93",
+      "version": "95",
       "path_lower": "/80 Thống kê báo cáo/6-4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -175,8 +175,8 @@
       ],
       "id": "1EQ-FqfIR9kA5-g-C_4H4ExpRUSEWN6BXN25mtXKoyrY",
       "name": "_ Tính năng tính phí riêng",
-      "modifiedTime": "2026-03-27T08:54:38.543Z",
-      "version": "80",
+      "modifiedTime": "2026-04-01T10:54:05.729Z",
+      "version": "93",
       "path_lower": "/1000 Tổng hợp/tinh-nang-tinh-phi-rieng"
     },
     {
@@ -274,8 +274,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-03-28T03:54:11.004Z",
-      "version": "681",
+      "modifiedTime": "2026-04-02T02:11:35.696Z",
+      "version": "689",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -692,8 +692,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-03-12T09:06:31.023Z",
-      "version": "701",
+      "modifiedTime": "2026-04-02T04:55:03.746Z",
+      "version": "711",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -879,8 +879,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các tính năng của Chatbot AI ",
-      "modifiedTime": "2026-03-31T11:26:17.532Z",
-      "version": "38",
+      "modifiedTime": "2026-04-02T02:31:56.447Z",
+      "version": "53",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-tinh-nang-cua-chatbot-ai"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "20. Chatbot AI",
-      "modifiedTime": "2026-04-01T07:17:51.483Z",
-      "version": "574",
+      "modifiedTime": "2026-04-03T04:11:43.537Z",
+      "version": "705",
       "path_lower": "/50 Tự động hóa/20-chatbot-ai"
     },
     {
@@ -1022,8 +1022,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-03-16T07:57:50.486Z",
-      "version": "526",
+      "modifiedTime": "2026-04-02T03:56:11.973Z",
+      "version": "533",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1066,8 +1066,8 @@
       ],
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
-      "modifiedTime": "2026-03-20T02:33:38.202Z",
-      "version": "146",
+      "modifiedTime": "2026-04-02T03:57:14.570Z",
+      "version": "191",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -1099,8 +1099,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-03-27T07:30:18.840Z",
-      "version": "512",
+      "modifiedTime": "2026-04-02T02:26:40.394Z",
+      "version": "524",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
