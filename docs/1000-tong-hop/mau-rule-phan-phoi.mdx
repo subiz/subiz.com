@@ -5,7 +5,7 @@ title: Các cách tự động chia khách hàng \(Rule phân phối\)
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-04-04T04:20:02.903Z
+  date: 2026-04-07T10:36:00.879Z
 ---
 
 # Các cách tự động chia khách hàng \(Rule phân phối\) 
@@ -22,13 +22,7 @@ Ví dụ:
 - Khách nhắn từ Facebook → giao cho nhóm Facebook
 - Khách ở Hà Nội → giao cho nhóm Hà Nội
 - Ngoài giờ → nhân viên nào trả lời khách nhanh nhất thì nhận
-
-
-:::warning
-Khi cài đặt Rule phân phối, luôn kéo Rule phân phối mới tạo lên trên cùng danh sách Rule để ưu tiên phân chia công việc theo cài đặt mới nhất.
-:::
-
-## Chia khách nhắn tin  {#chia-khach-nhan-tin}
+## Các cách chia tin nhắn thông dụng  {#cac-cach-chia-tin-nhan-thong-dung}
 
 ### Chia theo kênh bán hàng  {#chia-theo-kenh-ban-hang}
 
@@ -37,69 +31,71 @@ Khi cài đặt Rule phân phối, luôn kéo Rule phân phối mới tạo lên
 
 
 
-<b>Giải pháp</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng 2 nhóm chat website và chat Fanpage + Zalo
+<b>Cách làm</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng 2 nhóm chat website và chat Fanpage + Zalo
 
 - <b>Rule 1</b>: Điều kiện kênh tương tác là website - Chọn Phân phối tới nhân viên A.
 - <b>Rule 2</b>: Điều kiện kênh tương tác là Messenger + Bình luận Fanpage + Zalo - Chọn Phân phối tới nhân viên B.
 ### Chia trong giờ làm việc và ngoài giờ làm việc {#chia-trong-gio-lam-viec-va-ngoai-gio-lam-viec}
 
 
-<b>Tình huống</b>: Trong giờ làm việc thì chia đều cho cả nhóm mỗi người 1 khách. Ngoài giờ thì ưu tiên khách được trả lời sớm nhất có thể, ai phản hồi nhanh nhất sẽ được quyền nhận khách.
+<b>Tình huống</b>: Trong giờ làm việc thì chia đều cho cả nhóm. Hết giờ làm \(buổi tối\) thì ai phản hồi trước sẽ được nhận khách đó.
 
 
 
-<b>Giải pháp</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
+<b>Cách làm</b>: Tạo 2 [Rule phân phối](https://subiz.com.vn/docs/972963943-rule-phan-phoi) tương ứng chat trong trong giờ làm việc và chat ngoài giờ làm việc
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc - Phân phối đồng đều theo vòng
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc - Phân phối tới agent trả lời nhanh nhất
 ### Chia theo giờ cụ thể  {#chia-theo-gio-cu-the}
 
 
-<b>Tình huống:</b> Doanh nghiệp muốn phân công cho agent A phụ trách chat khung giờ từ 22:00 thứ Sáu tới 12:00 thứ Bảy. Nhân viên A phụ trách ca đêm từ 22:00 Thứ Sáu đến 08:00 sáng Thứ Bảy
+<b>Tình huống:</b> Doanh nghiệp có nhân viên chuyên trực ca đêm \(ví dụ từ 10h tối thứ Sáu đến 8h sáng thứ Bảy\). 
 
 
 
-<b>Giải pháp:</b> Tạo Rule phân phối, thêm điều kiện thời gian tuỳ chỉnh là thứ Sáu từ 22:00 tới 12:00 ngày hôm sau, chọn phân phối cho agent A. 
+<b>Cách làm:</b> Tạo Rule phân phối, thêm điều kiện thời gian tuỳ chỉnh là thứ Sáu từ 22:00 tới 12:00 ngày hôm sau, chọn phân phối cho agent cụ thể. 
 ### Chia theo ca trực  {#chia-theo-ca-truc}
 
 
-<b>Tình huống</b>: Doanh nghiệp phân công mỗi ngày một agent trực chat \(ví dụ agent A trực hôm nay, agent B trực ngày mai\). Yêu cầu hệ thống tự động phân phối hội thoại cho agent theo ca trực. 
+<b>Tình huống</b>: Doanh nghiệp phân công mỗi ngày một nhân viên trực chat \(ví dụ nhân viên A trực hôm nay, nhân viên B trực ngày mai\). Yêu cầu hệ thống tự động phân phối hội thoại cho nhân viên tới ca trực. 
 
 
 
-<b>Giải pháp</b>: Tạo 2 Rule phân phối, trong giờ sẽ chia chat cho agent đang trực, ngoài giờ sẽ chia chat cho agent tới lịch trực tiếp theo 
+<b>Cách làm</b>: Tạo 2 Rule phân phối, trong giờ sẽ chia chat cho agent đang trực, ngoài giờ sẽ chia chat cho agent tới lịch trực tiếp theo 
 
 - <b>Rule 1</b>: Chọn thêm điều kiện Thời gian Trong giờ làm việc + bật chỉ phân cho agent online
 - <b>Rule 2</b>: Chọn thêm điều kiện Thời gian Ngoài giờ làm việc + chọn phân phối cho agent trả lời nhanh nhất
 ### Chia theo bài viết Fanpage  {#chia-theo-bai-viet-fanpage}
 
 
-<b>Tình huống:</b> Doanh nghiệp muốn giao chat từ 1 bài viết Fanpage cụ thể cho agent A trả lời.
+<b>Tình huống:</b> Doanh nghiệp muốn giao chat từ 1 bài viết Fanpage cụ thể cho nhân viên A trả lời.
 
 
 
-<b>Giải pháp:</b> Tạo Rule thêm điều kiện ‘Facebook Post ID’ + chọn bài viết cụ thể + chọn phân phối tới agent A
-## Chia khách gọi điện  {#chia-khach-goi-dien}
+<b>Cách làm:</b> Tạo Rule thêm điều kiện ‘Facebook Post ID’ + chọn bài viết cụ thể + chọn phân phối tới agent A
+## Cách cách chia cuộc gọi {#cach-cach-chia-cuoc-goi}
 
+
+Doanh nghiệp quản lý cuộc gọi tổng đài trên Subiz có thể điều phối cuộc gọi theo nhiều cách sau:
 ### Chia cuộc gọi lần lượt cho từng agent  {#chia-cuoc-goi-lan-luot-cho-tung-agent}
 
 
-<b>Tình huống: </b>Doanh nghiệp muốn khách liên hệ sẽ đổ chuông lần lượt từng agent, nếu agent không trả lời trong 5-10s sẽ đổ chuông agent kế tiếp, cho đến khi có agent trả lời cuộc gọi hoặc khách dập máy. 
+<b>Tình huống: </b>Khách gọi đến sẽ đổ chuông lần lượt từng nhân viên, nếu nhân viên không trả lời trong 5-10s sẽ đổ chuông nhân viên kế tiếp... cho đến khi có người nghe hoặc khách dập máy. 
 
 
 
-<b>Giải pháp:</b> Tạo Rule phân phối cuộc gọi với điều kiện ‘đổ chuông lần lượt từng agent’.
+<b>Cách làm:</b> Tạo Rule phân phối cuộc gọi với điều kiện ‘đổ chuông lần lượt từng agent’.
 ### Chia cuộc gọi theo số điện thoại  {#chia-cuoc-goi-theo-so-dien-thoai}
 
 
-<b>Tình huống:</b> Doanh nghiệp có 2 số điện thoại tổng đài, muốn khách gọi tới số A sẽ đổ chuông agent A, khách gọi tới số B sẽ đổ chuông agent B. 
+<b>Tình huống:</b> Doanh nghiệp có 2 số điện thoại tổng đài riêng cho Hà Nội và Sài Gòn. Muốn khách gọi vào số Hà Nội sẽ chuyển máy cho nhân viên Hà Nội, gọi số Sài Gòn chuyển cho nhân viên Sài Gòn. 
 
 
 
-<b>Giải pháp:</b> Tạo 2 Rule phân phối cuộc gọi từng số điện thoại 
+<b>Cách làm:</b> Tạo 2 Rule phân phối cuộc gọi từng số điện thoại 
 
-- Rule 1: Điều kiện Rule chọn số điện thoại A + chọn đổ chuông tới agent A
-- Rule 2: Điều kiện Rule chọn số điện thoại B + chọn đổ chuông tới agent B
+- Rule 1: Điều kiện Rule chọn số điện thoại Hà Nội + chọn đổ chuông tới agent Hà Nội
+- Rule 2: Điều kiện Rule chọn số điện thoại Sài Gòn + chọn đổ chuông tới agent Sài Gòn.
 ### Chia cuộc gọi theo phòng ban/chi nhánh {#chia-cuoc-goi-theo-phong-ban/chi-nhanh}
 
 
@@ -107,28 +103,35 @@ Khi cài đặt Rule phân phối, luôn kéo Rule phân phối mới tạo lên
 
 
 
-<b>Giải pháp:</b> Tạo Rule phân phối cuộc gọi với menu thoại, mời khách ấn chọn gặp phòng ban tương ứng. 
+<b>Cách làm:</b> Tạo Rule phân phối cuộc gọi với menu thoại, mời khách bấm phím để chọn bộ phận 
 
 - Phím 1: Đổ chuông tới nhóm kinh doanh
 - Phím 2: Đổ chuông tới nhóm kỹ thuật
 ### Chia cuộc gọi theo thời gian làm việc  {#chia-cuoc-goi-theo-thoi-gian-lam-viec}
 
 
-<b>Tình huống: </b>Ngoài giờ làm việc, khách gọi sẽ nghe lời thoại thông báo ngoài giờ hẹn hỗ trợ sau và cúp máy. Trong giờ làm việc, khách gọi sẽ nghe lời thoại chào mừng và cuộc gọi đổ chuông tới agent. 
+<b>Tình huống: </b>Ngoài giờ làm việc, khách gọi điện sẽ nghe lời thoại thông báo ngoài giờ hẹn hỗ trợ sau và cúp máy. Trong giờ làm việc, khách gọi sẽ nghe lời thoại chào mừng và cuộc gọi đổ chuông tới nhân viên. 
 
 
 
-<b>Giải pháp:</b> Tạo 2 Rule phân phối cuộc gọi trong và ngoài giờ làm việc
+<b>Cách làm:</b> Tạo 2 Rule phân phối cuộc gọi trong và ngoài giờ làm việc
 
 - Rule 1: Chọn thêm điều kiện thời gian Ngoài giờ làm việc + thêm lời thoại ngoài giờ + chọn cúp máy sau đó
 - Rule 2: Chọn thêm điều kiện thời gian Trong giờ làm việc + thêm lời thoại trong giờ + chọn đổ chuông agent
 ### Chia cuộc gọi nhỡ {#chia-cuoc-goi-nho}
 
 
-<b>Tình huống: </b>Doanh nghiệp quản lý và thống kê việc xử lý cuộc gọi nhỡ. Agent sẽ được thông báo nhắc nhở khi có cuộc gọi nhỡ chưa xử lý xong. 
+<b>Tình huống: </b>Nhân viên được thông báo nhắc nhở khi có cuộc gọi nhỡ chưa xử lý xong. 
+
+Quản lý muốn thống kê và đánh giá việc xử lý cuộc gọi nhỡ. 
 
 
 
-<b>Giải pháp: </b>Trong Rule phân phối cuộc gọi + bật tạo Phiếu ghi khi có cuộc gọi nhỡ 
+<b>Cách làm: </b>Trong Rule phân phối cuộc gọi + bật tạo Phiếu ghi khi có cuộc gọi nhỡ 
 
-Lưu ý: Tính năng Phiếu ghi áp dụng với các gói từ Nâng Cao trở lên.
+Lưu ý: Tính năng Phiếu ghi áp dụng với các gói từ Nâng Cao trở lên. 
+
+
+:::warning
+Để Rule hoạt động đúng, bạn cần lưu ý về thứ tự ưu tiên trên danh sách Rule. Hãy kéo các Rule mới tạo hoặc quan trọng nhất lên <b>đầu danh sách</b>. Subiz sẽ kiểm tra từ trên xuống dưới, gặp Rule nào khớp trước sẽ chia khách theo Rule đó.
+:::

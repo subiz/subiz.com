@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1775542194114,
-  "updated": 1775542194114,
+  "fetched": 1775576175267,
+  "updated": 1775576175267,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -253,7 +253,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-03-27T04:28:35.593Z",
-      "version": "405",
+      "version": "410",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -560,8 +560,8 @@
       ],
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Mẫu Rule phân phối ",
-      "modifiedTime": "2026-04-04T04:20:02.903Z",
-      "version": "369",
+      "modifiedTime": "2026-04-07T10:36:00.879Z",
+      "version": "400",
       "path_lower": "/1000 Tổng hợp/mau-rule-phan-phoi"
     },
     {
@@ -990,7 +990,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
       "modifiedTime": "2026-04-07T03:55:42.257Z",
-      "version": "812",
+      "version": "813",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
