@@ -171,8 +171,12 @@ const config = {
 						],
 					},
 					{
-						to: '/1540866648-chatbot-kich-ban-san',
-						from: ['/1540866648-auto-chatbot', '/1540866648-bot-tu-dong-nhan-tin'],
+						to: '/1879342131-giai-thich-thuat-ngu-tren-subiz',
+						from: ['docs/1000-tong-hop/giai-thich-thuat-ngu-subiz.mdx'],
+					},
+					{
+						to: '/1540866648-chatbot-kich-ban',
+						from: ['/1540866648-auto-chatbot', '/1540866648-bot-tu-dong-nhan-tin', '/1540866648-chatbot-kich-ban-san'],
 					},
 					{
 						to: '/1083215603-popup',

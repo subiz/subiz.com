@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1775453013882,
-  "updated": 1775453013882,
+  "fetched": 1775542194114,
+  "updated": 1775542194114,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -53,10 +53,10 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
-      "name": "10. Chatbot kịch bản sẵn ",
-      "modifiedTime": "2026-03-25T04:24:25.509Z",
-      "version": "580",
-      "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban-san"
+      "name": "10. Chatbot kịch bản",
+      "modifiedTime": "2026-04-06T08:58:53.831Z",
+      "version": "591",
+      "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -616,7 +616,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "1.1 Giờ làm việc",
       "modifiedTime": "2026-04-06T03:57:05.606Z",
-      "version": "261",
+      "version": "264",
       "path_lower": "/40 Quản lý làm việc nhóm/1-1-gio-lam-viec"
     },
     {
@@ -648,8 +648,8 @@
       ],
       "id": "1b8lgf7z_1lIT3W9HHMYzD0Jd_L3ElHL6ChKHrnCyqKc",
       "name": "5.2 Đơn hàng",
-      "modifiedTime": "2026-01-16T10:52:53.206Z",
-      "version": "237",
+      "modifiedTime": "2026-04-06T07:42:26.203Z",
+      "version": "273",
       "path_lower": "/70 Quản lý đơn hàng/5-2-don-hang"
     },
     {
@@ -669,10 +669,10 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1bXEbP_2qnSye-aY68xkuIh0eFxKTu425cs8G7iRipSM",
-      "name": "Giải thích thuật ngữ Subiz ",
-      "modifiedTime": "2026-03-23T09:21:09.053Z",
-      "version": "52",
-      "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-subiz"
+      "name": "Giải thích thuật ngữ trên Subiz ",
+      "modifiedTime": "2026-04-06T10:49:45.581Z",
+      "version": "63",
+      "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -879,8 +879,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các tính năng của Nhân viên AI",
-      "modifiedTime": "2026-04-06T05:20:20.085Z",
-      "version": "96",
+      "modifiedTime": "2026-04-06T09:14:15.004Z",
+      "version": "108",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-tinh-nang-cua-nhan-vien-ai"
     },
     {
@@ -912,8 +912,8 @@
       ],
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "22. Chu trình",
-      "modifiedTime": "2026-03-16T08:00:07.181Z",
-      "version": "108",
+      "modifiedTime": "2026-04-06T08:05:49.294Z",
+      "version": "125",
       "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
@@ -988,10 +988,10 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
-      "name": "20. Nhân viên AI",
-      "modifiedTime": "2026-04-06T05:18:33.544Z",
-      "version": "744",
-      "path_lower": "/50 Tự động hóa/20-nhan-vien-ai"
+      "name": "9. Nhân viên AI",
+      "modifiedTime": "2026-04-07T03:55:42.257Z",
+      "version": "812",
+      "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1045,7 +1045,7 @@
       "id": "1svYIgAXCWaLHnCKBPW0dN1OH9RE-a4Pd9wXo0w-Ah90",
       "name": "Nhân viên AI Hỏi thăm lại thông minh",
       "modifiedTime": "2026-04-06T05:21:00.945Z",
-      "version": "64",
+      "version": "65",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-hoi-tham-lai-thong-minh"
     },
     {
@@ -1124,6 +1124,17 @@
       "modifiedTime": "2026-03-25T04:26:05.414Z",
       "version": "484",
       "path_lower": "/readme"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
+      ],
+      "id": "1xdvADvDKt_EcevyaOns2NxgX1jMUsvjhKixfIwCEQ8Y",
+      "name": "_20. Ghi nhận sự kiện trên Subiz",
+      "modifiedTime": "2026-04-06T08:34:00.407Z",
+      "version": "36",
+      "path_lower": "/110 Ứng dụng nâng cao/20-ghi-nhan-su-kien-tren-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
