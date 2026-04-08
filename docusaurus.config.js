@@ -172,7 +172,7 @@ const config = {
 					},
 					{
 						to: '/1879342131-giai-thich-thuat-ngu-tren-subiz',
-						from: ['docs/1000-tong-hop/giai-thich-thuat-ngu-subiz.mdx'],
+						from: ['/1879342131-giai-thich-thuat-ngu-subiz'],
 					},
 					{
 						to: '/1540866648-chatbot-kich-ban',
