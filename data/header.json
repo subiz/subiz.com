@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1775795891099,
-  "updated": 1775795891099,
+  "fetched": 1775827437196,
+  "updated": 1775827437196,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -571,8 +571,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-04-10T01:59:44.222Z",
-      "version": "474",
+      "modifiedTime": "2026-04-10T09:25:27.760Z",
+      "version": "481",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -637,8 +637,8 @@
       ],
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "2. Email Marketing",
-      "modifiedTime": "2026-04-10T02:08:50.454Z",
-      "version": "218",
+      "modifiedTime": "2026-04-10T10:43:52.577Z",
+      "version": "265",
       "path_lower": "/100 Marketing/2-email-marketing"
     },
     {
@@ -879,8 +879,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-04-10T04:29:16.975Z",
-      "version": "218",
+      "modifiedTime": "2026-04-10T07:47:21.005Z",
+      "version": "252",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-04-10T04:35:23.101Z",
-      "version": "1088",
+      "modifiedTime": "2026-04-10T05:00:24.138Z",
+      "version": "1099",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
