@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1775622990147,
-  "updated": 1775622990147,
+  "fetched": 1775794370388,
+  "updated": 1775794370388,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -297,7 +297,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "151",
+      "version": "153",
       "path_lower": "/1000 Tổng hợp/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
@@ -517,7 +517,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
       "modifiedTime": "2026-04-08T02:56:47.003Z",
-      "version": "249",
+      "version": "250",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -571,8 +571,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-03-18T08:12:01.770Z",
-      "version": "466",
+      "modifiedTime": "2026-04-10T01:59:44.222Z",
+      "version": "474",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -637,8 +637,8 @@
       ],
       "id": "1aSXnbxGmRPQQt_cZO6WK-L9Y33xxZ5Rhbkfv3twTshc",
       "name": "2. Email Marketing",
-      "modifiedTime": "2026-01-19T10:23:48.950Z",
-      "version": "210",
+      "modifiedTime": "2026-04-10T02:08:50.454Z",
+      "version": "218",
       "path_lower": "/100 Marketing/2-email-marketing"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
-      "modifiedTime": "2026-03-05T07:13:57.239Z",
-      "version": "311",
+      "modifiedTime": "2026-04-09T08:10:14.150Z",
+      "version": "330",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -879,8 +879,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các tính năng của Nhân viên AI",
-      "modifiedTime": "2026-04-06T09:14:15.004Z",
-      "version": "108",
+      "modifiedTime": "2026-04-10T04:11:42.416Z",
+      "version": "204",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-tinh-nang-cua-nhan-vien-ai"
     },
     {
@@ -989,8 +989,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-04-08T04:25:56.109Z",
-      "version": "839",
+      "modifiedTime": "2026-04-10T04:09:19.554Z",
+      "version": "1081",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1099,8 +1099,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-04-03T09:26:04.308Z",
-      "version": "552",
+      "modifiedTime": "2026-04-09T10:20:47.904Z",
+      "version": "565",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {

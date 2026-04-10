@@ -5,7 +5,7 @@ title: Nhân viên AI
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-04-08T04:25:56.109Z
+  date: 2026-04-10T04:09:19.554Z
 ---
 
 
@@ -18,10 +18,6 @@ Nhân viên AI là tính năng sử dụng AI để trả lời tin nhắn khác
 - <b>Trả lời theo kiến thức doanh nghiệp:</b> Tự động báo giá, tư vấn tính năng và chính sách bán hàng của doanh nghiệp bạn.
 - <b>Xin thông tin khách:</b> Khéo léo hỏi số điện thoại và thông tin khách theo mạch trò chuyện.
 - <b>Phối hợp với tư vấn viên</b>: Chỉ cần câu hỏi khó vượt quá kiến thức, AI sẽ tự động mời nhân viên thật vào hỗ trợ.
-:::info
-Bạn được dùng thử tính năng trước khi chính thức cho phép Nhân viên AI hỗ trợ khách hàng.
-:::
-
 ## Hướng dẫn tạo Nhân viên AI  {#huong-dan-tao-nhan-vien-ai}
 
 
@@ -31,91 +27,139 @@ Bạn được dùng thử tính năng trước khi chính thức cho phép Nhâ
 ### Thiết kế  {#thiet-ke}
 
 
-Subiz đã cấu hình sẵn 1 nhân viên AI thân thiện chăm sóc khách hàng, bạn chỉ cần nhập thông tin thương hiệu là hoàn tất phần thiết kế.
+Subiz đã cấu hình sẵn 1 nhân viên AI thân thiện chăm sóc khách hàng, bạn chỉ cần nhập thông tin thương hiệu công ty là hoàn tất phần thiết kế.
 #### Thương hiệu  {#thuong-hieu}
 
 
-Sau khi nhập tên doanh nghiệp, bạn có thể dùng AI hỗ trợ tạo mô tả thương hiệu doanh nghiệp cho ngắn gọn và tổng quan: 
+Phần này giúp Nhân viên AI hiểu về nơi làm việc và giới thiệu đúng về doanh nghiệp với khách hàng.
 
-- Nhập thông tin cơ bản của doanh nghiệp như: sản phẩm kinh doanh, quy mô kinh doanh, …
-- Nhấn <b>AI gợi ý</b>
-- Tham khảo và chỉnh sửa lại rồi nhấn <b>Áp dụng</b>
-- Nhấn nút <b>Lưu </b>thay đổi.
+- Tên thương hiệu: Nhập tên cửa hàng hoặc tên công ty của bạn.
+- Mô tả thương hiệu: Nhập 1 đoạn ngắn giới thiệu về doanh nghiệp bạn như <b>công ty bạn là ai, đang cung cấp dịch vụ gì và phục vụ nhóm khách hàng nào. </b>
+
+Nếu chưa biết viết mô tả, bạn chỉ cần nhập các ý chính và nhấn <b>AI gợi ý </b>tạo một đoạn mô tả về doanh nghiệp bạn. Bạn chỉnh sửa lại và nhấn Lưu để sử dụng.
+
+
+![](https://vcdn.subiz-cdn.com/file/fispuujvrlknktevrxqq_acpxkgumifuoofoosble/36a78381eb5fa644041e8d8b06a23a91.png)
+
 #### Chân dung  {#chan-dung}
 
 
-Bạn có thể tùy chỉnh lại phong cách nhắn tin của AI nếu muốn: 
+Tại đây bạn có thể tùy chỉnh thêm về thái độ, cách Nhân viên AI nhắn tin với khách hàng: 
 
 - Độ dài tin nhắn là ngắn gọn hơn
 - Cố định xưng hô với khách hàng
 - Sửa thông điệp khi AI gặp câu hỏi không có kiến thức phản hồi.
-
-
-![](https://vcdn.subiz-cdn.com/file/fispphdqovuotwgurjwr_acpxkgumifuoofoosble/13084b49a22339ff1c2079f5961634f5.png)
-
 ### Nạp kiến thức  {#nap-kien-thuc}
 
 
-Kiến thức chính là tài liệu mà doanh nghiệp cung cấp cho Nhân viên AI dựa vào để phản hồi khách hàng. Đây là bước quan trọng quyết định chất lượng tư vấn của AI. 
+Kiến thức là tài liệu, văn bản, hình ảnh, … AI sử dụng để trả lời câu hỏi của khách hàng.
 
 
 
-Bạn dễ dàng nạp kiến thức cho Nhân viên AI qua <b>tài liệu mẫu</b> như sau: 
+Bạn nạp kiến thức cho Nhân viên AI như sau:
 
 - Ở phía trên cùng màn hình làm việc Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
 - Tới mục <b>Kiến thức</b>
-- Subiz có sẵn 3 tài liệu mẫu gồm: giới thiệu công ty, sản phẩm dịch vụ và quy trình tư vấn bán hàng
-- Nhấn vào từng tài liệu, nhập thông tin tương ứng về doanh nghiệp bạn
-- Nhấn <b>Lưu</b> và xác nhận <b>tiếp tục</b>
-- Đợi ít phút để AI học tài liệu và chuyển trạng thái <b>Sẵn sàng</b>.
+- Ở đây bạn có thể lựa chọn tải lên tài liệu \(pdf, txt\) hoặc nhập website của bạn để AI học.
+- Ngoài ra, Subiz cung cấp sẵn các tài liệu mẫu gồm: giới thiệu công ty, sản phẩm dịch vụ và quy trình tư vấn bán hàng. Bạn chỉ cần điền các thông tin doanh nghiệp là nhân viên AI đã có đủ kiến thức căn bản để trả lời khách.
+- Sau khi nạp tài liệu, bạn cần đợi ít phút để nhân viên AI học. Tài liệu chuyển trạng thái <b>Sẵn sàng</b> là bạn đã có thể chạy thử.
+
+
+![](https://vcdn.subiz-cdn.com/file/fispuujwbisvnyygtxyy_acpxkgumifuoofoosble/a324c68620c8b4c7457615503eeb2f77.png)
+
 :::tip
-Đừng cố gắng dạy Nhân viên AI mọi thứ ngay lập tức. Hãy bắt đầu với những thông tin cơ bản nhất, sau đó [bổ sung kiến thức](https://subiz.com.vn/docs/959627293-kham-pha-cac-tinh-nang-cua-chatbot-ai#nap-kien-thuc-cho-chatbot-ai) dần dần dựa trên các câu hỏi thực tế từ khách hàng.
+Đừng cố gắng dạy Nhân viên AI mọi thứ ngay lập tức. Hãy bắt đầu với những thông tin cơ bản nhất, sau đó [bổ sung kiến thức](https://subiz.com.vn/docs/959627293-kham-pha-cac-tinh-nang-cua-nhan-vien-ai#nap-kien-thuc-cho-nhan-vien-ai) dần dần dựa trên các câu hỏi thực tế từ khách hàng.
 :::
 
 ### Chạy thử  {#chay-thu}
 
 
-Kiểm tra phản hồi của Nhân viên AI bằng các tình huống chat thực tế:
-
-- Tại mục <b>Thiết kế AI</b>, nhấn <b>Xem thử</b> ở góc bên phải.
-- Một cửa sổ chat sẽ hiện ra để bạn trải nghiệm như khách hàng đang trò chuyện với AI.
-- Đặt câu hỏi cho AI
+Vào mục <b>Thiết kế AI</b> sẽ thấy <b>cửa sổ chat thử</b> ở bên phải màn hình giả lập bạn là khách hàng nhắn tin với Nhân viên AI. 
 
 
+![](https://vcdn.subiz-cdn.com/file/fispuujwdyhsvlpbwekr_acpxkgumifuoofoosble/c679621ab14733723447a565ca74d4d3.png)
 
-|<b>Mục tiêu kiểm tra </b>|<b>Câu hỏi </b>|
-|--|--|
-|Chào, hỏi thăm nhu cầu|<i>Alo / Bắt đầu / Bạn ơi</i>|
-|Giới thiệu về sản phẩm/ dịch vụ|<i>Bên bạn có những mặt hàng gì vậy?</i>|
-|Tư vấn theo nhu cầu|<i>Mình đang có nhu cầu …, bên bạn có không?</i>|
-|Báo giá|<i>Giá của … bao nhiêu?</i>|
-|Xin thông tin khách|<i>Liên hệ tư vấn thêm cho mình nhé.</i>|
-|Xử lý khách phân vân, thấy giá cao|<i>Để mình xem thêm nhé / Giá cao thế.</i>|
-|Xử lý khi chưa có kiến thức|<i>Mình mua gấp đôi giảm thêm 20% được không?</i>|
-|Chuyển cho nhân viên thật|<i>Cho mình gặp người thật.</i>|
 
+
+
+Đừng vội hài lòng nếu AI chỉ mới trả lời đúng vài câu chào hỏi cơ bản. Để đảm bảo AI an toàn khi nhắn với khách thật, bạn cần chạy thử với các nhóm câu hỏi sau:
+
+
+
+<b>Những câu hỏi thông tin cơ bản về doanh nghiệp</b>
+
+- Địa chỉ của bên bạn ở đâu?
+- Hotline của bên bạn là gì?
+- Thông tin thanh toán của bên bạn là gì?
+- Mình đang quan tâm về dịch vụ …, bên bạn có không?
+
+<b>Những câu hỏi về sản phẩm</b>
+
+- Bên bạn có những mặt hàng gì vậy?
+- Giá sản phẩm … là bao nhiêu?
+- Sản phẩm này giảm giá 50% được không?
+
+<b>Những câu hỏi cần chuyển giao cho con người</b>
+
+- Gọi tư vấn thêm cho mình nhé.
+- Cho tôi gặp con người
+- Bot trả lời chán quá
+
+<b>Những câu hỏi ngoài lề, không liên quan tới doanh nghiệp</b>
+
+- Có những bên nào cung cấp dịch vụ giống bạn?
+- Chủ tịch nước Việt Nam là ai?
+- Giá vàng hôm nay?
 
 
 :::tip
 Nếu bạn muốn Nhân viên AI phản hồi đúng ý hơn và xử lý được các tình huống khó. Hãy tiếp tục tối ưu ở phần <b>[Cài đặt AI nâng cao](https://subiz.com.vn/docs/959627293-kham-pha-cac-tinh-nang-cua-chatbot-ai)</b>.
 :::
 
-### Kích hoạt Nhân viên AI trả lời khách hàng  {#kich-hoat-nhan-vien-ai-tra-loi-khach-hang}
+### Cho phép Nhân viên AI trả lời khách hàng  {#cho-phep-nhan-vien-ai-tra-loi-khach-hang}
 
 
-Khi chạy thử thấy hài lòng với phản hồi của AI. Đây là lúc bạn nên bật Nhân viên AI:
+Khi chạy thử thấy hài lòng với phản hồi của AI. Bạn bật sử dụng Nhân viên AI như sau:
 
 - Ở phía trên cùng màn hình làm việc Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
 - Tại mục <b>Điều kiện hoạt động</b>, chọn những kênh bạn muốn AI làm việc như Website, Fanpage, Zalo OA…
 - Tại mục <b>Thiết kế AI</b>, nhấn nút <b>Lưu</b>, chọn <b>Lưu và Xuất bản</b> để AI bắt đầu trả lời khách.
+:::info
+Tính năng Nhân viên AI hiện khả dụng cho các gói Nâng cao \(Advanced\) trở lên. Vui lòng kiểm tra gói dịch vụ của bạn & [nạp tiền cho ngân sách chi tiêu AI](https://app.subiz.com.vn/settings/subscription-info) để sử dụng.
+:::
 
-Lưu ý: Tính năng Nhân viên AI hiện khả dụng cho các gói Nâng cao \(Advanced\) trở lên. Vui lòng kiểm tra gói dịch vụ của bạn & [nạp tiền cho ngân sách chi tiêu AI](https://app.subiz.com.vn/settings/subscription-info) để sử dụng.
+## Sử dụng Nhân viên AI  {#su-dung-nhan-vien-ai}
+
+
+Khi tiếp nhận hội thoại, Nhân viên AI có thể chủ động mời tư vấn viên tham gia. Nếu tư vấn viên gửi tin nhắn, AI sẽ tự động tạm ngừng chat để nhường quyền hỗ trợ cho tư vấn viên. 
+
+
+
+Trong thời gian đầu mới sử dụng Nhân viên AI, bạn muốn tư vấn viên cùng theo dõi cuộc trò chuyện từ đầu để có thể tham gia hỗ trợ kịp thời. Bạn có thể cài đặt thêm [thời điểm AI mời thêm tư vấn viên](https://subiz.com.vn/docs/959627293-kham-pha-cac-tinh-nang-cua-nhan-vien-ai#phan-phoi-hoi-thoai-toi-nguoi-phu-trach) vào chat. 
+## Dừng sử dụng Nhân viên AI  {#dung-su-dung-nhan-vien-ai}
+
+
+- Ở phía trên cùng màn hình sau khi đăng nhập Subiz &gt; Chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn vào AI tương ứng
+- Tại góc trái màn hình, nhấn nút <b>Dừng Bot</b> và xác nhận.
+
+Khi muốn mở lại Nhân viên AI, bạn thực hiện tương tự và nhấn nút Chạy bot. 
+
+
+
+Lưu ý: 
+
+Cài đặt chỉ áp dụng cho các hội thoại mới. Với hội thoại đang có Nhân viên AI, bạn nhấn vào biểu tượng Bot ở trên thanh công cụ của hội thoại, bấm <b>Dừng bot</b>. 
+
+
+![](https://vcdn.subiz-cdn.com/file/fispvjvysqkypinhopnl_acpxkgumifuoofoosble/f80c33d75cfe4fc7f50eb45547570d9a.png)
+
 ## FAQs {#faqs}
 
-#### Tôi được dùng thử Nhân viên AI trong bao nhiêu ngày?  {#toi-duoc-dung-thu-nhan-vien-ai-trong-bao-nhieu-ngay}
+#### Tôi được dùng thử Nhân viên AI trước không?  {#toi-duoc-dung-thu-nhan-vien-ai-truoc-khong}
 
 
-Không giới hạn. Bạn thoải mái trải nghiệm Nhân viên AI cho đến khi hết ngân sách dùng thử và có thể nạp thêm [Ngân sách AI](https://subiz.com.vn/docs/1081919878-cac-goi-dich-vu#nap-tien-su-dung-chatbot-ai) để dùng thử tiếp. Tuy nhiên Subiz gợi ý bạn tập trung dùng thử trong 7 ngày là đánh giá được hoạt động của AI. 
+Có. Bạn được trải nghiệm Nhân viên AI cho đến khi hết ngân sách dùng thử và có thể nạp thêm [Ngân sách AI](https://subiz.com.vn/docs/1081919878-cac-goi-dich-vu#nap-tien-su-dung-chatbot-ai) để dùng thử tiếp. Subiz gợi ý bạn tập trung dùng thử trong 7 ngày là đánh giá được hoạt động của AI. 
 #### Nhân viên AI có thể hoạt động trên những kênh nào?  {#nhan-vien-ai-co-the-hoat-dong-tren-nhung-kenh-nao}
 
 
@@ -126,7 +170,7 @@ Nhân viên AI hoạt động trên các kênh: Website, Fanpage, Zalo OA, Zalo 
 Có 2 nguyên nhân phổ biến:
 
 - Kiến thức bạn nạp chưa có thông tin đó.
-- Hoặc là bạn đang dùng thêm câu lệnh \(prompt\) bên ngoài quá phức tạp.
+- Hoặc là bạn đã tuỳ chỉnh thêm câu lệnh \(prompt\) quá phức tạp dẫn tới không kiểm soát được hành vi của AI.
 
 Hãy bổ sung [thêm kiến thức cho Nhân viên AI](https://subiz.com.vn/docs/959627293-kham-pha-cac-tinh-nang-cua-chatbot-ai#nap-kien-thuc-cho-chatbot-ai) theo hướng dẫn của Subiz để AI hoạt động tốt nhất.
 #### Subiz tính phí sử dụng Nhân viên AI như nào?  {#subiz-tinh-phi-su-dung-nhan-vien-ai-nhu-nao}
