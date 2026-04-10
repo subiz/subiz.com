@@ -150,10 +150,7 @@ const config = {
 						to: '/628554948-agent',
 						from: ['/1893632067-quan-ly-doi-nhom'],
 					},
-					{
-						to: '/959627293-kham-pha-cac-tinh-nang-cua-nhan-vien-ai',
-						from: ['/959627293-kham-pha-cac-tinh-nang-cua-chatbot-ai'],
-					},
+
 					{
 						to: '/2015105931-nhan-vien-ai-hoi-tham-lai-thong-minh',
 						from: ['/2015105931-chatbot-ai-hoi-tham-lai-thong-minh'],
@@ -168,6 +165,13 @@ const config = {
 							'/102007810-kich-ban-chatbot-mau',
 							'/102007810-mot-so-mau-kich-ban-bot',
 							'/102007810-mot-so-vi-du-kich-ban-bot',
+						],
+					},
+					{
+						to: '/959627293-kham-pha-cac-chuc-nang-cua-nhan-vien-ai',
+						from: [
+							'/959627293-kham-pha-cac-tinh-nang-cua-nhan-vien-ai',
+							'/959627293-kham-pha-cac-tinh-nang-cua-chatbot-ai',
 						],
 					},
 					{
