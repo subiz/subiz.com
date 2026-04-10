@@ -3,7 +3,6 @@ const path = require('path')
 const {google} = require('googleapis')
 const {exec} = require('node:child_process')
 const FormData = require('form-data')
-const axios = require('axios')
 const lo = require('lodash')
 const util = require('util')
 const execAsync = util.promisify(exec)
@@ -24,16 +23,17 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 
 		let dlFileName = md5(youtubeUrl)
 		console.log('Search Cloudflare for existed video: ', dlFileName)
-		let search = await axios.get(`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream`, {
-			headers: {
-				'Content-Type': 'application/json',
-				Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
+		let searchRes = await fetch(
+			`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream?search=${dlFileName}`,
+			{
+				headers: {
+					'Content-Type': 'application/json',
+					Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
+				},
 			},
-			params: {
-				search: dlFileName,
-			},
-		})
-		let found = lo.get(search, 'data.result') || []
+		)
+		let search = await searchRes.json()
+		let found = lo.get(search, 'result') || []
 		if (lo.size(found)) {
 			console.log('SEARCH CLOUDFLARE VIDEO HITTTTTTTT', youtubeUrl)
 			return found[0]
@@ -57,34 +57,31 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 		const form = new FormData()
 		form.append('file', fs.createReadStream(filePath))
 
-		const res = await axios.post(
-			`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream`,
-			form,
-			{
-				headers: {
-					...form.getHeaders(),
-					Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
-				},
-				maxContentLength: Infinity,
-				maxBodyLength: Infinity,
-				onUploadProgress: (progressEvent) => {
-					if (progressEvent.total) {
-						const percent = ((progressEvent.loaded / progressEvent.total) * 100).toFixed(2)
-						process.stdout.write(`\r⬆️  Upload: ${percent}%`)
-					}
-				},
+		const resResponse = await fetch(`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream`, {
+			method: 'POST',
+			body: form,
+			headers: {
+				...form.getHeaders(),
+				Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
 			},
-		)
+		})
+
+		if (!resResponse.ok) {
+			const errorData = await resResponse.text()
+			throw new Error(`Upload failed: ${resResponse.statusText} - ${errorData}`)
+		}
+
+		const resData = await resResponse.json()
 
 		console.log('\n✅ Upload thành công!')
-		console.log('📺 Cloudflare video info:', res.data.result)
+		console.log('📺 Cloudflare video info:', resData.result)
 
 		// 4️⃣ (Tùy chọn) Xoá file local sau khi upload
 		// fs.unlinkSync(filePath)
 
-		return res.data.result
+		return resData.result
 	} catch (err) {
-		console.error('\n❌ Lỗi:', err.response?.data || err.message)
+		console.error('\n❌ Lỗi:', err.message)
 		throw err
 	}
 }
