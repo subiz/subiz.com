@@ -24,10 +24,6 @@ const config = {
 			{
 				redirects: [
 					{
-						to: '/1652325030-mau-rule-phan-phoi',
-						from: ['/1652325030-rule-phan-phoi-mau-tren-subiz'],
-					},
-					{
 						to: '/587325543-phieu-ghi-ticket',
 						from: ['/587325543-phieu-ghi-cham-soc-khach-hang'],
 					},
@@ -166,6 +162,10 @@ const config = {
 							'/102007810-mot-so-mau-kich-ban-bot',
 							'/102007810-mot-so-vi-du-kich-ban-bot',
 						],
+					},
+					{
+						to: '/1652325030-cac-cach-phan-phoi-hoi-thoai',
+						from: ['/1652325030-mau-rule-phan-phoi', '/1652325030-rule-phan-phoi-mau-tren-subiz'],
 					},
 					{
 						to: '/959627293-kham-pha-cac-chuc-nang-cua-nhan-vien-ai',
