@@ -10,7 +10,10 @@ async function html2block(html, docM) {
 	let out = []
 	await htmlMap(dom.window.document.body.childNodes, async (item, i) => {
 		let ret = await parse(item, undefined, docM || {})
-		if (ret) out.push(ret)
+		if (ret) {
+			if (Array.isArray(ret)) out.push(...ret)
+			else out.push(ret)
+		}
 	})
 	out = out.filter((ret) => ret)
 	// remove file ending new line
@@ -25,14 +28,14 @@ async function html2block(html, docM) {
 
 async function parse(item, format, docM) {
 	if (!item) return
-	if (checkTitle(item)) return parseTitle(item, docM)
-	if (checkH1(item)) return parseHeading(1, item, docM)
-	if (checkH2(item)) return parseHeading(2, item, docM)
-	if (checkH3(item)) return parseHeading(3, item, docM)
-	if (checkH4(item)) return parseHeading(4, item, docM)
+	if (checkTitle(item)) return await parseTitle(item, docM)
+	if (checkH1(item)) return await parseHeading(1, item, docM)
+	if (checkH2(item)) return await parseHeading(2, item, docM)
+	if (checkH3(item)) return await parseHeading(3, item, docM)
+	if (checkH4(item)) return await parseHeading(4, item, docM)
 	if (checkCodeblock(item)) return parseCodeblock(item, docM)
-	if (checkTable(item)) return parseTable(item, docM)
-	return parsePara(item, format, docM)
+	if (checkTable(item)) return await parseTable(item, docM)
+	return await parsePara(item, format, docM)
 }
 
 // code must not contain ```
@@ -83,7 +86,7 @@ async function parseTable(item, docM) {
 					type: 'table_cell',
 					colspan: 1,
 					rowspan: 1,
-					content: [parsed],
+					content: Array.isArray(parsed) ? parsed : [parsed],
 				})
 				return
 			})
@@ -100,7 +103,6 @@ function codeContent(item) {
 		if (text) return {type: 'text', text: text}
 		return null
 	}
-	let out = ''
 	let par = {
 		type: 'paragraph',
 		content: [],
@@ -162,7 +164,10 @@ async function parsePara(item, org_format, docM) {
 			// if (!child) return
 			if (!child.tagName) return
 			let parsed = await parse(child, org_format, docM)
-			if (parsed) childs.push(parsed)
+			if (parsed) {
+				if (Array.isArray(parsed)) childs.push(...parsed)
+				else childs.push(parsed)
+			}
 		})
 
 		if (childs.length == 1 && childs[0].type == 'paragraph')
@@ -178,13 +183,15 @@ async function parsePara(item, org_format, docM) {
 	}
 
 	if (tagname == 'ol' || tagname == 'ul') {
-		let format = Object.assign({}, org_format)
 		let childs = []
 		await htmlMap(item.childNodes, async (child, i) => {
 			// if (!child) return
 			if (!child.tagName) return
 			let parsed = await parse(child, org_format, docM)
-			if (parsed) childs.push(parsed)
+			if (parsed) {
+				if (Array.isArray(parsed)) childs.push(...parsed)
+				else childs.push(parsed)
+			}
 		})
 
 		return {
@@ -210,11 +217,13 @@ async function parsePara(item, org_format, docM) {
 		if (child.tagName) childTagName = child.tagName.toLowerCase()
 		if (childTagName == 'img') {
 			let newsrc = await uploadImageToSubiz(child.src)
-			childs.push({
+			let imgBlock = {
 				type: 'image',
-				alt_text: normalize(child.alt),
 				image: {url: newsrc},
-			})
+			}
+			let alt = normalize(child.alt)
+			if (alt) imgBlock.alt_text = alt
+			childs.push(imgBlock)
 			return
 		}
 
@@ -248,9 +257,17 @@ async function parsePara(item, org_format, docM) {
 
 		let ret = await parse(child, format, docM)
 		if (!ret) return
-		if (doitalic) ret.italic = true
-		if (dobold) ret.bold = true
-		childs.push(ret)
+		if (Array.isArray(ret)) {
+			ret.forEach((r) => {
+				if (doitalic) r.italic = true
+				if (dobold) r.bold = true
+			})
+			childs.push(...ret)
+		} else {
+			if (doitalic) ret.italic = true
+			if (dobold) ret.bold = true
+			childs.push(ret)
+		}
 	})
 
 	if (childs.length > 1) {
@@ -263,16 +280,19 @@ async function parsePara(item, org_format, docM) {
 	return out[0]
 }
 
-function parseTitle(item, docM) {
-	return {
+async function parseTitle(item, docM) {
+	let blocks = await extractImagesFromHeading(item)
+	blocks.push({
 		type: 'heading',
 		level: 1,
 		content: [{type: 'text', text: normalize(item.textContent) || ' '}],
-	}
+	})
+	return blocks
 }
 
-function parseHeading(level, item, docM) {
-	return {
+async function parseHeading(level, item, docM) {
+	let blocks = await extractImagesFromHeading(item)
+	blocks.push({
 		type: 'heading',
 		level: level,
 		content: [
@@ -281,7 +301,37 @@ function parseHeading(level, item, docM) {
 				text: normalize(item.textContent) || ' ',
 			},
 		],
+	})
+	return blocks
+}
+
+async function extractImagesFromHeading(item) {
+	let images = []
+	let queue = [item]
+	while (queue.length > 0) {
+		let node = queue.shift()
+		if (node.tagName && node.tagName.toLowerCase() === 'img') {
+			images.push(node)
+		}
+		if (node.childNodes) {
+			for (let i = 0; i < node.childNodes.length; i++) {
+				queue.push(node.childNodes[i])
+			}
+		}
 	}
+
+	let blocks = []
+	for (let img of images) {
+		let newsrc = await uploadImageToSubiz(img.src)
+		let imgBlock = {
+			type: 'image',
+			image: {url: newsrc},
+		}
+		let alt = normalize(img.alt)
+		if (alt) imgBlock.alt_text = alt
+		blocks.push(imgBlock)
+	}
+	return blocks
 }
 
 function checkTitle(item, docM) {

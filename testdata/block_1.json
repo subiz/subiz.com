@@ -1,0 +1,55 @@
+{
+  "type": "div",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "type": "text",
+          "text": "Duc test"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ví dụ đoạn văn bản có video từ youtube"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "link",
+          "href": "https://www.youtube.com/watch?v=jAkRovJXnDE",
+          "title": "https://www.youtube.com/watch?v=jAkRovJXnDE",
+          "text": "https://www.youtube.com/watch?v=jAkRovJXnDE",
+          "target": "_blank"
+        },
+        {
+          "type": "text",
+          "text": "Some text"
+        },
+        {
+          "type": "link",
+          "href": "https://www.youtube.com/watch?v=jAkRovJXnDE",
+          "title": "Cài đặt tự động trả lời tin nhắn Fanpage",
+          "text": "Cài đặt tự động trả lời tin nhắn Fanpage",
+          "target": "_blank"
+        }
+      ]
+    }
+  ]
+}
