@@ -2,7 +2,7 @@ const fs = require('fs')
 const cheerio = require('cheerio')
 const lo = require('lodash')
 const html2md = require('./convert.js')
-const {uploadYoutubeToCloudflare} = require('./google-drive-image.js')
+const {uploadYoutubeToCloudflare} = require('./youtube-to-cloudflare.js')
 
 function videoTextContentToUrl(text) {
 	try {

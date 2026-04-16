@@ -2,19 +2,19 @@ const fs = require('fs')
 const path = require('path')
 const {google} = require('googleapis')
 const {exec} = require('node:child_process')
-const FormData = require('form-data')
 const lo = require('lodash')
 const util = require('util')
 const execAsync = util.promisify(exec)
 const crypto = require('crypto')
 
 const CLOUDFLARE_ACCOUNT_ID = 'cc22eff135a40705ebe59955b450217d'
-const CLOUDFLARE_API_TOKEN = process.env.CLOUDFLARESTREAM // 'xgrzbPOX3ZvOKGiAVLmW125RGzJ01Le4mzaFexrb'
+const CLOUDFLARE_API_TOKEN = process.env.CLOUDFLARESTREAM
 function main() {
-	//uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=ZgenYNwArb4')
+	// uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=UeE6tV5IG6k')
+	//	uploadYoutubeToCloudflare('https://www.youtube.com/watch?v=6DPEDcjejPw')
 }
 
-//main()
+// main()
 
 async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 	try {
@@ -39,7 +39,6 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 			return found[0]
 		}
 
-		// 2️⃣ Dùng yt-dlp để tải video, xuất file mp4 (best quality)
 		console.log(`⬇️  Đang tải video từ: ${youtubeUrl}`)
 		const {stdout} = await execAsync(
 			`cd videos && yt-dlp --cookies-from-browser chrome ${shellEscape(youtubeUrl)} -f "mp4" -o ${shellEscape(dlFileName + '.mp4')}`,
@@ -49,19 +48,17 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 		if (!fs.existsSync(filePath)) throw new Error(`Không tìm thấy file sau khi tải: ${filePath}`)
 
 		console.log(`✅ Đã tải video: ${filePath}`)
-
-		// 3️⃣ Upload lên Cloudflare Stream
 		const fileName = path.basename(filePath)
 		console.log(`🎬 Uploading "${fileName}" lên Cloudflare Stream...`)
 
 		const form = new FormData()
-		form.append('file', fs.createReadStream(filePath))
+		const blob = await fs.openAsBlob(filePath)
+		form.append('file', blob, fileName)
 
 		const resResponse = await fetch(`https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/stream`, {
 			method: 'POST',
 			body: form,
 			headers: {
-				...form.getHeaders(),
 				Authorization: `Bearer ${CLOUDFLARE_API_TOKEN}`,
 			},
 		})
