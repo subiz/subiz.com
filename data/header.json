@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1776163494903,
-  "updated": 1776163494903,
+  "fetched": 1776336500844,
+  "updated": 1776336500844,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản",
-      "modifiedTime": "2026-04-06T08:58:53.831Z",
-      "version": "591",
+      "modifiedTime": "2026-04-16T10:45:31.415Z",
+      "version": "605",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban"
     },
     {
@@ -112,6 +112,17 @@
       "modifiedTime": "2026-03-24T03:07:45.021Z",
       "version": "402",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "169KmCakc1BchQkdVfhy4RsXhnCBobaqVGsDw8rTr8G8",
+      "name": "_1. RAW Khám phá các chức năng chuyên sâu của Nhân viên AI",
+      "modifiedTime": "2026-04-16T10:21:45.687Z",
+      "version": "149",
+      "path_lower": "/1000 Tổng hợp/1-raw-kham-pha-cac-chuc-nang-chuyen-sau-cua-nhan-vien-ai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -252,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-03-27T04:28:35.593Z",
-      "version": "410",
+      "modifiedTime": "2026-04-15T02:53:52.295Z",
+      "version": "417",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -297,7 +308,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "153",
+      "version": "154",
       "path_lower": "/1000 Tổng hợp/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
@@ -571,8 +582,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-04-14T10:42:33.554Z",
-      "version": "494",
+      "modifiedTime": "2026-04-16T02:06:05.241Z",
+      "version": "514",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -605,7 +616,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-11-05T08:29:40.964Z",
-      "version": "457",
+      "version": "458",
       "path_lower": "/_90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -626,8 +637,8 @@
       ],
       "id": "1_qmSOHu1D7WnBDJf2QqdWByLBtP5gn-R-frHNP5YYgc",
       "name": "Phân biệt agent thành viên và agent phụ trách hội thoại",
-      "modifiedTime": "2026-03-14T06:38:09.950Z",
-      "version": "206",
+      "modifiedTime": "2026-04-16T09:08:41.121Z",
+      "version": "234",
       "path_lower": "/1000 Tổng hợp/phan-biet-agent-thanh-vien-va-agent-phu-trach-hoi-thoai"
     },
     {
@@ -692,8 +703,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-04-02T04:55:03.746Z",
-      "version": "711",
+      "modifiedTime": "2026-04-16T08:47:55.106Z",
+      "version": "726",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -703,8 +714,8 @@
       ],
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "30. Popup",
-      "modifiedTime": "2026-02-04T04:28:23.345Z",
-      "version": "477",
+      "modifiedTime": "2026-04-15T07:07:20.621Z",
+      "version": "480",
       "path_lower": "/50 Tự động hóa/30-popup"
     },
     {
@@ -831,6 +842,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1jhEW1r0WbeKS5mkWO6i0riftV6gWWtiJ2Lr3iEDKlSw",
+      "name": "Giao tài khoản Zalo cá nhân cho 1 nhân viên phụ trách",
+      "modifiedTime": "2026-04-16T08:46:52.600Z",
+      "version": "62",
+      "path_lower": "/1000 Tổng hợp/giao-tai-khoan-zalo-ca-nhan-cho-1-nhan-vien-phu-trach"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1jxX9A6L9yGz5wy4e6IYyM7RTn1d5Q8SQaeC3otc54ac",
@@ -846,8 +868,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-04-14T07:14:19.382Z",
-      "version": "937",
+      "modifiedTime": "2026-04-15T03:04:31.904Z",
+      "version": "944",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -879,8 +901,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-04-13T08:47:00.532Z",
-      "version": "267",
+      "modifiedTime": "2026-04-16T02:28:02.042Z",
+      "version": "324",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -967,8 +989,8 @@
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "50. Zalo OA",
-      "modifiedTime": "2026-03-20T11:11:26.659Z",
-      "version": "449",
+      "modifiedTime": "2026-04-15T03:03:03.898Z",
+      "version": "463",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
     },
     {
@@ -989,8 +1011,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-04-14T07:56:30.376Z",
-      "version": "1130",
+      "modifiedTime": "2026-04-16T09:04:11.522Z",
+      "version": "1148",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1000,8 +1022,8 @@
       ],
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "Tag và nhãn khác gì nhau",
-      "modifiedTime": "2026-04-13T08:50:07.636Z",
-      "version": "128",
+      "modifiedTime": "2026-04-15T03:06:51.139Z",
+      "version": "136",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1036,6 +1058,17 @@
       "modifiedTime": "2026-03-20T07:00:04.717Z",
       "version": "144",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1sfylo8J-c-ICAAGll7kVa4w4ZdUnjdnBj5V3pOkFmeY",
+      "name": "_Xem lại lịch sử chat trên cửa sổ chat Subiz ",
+      "modifiedTime": "2026-04-16T03:00:49.897Z",
+      "version": "11",
+      "path_lower": "/1000 Tổng hợp/xem-lai-lich-su-chat-tren-cua-so-chat-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1113,6 +1146,17 @@
       "modifiedTime": "2026-01-22T07:01:09.306Z",
       "version": "106",
       "path_lower": "/100 Marketing/1-mau-tin-nhan-zns"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1wwlUKgp8OppdHv1vcaOB_g8WwJhYK4m8p-QeMpa3LS0",
+      "name": "_ 3. Chiến dịch Telesale",
+      "modifiedTime": "2026-04-16T09:02:14.896Z",
+      "version": "13",
+      "path_lower": "/1000 Tổng hợp/3-chien-dich-telesale"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1319,6 +1363,13 @@
       "resolution": {
         "width": 1280,
         "height": 608
+      }
+    },
+    "https://www.youtube.com/watch?v=UeE6tV5IG6k": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/3328589f029d65c1af5119ec225469d2/watch",
+      "resolution": {
+        "width": -1,
+        "height": -1
       }
     }
   }
