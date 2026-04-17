@@ -14,24 +14,20 @@ import EmbedVideo from '@site/src/components/EmbedVideo.js';
 
 ## Cách tích hợp {#cach-tich-hop}
 
-
-Để tích hợp Subiz với Google Analytics, bạn chỉ cần [đặt mã nhúng Google Analytics](https://developers.google.com/analytics/devguides/collection/) lên code website của bạn. Subiz sẽ tự động tìm mã nhúng và làm việc với tài khoản Google Analytics được cài trên web. Chúng tôi hỗ trợ các loại Google Analytics tracking sau:
+Để tích hợp Subiz với Google Analytics, bạn chỉ cần[https://developers.google.com/analytics/devguides/collection/](https://developers.google.com/analytics/devguides/collection/)[đặt mã nhúng Google Analytics](https://developers.google.com/analytics/devguides/collection/) lên code website của bạn. Subiz sẽ tự động tìm mã nhúng và làm việc với tài khoản Google Analytics được cài trên web. Chúng tôi hỗ trợ các loại Google Analytics tracking sau:
 
 - [gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/)
 - [analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/)
 
-
 <EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch" resolution={{"width":1920,"height":1080}}/>
+
 ## Cách làm việc của Subiz với Google Analytics {#cach-lam-viec-cua-subiz-voi-google-analytics}
 
-
-Subiz sẽ gửi các dữ liệu sự kiện \(event data\) của khách \(user\) trên website sang Google Analytics. Khi đó, bạn có thể xem được các dữ liệu này tại mục Sự kiện \(event\) của Google Analytics. Các sự kiện mà Subiz gửi : 
-
+Subiz sẽ gửi các dữ liệu sự kiện \(event data\) của khách \(user\) trên website sang Google Analytics. Khi đó, bạn có thể xem được các dữ liệu này tại mục Sự kiện \(event\) của Google Analytics. Các sự kiện mà Subiz gửi :
 
 ![](https://vcdn.subiz-cdn.com/file/fismoiginddxmuhwyvae_acpxkgumifuoofoosble/0a6ab43a493586adf23357aa03c2cefa.png)
 
 ## Khai thác dữ liệu {#khai-thac-du-lieu}
-
 
 Từ những dữ liệu này, bạn có thể sử dụng để phân tích hành vi khách truy cập trên Google Analytics hoặc có thể thiết lập để thành Mục tiêu \(GOAL\) và đồng bộ nó sang tài khoản adwords của bạn.
 
@@ -40,69 +36,39 @@ Từ những dữ liệu này, bạn có thể sử dụng để phân tích hà
 - Phân tích khách mua hàng trên website và có tương tác Subiz.
 - Thiết lập Subiz như một channel traffic để hiểu được họ mất bao nhiêu phiên tương tác để mua hàng.
 
-
 ## Subiz dataLayer trên Google Tag Manager {#subiz-datalayer-tren-google-tag-manager}
-
 
 Khi bạn tích hợp mã nhúng Google Analytics \(GA\) qua Google Tag Manager \(GTM\), bạn cần thiết lập datalayer Subiz trên Google Tag Manager.
 
-
-
 Subiz sẽ sử dụng dataLayer có <b>version 2</b> như ví dụ sau:
-
 
 ```
 dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'});
-
 ```
-
-
-
 
 Subiz sẽ gửi lúc nào?
 
 Một là: Khi cửa sổ chat Subiz được mở. Dữ liệu như sau:
 
-
 ```
 dataLayer.push({'event':'SUBIZ Chat','event_action':'Opened','event_label':'Subiz Windows'});
-
 ```
 
-
-
-
-
-
-Hai là: Khi User \(khách truy cập\) nhận tin nhắn. Dữ liệu như sau: 
-
+Hai là: Khi User \(khách truy cập\) nhận tin nhắn. Dữ liệu như sau:
 
 ```
 dataLayer.push({'event':'SUBIZ Chat','event_action':'Received','event_label':'User'});
-
 ```
-
-
-
-
-
 
 Ba là: Khi User \(khách truy cập\) gửi tin nhắn. Dữ liệu như sau:
 
-
 ```
 dataLayer.push({'event':'SUBIZ Chat','event_action':'Sent','event_label':'User'});
-
 ```
-
-
 
 ## Hướng dẫn cài đặt Subiz trên GTM {#huong-dan-cai-dat-subiz-tren-gtm}
 
-
 Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables \(Biến\), tạo Triggers \(Trình kích hoạt\), tạo Tags \(Thẻ\).
-
-
 
 <b>Bước 1: Tạo 2 Variables \(Biến\) cho SUBIZ Chat gồm event\_action và event\_label.</b>
 
@@ -113,89 +79,45 @@ Cài đặt Subiz trên GTM gồm 3 bước chính là tạo Variables \(Biến\
 - Xem hình dưới để hoàn thiện các bước và Lưu.
 - Sau đó, bạn tạo thêm Data Layer Subiz Label
 
-
 ![](https://vcdn.subiz-cdn.com/file/fismoigitukazrctaqba_acpxkgumifuoofoosble/5d1c6fcbfef3321483ed545a0d8cf458.png)
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoigjacddgtrtufsg_acpxkgumifuoofoosble/ee989a7f13aa3348bb9ad5f5025771b7.png)
 
-
-
-
-
-
 <b>Bước 2: Tạo Triggers \(Trình kích hoạt\) cho SUBIZ Chat</b>
-
-
 
 - Bạn mở Trigger để tạo Trigger mới.
 - Loại trigger chọn Custom Event
 - This trigger fires on:
 
-
-
 Ví dụ chọn Trigger khi muốn đo lường tất cả sự kiện trên cửa sổ chat Subiz
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoigjcqgmmbnybosv_acpxkgumifuoofoosble/fac530daebb7d40d3c6c6b63da280fa7.png)
 
-
-
-
 Ví dụ chọn Trigger chỉ khi có sự kiện nhắn tin trên cửa sổ chat Subiz
-
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoigjgxvjeudkmccp_acpxkgumifuoofoosble/6f16de39ec626efeb80e03e8f250ce85.png)
 
-
-
-
 <b>Bước 3: Tạo Tags \(Thẻ\) cho SUBIZ Chat</b>
-
-
 
 - Bạn tạo Tag cho Triggers. Tag này có thể là ghi nhận Goal cho Google Analytics, Conversion cho Google Ads ….
 - Ví dụ ảnh dưới đây là Tag ghi nhận chuyển đổi trên GA4.
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoigjjrwazagdnaqx_acpxkgumifuoofoosble/bfdc5f5efd4b243b86dea385e12b57a4.png)
-
-
-
 
 Ví dụ ảnh cài đặt Tag đo lường chuyển đổi Google ads
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoigjozabuavvkaea_acpxkgumifuoofoosble/4fdc01596c5194f378d730423e8c76dc.png)
-
-
-
 
 - Sau khi xong, bạn submit và publish để Google Tag Manager của bạn được cập nhật. Bạn dùng chức năng Preview bạn đóng vai là khách hàng để gửi một tin nhắn trên cửa sổ chat.
 - Chú thích: Thường sau 24h cài đặt GTM thì GA4 và Google Ads sẽ nhận được báo cáo sự kiện Subiz.
 
-
 ## Xem dữ liệu SUBIZ Chat trên GA4 {#xem-du-lieu-subiz-chat-tren-ga4}
-
 
 Sau khi cài đặt GTM thành công, bạn xem báo cáo sự kiện SUBIZ Chat trên GA4, ví dụ như sau:
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoigjsgshivzcurud_acpxkgumifuoofoosble/9603845d29cc5c746bf89a1f2016c0f6.png)
 
-
-
-
-Khi bạn muốn thay đổi hiển thị sự kiện SUBIZ Chat trên GA4 theo cách riêng, bạn sẽ cài đặt trực tiếp trên GA4. 
+Khi bạn muốn thay đổi hiển thị sự kiện SUBIZ Chat trên GA4 theo cách riêng, bạn sẽ cài đặt trực tiếp trên GA4.
 
 Ví dụ bạn muốn xem có bao nhiêu khách hàng đã nhắn tin qua Subiz, bạn cài đặt thêm GA4 như sau:
 
@@ -204,15 +126,9 @@ Ví dụ bạn muốn xem có bao nhiêu khách hàng đã nhắn tin qua Subiz,
 - Lưu ý tích chọn Sao chép các thông số từ sự kiện nguồn
 - Chọn Tạo là xong. Sau khi tạo thì dữ liệu mới sẽ hiển thị báo cáo theo tên “SUBIZ\_Chat\_Sent\_Message”
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoigjxukajkcovvte_acpxkgumifuoofoosble/e9aa0a440a21434d935f3c457dbc839f.png)
 
-
-
 ## Một số câu hỏi thường gặp {#mot-so-cau-hoi-thuong-gap}
-
 
 - Website có nhiều mã nhúng Google Analytics, Subiz sẽ gửi dữ liệu đến tài khoản nào? =&gt; <i>Subiz gửi tới tất cả các tài khoản được tích hợp.</i>
 - Google Analytics được cài qua Google Tag Manager thì Subiz có gửi dữ liệu sang không? =&gt; <i>Có.</i>

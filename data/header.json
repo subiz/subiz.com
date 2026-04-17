@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1776336500844,
-  "updated": 1776336500844,
+  "fetched": 1776410139109,
+  "updated": 1776410139109,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản",
-      "modifiedTime": "2026-04-16T10:45:31.415Z",
-      "version": "605",
+      "modifiedTime": "2026-04-16T10:45:38.738Z",
+      "version": "608",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban"
     },
     {
@@ -120,8 +120,8 @@
       ],
       "id": "169KmCakc1BchQkdVfhy4RsXhnCBobaqVGsDw8rTr8G8",
       "name": "_1. RAW Khám phá các chức năng chuyên sâu của Nhân viên AI",
-      "modifiedTime": "2026-04-16T10:21:45.687Z",
-      "version": "149",
+      "modifiedTime": "2026-04-17T04:33:32.090Z",
+      "version": "162",
       "path_lower": "/1000 Tổng hợp/1-raw-kham-pha-cac-chuc-nang-chuyen-sau-cua-nhan-vien-ai"
     },
     {
@@ -703,8 +703,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-04-16T08:47:55.106Z",
-      "version": "726",
+      "modifiedTime": "2026-04-16T11:07:27.606Z",
+      "version": "733",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -847,7 +847,7 @@
       "id": "1jhEW1r0WbeKS5mkWO6i0riftV6gWWtiJ2Lr3iEDKlSw",
       "name": "Giao tài khoản Zalo cá nhân cho 1 nhân viên phụ trách",
       "modifiedTime": "2026-04-16T08:46:52.600Z",
-      "version": "62",
+      "version": "67",
       "path_lower": "/1000 Tổng hợp/giao-tai-khoan-zalo-ca-nhan-cho-1-nhan-vien-phu-trach"
     },
     {
@@ -1012,7 +1012,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
       "modifiedTime": "2026-04-16T09:04:11.522Z",
-      "version": "1148",
+      "version": "1153",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-04-15T03:06:51.139Z",
-      "version": "136",
+      "version": "139",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1045,7 +1045,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2026-04-13T02:36:32.515Z",
-      "version": "538",
+      "version": "540",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1204,6 +1204,13 @@
     }
   ],
   "video_mapping": {
+    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+      "resolution": {
+        "width": 1808,
+        "height": 1080
+      }
+    },
     "https://www.youtube.com/watch?v=LM1lzc6649I": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5a3528f72fd5dc5dcfc79809a4f4b3b4/watch",
       "resolution": {
@@ -1232,11 +1239,11 @@
         "height": 1920
       }
     },
-    "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
+    "https://www.youtube.com/watch?v=UeE6tV5IG6k": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/3328589f029d65c1af5119ec225469d2/watch",
       "resolution": {
-        "width": 1808,
-        "height": 1080
+        "width": 640,
+        "height": 360
       }
     },
     "https://www.youtube.com/watch?v=58QX5R6Z0pc&t=2s": {
@@ -1274,6 +1281,13 @@
         "height": 910
       }
     },
+    "https://www.youtube.com/watch?v=W2yWHCtsW-k": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5cc50bd43f66942a10ce40ccd22b0215/watch",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
     "https://www.youtube.com/watch?v=mgdD4D_OXv8": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6cdb0e20b604fa03dd3795890f112573/watch",
       "resolution": {
@@ -1283,13 +1297,6 @@
     },
     "https://www.youtube.com/watch?v=_9fWwl9hsxs": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/f65f28a2a3c916f6b6fd065c9d359e44/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    "https://www.youtube.com/watch?v=W2yWHCtsW-k": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/5cc50bd43f66942a10ce40ccd22b0215/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -1323,11 +1330,11 @@
         "height": 1080
       }
     },
-    "https://www.youtube.com/watch?v=67dyW9RBD3o": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
+    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
       "resolution": {
-        "width": 640,
-        "height": 360
+        "width": 1920,
+        "height": 1080
       }
     },
     "https://www.youtube.com/watch?v=Wl658KCi_Ps": {
@@ -1337,22 +1344,15 @@
         "height": 360
       }
     },
-    "https://drive.google.com/file/d/1MFcewfTCyYx688zQv7OA3p0AlsNt33jU/view": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/592b1274f3488effdc9de2bd407c64f3/watch",
+    "https://www.youtube.com/watch?v=67dyW9RBD3o": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/6b312ca9fe7ff731f894bccee03e3707/watch",
       "resolution": {
-        "width": 1920,
-        "height": 1080
+        "width": 640,
+        "height": 360
       }
     },
     "https://www.youtube.com/watch?v=MWhB4gKfnp0": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/bfbe8f4151e52bc343e4746c785d574e/watch",
-      "resolution": {
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
@@ -1365,11 +1365,11 @@
         "height": 608
       }
     },
-    "https://www.youtube.com/watch?v=UeE6tV5IG6k": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/3328589f029d65c1af5119ec225469d2/watch",
+    "https://www.youtube.com/watch?v=idX1Mcv-Y0c": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/8d588950283b976b48ddfa4c7881596e/watch",
       "resolution": {
-        "width": -1,
-        "height": -1
+        "width": 1920,
+        "height": 1080
       }
     }
   }

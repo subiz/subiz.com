@@ -8,22 +8,17 @@ last_update:
   date: 2026-03-27T07:32:52.315Z
 ---
 
-# SDK tùy chỉnh cửa sổ chat 
+# SDK tùy chỉnh cửa sổ chat
 
-
-
-
-Subiz cung cấp bộ mã SDK cho phép bạn tùy chỉnh cửa sổ chat website như: 
+Subiz cung cấp bộ mã SDK cho phép bạn tùy chỉnh cửa sổ chat website như:
 
 - Mở cửa sổ chat ở bất cứ vị trí nào trên website
 - Hiển thị số tin nhắn khách chưa đọc ở bất cứ vị trí nào trên website
 - Đồng bộ thông tin khách đăng nhập website vào Subiz.
+
 ## Mở cửa sổ chat ở bất cứ vị trí nào trên website {#mo-cua-so-chat-o-bat-cu-vi-tri-nao-tren-website}
 
-
 Khi bạn muốn gắn tính năng chat vào một dòng chữ, hình ảnh, hay một nút có sẵn trên website. Ví dụ: Khách hàng nhấn vào nút "Tư vấn ngay" trên bài viết website sẽ mở khung chat Subiz.
-
-
 
 Bạn sẽ dùng SDK mở cửa sổ chat như sau:
 
@@ -31,57 +26,38 @@ Bạn sẽ dùng SDK mở cửa sổ chat như sau:
 - Bước 2: Gắn SDK đặt lệnh mở cửa sổ chat khi khách click nút chat vừa thiết kế
 - Bước 3: [Tắt OFF nút chat Subiz](https://app.subiz.com.vn/chatbox/design)
 
-
-
 Một số mã SDK ra lệnh đóng hoặc mở cửa sổ chat:
-
 
 ```
 <script type="text/javascript">
 window.subiz('expandWidget')
 </script>
 // SDK mở cửa sổ chat Subiz qua chức năng Javascript.
-
 ```
-
-
-
-
 
 ```
 <a href="#nogo" onclick="subiz('expandWidget')">Text của </a>
-//Gắn vào một link để ra lệnh mở cửa sổ chat Subiz 
-
+//Gắn vào một link để ra lệnh mở cửa sổ chat Subiz
 ```
-
-
-
-
 
 ```
 <a href="#nogo" onclick="subiz('shrinkWidget')">text của </a>
 //Gắn vào link để đóng cửa sổ chat Subiz
-
 ```
-
-
-
-
 
 ```
 <script type="text/javascript">
 window.subiz('shrinkWidget')
 </script>
 //Đóng cửa sổ Subiz.
-
 ```
 
+![](https://vcdn.subiz-cdn.com/file/fisnuigmyfqyjcgxhrfk_acpxkgumifuoofoosble/2839292ed97a7b692909fcafcbcc84fe.png)
 
-
-## Hiện số tin nhắn chưa đọc trên nút CTA website  {#hien-so-tin-nhan-chua-doc-tren-nut-cta-website}
-
+## Hiện số tin nhắn chưa đọc trên nút CTA website {#hien-so-tin-nhan-chua-doc-tren-nut-cta-website}
 
 Bạn muốn nút CTA hiện số tin nhắn khách chưa đọc, hãy đặt mã SDK dưới đây vào nút CTA đó:
+
 ```
 <script type="text/javascript">
 let unreadCount = 0
@@ -97,7 +73,7 @@ function renderUnreadNoti () {
 subiz('onEvent', ev => {
   // listen all Subiz event
   if (!ev) return
-  
+
   // check there's mew message from agent, we should +1 in unread noti
   if (ev.type === 'message_sent') {
     let bytype = ev.by && ev.by.type
@@ -105,7 +81,7 @@ subiz('onEvent', ev => {
       updateUnreadCount()
     }
   }
-  
+
   // check nessage is seen by customer
    if (ev.type === 'message_pong') {
     let bytype = ev.by && ev.by.type
@@ -121,54 +97,36 @@ subiz('onEvent', ev => {
   }
 })
 </script>
-
 ```
-
-
 
 ## Đồng bộ thông tin khách đăng nhập website vào Subiz {#dong-bo-thong-tin-khach-dang-nhap-website-vao-subiz}
 
+Bạn muốn khách đăng nhập website sẽ hiện thông tin trên Subiz. Bạn sẽ dùng mã SDK dưới đây ra lệnh chuyền thông tin sang Subiz khi có khách đăng nhập website:
 
-Bạn muốn khách đăng nhập website sẽ hiện thông tin trên Subiz. Bạn sẽ dùng mã SDK dưới đây ra lệnh chuyền thông tin sang Subiz khi có khách đăng nhập website: 
 ```
 <script>
 subiz('updateUserAttributes', [{ key: 'fullname', text : 'David' }]);
 </script>
-//Cập nhật tên. Trong đó, khóa của trường thông tin tên là “fullname”, định dạng văn bản “text” 
-
+//Cập nhật tên. Trong đó, khóa của trường thông tin tên là “fullname”, định dạng văn bản “text”
 ```
-
-
 
 ```
 <script>
 subiz('updateUserAttributes', [{ key: 'so_thich', list :['Máy ', 'EnglDulịch']);
 </script>
-//Cập nhật một trường thông tin theo yêu cầu có khóa là “sở_thích”, và định dạng danh sách “list”. 
-
+//Cập nhật một trường thông tin theo yêu cầu có khóa là “sở_thích”, và định dạng danh sách “list”.
 ```
-
-
-
-
 
 ```
 <script>
 subiz('updateUserAttributes', [{ key:'fullname',   text : 'David' },{ key:'phones',   text : '09123456789' } ]);
 </script>
 //Cập nhật nhiều trường thông tin
-
 ```
-
-
-
-
-
 
 Lưu ý:
 
-- Key: là khóa trường thông tin, xem tại trang <b>[cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)</b>
+- Key: là khóa trường thông tin, xem tại trang [cài đặt Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)
 - Định dạng trường thông tin: Text, Number, Boolean, List, Date Time
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoiggulsmgikwndzl_acpxkgumifuoofoosble/9fac298153a07aebb8b98e23e01defcb.png)

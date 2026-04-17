@@ -12,51 +12,35 @@ last_update:
 
 ## Tiện ích {#tien-ich}
 
-
-
-
 Website của bạn có các bảng hỏi thông tin như bảng báo giá, bảng liên hệ, phiếu thu thập ý kiến của khách hàng,... Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz để bạn tập trung nhận thông tin chăm sóc khách hàng.
+
 ## Hướng dẫn triển khai {#huong-dan-trien-khai}
 
 ### Bước 1: Kiểm tra trường thông tin khách trên Subiz {#buoc-1-kiem-tra-truong-thong-tin-khach-tren-subiz}
 
-
-
-
-Các thông tin khách điền trong bảng hỏi trên website sẽ tự động lưu vào các trường thông tin Subiz tương ứng. Hãy kiểm tra và tạo thêm trường thông tin chưa có trên Subiz bằng cách: 
+Các thông tin khách điền trong bảng hỏi trên website sẽ tự động lưu vào các trường thông tin Subiz tương ứng. Hãy kiểm tra và tạo thêm trường thông tin chưa có trên Subiz bằng cách:
 
 - Mở trang Cài đặt
 - ở thanh bên trái màn hình chọn Trường thông tin
 - chọn Tạo mới
 - nhập thông tin và chọn Lưu.
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoifskxbpfyxpvohn_acpxkgumifuoofoosble/7bc3724b492aa8911354ef65a0c8a1cd.png)
 
-
-
-
 [Xem hướng dẫn sử dụng thông tin khách hàng](https://subiz.com.vn/docs/777741175-thong-tin-khach-hang)
+
 ### Bước 2: Tạo popup mới trên Subiz {#buoc-2-tao-popup-moi-tren-subiz}
 
-
 Khách điền thông tin trên bảng hỏi website sẽ được chuyền vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\) thêm vào mã SDK tại bước 3.
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoiftdhaogkjqqvrb_acpxkgumifuoofoosble/bcdae6e43149b61356edce8aa7122513.png)
 
 ### Bước 3: Đặt mã SDK vào code website {#buoc-3-dat-ma-sdk-vao-code-website}
 
-
-
-
 Bạn cần soạn mã SDK để ra lệnh gửi dữ liệu khách điền bảng hỏi cho Subiz.
 
-
-
 Ví dụ mẫu SDK Subiz có cấu trúc như sau:
+
 ```
 <script>
   subiz('submitForm', 'cprsxvtpgbiiedribdzcj', [
@@ -65,53 +49,29 @@ Ví dụ mẫu SDK Subiz có cấu trúc như sau:
  {key: 'email', value: 'emailvalue' },
  {key: 'phones', value: "phonevalue"}])
 </script>
-
 ```
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoiftyyxtsarwgdcr_acpxkgumifuoofoosble/6311825283ef17f1b6a43a2519ad2f0e.png)
 
-
-
-
 Ví dụ bảng hỏi trên website thiết kế như sau:
-
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifudwxmpajstdtn_acpxkgumifuoofoosble/6d07fd197788f24530e02a1babd03ee5.png)
 
-
-
-
 Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã SDK Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút "Gửi".
 
-
-
-Dưới đây là cách bạn nối bảng hỏi trên với Subiz: 
-
-
-
+Dưới đây là cách bạn nối bảng hỏi trên với Subiz:
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifunypcqcukfnqn_acpxkgumifuoofoosble/6fb308709bb20018acbd20fcfa6d4d3a.png)
 
 ### Bước 4: Agent nhận thông tin khách trên Subiz {#buoc-4-agent-nhan-thong-tin-khach-tren-subiz}
 
-
 Agent sẽ nhận được thông tin khách điền bảng hỏi tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
-
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifuxfdyqbncmndb_acpxkgumifuoofoosble/1d5057e24db0ecfa33996cfd56b60a21.png)
 
-
-
-
 [Xem hướng dẫn quản lý danh sách khách tiềm năng](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
-## Câu hỏi thường gặp {#cau-hoi-thuong-gap}
 
+## Câu hỏi thường gặp {#cau-hoi-thuong-gap}
 
 <b>Tôi muốn chỉ 1 số nhân viên xem được khách điền bảng hỏi thông tin được không?</b>
 
@@ -121,23 +81,14 @@ Khách điền bảng hỏi sẽ được tạo thành hội thoại nên bạn 
 
 [Xem thêm hướng dẫn sử dụng rule phân phối.](https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai)
 
-
-
-
 ![](https://vcdn.subiz-cdn.com/file/fismoifvejqkiikovgdc_acpxkgumifuoofoosble/68b2d5bf72bb7319f37e40a295547280.png)
-
-
-
 
 <b>Tôi muốn xuất danh sách khách điền thông tin bảng hỏi được không?</b>
 
 <b>Trả lời</b>: Hoàn toàn làm được.
 
-Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup \(Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên\) và chọn xuất file dữ liệu về. 
+Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup \(Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên\) và chọn xuất file dữ liệu về.
 
 [Xem hướng dẫn sử dụng trang Khách.](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
-
-
-
 
 ![](https://vcdn.subiz-cdn.com/file/fismoifvisapjntpmshn_acpxkgumifuoofoosble/64918ea520c444896cdd068f41695f26.png)
