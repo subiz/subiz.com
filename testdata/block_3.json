@@ -1,15 +1,52 @@
 {
-	"type": "div",
-	"content": [
-		{"type": "heading", "level": 1, "content": [{"type": "text", "text": "Nhân viên AI"}]},
-		{"type": "heading", "level": 1, "content": [{"type": "text", "text": "AI"}]},
-		{"type": "paragraph", "content": [{"type": "text", "text": "11111"}]},
-		{
-			"type": "image",
-			"image": {
-				"url": "https://vcdn.subiz-cdn.com/file/fisnxfvszsftlrclfnzq_acpxkgumifuoofoosble/a182a3bcf2f87b99cc3658679493a113.png"
-			}
-		},
-		{"type": "heading", "level": 1, "content": [{"type": "text", "text": "22222"}]}
-	]
+  "type": "div",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "isTitle": true,
+      "content": [
+        {
+          "type": "text",
+          "text": "Nhân viên AI"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "isTitle": true,
+      "content": [
+        {
+          "type": "text",
+          "text": "AI"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "11111"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "image": {
+        "url": "https://vcdn.subiz-cdn.com/file/fisnxfvszsftlrclfnzq_acpxkgumifuoofoosble/a182a3bcf2f87b99cc3658679493a113.png"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "type": "text",
+          "text": "22222"
+        }
+      ]
+    }
+  ]
 }

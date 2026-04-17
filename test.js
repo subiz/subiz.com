@@ -23,9 +23,33 @@ describe('html2block', function () {
 		const expected = JSON.parse(fs.readFileSync('testdata/block_3.json', 'utf8'))
 
 		const actual = await html2block(html, {})
-		//fs.writeFileSync('testdata/block_32.json', JSON.stringify(actual))
-		//console.log('AC', actual)
-		//return
+		assert.deepStrictEqual(actual, expected)
+	})
+
+	it('should convert html_4.html to expected block_4.json', async function () {
+		this.timeout(5000)
+		const html = fs.readFileSync('testdata/html_4.html', 'utf8')
+		const expected = JSON.parse(fs.readFileSync('testdata/block_4.json', 'utf8'))
+
+		const actual = await html2block(html, {})
+		assert.deepStrictEqual(actual, expected)
+	})
+
+	it('should convert html_5.html to expected block_5.json', async function () {
+		this.timeout(5000)
+		const html = fs.readFileSync('testdata/html_5.html', 'utf8')
+		const expected = JSON.parse(fs.readFileSync('testdata/block_5.json', 'utf8'))
+
+		const actual = await html2block(html, {})
+		assert.deepStrictEqual(actual, expected)
+	})
+
+	it('should convert html_6.html to expected block_6.json', async function () {
+		this.timeout(5000)
+		const html = fs.readFileSync('testdata/html_6.html', 'utf8')
+		const expected = JSON.parse(fs.readFileSync('testdata/block_6.json', 'utf8'))
+
+		const actual = await html2block(html, {})
 		assert.deepStrictEqual(actual, expected)
 	})
 })

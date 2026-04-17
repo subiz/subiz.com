@@ -8,6 +8,7 @@
     {
       "type": "heading",
       "level": 1,
+      "isTitle": true,
       "content": [
         {
           "type": "text",
@@ -20,7 +21,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Ví dụ đoạn văn bản có video từ youtube"
+          "text": "Ví dụ đoạn văn bản có video từ youtube "
         }
       ]
     },
@@ -40,7 +41,57 @@
         },
         {
           "type": "text",
-          "text": "Some text"
+          "text": " ",
+          "underline": true
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": "Some text "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "underline": true
         },
         {
           "type": "link",

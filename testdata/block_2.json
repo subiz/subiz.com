@@ -4,6 +4,7 @@
     {
       "type": "heading",
       "level": 1,
+      "isTitle": true,
       "content": [
         {
           "type": "text",
@@ -19,17 +20,36 @@
       "type": "paragraph",
       "content": [
         {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Van ban co 2 video"
-            },
-            {
-              "type": "text",
-              "text": "Day la video 1"
-            }
-          ]
+          "type": "text",
+          "text": "Van ban co 2 video "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": "Day la video 1 "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
         },
         {
           "type": "text",
@@ -37,7 +57,39 @@
         },
         {
           "type": "text",
-          "text": "Day laf video2"
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": "Day laf video2 "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
         },
         {
           "type": "text",
@@ -45,7 +97,27 @@
         },
         {
           "type": "text",
-          "text": "Lorem ipsumdolores sit amit"
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": "Lorem ipsumdolores sit amit "
         }
       ]
     }

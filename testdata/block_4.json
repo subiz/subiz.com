@@ -1,0 +1,179 @@
+{
+  "type": "div",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "pre",
+      "content": [
+        {
+          "type": "text",
+          "text": "<script type=\"text/javascript\">\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\tlet unreadCount = 0\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\tasync function updateUnreadCount () {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  unreadCount = await subiz('countUnreadMessages')\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t}\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t// display unread noti when customer visit page first time\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\tupdateUnreadCount()\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\tfunction renderUnreadNoti () {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  // TODO\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  // Your own logic to render unread noti\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t}\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\tsubiz('onEvent', ev => {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  // listen all Subiz event\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  if (!ev) return\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t \n\t\t\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  // check there's mew message from agent, we should +1 in unread noti\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  if (ev.type === 'message_sent') {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    let bytype = ev.by && ev.by.type\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    if (bytype === 'agent') {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t      updateUnreadCount()\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t \n\t\t\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  // check nessage is seen by customer\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t   if (ev.type === 'message_pong') {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    let bytype = ev.by && ev.by.type\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    if (bytype === 'user') {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t      if (ev.data && ev.data.message) {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t        let pongs = ev.data.message.pongs || []\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t        let isSeenEvent = pongs.find(pong => pong.type === 'seen')\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t        if (isSeenEvent) {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t          updateUnreadCount()\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t        }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t      }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t  }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t})\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t</script>"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "type": "text",
+          "text": "Thống kê hội thoại theo nguồn app mobile"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Subiz hỗ trợ thống kê nguồn hội thoại theo tên miền. Vì vậy, khi bạn cần thống kê số lượng hội thoại khách nhắn tin từ app mobile thì bạn sẽ cài đặt thêm tên miền cho webview cụ thể như sau:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "image",
+          "image": {
+            "url": "https://vcdn.subiz-cdn.com/file/fismoifunqhbbrspbrui_acpxkgumifuoofoosble/d53174486a8f5cbb8584edc5b82f4ee2.png"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ví dụ tên miền cho app mobile là “"
+        },
+        {
+          "type": "link",
+          "href": "http://appmobile.com",
+          "title": "http://appmobile.com",
+          "text": "http://appmobile.com",
+          "target": "_blank"
+        },
+        {
+          "type": "text",
+          "text": "”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hướng dẫn xem "
+        },
+        {
+          "type": "link",
+          "href": "https://app.subiz.com.vn/new-reports/convo",
+          "title": "thống kê hội thoại",
+          "text": "thống kê hội thoại",
+          "target": "_blank",
+          "bold": true
+        },
+        {
+          "type": "text",
+          "text": " theo nguồn website, trong đó “appmobile.com” là url định danh cho nguồn app mobile."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "image",
+          "image": {
+            "url": "https://vcdn.subiz-cdn.com/file/fismoifuxzrfzjxnjadk_acpxkgumifuoofoosble/96986f2302a6ae5689c8744e1cc8ab82.png"
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "content": [
+        {
+          "type": "text",
+          "text": "Câu hỏi thường gặp?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "content": [
+        {
+          "type": "text",
+          "text": "Xử lý khi tắt cửa sổ Subiz thì App hiện màn hình trắng?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hướng xử lý: "
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        },
+        {
+          "type": "text",
+          "text": "Subiz "
+        },
+        {
+          "type": "text",
+          "text": "sẽ gửi sự kiện đóng 'x' cửa sổ chat đến webview của bạn. "
+        }
+      ]
+    },
+    {
+      "type": "pre",
+      "content": [
+        {
+          "type": "text",
+          "text": "subiz('onEvent', (ev) => {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    // check close widget event\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    if (ev.type === 'chatbox_closed') {\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t        // your code here\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t    }\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t})"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bạn hãy "
+        },
+        {
+          "type": "text",
+          "text": "thiết lập webview nhận diện sự kiện khách tắt cửa sổ chat để tự động quay lại webview của bạn. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    }
+  ]
+}
