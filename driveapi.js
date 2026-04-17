@@ -9,6 +9,7 @@ const fs = require('fs')
 var path = require('path')
 var datefns = require('date-fns')
 var html2md = require('./convert.js')
+var html2block2md = require('./html2block2md.js')
 var html2Block = require('./convert_block.js')
 
 let blockM = {}
@@ -127,11 +128,10 @@ async function main() {
 
 	console.log('Remove', out.removes.length, 'files')
 	console.log('Update', out.news.length, 'files')
-
 	if (out.removes.length === 0 && out.news.length === 0) {
 		console.log('[4/4] Updating header')
-		return
-		return writeFileHeader(hot, Date.now(), header.updated)
+		 return
+		//return writeFileHeader(hot, Date.now(), header.updated)
 	}
 
 	out.removes.map((entry) => {
@@ -139,7 +139,9 @@ async function main() {
 		if (entry.path_lower.indexOf('/../') != -1) return console.log('malware path', entry.path_lower, ' => skip')
 
 		console.log('REMOVING', entry.path_lower)
-		fs.rmSync('./data' + entry.path_lower, {force: true})
+		fs.rmSync('./data' + entry.path_lower + '.html', {force: true})
+		fs.rmSync('./data' + entry.path_lower + '.md', {force: true})
+		fs.rmSync('./data' + entry.path_lower + '.json', {force: true})
 	})
 	ensureDirectoryExistence('./data')
 
@@ -154,9 +156,12 @@ async function main() {
 	})
 
 	if (!fs.existsSync('./raw')) fs.mkdirSync('./raw')
-	if (!fs.existsSync('./block')) fs.mkdirSync('./block')
+	// if (!fs.existsSync('./block')) fs.mkdirSync('./block')
 
 	out.news = lo.orderBy(out.news, ['id'])
+	if (lo.size(out.news) == 0) {
+//		out.news = header.entries
+	}
 	var i = 0
 	await flow.map(
 		out.news,
@@ -164,21 +169,24 @@ async function main() {
 			i++
 			//			if (i > 5) return
 			try {
+				// if (entry.path_lower.indexOf('cac-goi-dich') == -1) return
 				// if (entry.name.indexOf('20') == -1) return
 				ensureDirectoryExistence('./data' + entry.path_lower)
 				console.log('EXPORTING', entry.path_lower)
-				await exportFile(entry.id, './data' + entry.path_lower)
+				await exportFile(entry.id, './data' + entry.path_lower + '.html')
 				let out = extractFilename(entry)
 				let pathlowers = entry.path_lower.split('/')
 				pathlowers.pop() // remove file name
 
-				let dataHtml = fs.readFileSync('./data' + entry.path_lower, {encoding: 'utf8'})
-				let markdown = await html2md(dataHtml, docM, videoMapping)
+				let dataHtml = fs.readFileSync('./data' + entry.path_lower + '.html', {encoding: 'utf8'})
+				let markdown = await html2block2md(dataHtml, docM, videoMapping)
+				// let markdown = await html2md(dataHtml, docM, videoMapping)
 				let block = await html2Block(dataHtml, docM)
 				fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
 				blockM[entry.id] = block
 				entry.block = block
-				fs.writeFileSync('./data' + entry.path_lower, markdown, {encoding: 'utf8'})
+				fs.writeFileSync('./data' + entry.path_lower + '.json', JSON.stringify(block, null, 2), {encoding: 'utf8'})
+				fs.writeFileSync('./data' + entry.path_lower + '.md', markdown, {encoding: 'utf8'})
 			} catch (e) {
 				if (e.response && e.response.body) {
 					console.log('EEEEEEEEEE', JSON.stringify(e.response.body))
@@ -215,7 +223,7 @@ async function main() {
 		let data = ''
 		try {
 			data = fs
-				.readFileSync('./data' + entry.path_lower, {encoding: 'utf8', flag: 'r'})
+				.readFileSync('./data' + entry.path_lower + '.md', {encoding: 'utf8', flag: 'r'})
 				.toString()
 				.trim()
 			data = cleanMarkdown(data)
@@ -261,6 +269,7 @@ last_update:
 		fs.writeFileSync(fileName, data, {encoding: 'utf8'})
 
 		let cate = entry.path_lower.substr(1).split(' ')[0]
+		/*
 		let article = {
 			kb: 'jbsaemzffzourymgylvyhtrtn',
 			i18n_title: {vi_VN: title},
@@ -268,8 +277,9 @@ last_update:
 			category: CAT[parseInt(cate)],
 			source_id: hashCode(entry.id) + '',
 			i18n_content: {vi_VN: blockM[entry.id]},
-		}
-		fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
+			}
+			*/
+		// fs.writeFileSync('./block/' + hashCode(entry.id), JSON.stringify(article, null, 2), {encoding: 'utf8'})
 		// fs.writeFileSync('./trainingdata/' + hashCode(entry.id) + '-' + sluggy(title) + '.md', data, {encoding: 'utf8'})
 
 		// auto gen index directory

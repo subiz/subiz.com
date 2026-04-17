@@ -441,21 +441,20 @@ function trimBr(str) {
 
 async function uploadImageToSubiz(url) {
 	try {
-		let resp = await fetch('https://api5.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
+		const controller = new AbortController()
+		const timeoutId = setTimeout(() => controller.abort(), 20000)
+		let resp = await fetch('https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
 			method: 'post',
 			headers: {'Content-Type': 'application/json'},
-			body: JSON.stringify({account_id: 'acpxkgumifuoofoosble', url}),
+			body: JSON.stringify({account_id: 'acpxkgumifuoofoosble', url: url}),
+			signal: controller.signal,
 		})
-
-		if (!resp.ok) throw new Error(`Upload failed: HTTP ${resp.status}`)
+		clearTimeout(timeoutId)
 
 		let out = await resp.json()
-		if (!out.url) throw new Error('Upload failed: no url returned')
-
-		return out.url
+		return out.url || url
 	} catch (e) {
-		console.log(url)
-		throw e // do not return input url
+		return url
 	}
 }
 
