@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1776672690284,
-  "updated": 1776672690284,
+  "fetched": 1776700235201,
+  "updated": 1776700235201,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -176,7 +176,7 @@
       "id": "1Dwe3VfNT9vxeqGg9wZdEpiu90ey4qzPVf8Otx8JcLPQ",
       "name": "_6 Quản lý đội nhóm",
       "modifiedTime": "2026-02-02T07:18:28.815Z",
-      "version": "170",
+      "version": "172",
       "path_lower": "/40 Quản lý làm việc nhóm/6-quan-ly-doi-nhom"
     },
     {
@@ -286,7 +286,7 @@
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "_Nhân viên AI xử lý tình huống",
       "modifiedTime": "2026-04-20T07:46:19.248Z",
-      "version": "74",
+      "version": "77",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -549,8 +549,8 @@
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2026-04-20T08:08:18.105Z",
-      "version": "759",
+      "modifiedTime": "2026-04-20T09:21:46.220Z",
+      "version": "787",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -561,7 +561,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-02-24T10:22:33.526Z",
-      "version": "173",
+      "version": "177",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -583,7 +583,7 @@
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Các cách phân phối hội thoại",
       "modifiedTime": "2026-04-14T07:51:58.502Z",
-      "version": "448",
+      "version": "450",
       "path_lower": "/1000 Tổng hợp/cac-cach-phan-phoi-hoi-thoai"
     },
     {
@@ -1055,8 +1055,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-04-20T04:17:09.189Z",
-      "version": "564",
+      "modifiedTime": "2026-04-20T08:27:11.502Z",
+      "version": "572",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1111,7 +1111,7 @@
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
       "modifiedTime": "2026-04-02T03:57:14.570Z",
-      "version": "194",
+      "version": "196",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
