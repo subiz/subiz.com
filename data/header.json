@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1776410139109,
-  "updated": 1776410139109,
+  "fetched": 1776672690284,
+  "updated": 1776672690284,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -120,8 +120,8 @@
       ],
       "id": "169KmCakc1BchQkdVfhy4RsXhnCBobaqVGsDw8rTr8G8",
       "name": "_1. RAW Khám phá các chức năng chuyên sâu của Nhân viên AI",
-      "modifiedTime": "2026-04-17T04:33:32.090Z",
-      "version": "162",
+      "modifiedTime": "2026-04-18T04:42:37.100Z",
+      "version": "231",
       "path_lower": "/1000 Tổng hợp/1-raw-kham-pha-cac-chuc-nang-chuyen-sau-cua-nhan-vien-ai"
     },
     {
@@ -277,6 +277,17 @@
       "modifiedTime": "2026-03-14T06:42:18.818Z",
       "version": "35",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-mobile"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
+      "name": "_Nhân viên AI xử lý tình huống",
+      "modifiedTime": "2026-04-20T07:46:19.248Z",
+      "version": "74",
+      "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -538,8 +549,8 @@
       ],
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
-      "modifiedTime": "2026-03-10T04:26:37.149Z",
-      "version": "750",
+      "modifiedTime": "2026-04-20T08:08:18.105Z",
+      "version": "759",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -550,7 +561,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-02-24T10:22:33.526Z",
-      "version": "163",
+      "version": "173",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -1044,8 +1055,8 @@
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-04-13T02:36:32.515Z",
-      "version": "540",
+      "modifiedTime": "2026-04-20T04:17:09.189Z",
+      "version": "564",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1076,9 +1087,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1svYIgAXCWaLHnCKBPW0dN1OH9RE-a4Pd9wXo0w-Ah90",
-      "name": "Nhân viên AI Hỏi thăm lại thông minh",
-      "modifiedTime": "2026-04-06T05:21:00.945Z",
-      "version": "65",
+      "name": "Nhân viên AI hỏi thăm lại thông minh",
+      "modifiedTime": "2026-04-17T08:15:34.623Z",
+      "version": "74",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-hoi-tham-lai-thong-minh"
     },
     {
@@ -1100,7 +1111,7 @@
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
       "modifiedTime": "2026-04-02T03:57:14.570Z",
-      "version": "192",
+      "version": "194",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -1177,7 +1188,7 @@
       "id": "1xdvADvDKt_EcevyaOns2NxgX1jMUsvjhKixfIwCEQ8Y",
       "name": "_20. Ghi nhận sự kiện trên Subiz",
       "modifiedTime": "2026-04-06T08:34:00.407Z",
-      "version": "36",
+      "version": "39",
       "path_lower": "/110 Ứng dụng nâng cao/20-ghi-nhan-su-kien-tren-subiz"
     },
     {
