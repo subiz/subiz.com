@@ -5,8 +5,10 @@ title: Nhúng mã code Subiz vào website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-02-28T04:53:50.247Z
+  date: 2026-05-04T10:32:49.106Z
 ---
+
+import EmbedVideo from '@site/src/components/EmbedVideo.js';
 
 # Nhúng mã code Subiz vào website
 
@@ -20,8 +22,21 @@ Sau khi [lấy được mã code cửa sổ chat Subiz](https://subiz.com.vn/doc
 
 ## WordPress {#wordpress}
 
-- Bước 1: Mở trang quản lý WordPress Admin Panel &gt; Appearance &gt; Editor.
-- Bước 2: Tìm file footer.php bên cột bên phải và mở file này.
+### Nhúng bằng Plugin Subiz \(khuyên dùng\) {#nhung-bang-plugin-subiz-khuyen-dung}
+
+- Bước 1: Đăng nhập vào trang Quản trị WordPress, tại menu bên trái chọn <b>Plugins</b>, nhấn <b>Add New Plugin</b>
+- Bước 2: Tại ô tìm kiếm plugin, nhập từ khóa ‘<b>Subiz</b>’
+- Bước 3: Chọn plugin Subiz, nhấn <b>Install Now</b>, nhấn <b>Activate</b> và chờ vài giây.
+- Bước 4: Chọn mục <b>Subiz</b> vừa xuất hiện ở menu bên trái màn hình
+- Bước 5: Dán [ID tài khoản Subiz](https://app.subiz.com.vn/settings/) của bạn vào ô tương ứng
+- Bước 6: Nhấn <b>Cài đặt</b>.
+
+<EmbedVideo src="https://customer-8058rd30y1ksv9tw.cloudflarestream.com/1e51a3ecf63079c65edd0c2fe6876615/watch" resolution={{"width":-1,"height":-1}}/>
+
+### Nhúng bằng mã Code Subiz {#nhung-bang-ma-code-subiz}
+
+- Bước 1: Truy cập vào trang Quản trị WordPress, tại menu bên trái chọn <b>Appearance</b>, nhấn <b>Editor</b>.
+- Bước 2: Tìm <b>file footer.php</b> bên cột bên phải và mở file này.
 - Bước 3: Sao chép [mã nhúng Subiz tại đây](about:blank#h.yimw5wg2q3tq).
 - Bước 4 Dán mã nhúng Subiz trước thẻ `body` đóng
 - Bước 5: Kiểm tra trên trang WordPress có dùng plugin cache nào không? Nếu có cần xóa cache để lưu mã nhúng Subiz vừa cài đặt. Ví dụ: WP Rocket, [Comet Cache](https://wordpress.org/plugins/comet-cache/), [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/),...

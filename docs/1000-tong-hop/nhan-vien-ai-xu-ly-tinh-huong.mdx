@@ -1,0 +1,106 @@
+---
+id: 1521824148
+slug: /1521824148-nhan-vien-ai-xu-ly-tinh-huong
+title: Nhân viên AI xử lý tình huống
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2026-05-04T08:57:25.671Z
+---
+
+# Nhân viên AI xử lý tình huống
+
+Tính năng Xử lý tình huống giúp bạn hướng dẫn cho Nhân viên AI cần làm gì trong một tình huống cụ thể, mà nội dung này không thể đào tạo qua kiến thức.
+
+Ví dụ:
+
+- Khi khách liên hệ ngoài giờ làm việc sẽ thông báo ngoài giờ và mời khách chọn lịch hẹn hỗ trợ
+- Khi khách cần hỗ trợ về kĩ thuật thì mời nhân viên kĩ thuật vào hội thoại
+
+## Cách tạo xử lý tình huống {#cach-tao-xu-ly-tinh-huong}
+
+- Từ thanh công cụ trên cùng của màn hình làm việc Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn vào Nhân viên AI muốn thiết lập và đi tới mục <b>Xử lý tình huống</b> ở menu bên trái.
+- Nhấn vào nút <b>+ Thêm chỉ dẫn</b>
+
+### Mô tả tình huống {#mo-ta-tinh-huong}
+
+- Đặt <b>tên</b> để phân biệt với tình huống khác
+- Chọn một <b>thời điểm bắt đầu</b>:
+
+- <b>Mỗi khi khách nhắn tin</b>: dùng cho các tình huống cần kiểm tra ngay từ đầu hội thoại
+- <b>Khi khách nhắc đến một chủ đề cụ thể</b>: dùng khi khách đề cập đến nội dung hoặc từ khóa cụ thể
+
+- Bạn có thể <b>thêm điều kiện</b> để tình huống xảy ra. Ví dụ điều kiện Xảy ra vào ngoài giờ làm việc.
+
+### Mô tả nhân viên AI cần làm gì {#mo-ta-nhan-vien-ai-can-lam-gi}
+
+Tại phần Thì thực hiện hành động bên dưới, chọn + thêm hành động phù hợp:
+
+- <b>Làm theo chỉ dẫn</b>: Nhập hướng dẫn mô tả cho AI xử lý trường hợp này.
+
+  Ví dụ ‘Hãy thông báo rằng hiện tại là giờ nghỉ, AI sẽ hỗ trợ giải đáp thắc mắc cơ bản trước’
+- <b>Cung cấp ngữ cảnh</b>: Thêm ngữ cảnh giúp AI hiểu tình huống và phản hồi chính xác hơn.
+
+  Ví dụ ‘Đây là khách đến từ kênh website X.com, hãy gửi hướng dẫn về sản phẩm X’
+- <b>Giao lại cho nhân viên xử lý</b>: Mời nhân viên vào hội thoại và thông báo chuyển chat cho nhân viên
+- <b>Thêm agent vào hội thoại</b>: Chỉ mời nhân viên vào hội thoại để theo dõi cuộc chat, AI vẫn tiếp tục trả lời khách
+- <b>Dừng bot</b>: AI không trả lời tin nhắn của khách nữa.
+- <b>Đánh dấu spam</b>: Dùng cho khách hàng quấy rối. Hội thoại sẽ biến mất khỏi màn hình tư vấn và AI ngừng phản hồi.
+
+Nếu muốn Nhân viên AI không liên tục lặp lại hành động trong 1 hội thoại, hãy tích chọn điều kiện ‘tất cả hành động chỉ chạy một lần’.
+
+Nhấn Lưu để hoàn tất cài đặt.
+
+:::tip
+Không nên ‘lạm dụng’ dùng quá nhiều xử lý tình huống sẽ làm rối việc phân tích xử lý của AI hoặc khiến AI cư xử cứng ngắc, thiếu tự nhiên.
+
+Subiz khuyên dùng tối đa 10 xử lý tình huống.
+:::
+
+## Mẫu xử lý tình huống thường dùng {#mau-xu-ly-tinh-huong-thuong-dung}
+
+Hãy tham khảo cách tạo các mẫu xử lý tình huống thường gặp dưới đây để đào tạo Nhân viên AI của bạn làm việc tốt hơn.
+
+### Khi cần hỏi xin thêm thông tin của khách hàng {#khi-can-hoi-xin-them-thong-tin-cua-khach-hang}
+
+Ngoài thông tin mặc định SĐT/Email, nếu muốn nhân viên AI xin thêm các thông tin khác của khách hàng, bạn sẽ tạo xử lý tình huống như sau:
+
+- <b>Hành động:</b> Chọn "Làm theo chỉ dẫn".
+- <b>Câu lệnh cho AI:</b> Nhập yêu cầu "Hãy khéo léo xin thông tin về tỉnh/thành phố khách đang sinh sống"
+
+### Mời tư vấn viên từ đầu cuộc chat {#moi-tu-van-vien-tu-dau-cuoc-chat}
+
+Trong thời gian đầu mới sử dụng Nhân viên AI, bạn muốn tư vấn viên cùng theo dõi cuộc trò chuyện từ đầu để có thể tham gia hỗ trợ kịp thời. Bạn tạo xử lý tình huống để AI mời tư vấn viên ngay khi có khách nhắn tin như sau:
+
+- <b>Hành động:</b> Chọn "Thêm agent vào hội thoại" theo Rule đã có.
+- <b>Lưu ý:</b> Hành động này chỉ mời nhân viên vào xem, Nhân viên AI vẫn sẽ tiếp tục trả lời khách .
+
+### Khi gặp khách sỉ hoặc khách hỏi giá {#khi-gap-khach-si-hoac-khach-hoi-gia}
+
+Khi khách hỏi giá, bạn muốn tư vấn viên cùng theo dõi cuộc trò chuyện để hỗ trợ khách chốt đơn.
+
+- <b>Mô tả tình huống:</b> Chọn điều kiện khi khách nhắc tới giá, mua, đặt. Nhập mẫu tin nhắn làm ví dụ như "giá sỉ là bao nhiêu", "tôi muốn nhập hàng".
+- <b>Hành động: </b>Chọn <b>‘</b>Thêm agent vào hội thoại’ để nhân viên kinh doanh theo dõi cuộc trò chuyện và thúc đẩy "chốt đơn" ngay khi cần.
+
+### Mời tư vấn viên khi khách bực tức {#moi-tu-van-vien-khi-khach-buc-tuc}
+
+Khi khách hàng có thái độ không hài lòng, bạn muốn nhân viên AI dừng trả lời và chuyển chat cho tư vấn viên hỗ trợ trực tiếp. Bạn tạo xử lý tình huống như sau:
+
+- <b>Mô tả tình huống:</b> Chọn điều kiện khi khách nhắc tới cảm xúc khó chịu, bực tức. Nhập vài mẫu tin nhắn bực tức làm ví dụ.
+- <b>Hành động:</b> Chọn "Giao lại chat cho nhân viên" theo [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting) hoặc giao cho một nhân sự cụ thể.
+
+### Khi khách nhắn ngoài giờ làm việc {#khi-khach-nhan-ngoai-gio-lam-viec}
+
+Khi khách nhắn tin vào ngoài giờ làm việc, bạn muốn thông báo cho khách biết công ty đã nghỉ, AI sẽ hỗ trợ tạm thời và xin lại thông tin. Bạn tạo xử lý tình huống như sau:
+
+- <b>Mô tả tình huống:</b> Chọn thêm điều kiện "Xảy ra lúc ngoài giờ làm việc".
+- <b>Hành động 1:</b> Chọn "Làm theo chỉ dẫn" với câu lệnh: "Hãy thông báo rằng hiện đang ngoài giờ làm việc và khách đang được nhân viên AI hỗ trợ. Sau đó trả lời câu hỏi của khách".
+- <b>Hành động 2 - Hướng dẫn xử lý khi khách muốn gặp tư vấn viên:</b> Nhấn thêm hành động "Cung cấp ngữ cảnh" và nhập: "Trong trường hợp khách nhắn muốn gặp nhân viên. Hãy thông báo hiện đang ngoài giờ làm việc, mời khách để lại thông tin để nhân viên hỗ trợ khách ngay khi trở lại làm việc”.
+
+### Tư vấn đúng kiến thức theo từng website {#tu-van-dung-kien-thuc-theo-tung-website}
+
+Bạn có nhiều website bán các sản phẩm khác nhau và muốn AI tư vấn đúng nội dung của website khách đang xem.
+
+- <b>Mô tả tình huống:</b> Chọn điều kiện hội thoại đến từ kênh website ‘X.com’.
+- <b>Hành động:</b> Chọn ‘Cung cấp ngữ cảnh’ cho AI là ‘Khách đang xem trang website X.com và quan tâm về sản phẩm X.’
