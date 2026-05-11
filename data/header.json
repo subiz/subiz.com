@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1778302837938,
-  "updated": 1778302837938,
+  "fetched": 1778470426335,
+  "updated": 1778470426335,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -10,8 +10,8 @@
       ],
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
-      "modifiedTime": "2026-03-12T10:30:36.666Z",
-      "version": "357",
+      "modifiedTime": "2026-05-11T03:30:07.972Z",
+      "version": "378",
       "path_lower": "/1000 Tổng hợp/3-quan-ly-nhieu-website"
     },
     {
@@ -22,7 +22,7 @@
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
       "modifiedTime": "2026-05-04T10:32:49.106Z",
-      "version": "149",
+      "version": "155",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -120,8 +120,8 @@
       ],
       "id": "169KmCakc1BchQkdVfhy4RsXhnCBobaqVGsDw8rTr8G8",
       "name": "_1. RAW Khám phá các chức năng chuyên sâu của Nhân viên AI",
-      "modifiedTime": "2026-05-04T09:17:14.089Z",
-      "version": "287",
+      "modifiedTime": "2026-05-11T02:36:23.375Z",
+      "version": "311",
       "path_lower": "/1000 Tổng hợp/1-raw-kham-pha-cac-chuc-nang-chuyen-sau-cua-nhan-vien-ai"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
-      "modifiedTime": "2026-05-04T08:57:25.671Z",
-      "version": "280",
+      "modifiedTime": "2026-05-09T06:39:56.395Z",
+      "version": "287",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
-      "modifiedTime": "2026-05-09T03:53:16.759Z",
-      "version": "447",
+      "modifiedTime": "2026-05-09T07:24:27.799Z",
+      "version": "459",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -900,9 +900,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1lWGTXE7KYl3Ui5PXtCWOBrSXRWWNKS1_ptDPMqfL-ys",
-      "name": "_ Mẫu  kịch bản Chatbot Auto",
-      "modifiedTime": "2026-03-02T03:16:18.557Z",
-      "version": "36",
+      "name": "_ Mẫu kịch bản Chatbot Auto",
+      "modifiedTime": "2026-05-09T06:41:43.449Z",
+      "version": "38",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
     },
     {
@@ -912,8 +912,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-05-04T09:19:26.309Z",
-      "version": "345",
+      "modifiedTime": "2026-05-11T02:18:44.024Z",
+      "version": "378",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -1056,7 +1056,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "3. Các gói dịch vụ",
       "modifiedTime": "2026-05-09T03:31:44.147Z",
-      "version": "658",
+      "version": "660",
       "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
     },
     {
@@ -1111,7 +1111,7 @@
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
       "modifiedTime": "2026-05-06T03:38:27.276Z",
-      "version": "228",
+      "version": "229",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -1188,7 +1188,7 @@
       "id": "1xdvADvDKt_EcevyaOns2NxgX1jMUsvjhKixfIwCEQ8Y",
       "name": "_20. Ghi nhận sự kiện trên Subiz",
       "modifiedTime": "2026-04-06T08:34:00.407Z",
-      "version": "43",
+      "version": "46",
       "path_lower": "/110 Ứng dụng nâng cao/20-ghi-nhan-su-kien-tren-subiz"
     },
     {

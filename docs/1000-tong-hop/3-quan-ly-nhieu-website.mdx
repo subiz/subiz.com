@@ -5,7 +5,7 @@ title: Quản lý nhiều website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-03-12T10:30:36.666Z
+  date: 2026-05-11T03:30:07.972Z
 ---
 
 # Quản lý nhiều website
@@ -18,13 +18,13 @@ Subiz hỗ trợ bạn quản lý và tương tác khách hàng trên nhiều we
 - Trả lời nhanh chóng tất cả tin nhắn từ bất kỳ website nào.
 - Hiển thị cửa sổ chat riêng cho từng website.
 - Tùy chỉnh Bot tự động gửi tin nhắn riêng biệt cho từng website.
-- Phân chia hội thoại theo từng website tới các nhân viên phụ trách.
+- Phân chia hội thoại của từng website tới đúng nhân viên phụ trách.
 
 ## Hướng dẫn cài đặt {#huong-dan-cai-dat}
 
 - Bước 1: Tích hợp thêm website
 - Bước 2: Thiết kế cửa sổ chat riêng cho từng website
-- Bước 3: Phân phối khách hàng theo từng website
+- Bước 3: Phân chia hội thoại khách nhắn tin của từng website
 - Bước 4: Bot tự động trả lời theo từng website
 - Bước 5: Thống kê hội thoại từng website
 
@@ -57,13 +57,15 @@ Hướng dẫn tạo thêm agent:
 
 - Bấm Lưu thay đổi để hệ thống ghi nhận thiết kế mới
 
-### Bước 3: Phân phối khách hàng theo từng website {#buoc-3-phan-phoi-khach-hang-theo-tung-website}
+### Bước 3: Phân chia hội thoại khách nhắn tin theo từng website {#buoc-3-phan-chia-hoi-thoai-khach-nhan-tin-theo-tung-website}
 
-Khi bạn muốn phân chia chat từ một website cụ thể cho các agent tư vấn viên, bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting):
+Khi có nhiều website, bạn có thể thiết lập khách hàng nhắn tin từ website nào sẽ được chuyển cho đúng nhóm nhân viên phụ trách website đó. Như đó, nhân viên chỉ xem được tin nhắn của website phụ trách.
+
+Bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting) tự động chia tin nhắn của từng website:
 
 - Đặt tên rule dễ phân biệt website và agent trực chat
-- Điều kiện rule: chọn Kênh tương tác là Website và nhập tên miền website
-- Phân phối tới: chọn thêm agent trực chat
+- Điều kiện rule: chọn Kênh tương tác là Website cụ thể
+- Phân phối tới: agent phụ trách website đó
 
 Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
 
