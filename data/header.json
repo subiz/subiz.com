@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1778470426335,
-  "updated": 1778470426335,
+  "fetched": 1778731615959,
+  "updated": 1778731615959,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,7 +11,7 @@
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
       "modifiedTime": "2026-05-11T03:30:07.972Z",
-      "version": "378",
+      "version": "379",
       "path_lower": "/1000 Tổng hợp/3-quan-ly-nhieu-website"
     },
     {
@@ -22,7 +22,7 @@
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
       "modifiedTime": "2026-05-04T10:32:49.106Z",
-      "version": "155",
+      "version": "156",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -66,7 +66,7 @@
       "id": "11GYz3bubTa0zPr2J1rJJTS8JAwWCB8SwQs-y7yNq9iI",
       "name": "Thông tin cơ bản về Subiz",
       "modifiedTime": "2026-05-05T04:42:04.613Z",
-      "version": "192",
+      "version": "193",
       "path_lower": "/1000 Tổng hợp/thong-tin-co-ban-ve-subiz"
     },
     {
@@ -109,8 +109,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
-      "modifiedTime": "2026-03-24T03:07:45.021Z",
-      "version": "402",
+      "modifiedTime": "2026-05-14T03:30:00.623Z",
+      "version": "416",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -120,8 +120,8 @@
       ],
       "id": "169KmCakc1BchQkdVfhy4RsXhnCBobaqVGsDw8rTr8G8",
       "name": "_1. RAW Khám phá các chức năng chuyên sâu của Nhân viên AI",
-      "modifiedTime": "2026-05-11T02:36:23.375Z",
-      "version": "311",
+      "modifiedTime": "2026-05-13T02:23:53.365Z",
+      "version": "411",
       "path_lower": "/1000 Tổng hợp/1-raw-kham-pha-cac-chuc-nang-chuyen-sau-cua-nhan-vien-ai"
     },
     {
@@ -263,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-05-06T02:52:03.699Z",
-      "version": "463",
+      "modifiedTime": "2026-05-11T07:36:27.577Z",
+      "version": "474",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
-      "modifiedTime": "2026-05-09T06:39:56.395Z",
-      "version": "287",
+      "modifiedTime": "2026-05-11T07:26:16.859Z",
+      "version": "292",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -329,8 +329,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-04-21T10:04:19.713Z",
-      "version": "503",
+      "modifiedTime": "2026-05-13T04:45:06.986Z",
+      "version": "534",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -538,8 +538,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-04-08T02:56:47.003Z",
-      "version": "250",
+      "modifiedTime": "2026-05-13T04:15:56.444Z",
+      "version": "257",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -582,8 +582,8 @@
       ],
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Các cách phân phối hội thoại",
-      "modifiedTime": "2026-04-14T07:51:58.502Z",
-      "version": "450",
+      "modifiedTime": "2026-05-14T03:27:51.749Z",
+      "version": "457",
       "path_lower": "/1000 Tổng hợp/cac-cach-phan-phoi-hoi-thoai"
     },
     {
@@ -714,8 +714,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-04-16T11:07:27.606Z",
-      "version": "736",
+      "modifiedTime": "2026-05-11T03:41:37.507Z",
+      "version": "746",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
     },
     {
@@ -758,8 +758,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-03-12T07:01:23.412Z",
-      "version": "953",
+      "modifiedTime": "2026-05-13T04:59:27.859Z",
+      "version": "978",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -913,7 +913,7 @@
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
       "modifiedTime": "2026-05-11T02:18:44.024Z",
-      "version": "378",
+      "version": "383",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
