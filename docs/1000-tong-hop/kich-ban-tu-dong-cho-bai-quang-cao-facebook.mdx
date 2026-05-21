@@ -5,7 +5,7 @@ title: Kịch bản tự động cho bài quảng cáo Facebook Ads
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-05-13T04:59:27.859Z
+  date: 2026-05-18T09:01:34.220Z
 ---
 
 # Kịch bản tự động cho bài quảng cáo Facebook Ads
@@ -41,21 +41,46 @@ Bạn muốn chat từ bài viết quảng cáo Facebook chỉ giao cho 1 số n
 
 Gợi ý: Nếu muốn thiết lập phản hồi riêng cho những bài viết khác, tại tab Cài đặt cho từng bài viết, chọn + Thêm cài đặt cho bài viết khác và cấu hình tương ứng cho từng bài viết.
 
-## Trả lời messenger {#tra-loi-messenger}
+## Trả lời tin nhắn messenger {#tra-loi-tin-nhan-messenger}
 
-Bạn muốn khách nhắn tin messenger từ bài viết quảng cáo sẽ được tự động trả lời bởi Auto Chatbot Subiz, bạn tạo chiến dịch quảng cáo dùng Auto Chatbot như sau:
+Bạn có thể cài đặt để khách nhắn tin từ quảng cáo Facebook sẽ được Bot hoặc Nhân viên AI trên Subiz tự động trả lời
 
-- Vào Trình quản lý quảng cáo Facebook
+### Bước 1: Tạo Bot tự động trả lời trên Subiz {#buoc-1-tao-bot-tu-dong-tra-loi-tren-subiz}
+
+Đầu tiên, tài khoản Subiz của bạn cần có Bot hoặc Nhân viên AI để trả lời khách nhắn từ quảng cáo Facebook.
+
+Nếu đã có sẵn, bạn có thể bỏ qua bước này. Nếu chưa có hoặc muốn tạo riêng cho từng quảng cáo, hãy tạo mới như sau:
+
+- Ở phía trên cùng màn hình sau khi đăng nhập Subiz
+- Nhấn vào Nhân viên AI và lựa chọn loại kịch bản tự động muốn sử dụng
+- Chọn [tạo Nhân viên AI](https://subiz.com.vn/docs/698043010-nhan-vien-ai) khi muốn tự động phản hồi tự nhiên theo mạch trò chuyện
+- Hoặc chọn [tạo Bot kịch bản](https://subiz.com.vn/docs/1540866648-chatbot-kich-ban) khi muốn thiết lập các phản hồi cố định
+
+### Bước 2: Tạo quảng cáo Facebook kết nối với Subiz {#buoc-2-tao-quang-cao-facebook-ket-noi-voi-subiz}
+
+Khi tạo quảng cáo Facebook, bạn sẽ chọn sử dụng ứng dụng Subiz để tự động nhắn tin với khách hàng
+
+- Vào [Trình quản lý quảng cáo Facebook](https://adsmanager.facebook.com/)
 - Tạo chiến dịch ‘Lượt tương tác’ và thiết kế quảng cáo của bạn
-- Tới mục Công cụ tạo đoạn chat, chọn tạo mẫu
-- Chọn chat tự động
+- Tới mục Công cụ tạo đoạn chat, chọn Tạo mẫu
+- Chọn Chat tự động
 
 ![](https://vcdn.subiz-cdn.com/file/fisohtopynuuapolfyvz_acpxkgumifuoofoosble/eea95b6980a6889864d84f6c6c527e72.png)
 
-- Mở mục nâng cao
+- Tại khung hiện ra, chọn tab Nâng cao
 - Bật kết nối ứng dụng, chọn ứng dụng Subiz
 - Chọn Lưu
 
 ![](https://vcdn.subiz-cdn.com/file/fisohtoqizfdgutbrdqj_acpxkgumifuoofoosble/1666d0f675e225aa6a0deb0cd32c7abb.png)
 
-Gợi ý: Bạn có thể tạo riêng [Bot kịch bản sẵn](https://subiz.com.vn/docs/1540866648-auto-chatbot) cho bài viết quảng cáo, hoặc dùng [Nhân viên AI](https://subiz.com.vn/docs/698043010-chatbot-ai) trả lời linh hoạt.
+### Bước 3: Giao tin nhắn từ quảng cáo cho Bot cụ thể trả lời {#buoc-3-giao-tin-nhan-tu-quang-cao-cho-bot-cu-the-tra-loi}
+
+Sau khi khách nhắn tin từ quảng cáo, bạn cần một quy tắc \(Rule phân phối\) để chỉ định chính xác Bot nào sẽ trả lời quảng cáo đó.
+
+- Tại Subiz, nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Từ sidebar trên trái chọn HỘI THOẠI &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Nhấn tạo Rule phân phối
+- Chọn Thêm điều kiện Facebook Post ID và chọn bài viết quảng cáo cụ thể
+- Chọn Phân phối tới agent cụ thể là Bot/AI muốn sử dụng
+- Nhấn tạo Rule
+- Sau khi tạo Rule thành công, bạn nhấn giữ vào biểu tượng dấu chấm ⋮⋮ ở đầu dòng Rule vừa tạo và kéo lên vị trí trên cùng của danh sách. Việc này đảm bảo tin nhắn từ quảng cáo sẽ luôn được ưu tiên giao cho Bot trả lời ngay lập tức .

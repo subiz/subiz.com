@@ -620,7 +620,7 @@ function trimBr(str) {
 async function uploadImageToSubiz(url) {
 	try {
 		const controller = new AbortController()
-		const timeoutId = setTimeout(() => controller.abort(), 20000)
+		const timeoutId = setTimeout(() => controller.abort(), 60_000)
 		console.log('UPLOAD', url.slice(0, 100))
 		let resp = await fetch('https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
 			method: 'post',
@@ -631,9 +631,10 @@ async function uploadImageToSubiz(url) {
 		clearTimeout(timeoutId)
 
 		let out = await resp.json()
+		if (!out.url.startsWith('htt')) console.log('OUT', out)
 		return out.url || url
 	} catch (e) {
-		console.log('EEEEEEE', e)
+			console.log('EEEEEEE', e, url)
 		return url
 	}
 }
