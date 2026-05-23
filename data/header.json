@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1779336365363,
-  "updated": 1779336365363,
+  "fetched": 1779557990866,
+  "updated": 1779557990866,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
-      "modifiedTime": "2026-05-04T10:32:49.106Z",
-      "version": "157",
+      "modifiedTime": "2026-05-23T07:05:39.950Z",
+      "version": "170",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -54,8 +54,8 @@
       ],
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản",
-      "modifiedTime": "2026-05-19T02:51:20.916Z",
-      "version": "632",
+      "modifiedTime": "2026-05-23T06:52:13.161Z",
+      "version": "640",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban"
     },
     {
@@ -165,7 +165,7 @@
       "id": "1CQwrOfPsdq3KSri5RRgK2sC0NhlyLWc6vfYncoD8qS8",
       "name": "2. Tích hợp Zalo Cloud Connect",
       "modifiedTime": "2026-01-09T02:04:05.605Z",
-      "version": "231",
+      "version": "234",
       "path_lower": "/_90 Tổng đài điện thoại/2-tich-hop-zalo-cloud-connect"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
-      "modifiedTime": "2026-05-15T09:08:06.710Z",
-      "version": "301",
+      "modifiedTime": "2026-05-23T17:36:49.336Z",
+      "version": "306",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -319,7 +319,7 @@
       "id": "1KuuR4jJos13SLYjvDFsd33amzaixMNEcu-0_jQyob44",
       "name": "2 Tự động thu thập thông tin khách",
       "modifiedTime": "2025-07-03T08:16:25.866Z",
-      "version": "155",
+      "version": "156",
       "path_lower": "/1000 Tổng hợp/2-tu-dong-thu-thap-thong-tin-khach"
     },
     {
@@ -550,7 +550,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2026-04-21T02:34:14.738Z",
-      "version": "796",
+      "version": "797",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -692,8 +692,8 @@
       ],
       "id": "1bXEbP_2qnSye-aY68xkuIh0eFxKTu425cs8G7iRipSM",
       "name": "Giải thích thuật ngữ trên Subiz ",
-      "modifiedTime": "2026-04-29T02:23:52.689Z",
-      "version": "74",
+      "modifiedTime": "2026-05-23T08:05:40.205Z",
+      "version": "88",
       "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz"
     },
     {
@@ -780,8 +780,8 @@
       ],
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
-      "modifiedTime": "2026-05-09T07:24:27.799Z",
-      "version": "462",
+      "modifiedTime": "2026-05-21T09:26:13.239Z",
+      "version": "477",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -847,7 +847,7 @@
       "id": "1jCYIsarPIgVlc43DW_TKXcBbFCok1-PgkJgG0t0dJfo",
       "name": "5. Nhắc việc",
       "modifiedTime": "2026-01-29T10:12:07.668Z",
-      "version": "278",
+      "version": "279",
       "path_lower": "/30 Tư vấn khách hàng/5-nhac-viec"
     },
     {
@@ -858,7 +858,7 @@
       "id": "1jhEW1r0WbeKS5mkWO6i0riftV6gWWtiJ2Lr3iEDKlSw",
       "name": "Giao tài khoản Zalo cá nhân cho 1 nhân viên phụ trách",
       "modifiedTime": "2026-04-21T02:40:24.079Z",
-      "version": "87",
+      "version": "90",
       "path_lower": "/1000 Tổng hợp/giao-tai-khoan-zalo-ca-nhan-cho-1-nhan-vien-phu-trach"
     },
     {
@@ -869,7 +869,7 @@
       "id": "1jxX9A6L9yGz5wy4e6IYyM7RTn1d5Q8SQaeC3otc54ac",
       "name": "_Bản sao của 20. Chatbot AI",
       "modifiedTime": "2026-03-31T07:12:24.147Z",
-      "version": "6",
+      "version": "8",
       "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
     },
     {
@@ -879,8 +879,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-05-21T02:09:13.045Z",
-      "version": "951",
+      "modifiedTime": "2026-05-23T10:05:01.146Z",
+      "version": "998",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -912,8 +912,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-05-21T03:12:53.472Z",
-      "version": "442",
+      "modifiedTime": "2026-05-21T07:24:21.365Z",
+      "version": "452",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -945,8 +945,8 @@
       ],
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "22. Chu trình",
-      "modifiedTime": "2026-05-08T10:08:00.065Z",
-      "version": "142",
+      "modifiedTime": "2026-05-22T06:49:35.308Z",
+      "version": "183",
       "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
@@ -990,7 +990,7 @@
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
       "modifiedTime": "2026-03-27T07:32:52.315Z",
-      "version": "214",
+      "version": "215",
       "path_lower": "/1000 Tổng hợp/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -1022,8 +1022,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-04-16T09:04:11.522Z",
-      "version": "1153",
+      "modifiedTime": "2026-05-23T09:42:44.360Z",
+      "version": "1183",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1034,7 +1034,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-04-15T03:06:51.139Z",
-      "version": "149",
+      "version": "152",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1067,7 +1067,7 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "13 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2026-03-20T07:00:04.717Z",
-      "version": "145",
+      "version": "146",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
     },
     {
@@ -1100,7 +1100,7 @@
       "id": "1t1eEAoCF_CQOhy_-XZiVtB38bbWmN6YMERf1HxX3LCc",
       "name": "_2. Khách tiềm năng",
       "modifiedTime": "2026-03-09T04:14:34.824Z",
-      "version": "292",
+      "version": "293",
       "path_lower": "/60 Quản lý khách hàng/2-khach-tiem-nang"
     },
     {
@@ -1143,8 +1143,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-05-21T04:01:28.577Z",
-      "version": "586",
+      "modifiedTime": "2026-05-21T07:48:53.346Z",
+      "version": "648",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
