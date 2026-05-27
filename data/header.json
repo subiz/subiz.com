@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1779557990866,
-  "updated": 1779557990866,
+  "fetched": 1779848998090,
+  "updated": 1779848998090,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -218,10 +218,10 @@
         "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
       ],
       "id": "1FXIgKHZheDxGyhRbUy_uxGljbcIG66pwQ_WfcGrvv_c",
-      "name": "2. Hành trình sử dụng",
-      "modifiedTime": "2026-04-13T02:38:09.137Z",
-      "version": "323",
-      "path_lower": "/10 Làm quen với Subiz/2-hanh-trinh-su-dung"
+      "name": "1. Hành trình sử dụng",
+      "modifiedTime": "2026-05-25T08:48:11.549Z",
+      "version": "334",
+      "path_lower": "/10 Làm quen với Subiz/1-hanh-trinh-su-dung"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -263,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-05-11T07:36:27.577Z",
-      "version": "474",
+      "modifiedTime": "2026-05-27T02:04:44.145Z",
+      "version": "480",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
-      "modifiedTime": "2026-05-23T17:36:49.336Z",
-      "version": "306",
+      "modifiedTime": "2026-05-23T17:37:16.107Z",
+      "version": "310",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -310,6 +310,17 @@
       "modifiedTime": "2025-12-17T08:29:38.829Z",
       "version": "191",
       "path_lower": "/80 Thống kê báo cáo/6-1-thong-ke-luong-nguoi-dung"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "1KUrtLW8jr-AjNr7fANDADAPYofDlEwGAoGXv55LdiHA",
+      "name": "_Chu trình",
+      "modifiedTime": "2026-05-26T09:07:48.501Z",
+      "version": "49",
+      "path_lower": "/50 Tự động hóa/chu-trinh"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -362,8 +373,8 @@
       ],
       "id": "1OW21HBSiKnQRqZwDWqVaAT84tTYyutMweisVpAStqh4",
       "name": "index",
-      "modifiedTime": "2022-10-24T08:41:26.686Z",
-      "version": "81",
+      "modifiedTime": "2026-05-25T08:44:49.940Z",
+      "version": "88",
       "path_lower": "/10 Làm quen với Subiz/index"
     },
     {
@@ -593,8 +604,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-04-28T04:46:38.956Z",
-      "version": "547",
+      "modifiedTime": "2026-05-25T07:27:08.803Z",
+      "version": "569",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -768,10 +779,10 @@
         "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
       ],
       "id": "1fWHC49ySnXzP8_hqmBHNVf0tIolYf_a6gIDTRbS5ssc",
-      "name": "_1. Bảng tính năng",
-      "modifiedTime": "2026-01-22T03:22:12.091Z",
-      "version": "349",
-      "path_lower": "/10 Làm quen với Subiz/1-bang-tinh-nang"
+      "name": "_Bảng tính năng",
+      "modifiedTime": "2026-05-25T07:40:06.383Z",
+      "version": "353",
+      "path_lower": "/10 Làm quen với Subiz/bang-tinh-nang"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -781,7 +792,7 @@
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
       "modifiedTime": "2026-05-21T09:26:13.239Z",
-      "version": "477",
+      "version": "480",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -912,8 +923,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-05-21T07:24:21.365Z",
-      "version": "452",
+      "modifiedTime": "2026-05-25T08:42:54.434Z",
+      "version": "460",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -946,7 +957,7 @@
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "22. Chu trình",
       "modifiedTime": "2026-05-22T06:49:35.308Z",
-      "version": "183",
+      "version": "189",
       "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
@@ -1022,8 +1033,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-05-23T09:42:44.360Z",
-      "version": "1183",
+      "modifiedTime": "2026-05-25T08:34:01.869Z",
+      "version": "1190",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1054,10 +1065,10 @@
         "1UNJdgHYWHqRrVHGVuHQ1CWV-STKwIs4P"
       ],
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
-      "name": "3. Các gói dịch vụ",
-      "modifiedTime": "2026-05-09T03:31:44.147Z",
-      "version": "660",
-      "path_lower": "/10 Làm quen với Subiz/3-cac-goi-dich-vu"
+      "name": "2. Các gói dịch vụ",
+      "modifiedTime": "2026-05-26T03:09:34.831Z",
+      "version": "675",
+      "path_lower": "/10 Làm quen với Subiz/2-cac-goi-dich-vu"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1110,8 +1121,8 @@
       ],
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
-      "modifiedTime": "2026-05-06T03:38:27.276Z",
-      "version": "233",
+      "modifiedTime": "2026-05-26T03:08:56.492Z",
+      "version": "241",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -1222,25 +1233,11 @@
         "height": 360
       }
     },
-    "https://www.youtube.com/watch?v=LSliFBbl33A": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/1e51a3ecf63079c65edd0c2fe6876615/watch",
-      "resolution": {
-        "width": 640,
-        "height": 346
-      }
-    },
     "https://www.youtube.com/watch?v=S9wVGrxhYks": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/7c6479cd78a4298de00aaf5d129b9e69/watch",
       "resolution": {
         "width": 1920,
         "height": 1080
-      }
-    },
-    "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
-      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
-      "resolution": {
-        "width": 640,
-        "height": 360
       }
     },
     "https://www.youtube.com/shorts/i7Fyhh3LPoY": {
@@ -1250,11 +1247,25 @@
         "height": 1920
       }
     },
+    "https://www.youtube.com/watch?v=LSliFBbl33A": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/1e51a3ecf63079c65edd0c2fe6876615/watch",
+      "resolution": {
+        "width": 640,
+        "height": 346
+      }
+    },
     "https://www.youtube.com/watch?v=ABs3FNMf4EI": {
       "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/2b2a878548b5aff20c60406fbe871dce/watch",
       "resolution": {
         "width": 1808,
         "height": 1080
+      }
+    },
+    "https://www.youtube.com/watch?v=IvUPSEgX2_g&t=75s": {
+      "preview": "https://customer-8058rd30y1ksv9tw.cloudflarestream.com/a2288a7ea12a89186845b359c7b18797/watch",
+      "resolution": {
+        "width": 640,
+        "height": 360
       }
     },
     "https://www.youtube.com/watch?v=UeE6tV5IG6k": {
