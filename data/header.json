@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1780247346387,
-  "updated": 1780247346387,
+  "fetched": 1780368125741,
+  "updated": 1780368125741,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -263,8 +263,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-05-29T06:59:52.918Z",
-      "version": "499",
+      "modifiedTime": "2026-06-01T07:32:03.816Z",
+      "version": "509",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "id": "1KUrtLW8jr-AjNr7fANDADAPYofDlEwGAoGXv55LdiHA",
       "name": "_Chu trình",
-      "modifiedTime": "2026-05-28T04:49:58.725Z",
-      "version": "147",
+      "modifiedTime": "2026-06-01T08:35:51.188Z",
+      "version": "156",
       "path_lower": "/50 Tự động hóa/chu-trinh"
     },
     {
@@ -792,7 +792,7 @@
       "id": "1fZRamcfwsGYkca0GfQ2SS2bs0Jygih4Uy-g6OCnUxgU",
       "name": "_ Mẫu kịch bản Chu trình ",
       "modifiedTime": "2026-05-21T09:26:13.239Z",
-      "version": "480",
+      "version": "482",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chu-trinh"
     },
     {
@@ -923,8 +923,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-05-25T08:42:54.434Z",
-      "version": "460",
+      "modifiedTime": "2026-06-01T11:01:09.980Z",
+      "version": "519",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -957,7 +957,7 @@
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "22. Chu trình",
       "modifiedTime": "2026-05-27T04:08:31.343Z",
-      "version": "205",
+      "version": "207",
       "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
@@ -1034,7 +1034,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
       "modifiedTime": "2026-05-25T08:34:01.869Z",
-      "version": "1190",
+      "version": "1194",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
