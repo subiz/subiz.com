@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1780368125741,
-  "updated": 1780368125741,
+  "fetched": 1781746906021,
+  "updated": 1781746906021,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
-      "modifiedTime": "2026-05-23T07:05:39.950Z",
-      "version": "170",
+      "modifiedTime": "2026-06-10T07:28:25.983Z",
+      "version": "201",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -110,7 +110,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
       "modifiedTime": "2026-05-14T03:30:00.623Z",
-      "version": "417",
+      "version": "422",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -149,6 +149,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1ATMHOI9d9WzSkRi5ko-OR9Lwii2xGfW_8G_VeeSw6Yc",
+      "name": "_Định nghĩa 1 số thuật ngữ sử dụng riêng cho đội ngũ Subiz (chờ e Tech check lại)",
+      "modifiedTime": "2026-06-09T04:21:35.550Z",
+      "version": "17",
+      "path_lower": "/1000 Tổng hợp/dinh-nghia-1-so-thuat-ngu-su-dung-rieng-cho-doi-ngu-subiz-cho-e-tech-check-lai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1XQTKnFWQLLNka7X63seysOt2x92htJoM"
       ],
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
@@ -167,6 +178,17 @@
       "modifiedTime": "2026-01-09T02:04:05.605Z",
       "version": "234",
       "path_lower": "/_90 Tổng đài điện thoại/2-tich-hop-zalo-cloud-connect"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1DZemsi05NBnyxtobDr3Qha6IRlLt0euZl8PMyuhI6Jo",
+      "name": "_Giải thích thuật ngữ trên Subiz (chờ a Tech check lại) ",
+      "modifiedTime": "2026-06-09T04:13:15.670Z",
+      "version": "6",
+      "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz-cho-a-tech-check-lai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -263,8 +285,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-06-01T07:32:03.816Z",
-      "version": "509",
+      "modifiedTime": "2026-06-09T08:42:27.046Z",
+      "version": "524",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -296,8 +318,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-05-19T03:05:49.942Z",
-      "version": "755",
+      "modifiedTime": "2026-06-15T07:14:40.199Z",
+      "version": "809",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -318,8 +340,8 @@
       ],
       "id": "1KUrtLW8jr-AjNr7fANDADAPYofDlEwGAoGXv55LdiHA",
       "name": "_Chu trình",
-      "modifiedTime": "2026-06-01T08:35:51.188Z",
-      "version": "156",
+      "modifiedTime": "2026-06-10T09:38:43.346Z",
+      "version": "172",
       "path_lower": "/50 Tự động hóa/chu-trinh"
     },
     {
@@ -549,8 +571,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-05-13T04:15:56.444Z",
-      "version": "257",
+      "modifiedTime": "2026-06-17T08:54:15.956Z",
+      "version": "283",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -604,8 +626,8 @@
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "60. Email",
-      "modifiedTime": "2026-05-25T07:27:08.803Z",
-      "version": "570",
+      "modifiedTime": "2026-06-16T04:45:19.840Z",
+      "version": "577",
       "path_lower": "/20 Tích hợp kênh tương tác/60-email"
     },
     {
@@ -703,8 +725,8 @@
       ],
       "id": "1bXEbP_2qnSye-aY68xkuIh0eFxKTu425cs8G7iRipSM",
       "name": "Giải thích thuật ngữ trên Subiz ",
-      "modifiedTime": "2026-05-23T08:05:40.205Z",
-      "version": "88",
+      "modifiedTime": "2026-06-09T04:16:33.596Z",
+      "version": "448",
       "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz"
     },
     {
@@ -747,8 +769,8 @@
       ],
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
-      "modifiedTime": "2026-05-08T07:39:40.940Z",
-      "version": "353",
+      "modifiedTime": "2026-06-03T09:53:47.190Z",
+      "version": "376",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -813,8 +835,8 @@
       ],
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
-      "modifiedTime": "2026-05-28T07:55:32.908Z",
-      "version": "342",
+      "modifiedTime": "2026-06-12T08:06:50.648Z",
+      "version": "384",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -890,8 +912,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-05-29T09:01:12.520Z",
-      "version": "1007",
+      "modifiedTime": "2026-06-16T02:45:31.284Z",
+      "version": "1027",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -901,8 +923,8 @@
       ],
       "id": "1l8A5JticFW3FafKy2UtFNhyozOcM-MIRRPuIauiiWfE",
       "name": "5. Gộp khách hàng ",
-      "modifiedTime": "2025-12-24T08:18:55.359Z",
-      "version": "155",
+      "modifiedTime": "2026-06-12T10:30:45.324Z",
+      "version": "226",
       "path_lower": "/60 Quản lý khách hàng/5-gop-khach-hang"
     },
     {
@@ -923,8 +945,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-06-01T11:01:09.980Z",
-      "version": "519",
+      "modifiedTime": "2026-06-03T03:12:25.861Z",
+      "version": "540",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -957,7 +979,7 @@
       "id": "1n7GLAgO2avrROigIX2er6QwU7SKP92QIkeD6_cVO87c",
       "name": "22. Chu trình",
       "modifiedTime": "2026-05-27T04:08:31.343Z",
-      "version": "207",
+      "version": "211",
       "path_lower": "/50 Tự động hóa/22-chu-trinh"
     },
     {
@@ -989,8 +1011,8 @@
       ],
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
       "name": "5.1 Sản phẩm",
-      "modifiedTime": "2026-05-19T04:37:10.319Z",
-      "version": "270",
+      "modifiedTime": "2026-06-17T03:37:46.192Z",
+      "version": "278",
       "path_lower": "/70 Quản lý đơn hàng/5-1-san-pham"
     },
     {
@@ -1033,8 +1055,8 @@
       ],
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
-      "modifiedTime": "2026-05-25T08:34:01.869Z",
-      "version": "1194",
+      "modifiedTime": "2026-06-02T07:49:09.786Z",
+      "version": "1216",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1087,9 +1109,9 @@
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1sfylo8J-c-ICAAGll7kVa4w4ZdUnjdnBj5V3pOkFmeY",
-      "name": "_Xem lại lịch sử chat trên cửa sổ chat Subiz ",
-      "modifiedTime": "2026-04-16T03:00:49.897Z",
-      "version": "11",
+      "name": "Xem lại lịch sử chat trên cửa sổ chat Subiz ",
+      "modifiedTime": "2026-06-09T09:41:20.693Z",
+      "version": "62",
       "path_lower": "/1000 Tổng hợp/xem-lai-lich-su-chat-tren-cua-so-chat-subiz"
     },
     {
@@ -1154,8 +1176,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-05-21T07:48:53.346Z",
-      "version": "649",
+      "modifiedTime": "2026-06-11T06:59:05.744Z",
+      "version": "658",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
@@ -1188,7 +1210,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-03-25T04:26:05.414Z",
-      "version": "484",
+      "version": "486",
       "path_lower": "/readme"
     },
     {

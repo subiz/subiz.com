@@ -5,12 +5,12 @@ title: Giải thích thuật ngữ trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-05-23T08:05:40.205Z
+  date: 2026-06-09T04:16:33.596Z
 ---
 
 # Giải thích thuật ngữ trên Subiz
 
-Bảng dưới đây là định nghĩa các thuật ngữ thường dùng trong phần mềm Subiz
+Bảng dưới đây là định nghĩa các thuật ngữ thường dùng trong phần mềm Subiz:
 
 | <b>Tên thuật ngữ</b> | <b>Định nghĩa </b> |
 | --- | --- |
@@ -27,14 +27,158 @@ Bảng dưới đây là định nghĩa các thuật ngữ thường dùng trong
 | Trường thông tin | Trường thông tin Subiz là thuộc tính dùng để lưu trữ thông tin của khách hàng như tên, số điện thoại, email, giai đoạn khách,... |
 | Cửa sổ chat | Cửa sổ chat là khung chat được cài trên website, giúp khách hàng dễ dàng liên hệ và nhắn tin. |
 | Subiz Live | Subiz Live là trang theo dõi các hoạt động của khách truy cập website theo thời gian thực. |
-| Rule phân phối | Rule phân phối là tính năng tự động phân chia hội thoại khách hàng cho nhân viên. |
-| Popup | Popup là cửa sổ nhỏ hiển thị trên website nhằm thu hút, gửi thông điệp và điều hướng khách truy cập website. |
+| Rule phân phối | Rule phân phối là tính năng tự động phân chia hội thoại của khách hàng cho nhân viên. |
+| Popup | Popup là cửa sổ nhỏ hiển thị trên website nhằm thu hút, gửi thông điệp và điều hướng khách hàng. |
 | Thông báo mua hàng | Thông báo mua hàng hiển thị các đơn hàng mới nhằm kích thích khách hàng mua nhanh hơn. |
 | Bot<br/>Chatbot | Bot \(hay còn gọi là Chatbot\) là tính năng nhắn tin tự động với khách hàng, có 2 loại là [Bot kịch bản](https://subiz.com.vn/docs/1540866648-chatbot-kich-ban) và [Nhân viên AI](https://subiz.com.vn/docs/698043010-nhan-vien-ai). |
+| Nhân viên AI<br/>Chat AI<br/>Bot AI | Nhân viên AI \(hay còn gọi là Chat AI, Bot AI\) là tính năng sử dụng AI để trả lời tin nhắn khách hàng. |
 | Ticket | Ticket \(hay còn gọi là Phiếu ghi\) là tính năng dùng để ghi nhận, theo dõi và xử lý các công việc, đặc biệt là công việc chăm sóc khách hàng, tránh bỏ sót việc cần xử lý. |
 | SLA | SLA là chỉ số cam kết thời gian phản hồi khách hàng của doanh nghiệp. |
-| Chu trình | Chu trình \(Workflow/Automation\) là kịch bản tự động thực hiện hành động khi có điều kiện xảy ra. |
+| Chu trình | Chu trình \(Workflow/Automation\) là kịch bản tự động thực hiện hành động khi có điều kiện xảy ra trên hệ thống Subiz. |
+| Broadcast | Broadcast là tính năng gửi tin nhắn hoặc email hàng loạt đến nhiều khách hàng cùng một lúc nhằm mục đích remarketing, thông báo hoặc chăm sóc khách hàng. |
 
-Thuật ngữ trên trang Khách
+## Thuật ngữ trên trang Thống kê Hội thoại {#thuat-ngu-tren-trang-thong-ke-hoi-thoai}
 
-Thuật ngữ trên trang Chu Trình
+<b>Thống kê hội thoại</b> là trang giúp doanh nghiệp theo dõi số lượng và hiệu quả xử lý hội thoại trên các kênh đang kết nối với Subiz.
+
+### Các chỉ số tổng quan trên trang Thống kê Hội thoại {#cac-chi-so-tong-quan-tren-trang-thong-ke-hoi-thoai}
+
+#### Thời gian {#thoi-gian}
+
+Mặc định, trang thống kê sẽ hiển thị dữ liệu hội thoại trong 7 ngày gần nhất. Bạn có thể nhấn vào biểu tượng lịch để chọn khoảng thời gian muốn xem, ví dụ: hôm nay, tuần này, tháng này hoặc một khoảng thời gian tùy chỉnh.
+
+#### Tổng số hội thoại {#tong-so-hoi-thoai}
+
+<b>Tổng số hội thoại</b> là tổng số hội thoại được tạo trong khoảng thời gian đang chọn, tính theo thời gian gửi tin nhắn đầu tiên trong hội thoại.
+
+Ví dụ: Hội thoại có tin nhắn đầu tiên gửi vào ngày 01/06, thì hội thoại đó sẽ được tính vào thống kê của ngày 01/06.
+
+#### Hội thoại của khách mới {#hoi-thoai-cua-khach-moi}
+
+<b>Hội thoại của khách mới</b> là số hội thoại của những khách hàng lần đầu có hội thoại nhắn tin trên Subiz.
+
+#### Phản hồi lần đầu trung bình {#phan-hoi-lan-dau-trung-binh}
+
+<b>Phản hồi lần đầu trung bình</b> là thời gian trung bình khách đang chờ được phản hồi. Chỉ số này giúp doanh nghiệp đánh giá tốc độ tiếp nhận và phản hồi khách hàng của đội ngũ tư vấn.
+
+Cách tính: Đây là thời gian trung bình cộng của những hội thoại được tính "thời gian phản hồi lần đầu".
+
+Lưu ý: Không phải tất cả hội thoại đều được tính vào chỉ số này. Subiz chỉ tính những hội thoại thỏa mãn điều kiện ghi nhận thời gian phản hồi lần đầu.
+
+##### Thời gian phản hồi lần đầu của một cuộc hội thoại {#thoi-gian-phan-hoi-lan-dau-cua-mot-cuoc-hoi-thoai}
+
+<b>Thời gian phản hồi lần đầu</b> là khoảng thời gian từ khi nhân viên tham gia hội thoại đến khi nhân viên gửi tin nhắn đầu tiên phản hồi khách hàng.
+
+Ví dụ: Khách nhắn tin lúc 08:00. Nhân viên A được thêm vào hội thoại lúc 08:02. Nhân viên A trả lời khách lúc 08:05. -&gt; Khi đó thời gian phản hồi lần đầu = 08:05 - 08:02 = 3 phút
+
+Hội thoại sẽ được tính thời gian phản hồi lần đầu khi thoả mãn 1 trong các điều kiện sau:
+
+- Nhân viên là người đầu tiên trả lời tin nhắn của khách.
+- Hội thoại được tạo trong giờ làm việc
+- Hội thoại không phải là spam, fb\_comment, cuộc gọi hay là form.
+
+Như vậy, những hội thoại không được tính thời gian phản hồi lần đầu là những hội thoại có Bot tự động trả lời tin nhắn của khách hoặc không thoả mãn các điều kiện trên.
+
+### Danh sách hội thoại {#danh-sach-hoi-thoai}
+
+Nút <b>Danh sách hội thoại</b> dùng để xem chi tiết các hội thoại tương ứng với báo cáo đang xem. Tại đây, bạn có thể mở xem từng hội thoại và lọc tìm hội thoại thỏa mãn điều kiện cụ thể và xuất file dữ liệu hội thoại.
+
+Trong file xuất dữ liệu hội thoại sẽ bao gồm nhiều thông tin chi tiết về từng hội thoại. Mỗi cột trong file tương ứng với một trường thông tin.
+
+Bảng dưới đây <b>giải thích các trường thông tin trong file xuất dữ liệu hội thoại</b>, bạn có thể tham khảo bảng này để hiểu rõ từng chỉ số khi đọc file dữ liệu hội thoại xuất từ Subiz:
+
+| <b>Tên cột trong file</b> | <b>Định nghĩa </b> |
+| --- | --- |
+| Conversation ID | Mã định danh riêng của hội thoại trên Subiz. Mỗi hội thoại có một Conversation ID riêng để tra cứu, đối soát hoặc liên kết với dữ liệu khác. |
+| Tiêu đề hội thoại | Tiêu đề hội thoại là nội dung tóm tắt của cuộc hội thoại. Nếu agent không chỉnh sửa tiêu đề, hệ thống sẽ tự động lấy tiêu đề là tin nhắn đầu tiên của khách hàng trong hội thoại. |
+| Trạng thái | Trạng thái hiện tại của hội thoại, trong đó ‘active’ là hội thoại đang mở, ‘end’ là hội thoại đã kết thúc. |
+| Kênh | Hội thoại diễn ra trên kênh nào. Ví dụ kênh Website, Facebook, Zalo, Email, Instagram,... |
+| Nguồn hội thoại | Tên kênh cụ thể đã diễn ra hội thoại, ví dụ website ‘subiz.com.vn’, fanpage Subiz,... |
+| Phân phối tới agent | Agent \(nhân viên\) được hệ thống mời vào hội thoại để hỗ trợ khách. |
+| Tags | Các tag được gắn vào hội thoại để phân loại theo chủ đề, nhu cầu, trạng thái hoặc kết quả xử lý. |
+| Agent trả lời | Agent \(nhân viên\) đã nhắn tin trong hội thoại. Có thể khác với người được phân phối nếu hội thoại được giao cho nhiều người cùng tham gia. |
+| Thời gian phản hồi lần đầu \(giây\) | Là thời gian khách chờ gặp tư vấn viên, tính từ lúc khách gửi tin nhắn đầu tiên đến khi agent nhắn tin trả lời khách. |
+| Độ dài hội thoại | Là thời gian diễn ra hội thoại, tính từ lúc hội thoại bắt đầu đến khi hội thoại kết thúc. |
+| Thời gian tạo | Thời điểm hội thoại được tạo, tính theo tin nhắn đầu tiên được gửi trong hội thoại. |
+| Liên hệ gần nhất | Thời gian nhắn tin gần nhất trong hội thoại, có thể gửi bởi khách, agent, bot,... |
+| User ID | Mã định danh duy nhất của khách trong Subiz. Một khách có thể có nhiều hội thoại. |
+| Họ và tên | Tên khách hàng trên hệ thống. Nếu chưa có tên, Subiz sẽ hiển thị tên tạm như “Khách \#pxyn”. |
+| Địa chỉ email | Địa chỉ email của khách hàng. |
+| Số điện thoại | Số điện thoại của khách hàng. |
+| Người dùng xem trang | URL/trang web khách đang xem khi bắt đầu cuộc chat. |
+| Địa chỉ IP | Địa chỉ IP của khách hàng khi nhắn tin trên kênh website. Không ghi nhận được IP khách hàng trên những kênh còn lại. |
+| Thiết bị | Loại thiết bị khách sử dụng khi tương tác, ví dụ máy tính hoặc điện thoại. |
+| Nguồn truy cập | Nguồn traffic đưa khách đến website hoặc trang chat, ví dụ direct, referring, organic, campaign. |
+| Vị trí địa lý | Vị trí địa lý ước tính của khách dựa trên IP hoặc dữ liệu hệ thống ghi nhận. |
+| Đánh giá | Điểm đánh giá cuộc chat của khách hàng, có 3 mức điểm là ‘tệ / trung bình/ tuyệt vời’. |
+| Bình luận đánh giá | Nội dung nhận xét khách để lại kèm theo đánh giá hội thoại. |
+
+## Thuật ngữ trên trang Khách {#thuat-ngu-tren-trang-khach}
+
+[Trang Khách Subiz](https://app.subiz.com.vn/lead) sẽ tự động tổng hợp khách hàng tiềm năng khi khách đạt 1 trong 2 điều kiện sau:
+
+- Khách có SĐT hoặc email
+- Hoặc khách nhắn tin trên Fanpage, Zalo OA
+
+Agent có thể xem danh sách khách hàng, tìm kiếm khách, phân loại khách hàng, lọc theo điều kiện, theo dõi nguồn phát sinh hội thoại và quản lý thông tin chăm sóc khách hàng.
+
+### Tệp khách hàng {#tep-khach-hang}
+
+<b>Tệp khách hàng</b> là tập hợp các khách hàng được lọc theo những điều kiện cụ thể, ví dụ tệp khách có SĐT, tệp khách từ website,... Danh sách các tệp khách hàng được hiển thị tại thanh công cụ bên trái của trang Khách.
+
+Mỗi tài khoản agent luôn có sẵn một tệp khách <b>My Leads</b> chứa toàn bộ khách hàng do chính agent đó phụ trách.
+
+### Danh sách khách hàng {#danh-sach-khach-hang}
+
+Khi mở 1 tệp khách cụ thể, ở giữa màn hình sẽ hiển thị danh sách khách hàng trong tệp đó theo dạng bảng, trong đó:
+
+- Đầu bảng là các cột trường thông tin về khách hàng
+- Mỗi dòng tương ứng với 1 khách hàng cụ thể
+
+#### Định nghĩa các trường thông tin khách hàng: {#dinh-nghia-cac-truong-thong-tin-khach-hang}
+
+Trong file xuất dữ liệu khách hàng sẽ chứa toàn bộ thông tin về từng khách hàng, tên các cột trong file sẽ tương ứng với các ‘Khoá’ của trường thông tin. Dưới đây là bảng định nghĩa tất cả trường thông tin với ‘tên trường - khoá - định nghĩa’ để bạn có thể tra cứu nhanh:
+
+| <b>Tên trường thông tin </b> | <b>Khoá </b> | <b>Định nghĩa</b> |
+| --- | --- | --- |
+| Mã khách hàng | id | Mã định danh duy nhất của khách trong Subiz. Dùng để phân biệt khách này với các khách khác, kể cả khi trùng tên hoặc số điện thoại. |
+| Họ tên | fullname | Tên khách hàng trên hệ thống. Nếu chưa có tên, Subiz sẽ hiển thị tên tạm như “Khách \#pxyn”. |
+| Nhãn | labels | Các nhãn được gắn cho khách để phân loại, ví dụ: Báo giá, Tiềm năng, Mua hàng, Khách miền Bắc. |
+| Giai đoạn vòng đời | lifecycle\_stage | Cho biết khách hàng đang ở giai đoạn nào trong quy trình bán hàng hoặc quy trình chăm sóc. Chẳng hạn như lead, customer, buy hoặc các giai đoạn khác do doanh nghiệp tuỳ chỉnh. |
+| Email | emails | Địa chỉ email của khách hàng. |
+| Số điện thoại | phones | Số điện thoại của khách hàng. |
+| Tạo lúc | created | Thời điểm lần đầu khách hàng được ghi nhận trên Subiz, kể cả khi chưa nhắn tin hoặc chưa để lại thông tin liên hệ.<br/>Ví dụ: thời điểm khách truy cập website, thích bài viết trên Fanpage hoặc thực hiện các tương tác mà Subiz có thể ghi nhận. |
+| Thời điểm tạo lead | lead\_at | Thời gian khách được ghi nhận là tiềm năng. Khi khách để lại SĐT/email hoặc khách nhắn tin tới Fanpage/Zalo. |
+| Nhắn tin cuối lúc | last\_message\_sent | Thời điểm gần nhất khách hàng gửi tin nhắn. |
+| Hoạt động cuối | seen | Thời điểm gần nhất hệ thống ghi nhận khách hàng có tương tác hoặc hoạt động như: xem tin nhắn, truy cập website, gửi tin nhắn hoặc thực hiện hành động khác |
+| Múi giờ | timezone | Ghi nhận dữ liệu trên trang Khách theo [cài đặt múi giờ doanh nghiệp](https://app.subiz.com.vn/settings/). |
+| Tổng số hội thoại | total\_conversations | Tổng số cuộc trò chuyện của khách hàng |
+| Tổng tiền đã thanh toán | total\_payment\_made | Tổng số tiền khách đã thanh toán cho các đơn hàng được quản lý trên Subiz. |
+| Sinh nhật | birthdate | Ngày sinh nhật của khách hàng. |
+| Trạng thái | status | Trạng thái hiện tại của khách/bản ghi theo cách hệ thống lưu. |
+| Quận/Huyện | district | Quận hoặc huyện của khách hàng. |
+| Tổng giá trị đơn hàng | total\_order\_value | Tổng giá trị các đơn hàng được tạo trên Subiz. |
+| Không nhận tin marketing | is\_unsubscribed | Cho biết khách có từ chối nhận tin nhắn marketing từ Subiz hay không. Nếu có, Subiz sẽ không gửi tin nhắn marketing cho khách nữa. |
+| Bị chặn | is\_ban | Cho biết khách có [bị chặn](https://subiz.com.vn/docs/1387158228-quan-ly-hoi-thoai#chan-khach-spam-tren-subiz-nhu-the-nao) trên hệ thống hay không. |
+| Đã theo dõi | is\_followed | Cho biết khách đã theo dõi Zalo OA hoặc Instagram |
+| Tên hiển thị | display\_name | Tên hiển thị của khách trên kênh tương tác, ví dụ tên Facebook/Zalo hoặc tên điền trên widget. |
+| Tỉnh/Thành phố | city | Tỉnh hoặc thành phố của khách hàng. |
+| Giới tính | gender | Giới tính của khách hàng nếu hệ thống có dữ liệu hoặc agent cập nhật. |
+| Google Analytics Client ID | ga\_client\_id | Mã định danh người dùng/trình duyệt trong Google Analytics, nếu website có tích hợp Google Analytics |
+| Bạn bè Zalo | zalo\_friend\_status | Cho biết khách có là bạn bè với Zalo cá nhân không |
+| Thời điểm đơn tạo gần nhất | last\_order\_at | Thời gian gần nhất khách có đơn hàng trên Subiz. |
+| Tổng số đơn | num\_orders | Tổng số đơn hàng của khách. |
+| Email liên quan | related\_email | Email của khách được hệ thống ghi nhận tự động: khách điền Form, để lại mail trong chat,...<br/><br/>Đây là trường lưu trữ dữ liệu thô, nên agent thay đổi email trên hồ sơ khách sẽ không thay đổi giá trị của trường này. |
+| Số điện thoại liên quan | related\_phone | Số điện thoại của khách được hệ thống ghi nhận tự động: khách điền Form, để lại số trong chat,...<br/><br/>Đây là trường lưu trữ dữ liệu thô, nên agent thay đổi email trên hồ sơ khách sẽ không thay đổi giá trị của trường này. |
+| Cập nhật lúc | modified | Thời gian gần nhất khách được cập nhật thông tin. |
+| Tương tác đầu tiên | first\_interact | Thời gian đầu tiên khách có tương tác với doanh nghiệp trên Subiz, chẳng hạn như: khách xem website, khách nhắn tin, khách like fanpage,... |
+| Ẩn danh | is\_anonymous | Cho biết khách là người dùng ẩn danh trên Zalo cá nhân |
+| Địa chỉ | address | Địa chỉ của khách hàng. |
+| Thời gian thanh toán gần nhất | last\_payment\_made | Thời gian gần nhất khách được ghi nhận thanh toán. |
+| URL ảnh đại diện | avatar\_url | Đường dẫn ảnh đại diện của khách. |
+| Thời điểm phân lead | lead\_assigned\_at | Thời điểm khách được phân công cho nhân viên phụ trách. |
+| Kênh | channel | Khách được ghi nhận tiềm năng khi tương tác trên kênh nào. Ví dụ web, Facebook, Zalo. |
+| Nguồn hội thoại | channel\_source | Thông tin chi tiết hơn về tên kênh phát sinh hội thoại với khách, ví dụ subiz.com.vn. |
+| Mã hồ sơ kênh | profile\_id | Mã định danh hồ sơ của khách theo kênh tương tác, ví dụ ID mã định danh của khách trên Facebook. |
+| URL lần đầu xem trang | start\_content\_view\_url | Đường dẫn trang web đầu tiên khách xem khi được ghi nhận hành vi trên website. |
+| URL lần cuối xem trang | latest\_content\_view\_url | Đường dẫn trang web gần nhất khách xem. |
