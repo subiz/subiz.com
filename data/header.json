@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1781746906021,
-  "updated": 1781746906021,
+  "fetched": 1782381347390,
+  "updated": 1782381347390,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -286,7 +286,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-06-09T08:42:27.046Z",
-      "version": "524",
+      "version": "526",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -362,8 +362,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-05-29T08:38:34.572Z",
-      "version": "544",
+      "modifiedTime": "2026-06-19T08:42:24.866Z",
+      "version": "563",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -549,8 +549,8 @@
       ],
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "11. Webhook tích hợp CRM",
-      "modifiedTime": "2026-05-15T07:19:40.516Z",
-      "version": "173",
+      "modifiedTime": "2026-06-25T04:52:09.648Z",
+      "version": "266",
       "path_lower": "/110 Ứng dụng nâng cao/11-webhook-tich-hop-crm"
     },
     {
@@ -571,8 +571,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-06-17T08:54:15.956Z",
-      "version": "283",
+      "modifiedTime": "2026-06-25T07:37:35.057Z",
+      "version": "306",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -835,8 +835,8 @@
       ],
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
-      "modifiedTime": "2026-06-12T08:06:50.648Z",
-      "version": "384",
+      "modifiedTime": "2026-06-23T07:11:04.989Z",
+      "version": "417",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -945,8 +945,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-06-03T03:12:25.861Z",
-      "version": "540",
+      "modifiedTime": "2026-06-23T10:04:56.011Z",
+      "version": "581",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -1165,8 +1165,8 @@
       ],
       "id": "1uYtdFZoIzhVZrbpO9OZMGimNL51AP3AzhgWZfxRaf-E",
       "name": "1. ZBS Zalo",
-      "modifiedTime": "2026-05-07T06:46:49.204Z",
-      "version": "557",
+      "modifiedTime": "2026-06-23T04:43:38.626Z",
+      "version": "564",
       "path_lower": "/100 Marketing/1-zbs-zalo"
     },
     {
