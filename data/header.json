@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1783499581719,
-  "updated": 1783499581719,
+  "fetched": 1783507914484,
+  "updated": 1783507914484,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -329,8 +329,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-07-08T07:49:33.237Z",
-      "version": "914",
+      "modifiedTime": "2026-07-08T10:24:34.615Z",
+      "version": "920",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -373,8 +373,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-06-19T08:42:24.866Z",
-      "version": "565",
+      "modifiedTime": "2026-07-08T08:34:59.170Z",
+      "version": "572",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -802,8 +802,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-07-08T08:27:37.950Z",
-      "version": "1088",
+      "modifiedTime": "2026-07-08T10:01:15.923Z",
+      "version": "1118",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -923,8 +923,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-06-16T02:45:31.284Z",
-      "version": "1027",
+      "modifiedTime": "2026-07-08T10:03:11.515Z",
+      "version": "1041",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {

@@ -5,69 +5,49 @@ title: Kịch bản tự động cho bài quảng cáo Facebook Ads
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-07-08T08:27:37.950Z
+  date: 2026-07-08T10:01:15.923Z
 ---
 
 # Kịch bản tự động cho bài quảng cáo Facebook Ads
 
 ## Tiện ích {#tien-ich}
 
-Subiz cho phép bạn tạo cấu hình tự động riêng cho từng bài viết Fanpage hoặc từng bài quảng cáo Facebook. Tuy nhiên, mỗi loại tương tác sẽ có phạm vi hỗ trợ khác nhau:
+Subiz cho phép bạn tạo luồng tự động hỗ trợ riêng cho khách tới từ bài viết cụ thể hoặc bài quảng cáo Facebook, bao gồm:
 
-• Với bình luận: Subiz hỗ trợ cấu hình theo từng Facebook Post ID cho cả bài viết thường và bài quảng cáo.
+1. Giao nhân sự phụ trách
+2. Phản hồi bình luận
+3. Trả lời messenger
 
-• Với tin nhắn Messenger: Subiz chỉ phân biệt được Facebook Post ID khi khách nhắn tin từ bài quảng cáo và Meta gửi sự kiện “Khách đến từ bài quảng cáo”.
-
-• Nếu khách mở link bài viết, vào Fanpage rồi nhắn tin thủ công, Subiz hiện chưa có cơ chế xác định cuộc chat đó thuộc về một bài post thường cụ thể. Hội thoại sẽ đi theo rule phân phối chung của Fanpage.
-
-Bạn có thể dùng các cấu hình này để:
-
-1. Giao nhân sự phụ trách theo bài quảng cáo
-2. Phản hồi bình luận theo từng bài viết
-3. Tự động trả lời Messenger từ bài quảng cáo Facebook
+:::info
+Với hội thoại Messenger, cài đặt theo từng bài viết chỉ áp dụng với khách đến từ bài viết quảng cáo. Khi khách từ bài viết thường nhấn gửi tin nhắn messenger cho Fanpage sẽ áp dụng theo cài đặt Messenger chung.
+:::
 
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
-Bạn có thể tạo Rule phân phối riêng để hội thoại Messenger đến từ một bài quảng cáo Facebook được giao cho đúng nhân sự, Bot hoặc Nhân viên AI phụ trách.
-
-Lưu ý quan trọng: điều kiện Facebook Post ID trong Rule phân phối chỉ hoạt động khi Meta gửi về Subiz thông tin khách đến từ bài quảng cáo. Nếu khách chỉ xem bài viết thường, mở link post hoặc vào Fanpage rồi nhắn tin thủ công, Subiz không nhận được Post ID cho cuộc chat đó nên hội thoại sẽ được xử lý theo Rule phân phối chung của Fanpage.
-
-Cách thực hiện:
+Bạn muốn chat từ bài viết quảng cáo Facebook chỉ giao cho 1 số nhân viên phụ trách, bạn sẽ tạo Rule phân phối tự động như sau:
 
 - Ở bên phải màn hình, ấn biểu tượng bánh răng mở trang Cài đặt
 - Tại sidebar bên trái, chọn Rule phân phối
-- Tạo Rule với điều kiện Facebook Post ID hoặc Tin nhắn từ quảng cáo Facebook, sau đó chọn hành động phân phối tới agent, Bot hoặc Nhân viên AI cụ thể
+- Tạo Rule với điều kiện ‘Tin nhắn từ quảng cáo FB’, hành động phân phối tới agent cụ thể
 
-## Phản hồi bình luận theo từng bài viết {#phan-hoi-binh-luan-theo-tung-bai-viet}
+## Phản hồi bình luận bài viết {#phan-hoi-binh-luan-bai-viet}
 
-Subiz đang hỗ trợ cài đặt phản hồi bình luận riêng theo từng bài viết. Bài viết này không bắt buộc phải là bài quảng cáo; bạn có thể áp dụng cho bài viết thường trên Fanpage hoặc bài viết đang chạy quảng cáo.
-
-Tính năng này phù hợp khi bạn muốn tự động like, ẩn bình luận, trả lời công khai hoặc inbox riêng theo nội dung từng bài viết.
-
-Cách thực hiện:
+Để khách bình luận bài viết quảng cáo sẽ được tự động trả lời riêng theo thông tin bài viết, bạn thực hiện như sau:
 
 - Ở bên phải màn hình, ấn biểu tượng bánh răng mở trang Cài đặt
 - Tại sidebar bên trái, chọn Tích hợp Facebook
 - Nhấn Cài đặt tại Fanpage cần cấu hình
 - Chuyển sang tab Cài đặt cho từng bài viết
 - Bật tính năng Tùy chọn riêng cho các bài post cụ thể
-- Chọn bài viết thường hoặc bài quảng cáo cần cài đặt trong cửa sổ Chọn bài post → nhấn Áp dụng
-- Tích chọn tự động like, ẩn bình luận, trả lời công khai hoặc gửi inbox riêng cho khách bình luận bài viết đó
+- Chọn bài viết cần cài đặt trong cửa sổ Chọn bài post → nhấn Áp dụng
+- Tích chọn tự động like, ẩn và soạn nội dung trả lời, inbox với bình luận bài viết đó
 - Bấm Lưu cài đặt để hoàn tất.
 
-Gợi ý: Nếu mỗi bài viết đang có nội dung bán hàng khác nhau, bạn nên tạo cấu hình riêng cho từng bài viết để nội dung phản hồi sát nhu cầu hơn. Tại tab Cài đặt cho từng bài viết, chọn + Thêm cài đặt cho bài viết khác và cấu hình tương ứng cho từng bài viết.
+Gợi ý: Nếu muốn thiết lập phản hồi riêng cho những bài viết khác, tại tab Cài đặt cho từng bài viết, chọn + Thêm cài đặt cho bài viết khác và cấu hình tương ứng cho từng bài viết.
 
-## Trả lời Messenger từ bài quảng cáo Facebook {#tra-loi-messenger-tu-bai-quang-cao-facebook}
+## Trả lời tin nhắn messenger {#tra-loi-tin-nhan-messenger}
 
-Bạn có thể cài đặt để khách nhắn tin từ quảng cáo Facebook được Bot hoặc Nhân viên AI trên Subiz tự động trả lời.
-
-Phạm vi hỗ trợ hiện tại:
-
-• Hỗ trợ: khách nhắn tin từ bài quảng cáo Facebook có kết nối Subiz. Khi đó Meta gửi sự kiện “Khách đến từ bài quảng cáo”, Subiz có thể dùng Facebook Post ID để chạy Rule phân phối riêng.
-
-• Chưa hỗ trợ: tạo luồng chat riêng theo Facebook Post ID cho bài viết thường không chạy quảng cáo. Trường hợp khách mở link bài viết hoặc vào Fanpage rồi nhắn tin, Subiz không xác định được hội thoại đó thuộc bài post cụ thể nào.
-
-Vì vậy, nếu bạn muốn mỗi chiến dịch có Bot/AI hoặc nhân sự phụ trách riêng, hãy triển khai qua bài quảng cáo Facebook có kết nối ứng dụng Subiz.
+Bạn có thể cài đặt để khách nhắn tin từ quảng cáo Facebook sẽ được Bot hoặc Nhân viên AI trên Subiz tự động trả lời
 
 ### Bước 1: Tạo Bot tự động trả lời trên Subiz {#buoc-1-tao-bot-tu-dong-tra-loi-tren-subiz}
 
@@ -97,21 +77,15 @@ Khi tạo quảng cáo Facebook, bạn sẽ chọn sử dụng ứng dụng Subi
 
 ![](https://vcdn.subiz-cdn.com/file/fisohtoqizfdgutbrdqj_acpxkgumifuoofoosble/1666d0f675e225aa6a0deb0cd32c7abb.png)
 
-### Bước 3: Giao tin nhắn từ từng quảng cáo cho Bot/AI hoặc nhân sự cụ thể {#buoc-3-giao-tin-nhan-tu-tung-quang-cao-cho-bot/ai-hoac-nhan-su-cu-the}
+### Bước 3: Giao tin nhắn từ quảng cáo cho Bot cụ thể trả lời {#buoc-3-giao-tin-nhan-tu-quang-cao-cho-bot-cu-the-tra-loi}
 
-Sau khi khách nhắn tin từ quảng cáo, bạn cần một Rule phân phối để chỉ định chính xác Bot, Nhân viên AI hoặc nhân sự nào sẽ phụ trách hội thoại đó.
-
-Rule theo Facebook Post ID không dùng để phân loại mọi cuộc chat liên quan đến một bài viết thường. Rule này chỉ chạy khi Subiz nhận được dữ liệu bài quảng cáo từ Meta.
+Sau khi khách nhắn tin từ quảng cáo, bạn cần một quy tắc \(Rule phân phối\) để chỉ định chính xác Bot nào sẽ trả lời quảng cáo đó.
 
 - Tại Subiz, nhấn vào biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
 - Từ sidebar trên trái chọn HỘI THOẠI &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
 - Nhấn tạo Rule phân phối
-- Chọn thêm điều kiện Facebook Post ID và chọn bài quảng cáo cụ thể cần phân phối riêng
-- Chọn hành động Phân phối tới agent cụ thể là Bot, Nhân viên AI hoặc nhân sự muốn sử dụng
+- Chọn Thêm điều kiện Facebook Post ID và chọn bài viết quảng cáo cụ thể
+- Chọn Phân phối tới agent cụ thể là Bot/AI muốn sử dụng
 - Nhấn tạo Rule
-- Sau khi tạo Rule thành công, bạn nhấn giữ biểu tượng dấu chấm ⋮⋮ ở đầu dòng Rule vừa tạo và kéo lên vị trí trên cùng của danh sách. Việc này giúp hội thoại từ quảng cáo được ưu tiên giao đúng Bot/AI hoặc nhân sự trước khi rơi vào Rule phân phối chung của Fanpage.
+- Sau khi tạo Rule thành công, bạn nhấn giữ vào biểu tượng dấu chấm ⋮⋮ ở đầu dòng Rule vừa tạo và kéo lên vị trí trên cùng của danh sách. Việc này đảm bảo tin nhắn từ quảng cáo sẽ luôn được ưu tiên giao cho Bot trả lời ngay lập tức .
 -
-- Ví dụ dễ hiểu:
-- • Bài quảng cáo A bán sản phẩm X → tạo Rule Facebook Post ID A → giao cho Bot tư vấn sản phẩm X.
-- • Bài quảng cáo B tuyển sinh khóa học Y → tạo Rule Facebook Post ID B → giao cho Nhân viên AI hoặc nhóm sale phụ trách khóa Y.
-- • Khách vào Fanpage rồi tự nhắn “mình cần tư vấn” → không có Post ID bài viết cụ thể → hội thoại đi theo Rule phân phối chung của Fanpage.
