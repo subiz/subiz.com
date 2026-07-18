@@ -5,7 +5,7 @@ title: Giải thích thuật ngữ trên Subiz
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-06-09T04:16:33.596Z
+  date: 2026-07-17T07:48:23.202Z
 ---
 
 # Giải thích thuật ngữ trên Subiz
@@ -23,7 +23,7 @@ Bảng dưới đây là định nghĩa các thuật ngữ thường dùng trong
 | Tag | Tag là chức năng phân loại hội thoại theo từng nhóm yêu cầu. |
 | Label | Label \(hay còn gọi là Nhãn\) là chức năng phân loại khách hàng theo từng nhóm đối tượng. |
 | User | User là tên gọi khách hàng của doanh nghiệp trên Subiz. |
-| Khách tiềm năng | Khách tiềm năng là khách thể hiện sự quan tâm tới sản phẩm/dịch vụ và có khả năng liên hệ lại.<br/><br/><br/><br/>Subiz ghi nhận khách là tiềm năng khi khách đạt 1 trong 2 điều kiện sau:<br/><br/><br/>- Khách có SĐT hoặc email<br/>- Hoặc khách nhắn tin trên Fanpage, Zalo OA |
+| Khách tiềm năng | Khách tiềm năng là khách thể hiện sự quan tâm tới sản phẩm/dịch vụ và có khả năng liên hệ lại.<br/><br/><br/><br/>Subiz ghi nhận khách là tiềm năng khi khách đạt 1 trong 2 điều kiện sau:<br/><br/><br/>- Khách có SĐT hoặc email<br/>- Hoặc khách nhắn tin trên Fanpage, Zalo |
 | Trường thông tin | Trường thông tin Subiz là thuộc tính dùng để lưu trữ thông tin của khách hàng như tên, số điện thoại, email, giai đoạn khách,... |
 | Cửa sổ chat | Cửa sổ chat là khung chat được cài trên website, giúp khách hàng dễ dàng liên hệ và nhắn tin. |
 | Subiz Live | Subiz Live là trang theo dõi các hoạt động của khách truy cập website theo thời gian thực. |
@@ -67,17 +67,19 @@ Lưu ý: Không phải tất cả hội thoại đều được tính vào chỉ
 
 ##### Thời gian phản hồi lần đầu của một cuộc hội thoại {#thoi-gian-phan-hoi-lan-dau-cua-mot-cuoc-hoi-thoai}
 
-<b>Thời gian phản hồi lần đầu</b> là khoảng thời gian từ khi nhân viên tham gia hội thoại đến khi nhân viên gửi tin nhắn đầu tiên phản hồi khách hàng.
-
-Ví dụ: Khách nhắn tin lúc 08:00. Nhân viên A được thêm vào hội thoại lúc 08:02. Nhân viên A trả lời khách lúc 08:05. -&gt; Khi đó thời gian phản hồi lần đầu = 08:05 - 08:02 = 3 phút
+<b>Thời gian phản hồi lần đầu</b> là khoảng thời gian từ khi <b>khách hàng gửi tin nhắn đầu tiên</b> đến khi <b>hội thoại nhận được phản hồi đầu tiên bởi một nhân viên</b>. Chỉ số này góp phần đánh giá khách hàng phải chờ bao lâu để nhận được phản hồi đầu tiên.
 
 Hội thoại sẽ được tính thời gian phản hồi lần đầu khi thoả mãn 1 trong các điều kiện sau:
 
 - Nhân viên là người đầu tiên trả lời tin nhắn của khách.
-- Hội thoại được tạo trong giờ làm việc
-- Hội thoại không phải là spam, fb\_comment, cuộc gọi hay là form.
+- Hội thoại được tạo trong giờ làm việc.
+- Hội thoại không phải là spam, fb\_comment, cuộc gọi hay là điền form.
 
 Như vậy, những hội thoại không được tính thời gian phản hồi lần đầu là những hội thoại có Bot tự động trả lời tin nhắn của khách hoặc không thoả mãn các điều kiện trên.
+
+Ví dụ: Khách gửi tin nhắn đầu tiên vào lúc 08:00. Nhân viên A là người đầu tiên trả lời khách lúc 08:05. -&gt; Khi đó thời gian phản hồi lần đầu = 08:05 - 08:00 = 5 phút.
+
+<b>Lưu ý:</b> Chỉ nhân viên <b>trả lời đầu tiên</b> trong hội thoại mới được ghi nhận chỉ số này. Các nhân viên trả lời sau không được tính hoặc không ảnh hưởng đến Thời gian phản hồi lần đầu, vì khách hàng đã nhận được phản hồi đầu tiên.
 
 ### Danh sách hội thoại {#danh-sach-hoi-thoai}
 
