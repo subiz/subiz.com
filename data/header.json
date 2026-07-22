@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1784702247739,
-  "updated": 1784702247739,
+  "fetched": 1784716727852,
+  "updated": 1784716727852,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -44,7 +44,7 @@
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "_7. App mobile Subiz (Bản cũ - Ms Hương)",
       "modifiedTime": "2026-07-22T05:56:20.337Z",
-      "version": "166",
+      "version": "168",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz-ban-cu-ms-huong"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
       "modifiedTime": "2026-07-22T04:31:01.644Z",
-      "version": "1082",
+      "version": "1083",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -857,8 +857,8 @@
       ],
       "id": "1gslKo81yJqNpHqNp-XUCNSnxYBIRjduTpLFVp5qiZlQ",
       "name": "7. App mobile Subiz",
-      "modifiedTime": "2026-07-22T05:56:31.711Z",
-      "version": "321",
+      "modifiedTime": "2026-07-22T10:37:08.132Z",
+      "version": "370",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
     },
     {
