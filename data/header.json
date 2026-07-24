@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1784716727852,
-  "updated": 1784716727852,
+  "fetched": 1784878195947,
+  "updated": 1784878195947,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
-      "modifiedTime": "2026-07-17T10:19:10.943Z",
-      "version": "210",
+      "modifiedTime": "2026-07-24T07:26:45.776Z",
+      "version": "225",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -44,7 +44,7 @@
       "id": "1-iBvYKv6iiLhzvJIVDd_vkC7ukwhAHuUXSEYCvlowZY",
       "name": "_7. App mobile Subiz (Bản cũ - Ms Hương)",
       "modifiedTime": "2026-07-22T05:56:20.337Z",
-      "version": "168",
+      "version": "173",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz-ban-cu-ms-huong"
     },
     {
@@ -186,8 +186,8 @@
       ],
       "id": "1DNIZOQ424-tyNqCAnUIz1DIOWj245wnTvoFc6VLeijk",
       "name": "_8.1 Bắt đầu & thiết lập cơ bản",
-      "modifiedTime": "2026-07-13T08:17:11.671Z",
-      "version": "193",
+      "modifiedTime": "2026-07-24T03:24:05.671Z",
+      "version": "214",
       "path_lower": "/50 Tự động hóa/8-1-bat-dau-thiet-lap-co-ban"
     },
     {
@@ -297,7 +297,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-07-22T03:08:10.634Z",
-      "version": "571",
+      "version": "572",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -354,6 +354,17 @@
       "modifiedTime": "2026-06-10T09:38:43.346Z",
       "version": "172",
       "path_lower": "/50 Tự động hóa/chu-trinh"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1Ksc7Fb2DtiS9bDNNxGOUqldgX6SwjU3znWTP92YbFBQ",
+      "name": "Mã tài khoản Subiz",
+      "modifiedTime": "2026-07-24T06:48:39.412Z",
+      "version": "37",
+      "path_lower": "/1000 Tổng hợp/ma-tai-khoan-subiz"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -627,7 +638,7 @@
       "id": "1YQorzgJfzDMErl1auhVkXrzu1w7DbKyqyp3pTmkyGEE",
       "name": "Các cách phân phối hội thoại",
       "modifiedTime": "2026-05-14T03:27:51.749Z",
-      "version": "461",
+      "version": "462",
       "path_lower": "/1000 Tổng hợp/cac-cach-phan-phoi-hoi-thoai"
     },
     {
@@ -660,7 +671,7 @@
       "id": "1_4ZLl8xCtYr-5B1rat9iZONAlP38BSOW3kbeoocq1DU",
       "name": "_Google Business",
       "modifiedTime": "2026-01-14T02:32:29.663Z",
-      "version": "21",
+      "version": "22",
       "path_lower": "/20 Tích hợp kênh tương tác/google-business"
     },
     {
@@ -847,7 +858,7 @@
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "55. Tổng đài",
       "modifiedTime": "2026-06-23T07:11:04.989Z",
-      "version": "419",
+      "version": "420",
       "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
     },
     {
@@ -857,8 +868,8 @@
       ],
       "id": "1gslKo81yJqNpHqNp-XUCNSnxYBIRjduTpLFVp5qiZlQ",
       "name": "7. App mobile Subiz",
-      "modifiedTime": "2026-07-22T10:37:08.132Z",
-      "version": "370",
+      "modifiedTime": "2026-07-24T03:22:26.449Z",
+      "version": "472",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
     },
     {
@@ -1023,7 +1034,7 @@
       "id": "1nVuUEQZcBZc9_JI4k3k4HO3mOcmUCTYIaBVgnhdzcGI",
       "name": "_3. FAQs về ZNS",
       "modifiedTime": "2026-01-22T07:01:24.707Z",
-      "version": "59",
+      "version": "60",
       "path_lower": "/100 Marketing/3-faqs-ve-zns"
     },
     {
@@ -1078,7 +1089,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
       "modifiedTime": "2026-06-02T07:49:09.786Z",
-      "version": "1226",
+      "version": "1228",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
