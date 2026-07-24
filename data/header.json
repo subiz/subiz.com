@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1784878195947,
-  "updated": 1784878195947,
+  "fetched": 1784886505060,
+  "updated": 1784886505060,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -21,8 +21,8 @@
       ],
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
-      "modifiedTime": "2026-07-24T07:26:45.776Z",
-      "version": "225",
+      "modifiedTime": "2026-07-24T08:14:20.543Z",
+      "version": "239",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -186,8 +186,8 @@
       ],
       "id": "1DNIZOQ424-tyNqCAnUIz1DIOWj245wnTvoFc6VLeijk",
       "name": "_8.1 Bắt đầu & thiết lập cơ bản",
-      "modifiedTime": "2026-07-24T03:24:05.671Z",
-      "version": "214",
+      "modifiedTime": "2026-07-24T08:52:15.625Z",
+      "version": "230",
       "path_lower": "/50 Tự động hóa/8-1-bat-dau-thiet-lap-co-ban"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1Ksc7Fb2DtiS9bDNNxGOUqldgX6SwjU3znWTP92YbFBQ",
       "name": "Mã tài khoản Subiz",
       "modifiedTime": "2026-07-24T06:48:39.412Z",
-      "version": "37",
+      "version": "40",
       "path_lower": "/1000 Tổng hợp/ma-tai-khoan-subiz"
     },
     {
