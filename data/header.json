@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1784886505060,
-  "updated": 1784886505060,
+  "fetched": 1785136018734,
+  "updated": 1785136018734,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -143,7 +143,7 @@
       "id": "18tKj8WjsdCwJaJStiqQmHMdz-D9KIyyGsyz2MfLQYo4",
       "name": "3. Rule phân phối cuộc gọi",
       "modifiedTime": "2024-11-29T03:39:52.102Z",
-      "version": "129",
+      "version": "130",
       "path_lower": "/_90 Tổng đài điện thoại/3-rule-phan-phoi-cuoc-goi"
     },
     {
@@ -187,7 +187,7 @@
       "id": "1DNIZOQ424-tyNqCAnUIz1DIOWj245wnTvoFc6VLeijk",
       "name": "_8.1 Bắt đầu & thiết lập cơ bản",
       "modifiedTime": "2026-07-24T08:52:15.625Z",
-      "version": "230",
+      "version": "231",
       "path_lower": "/50 Tự động hóa/8-1-bat-dau-thiet-lap-co-ban"
     },
     {
@@ -198,7 +198,7 @@
       "id": "1DZemsi05NBnyxtobDr3Qha6IRlLt0euZl8PMyuhI6Jo",
       "name": "_Giải thích thuật ngữ trên Subiz (chờ a Tech check lại) ",
       "modifiedTime": "2026-06-09T04:13:15.670Z",
-      "version": "6",
+      "version": "8",
       "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz-cho-a-tech-check-lai"
     },
     {
@@ -275,7 +275,7 @@
       "id": "1HLgVhVOgdWs75bKovoGFNBWiSzkSEiYoWiKqkcqu7gg",
       "name": "Bật thông báo Subiz trên máy tính",
       "modifiedTime": "2026-02-12T09:56:10.193Z",
-      "version": "46",
+      "version": "47",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-may-tinh"
     },
     {
@@ -319,7 +319,7 @@
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
       "modifiedTime": "2026-05-23T17:37:16.107Z",
-      "version": "312",
+      "version": "314",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -451,7 +451,7 @@
       "id": "1QAudHL4u8ZuxdBsulpYEywWuu1m4FDVkjxuFpEyAJyE",
       "name": "5. Quản lý nhiều Tổng Đài",
       "modifiedTime": "2025-04-03T03:40:06.817Z",
-      "version": "113",
+      "version": "114",
       "path_lower": "/_90 Tổng đài điện thoại/5-quan-ly-nhieu-tong-dai"
     },
     {
@@ -616,7 +616,7 @@
       "id": "1Wb5T0TTreXpp2kicYeo81D8owbTkmv7kiTJ54wzWF-E",
       "name": "Hướng dẫn tạo mẫu ZBS",
       "modifiedTime": "2026-04-28T10:58:18.447Z",
-      "version": "193",
+      "version": "195",
       "path_lower": "/1000 Tổng hợp/huong-dan-tao-mau-zbs"
     },
     {
@@ -968,7 +968,7 @@
       "id": "1lWGTXE7KYl3Ui5PXtCWOBrSXRWWNKS1_ptDPMqfL-ys",
       "name": "_ Mẫu kịch bản Chatbot Auto",
       "modifiedTime": "2026-05-09T06:41:43.449Z",
-      "version": "39",
+      "version": "41",
       "path_lower": "/1000 Tổng hợp/mau-kich-ban-chatbot-auto"
     },
     {
@@ -1078,7 +1078,7 @@
       "id": "1pHUxvbIf_zatPYj9kuWnMBK85qNExjLLgu1hiU1PpJ8",
       "name": "Mail báo cáo hoạt động hàng tuần ",
       "modifiedTime": "2026-03-31T03:43:31.971Z",
-      "version": "152",
+      "version": "154",
       "path_lower": "/1000 Tổng hợp/mail-bao-cao-hoat-dong-hang-tuan"
     },
     {
@@ -1144,7 +1144,7 @@
       "id": "1sfylo8J-c-ICAAGll7kVa4w4ZdUnjdnBj5V3pOkFmeY",
       "name": "Xem lại lịch sử chat trên cửa sổ chat Subiz ",
       "modifiedTime": "2026-06-09T09:41:20.693Z",
-      "version": "63",
+      "version": "65",
       "path_lower": "/1000 Tổng hợp/xem-lai-lich-su-chat-tren-cua-so-chat-subiz"
     },
     {
@@ -1155,7 +1155,7 @@
       "id": "1svYIgAXCWaLHnCKBPW0dN1OH9RE-a4Pd9wXo0w-Ah90",
       "name": "Nhân viên AI hỏi thăm lại thông minh",
       "modifiedTime": "2026-04-17T08:15:34.623Z",
-      "version": "74",
+      "version": "75",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-hoi-tham-lai-thong-minh"
     },
     {
@@ -1232,7 +1232,7 @@
       "id": "1wwlUKgp8OppdHv1vcaOB_g8WwJhYK4m8p-QeMpa3LS0",
       "name": "_ 3. Chiến dịch Telesale",
       "modifiedTime": "2026-04-16T09:02:14.896Z",
-      "version": "13",
+      "version": "15",
       "path_lower": "/1000 Tổng hợp/3-chien-dich-telesale"
     },
     {
@@ -1278,6 +1278,17 @@
       "modifiedTime": "2026-03-27T02:43:42.992Z",
       "version": "233",
       "path_lower": "/1000 Tổng hợp/6-ho-tro-khach-trong-le-tet"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1zpHnnmzcRu0faiJ2bH4i0AdvDlsVtGGx88JwwDCyCUQ",
+      "name": "Vì sao hội thoại trên Subiz được tự động hoàn thành?",
+      "modifiedTime": "2026-07-27T07:03:07.430Z",
+      "version": "15",
+      "path_lower": "/1000 Tổng hợp/vi-sao-hoi-thoai-tren-subiz-duoc-tu-dong-hoan-thanh"
     }
   ],
   "video_mapping": {
