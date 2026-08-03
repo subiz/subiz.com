@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1785747877433,
-  "updated": 1785747877433,
+  "fetched": 1785749872597,
+  "updated": 1785749872597,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -153,8 +153,8 @@
       ],
       "id": "19Smsu1v0ybIHf7pgs_SMzZEqRDnEftwRZqz90gCE6gg",
       "name": "_8.2 Tối ưu & Cấu hình nâng cao ",
-      "modifiedTime": "2026-08-03T09:03:02.018Z",
-      "version": "102",
+      "modifiedTime": "2026-08-03T09:20:49.087Z",
+      "version": "114",
       "path_lower": "/50 Tự động hóa/8-2-toi-uu-cau-hinh-nang-cao"
     },
     {
@@ -351,8 +351,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-07-29T07:14:22.509Z",
-      "version": "1129",
+      "modifiedTime": "2026-08-03T09:34:25.441Z",
+      "version": "1143",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -1265,7 +1265,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-03-25T04:26:05.414Z",
-      "version": "489",
+      "version": "491",
       "path_lower": "/readme"
     },
     {
@@ -1320,7 +1320,7 @@
       "id": "1zpHnnmzcRu0faiJ2bH4i0AdvDlsVtGGx88JwwDCyCUQ",
       "name": "Vì sao hội thoại trên Subiz được tự động hoàn thành?",
       "modifiedTime": "2026-07-28T04:43:46.199Z",
-      "version": "37",
+      "version": "40",
       "path_lower": "/1000 Tổng hợp/vi-sao-hoi-thoai-tren-subiz-duoc-tu-dong-hoan-thanh"
     }
   ],

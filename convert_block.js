@@ -220,7 +220,7 @@ async function parsePara(item, org_format, docM) {
 			doc_id = doc_id.split('/')[0]
 			doc_id = doc_id.split('#')[0]
 			if (docM[doc_id]) {
-				let fileName = sluggy(docM[doc_id].path_lower) + '.md'
+				let fileName = sluggy(docM[doc_id].path_lower) + '.mdx'
 				return {
 					type: 'link',
 					href: fileName,
