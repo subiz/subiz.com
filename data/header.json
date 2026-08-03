@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1785136018734,
-  "updated": 1785136018734,
+  "fetched": 1785747877433,
+  "updated": 1785747877433,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -149,6 +149,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "19Smsu1v0ybIHf7pgs_SMzZEqRDnEftwRZqz90gCE6gg",
+      "name": "_8.2 Tối ưu & Cấu hình nâng cao ",
+      "modifiedTime": "2026-08-03T09:03:02.018Z",
+      "version": "102",
+      "path_lower": "/50 Tự động hóa/8-2-toi-uu-cau-hinh-nang-cao"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1ATMHOI9d9WzSkRi5ko-OR9Lwii2xGfW_8G_VeeSw6Yc",
@@ -186,8 +197,8 @@
       ],
       "id": "1DNIZOQ424-tyNqCAnUIz1DIOWj245wnTvoFc6VLeijk",
       "name": "_8.1 Bắt đầu & thiết lập cơ bản",
-      "modifiedTime": "2026-07-24T08:52:15.625Z",
-      "version": "231",
+      "modifiedTime": "2026-07-30T07:31:58.385Z",
+      "version": "363",
       "path_lower": "/50 Tự động hóa/8-1-bat-dau-thiet-lap-co-ban"
     },
     {
@@ -259,12 +270,23 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "1Fxx2WUIaIQrFruZDJtFGnLRUYwWzvvp4ByJj7BCnzA4",
+      "name": "_8.3 Vận hành & Quản lý",
+      "modifiedTime": "2026-07-28T09:42:33.576Z",
+      "version": "11",
+      "path_lower": "/50 Tự động hóa/8-3-van-hanh-quan-ly"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
       ],
       "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
       "name": "Đồng bộ sản phẩm hiệu quả lên Subiz với JSON-LD",
-      "modifiedTime": "2026-02-12T10:35:59.029Z",
-      "version": "113",
+      "modifiedTime": "2026-08-03T08:28:25.067Z",
+      "version": "164",
       "path_lower": "/1000 Tổng hợp/dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld"
     },
     {
@@ -329,8 +351,8 @@
       ],
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
-      "modifiedTime": "2026-07-22T04:31:01.644Z",
-      "version": "1083",
+      "modifiedTime": "2026-07-29T07:14:22.509Z",
+      "version": "1129",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -572,7 +594,7 @@
       "id": "1VkTsSfxgC6PHI5p00FB9RFS83PAI5RZ8dExeYScEvao",
       "name": "11. Webhook tích hợp CRM",
       "modifiedTime": "2026-06-26T04:08:02.112Z",
-      "version": "274",
+      "version": "275",
       "path_lower": "/110 Ứng dụng nâng cao/11-webhook-tich-hop-crm"
     },
     {
@@ -594,7 +616,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
       "modifiedTime": "2026-06-26T04:01:41.450Z",
-      "version": "319",
+      "version": "321",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -747,8 +769,8 @@
       ],
       "id": "1bXEbP_2qnSye-aY68xkuIh0eFxKTu425cs8G7iRipSM",
       "name": "Giải thích thuật ngữ trên Subiz ",
-      "modifiedTime": "2026-07-17T07:48:23.202Z",
-      "version": "492",
+      "modifiedTime": "2026-07-29T09:53:27.217Z",
+      "version": "501",
       "path_lower": "/1000 Tổng hợp/giai-thich-thuat-ngu-tren-subiz"
     },
     {
@@ -847,7 +869,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-31T02:12:53.974Z",
-      "version": "116",
+      "version": "118",
       "path_lower": "/video-doc-sample"
     },
     {
@@ -869,7 +891,7 @@
       "id": "1gslKo81yJqNpHqNp-XUCNSnxYBIRjduTpLFVp5qiZlQ",
       "name": "7. App mobile Subiz",
       "modifiedTime": "2026-07-24T03:22:26.449Z",
-      "version": "472",
+      "version": "481",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
     },
     {
@@ -933,10 +955,10 @@
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1jxX9A6L9yGz5wy4e6IYyM7RTn1d5Q8SQaeC3otc54ac",
-      "name": "_Bản sao của 20. Chatbot AI",
-      "modifiedTime": "2026-03-31T07:12:24.147Z",
-      "version": "10",
-      "path_lower": "/50 Tự động hóa/ban-sao-cua-20-chatbot-ai"
+      "name": "_20. Chatbot AI (Bản cũ - Ms Hương)",
+      "modifiedTime": "2026-07-29T02:18:08.226Z",
+      "version": "14",
+      "path_lower": "/50 Tự động hóa/20-chatbot-ai-ban-cu-ms-huong"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -978,8 +1000,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-07-14T10:36:47.054Z",
-      "version": "613",
+      "modifiedTime": "2026-07-30T08:25:33.262Z",
+      "version": "629",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -1056,7 +1078,7 @@
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
       "modifiedTime": "2026-03-27T07:32:52.315Z",
-      "version": "216",
+      "version": "217",
       "path_lower": "/1000 Tổng hợp/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -1089,7 +1111,7 @@
       "id": "1qP3gHGJ7WFBn3pQzUDuIOMz_JpqDWORrEJ2d0HZbOKY",
       "name": "9. Nhân viên AI",
       "modifiedTime": "2026-06-02T07:49:09.786Z",
-      "version": "1228",
+      "version": "1232",
       "path_lower": "/50 Tự động hóa/9-nhan-vien-ai"
     },
     {
@@ -1243,7 +1265,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-03-25T04:26:05.414Z",
-      "version": "487",
+      "version": "489",
       "path_lower": "/readme"
     },
     {
@@ -1254,8 +1276,19 @@
       "id": "1xdvADvDKt_EcevyaOns2NxgX1jMUsvjhKixfIwCEQ8Y",
       "name": "_20. Ghi nhận sự kiện trên Subiz",
       "modifiedTime": "2026-04-06T08:34:00.407Z",
-      "version": "49",
+      "version": "52",
       "path_lower": "/110 Ứng dụng nâng cao/20-ghi-nhan-su-kien-tren-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
+      ],
+      "id": "1yIDNkyTsn-6sUVCcD5F8_AxeI3XMQbl8RWhbgvwbk-A",
+      "name": "_8.4 Câu hỏi thường gặp (FAQs)",
+      "modifiedTime": "2026-07-28T09:43:30.832Z",
+      "version": "11",
+      "path_lower": "/50 Tự động hóa/8-4-cau-hoi-thuong-gap-faqs"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1286,8 +1319,8 @@
       ],
       "id": "1zpHnnmzcRu0faiJ2bH4i0AdvDlsVtGGx88JwwDCyCUQ",
       "name": "Vì sao hội thoại trên Subiz được tự động hoàn thành?",
-      "modifiedTime": "2026-07-27T07:03:07.430Z",
-      "version": "15",
+      "modifiedTime": "2026-07-28T04:43:46.199Z",
+      "version": "37",
       "path_lower": "/1000 Tổng hợp/vi-sao-hoi-thoai-tren-subiz-duoc-tu-dong-hoan-thanh"
     }
   ],

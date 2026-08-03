@@ -5,7 +5,7 @@ title: Đồng bộ sản phẩm website với JSON-LD
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-02-12T10:35:59.029Z
+  date: 2026-08-03T08:28:25.067Z
 ---
 
 # Đồng bộ sản phẩm website với JSON-LD
@@ -44,9 +44,43 @@ Nếu website của bạn có JSON-LD như đoạn mã ở trên, [Google sẽ �
 
 Ngoài ra, Subiz sẽ đồng bộ toàn bộ sản phẩm của bạn lên kho sản phẩm trên Subiz. Mỗi khi bạn cập nhật giá sản phẩm trên website, Subiz sẽ tự biết và cập nhật theo mà không cần bạn phải nhập tay lại trên giao diện Subiz.
 
+## Điều kiện để Subiz nhận diện sản phẩm {#dieu-kien-de-subiz-nhan-dien-san-pham}
+
+Mỗi sản phẩm cần đáp ứng đủ 2 điều kiện:
+
+1. Được khai báo là sản phẩm bằng `"@type": "Product"`, chấp nhận cả `"https://schema.org/Product"`.
+2. Có ít nhất một trong 6 trường định danh sản phẩm sau:
+
+- sku
+- mpn
+- @id
+- productID
+- offers.url
+- url của object Product
+
+<b>Lưu ý:</b> Trường `"id"` không được sử dụng làm định danh, khai báo đúng phải là `"@id"`.
+
+Ví dụ hợp lệ:
+
+```
+{
+    "@type": "Product",
+    "sku": "SKU-001"
+  }
+```
+
+Hoặc:
+
+```
+{
+    "@type": "Product",
+    "@id": "product-001"
+  }
+```
+
 ## Các trường thông tin bắt buộc {#cac-truong-thong-tin-bat-buoc}
 
-Về mô tả toàn bộ các trường thông tin khả dụng, bạn có thể xem tại đây, dưới đây chỉ liệt kê những trường tối thiểu bạn phải có để tính năng đồng bộ sản phẩm hoạt động:
+Dưới đây là những trường tối thiểu bạn phải có để tính năng đồng bộ sản phẩm hoạt động:
 
 - <b>name</b>: Tên sản phẩm., ví dụ: "Iphone 16"
 - <b>sku</b>: Mã định danh duy nhất cho từng sản phẩm. Ví dụ: "135344", "iphon-16-b"
@@ -54,6 +88,10 @@ Về mô tả toàn bộ các trường thông tin khả dụng, bạn có thể
 - <b>image</b>: Link ảnh đại diện cho sản phẩm.
 - <b>url</b>: Link website mô tả chi tiết sản phẩm.
 - <b>availability</b>: Trạng thái hàng hóa \(Sẵn hàng/Hết hàng\)
+
+:::tip
+Dán <b>link một sản phẩm bất kỳ</b> vào công cụ[https://search.google.com/test/rich-results?authuser=2](https://search.google.com/test/rich-results?authuser=2)[Rich Results Test](https://search.google.com/test/rich-results?authuser=2) , nếu hiện trạng thái <b>Sản phẩm \(Product\)</b> màu xanh là website đã sẵn sàng đồng bộ lên Subiz.
+:::
 
 ## FAQs {#faqs}
 
@@ -71,8 +109,60 @@ Bạn liên hệ với quản trị viên website hoặc đơn vị phụ trách
 
 #### Website của tôi đã có cấu trúc json-ld nhưng không lấy được sản phẩm nào khi đồng bộ lên Subiz {#website-cua-toi-da-co-cau-truc-json-ld-nhung-khong-lay-duoc-san-pham-nao-khi-ong-bo-len-subiz}
 
-Hãy chắc chắn rằng trong cấu trúc website đã có trường `"@type": "Product"`
+Hãy chắc chắn rằng trong cấu trúc website đã thỏa mãn cả 2 điều kiện:
 
-:::tip
-Dán <b>link một sản phẩm bất kỳ</b> vào công cụ[https://search.google.com/test/rich-results?authuser=2](https://search.google.com/test/rich-results?authuser=2)[Rich Results Test](https://search.google.com/test/rich-results?authuser=2), nếu hiện trạng thái <b>Sản phẩm \(Product\)</b> màu xanh là website đã sẵn sàng đồng bộ lên Subiz.
-:::
+1. Có trường `"@type": "Product"`, chấp nhận cả `"https://schema.org/Product"`
+
+2. Có ít nhất 1 trong 6 <b>trường định danh</b>:
+
+- sku
+- mpn
+- @id
+- productID
+- offers.url
+- url của object Product
+
+#### Tại sao Subiz bỏ qua sản phẩm không có định danh? {#tai-sao-subiz-bo-qua-san-pham-khong-co-dinh-danh}
+
+Subiz sử dụng trường định danh để nhận biết sản phẩm đã được đồng bộ trước đó hay chưa.
+
+Ví dụ, website có 100 sản phẩm nhưng không sản phẩm nào có mã định danh:
+
+- Lần đồng bộ đầu tiên có thể tạo 100 sản phẩm.
+- Lần đồng bộ tiếp theo, hệ thống không xác định được đây là 100 sản phẩm cũ hay 100 sản phẩm mới.
+- Nếu tiếp tục tạo mới, kho sản phẩm có thể tăng lên 200, sau đó 300 sản phẩm và xuất hiện nhiều dữ liệu trùng lặp.
+
+Vì vậy, những object `"Product"` không có trường định danh hợp lệ sẽ được Subiz bỏ qua để tránh tạo lặp sản phẩm.
+
+#### Website của tôi đã có cấu trúc Microdata thì có đồng bộ được sản phẩm lên Subiz không? {#website-cua-toi-da-co-cau-truc-microdata-thi-co-dong-bo-uoc-san-pham-len-subiz-khong}
+
+Có. Ngoài JSON-LD, Subiz có thể nhận diện sản phẩm được khai báo bằng Microdata. Một sản phẩm Microdata cần đáp ứng đủ 2 điều kiện sau:
+
+1. Có itemscope.
+
+2. Có itemtype=".../Product" và ít nhất một định danh dưới đây:
+
+- itemprop="sku"
+- itemprop="mpn"
+- itemid
+- itemprop="productID"
+- itemprop="offers" → itemprop="url"
+- itemprop="url" trực tiếp trên Product
+
+Ví dụ tối thiểu hợp lệ:
+
+```
+<div itemscope itemtype="https://schema.org/Product">
+    <meta itemprop="sku" content="SKU-001">
+  </div>
+```
+
+Hoặc:
+
+```
+<div
+    itemscope
+    itemtype="https://schema.org/Product"
+    itemid="product-001">
+  </div>
+```
