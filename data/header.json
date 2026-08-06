@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1785749872597,
-  "updated": 1785749872597,
+  "fetched": 1785990459203,
+  "updated": 1785990459203,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -132,7 +132,7 @@
       "id": "17sNt5a8-Op6VdjKTzSAqwEdNdystBvwBZGFE-dU-qzM",
       "name": "6.5 Thống kê phiếu ghi",
       "modifiedTime": "2026-03-25T06:36:53.920Z",
-      "version": "63",
+      "version": "64",
       "path_lower": "/80 Thống kê báo cáo/6-5-thong-ke-phieu-ghi"
     },
     {
@@ -153,8 +153,8 @@
       ],
       "id": "19Smsu1v0ybIHf7pgs_SMzZEqRDnEftwRZqz90gCE6gg",
       "name": "_8.2 Tối ưu & Cấu hình nâng cao ",
-      "modifiedTime": "2026-08-03T09:20:49.087Z",
-      "version": "114",
+      "modifiedTime": "2026-08-04T09:43:53.904Z",
+      "version": "148",
       "path_lower": "/50 Tự động hóa/8-2-toi-uu-cau-hinh-nang-cao"
     },
     {
@@ -176,7 +176,7 @@
       "id": "1CENlSo25sd9fPoD4iLExkKQi4EA0K2hXojQUJpsJ15Q",
       "name": "6.4 Thống kê hiệu suất chat của agent",
       "modifiedTime": "2026-02-27T02:55:07.842Z",
-      "version": "95",
+      "version": "96",
       "path_lower": "/80 Thống kê báo cáo/6-4-thong-ke-hieu-suat-chat-cua-agent"
     },
     {
@@ -286,7 +286,7 @@
       "id": "1GByGD6lKOvJiIw2tMmO2Ktqe2_1JKiQVzV_vAhhPDMY",
       "name": "Đồng bộ sản phẩm hiệu quả lên Subiz với JSON-LD",
       "modifiedTime": "2026-08-03T08:28:25.067Z",
-      "version": "164",
+      "version": "167",
       "path_lower": "/1000 Tổng hợp/dong-bo-san-pham-hieu-qua-len-subiz-voi-json-ld"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-07-22T03:08:10.634Z",
-      "version": "572",
+      "modifiedTime": "2026-08-05T07:34:04.084Z",
+      "version": "579",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1J7gT1rQrZ-Bvbsw0n_nE99WAKs7kjDcp6b7towJFQBE",
       "name": "Bật thông báo Subiz trên mobile",
       "modifiedTime": "2026-03-14T06:42:18.818Z",
-      "version": "36",
+      "version": "37",
       "path_lower": "/1000 Tổng hợp/bat-thong-bao-subiz-tren-mobile"
     },
     {
@@ -352,7 +352,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
       "modifiedTime": "2026-08-03T09:34:25.441Z",
-      "version": "1143",
+      "version": "1144",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -363,7 +363,7 @@
       "id": "1K0bpRZmSKc3zFZpmi9vgWdImVOa5XtZ2gmA9BmvVNPo",
       "name": "6.1 Thống kê lượng người dùng",
       "modifiedTime": "2025-12-17T08:29:38.829Z",
-      "version": "192",
+      "version": "193",
       "path_lower": "/80 Thống kê báo cáo/6-1-thong-ke-luong-nguoi-dung"
     },
     {
@@ -429,7 +429,7 @@
       "id": "1NzA5NJoiel5stwjQmct8cJMD_zQZGyOOBOH2-x0vpmI",
       "name": "6.2 Thống kê hội thoại",
       "modifiedTime": "2026-03-31T04:13:39.887Z",
-      "version": "258",
+      "version": "259",
       "path_lower": "/80 Thống kê báo cáo/6-2-thong-ke-hoi-thoai"
     },
     {
@@ -615,8 +615,8 @@
       ],
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
-      "modifiedTime": "2026-06-26T04:01:41.450Z",
-      "version": "321",
+      "modifiedTime": "2026-08-04T03:00:05.919Z",
+      "version": "325",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -649,7 +649,7 @@
       "id": "1X3ktf7TWMMpePOM3fx1seKNrCZLW6JoW5poOqNHSn7g",
       "name": "6.3. Thống kê cuộc gọi",
       "modifiedTime": "2025-12-17T08:55:36.776Z",
-      "version": "63",
+      "version": "64",
       "path_lower": "/80 Thống kê báo cáo/6-3-thong-ke-cuoc-goi"
     },
     {
@@ -1205,6 +1205,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
+      "name": "_56. Tiktok",
+      "modifiedTime": "2026-08-06T04:04:21.106Z",
+      "version": "7",
+      "path_lower": "/20 Tích hợp kênh tương tác/56-tiktok"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1W7b9s6mLd2UbqtDZItL-_ZDs9y1wDDDB"
       ],
       "id": "1uSsorVGzmJVkwVrVxCvH5nco4IOZtI3S_IV2S0QmUPY",
@@ -1264,8 +1275,8 @@
       ],
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
-      "modifiedTime": "2026-03-25T04:26:05.414Z",
-      "version": "491",
+      "modifiedTime": "2026-08-03T09:39:48.262Z",
+      "version": "497",
       "path_lower": "/readme"
     },
     {
