@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1786327496498,
-  "updated": 1786327496498,
+  "fetched": 1786531262453,
+  "updated": 1786531262453,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -11,7 +11,7 @@
       "id": "1-LzATvsT-nKg9-7a6l80iWoYMklYyPClcdlF3NUkN1A",
       "name": "3. Quản lý nhiều website",
       "modifiedTime": "2026-05-11T03:30:07.972Z",
-      "version": "380",
+      "version": "381",
       "path_lower": "/1000 Tổng hợp/3-quan-ly-nhieu-website"
     },
     {
@@ -33,7 +33,7 @@
       "id": "1-bauw9Es2Zf3jpxy_pQdkwrEptR_ndIIC9GxhJD9VZA",
       "name": "1. Tích hợp đầu số",
       "modifiedTime": "2026-01-09T03:39:43.469Z",
-      "version": "980",
+      "version": "983",
       "path_lower": "/_90 Tổng đài điện thoại/1-tich-hop-dau-so"
     },
     {
@@ -55,7 +55,7 @@
       "id": "10CQaOZjfB9Gf3JQjW_kag6OttGqHS3Uofe-Lsl0FdaY",
       "name": "10. Chatbot kịch bản",
       "modifiedTime": "2026-05-23T06:52:13.161Z",
-      "version": "640",
+      "version": "641",
       "path_lower": "/50 Tự động hóa/10-chatbot-kich-ban"
     },
     {
@@ -154,7 +154,7 @@
       "id": "19Smsu1v0ybIHf7pgs_SMzZEqRDnEftwRZqz90gCE6gg",
       "name": "_8.2 Tối ưu & Cấu hình nâng cao ",
       "modifiedTime": "2026-08-04T09:43:53.904Z",
-      "version": "148",
+      "version": "158",
       "path_lower": "/50 Tự động hóa/8-2-toi-uu-cau-hinh-nang-cao"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-08-06T04:45:14.318Z",
-      "version": "586",
+      "modifiedTime": "2026-08-10T10:02:14.136Z",
+      "version": "595",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -352,7 +352,7 @@
       "id": "1JmmlbduWflapsxg349UEsqIWYiri2qsTkJ2v0Pn78LQ",
       "name": "1. Quản lý hội thoại",
       "modifiedTime": "2026-08-03T09:34:25.441Z",
-      "version": "1144",
+      "version": "1145",
       "path_lower": "/30 Tư vấn khách hàng/1-quan-ly-hoi-thoai"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1Sp0FEOMowB_aPuTOfsJ49AEAKdu9NbG26Dl78zqo3c8",
       "name": "4. Quản lý nhiều Fanpage",
       "modifiedTime": "2026-05-28T07:27:51.757Z",
-      "version": "442",
+      "version": "444",
       "path_lower": "/1000 Tổng hợp/4-quan-ly-nhieu-fanpage"
     },
     {
@@ -550,7 +550,7 @@
       "id": "1UIR85B4ku1vxrHB5Z-9cUHDvU8cZEpXfq5fHsvY5FMA",
       "name": "1.  Subiz live",
       "modifiedTime": "2026-02-09T07:29:09.967Z",
-      "version": "396",
+      "version": "397",
       "path_lower": "/60 Quản lý khách hàng/1-subiz-live"
     },
     {
@@ -627,7 +627,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2026-06-29T09:48:31.659Z",
-      "version": "851",
+      "version": "854",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -715,7 +715,7 @@
       "id": "1_n4-6Z6rzip-x4Cus8B1lBycWZSf7Qh8oPHCBwayT5M",
       "name": "1.1 Giờ làm việc",
       "modifiedTime": "2026-04-06T03:57:05.606Z",
-      "version": "264",
+      "version": "265",
       "path_lower": "/40 Quản lý làm việc nhóm/1-1-gio-lam-viec"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
       "name": "3. Tag hội thoại",
       "modifiedTime": "2026-03-18T07:54:29.447Z",
-      "version": "205",
+      "version": "206",
       "path_lower": "/30 Tư vấn khách hàng/3-tag-hoi-thoai"
     },
     {
@@ -1133,7 +1133,7 @@
       "id": "1qyvefQkh2x5BAI4yA8LzO60Z5WL1ZTaiw24EykDPtUw",
       "name": "12. Google Analytics và Subiz",
       "modifiedTime": "2025-12-19T09:13:44.935Z",
-      "version": "195",
+      "version": "196",
       "path_lower": "/1000 Tổng hợp/12-google-analytics-va-subiz"
     },
     {
@@ -1208,9 +1208,9 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
-      "name": "_56. Tiktok",
-      "modifiedTime": "2026-08-06T10:26:08.984Z",
-      "version": "43",
+      "name": "56. Tiktok",
+      "modifiedTime": "2026-08-11T07:51:07.388Z",
+      "version": "234",
       "path_lower": "/20 Tích hợp kênh tương tác/56-tiktok"
     },
     {
@@ -1276,7 +1276,7 @@
       "id": "1xNBdYS-gXidhuIFiuzeuwvrnNhFtaRK2_-MGkPjZxrM",
       "name": "_README",
       "modifiedTime": "2026-08-03T09:39:48.262Z",
-      "version": "497",
+      "version": "498",
       "path_lower": "/readme"
     },
     {
