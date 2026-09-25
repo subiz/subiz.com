@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1789962806044,
-  "updated": 1789962806044,
+  "fetched": 1790304863551,
+  "updated": 1790304863551,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -22,7 +22,7 @@
       "id": "1-QVWpOjtuVSAQRteKVXlpkfqskGsrmZ4yFb196Fdn3A",
       "name": "Nhúng mã code Subiz vào website",
       "modifiedTime": "2026-08-27T04:07:33.175Z",
-      "version": "255",
+      "version": "257",
       "path_lower": "/1000 Tổng hợp/nhung-ma-code-subiz-vao-website"
     },
     {
@@ -97,10 +97,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
-      "name": "70. Google Business",
-      "modifiedTime": "2026-09-19T09:09:04.807Z",
-      "version": "274",
-      "path_lower": "/20 Tích hợp kênh tương tác/70-google-business"
+      "name": "80. Google Business",
+      "modifiedTime": "2026-09-21T04:31:53.205Z",
+      "version": "282",
+      "path_lower": "/20 Tích hợp kênh tương tác/80-google-business"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -318,8 +318,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-09-05T06:42:00.931Z",
-      "version": "616",
+      "modifiedTime": "2026-09-23T07:37:23.609Z",
+      "version": "645",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -341,7 +341,7 @@
       "id": "1JlZ4ZIP5BShA4Hn9UIWFJyx-jwxOYY-755_ljQwcoGk",
       "name": "Nhân viên AI xử lý tình huống",
       "modifiedTime": "2026-05-23T17:37:16.107Z",
-      "version": "315",
+      "version": "317",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-xu-ly-tinh-huong"
     },
     {
@@ -406,8 +406,8 @@
       ],
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
-      "modifiedTime": "2026-09-16T09:08:27.206Z",
-      "version": "590",
+      "modifiedTime": "2026-09-24T04:43:31.394Z",
+      "version": "639",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -504,10 +504,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
-      "name": "80. Instagram",
-      "modifiedTime": "2026-05-29T07:04:37.155Z",
-      "version": "286",
-      "path_lower": "/20 Tích hợp kênh tương tác/80-instagram"
+      "name": "55. Instagram",
+      "modifiedTime": "2026-09-21T04:30:52.827Z",
+      "version": "291",
+      "path_lower": "/20 Tích hợp kênh tương tác/55-instagram"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -680,10 +680,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
-      "name": "60. Email",
-      "modifiedTime": "2026-06-16T04:45:19.840Z",
-      "version": "579",
-      "path_lower": "/20 Tích hợp kênh tương tác/60-email"
+      "name": "75. Email",
+      "modifiedTime": "2026-09-21T04:31:41.782Z",
+      "version": "583",
+      "path_lower": "/20 Tích hợp kênh tương tác/75-email"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -801,10 +801,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
-      "name": "40. Zalo Cá nhân",
-      "modifiedTime": "2026-08-26T03:12:31.924Z",
-      "version": "770",
-      "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-ca-nhan"
+      "name": "50. Zalo Cá nhân",
+      "modifiedTime": "2026-09-21T04:29:07.045Z",
+      "version": "776",
+      "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-ca-nhan"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -846,8 +846,8 @@
       ],
       "id": "1fKJBuO83GdCxZEqasFuYgljt3zkLGbOWAB4-H1dZ4Uw",
       "name": "Kịch bản tự động cho bài quảng cáo Facebook",
-      "modifiedTime": "2026-07-16T02:44:55.592Z",
-      "version": "1130",
+      "modifiedTime": "2026-09-24T09:53:59.178Z",
+      "version": "1137",
       "path_lower": "/1000 Tổng hợp/kich-ban-tu-dong-cho-bai-quang-cao-facebook"
     },
     {
@@ -889,10 +889,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
-      "name": "55. Tổng đài",
-      "modifiedTime": "2026-09-05T05:06:05.922Z",
-      "version": "435",
-      "path_lower": "/20 Tích hợp kênh tương tác/55-tong-dai"
+      "name": "65. Tổng đài",
+      "modifiedTime": "2026-09-21T04:31:15.802Z",
+      "version": "438",
+      "path_lower": "/20 Tích hợp kênh tương tác/65-tong-dai"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -926,6 +926,17 @@
       "modifiedTime": "2026-01-13T11:36:46.567Z",
       "version": "55",
       "path_lower": "/30 Tư vấn khách hàng/10-xu-ly-loi-tong-dai"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
+      ],
+      "id": "1i--HxQFEGirVnTiJ0upPkWOfhvg-zisYniuWIOxddc8",
+      "name": "_85. Youtube",
+      "modifiedTime": "2026-09-21T04:35:47.201Z",
+      "version": "10",
+      "path_lower": "/20 Tích hợp kênh tương tác/85-youtube"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1078,7 +1089,7 @@
       "id": "1oI05UcmNxojQtEAPf5FVcEcSnIUvriukcuPrCZK87wA",
       "name": "5.1 Sản phẩm",
       "modifiedTime": "2026-06-17T03:37:46.192Z",
-      "version": "284",
+      "version": "286",
       "path_lower": "/70 Quản lý đơn hàng/5-1-san-pham"
     },
     {
@@ -1098,10 +1109,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
-      "name": "50. Zalo OA",
-      "modifiedTime": "2026-05-06T02:57:07.676Z",
-      "version": "494",
-      "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-oa"
+      "name": "40. Zalo OA",
+      "modifiedTime": "2026-09-21T04:29:13.082Z",
+      "version": "497",
+      "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-oa"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1131,10 +1142,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1qPlp61vzlh9KUvjmI421dG6YCWShJM4IXbtP28GDTBU",
-      "name": "90. WhatsApp ",
-      "modifiedTime": "2026-09-21T02:38:48.789Z",
-      "version": "167",
-      "path_lower": "/20 Tích hợp kênh tương tác/90-whatsapp"
+      "name": "70. WhatsApp ",
+      "modifiedTime": "2026-09-21T04:31:30.600Z",
+      "version": "172",
+      "path_lower": "/20 Tích hợp kênh tương tác/70-whatsapp"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1144,7 +1155,7 @@
       "id": "1qQHUTaq7edbZ7KeHyC26-vsTJ9wkpej_2S4lMOyEP2c",
       "name": "Tag và nhãn khác gì nhau",
       "modifiedTime": "2026-04-15T03:06:51.139Z",
-      "version": "155",
+      "version": "157",
       "path_lower": "/1000 Tổng hợp/tag-va-nhan-khac-gi-nhau"
     },
     {
@@ -1177,7 +1188,7 @@
       "id": "1rnxbEFx1GhNqVWfBLDZ5SqFg0TufA8Ko6YYvi-nFd8k",
       "name": "13 Đo lường chuyển đổi Google Ads",
       "modifiedTime": "2026-03-20T07:00:04.717Z",
-      "version": "149",
+      "version": "151",
       "path_lower": "/110 Ứng dụng nâng cao/13-do-luong-chuyen-doi-google-ads"
     },
     {
@@ -1187,8 +1198,8 @@
       ],
       "id": "1sfylo8J-c-ICAAGll7kVa4w4ZdUnjdnBj5V3pOkFmeY",
       "name": "Xem lại lịch sử chat trên cửa sổ chat Subiz ",
-      "modifiedTime": "2026-06-09T09:41:20.693Z",
-      "version": "66",
+      "modifiedTime": "2026-09-22T03:22:51.959Z",
+      "version": "74",
       "path_lower": "/1000 Tổng hợp/xem-lai-lich-su-chat-tren-cua-so-chat-subiz"
     },
     {
@@ -1221,7 +1232,7 @@
       "id": "1thI1zmrkIWJHoCzQSqcgIxEJNygTpFH2YRTu0LVmZhs",
       "name": "_Pricing ",
       "modifiedTime": "2026-05-26T03:08:56.492Z",
-      "version": "243",
+      "version": "245",
       "path_lower": "/1000 Tổng hợp/pricing"
     },
     {
@@ -1230,10 +1241,10 @@
         "1_2tT0adO2o7JlXs7oFHrUwNrb3MqJAZl"
       ],
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
-      "name": "56. TikTok",
-      "modifiedTime": "2026-09-18T08:13:57.650Z",
-      "version": "493",
-      "path_lower": "/20 Tích hợp kênh tương tác/56-tiktok"
+      "name": "60. TikTok",
+      "modifiedTime": "2026-09-22T03:37:45.361Z",
+      "version": "521",
+      "path_lower": "/20 Tích hợp kênh tương tác/60-tiktok"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
