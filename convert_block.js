@@ -1,7 +1,8 @@
 const fs = require('fs')
 const jsdom = require('jsdom')
 var lo = require('lodash')
-var flow = require('@subiz/flow')
+const asyncMap = require('./async-map.js')
+const uploadImageToSubiz = require('./upload-image.js')
 const {JSDOM} = jsdom
 const {getSlug, hashCode, sluggy} = require('./util.js')
 
@@ -297,12 +298,7 @@ async function parsePara(item, org_format, docM) {
 		let childTagName = ''
 		if (child.tagName) childTagName = child.tagName.toLowerCase()
 		if (childTagName == 'img') {
-			let newsrc = child.src
-			try {
-				newsrc = await uploadImageToSubiz(child.src)
-			} catch (e) {
-				console.error('Failed to upload image:', child.src, e.message)
-			}
+			const newsrc = await uploadImageToSubiz(child.src)
 			let imgBlock = {
 				type: 'image',
 				image: {url: newsrc},
@@ -437,12 +433,7 @@ async function extractImagesFromHeading(item) {
 
 	let blocks = []
 	for (let img of images) {
-		let newsrc = img.src
-		try {
-			newsrc = await uploadImageToSubiz(img.src)
-		} catch (e) {
-			console.error('Failed to upload image:', img.src, e.message)
-		}
+		const newsrc = await uploadImageToSubiz(img.src)
 		let imgBlock = {
 			type: 'image',
 			image: {url: newsrc},
@@ -617,32 +608,11 @@ function trimBr(str) {
 	return str
 }
 
-async function uploadImageToSubiz(url) {
-	try {
-		const controller = new AbortController()
-		const timeoutId = setTimeout(() => controller.abort(), 60_000)
-		console.log('UPLOAD', url.slice(0, 100))
-		let resp = await fetch('https://api.subiz.com.vn/4.0/accounts/acpxkgumifuoofoosble/files/url/download', {
-			method: 'post',
-			headers: {'Content-Type': 'application/json'},
-			body: JSON.stringify({account_id: 'acpxkgumifuoofoosble', url: url}),
-			signal: controller.signal,
-		})
-		clearTimeout(timeoutId)
-
-		let out = await resp.json()
-		if (!out.url.startsWith('htt')) console.log('OUT', out)
-		return out.url || url
-	} catch (e) {
-			console.log('EEEEEEE', e, url)
-		return url
-	}
-}
 
 function htmlMap(dom, f, n) {
 	let items = []
 	dom.forEach((item) => items.push(item))
-	return flow.map(items, f, n)
+	return asyncMap(items, f, n)
 }
 
 module.exports = html2block

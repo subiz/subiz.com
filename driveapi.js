@@ -4,7 +4,7 @@ const {google} = require('googleapis')
 const {extractFilename, getSlug, hashCode, sluggy, findTitle, cleanMarkdown} = require('./util.js')
 const {execSync, exec} = require('child_process')
 var lo = require('lodash')
-var flow = require('@subiz/flow')
+var flow = {map: require('./async-map.js')}
 const fs = require('fs')
 var path = require('path')
 var datefns = require('date-fns')
@@ -188,9 +188,7 @@ async function main() {
 				fs.writeFileSync('./data' + entry.path_lower + '.json', JSON.stringify(block, null, 2), {encoding: 'utf8'})
 				fs.writeFileSync('./data' + entry.path_lower + '.md', markdown, {encoding: 'utf8'})
 			} catch (e) {
-				if (e.response && e.response.body) {
-					console.log('EEEEEEEEEE', JSON.stringify(e.response.body))
-				} else console.log('eeeeeee', e)
+				throw new Error(`Failed to sync ${entry.path_lower}: ${e.message}`, {cause: e})
 			}
 		},
 		5,
@@ -368,7 +366,10 @@ async function exportAISample() {
 	)
 }
 
-main()
+main().catch((error) => {
+	console.error(error.message)
+	process.exitCode = 1
+})
 // exportAISample()
 
 function cleanEmptyFoldersRecursively(folder) {
