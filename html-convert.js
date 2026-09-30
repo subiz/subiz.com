@@ -61,7 +61,6 @@ async function standardlizeHtmlLinkToVideo(html, videoMapping = {}) {
 	for (let i = 0; i < lo.size(extractVideoLinks); i++) {
 		let link = extractVideoLinks[i].url
 		if (videoMapping[link]) {
-			console.log('CACHE HITTTTTTTTT', link + ': ' + JSON.stringify(videoMapping[link]))
 			continue
 		}
 

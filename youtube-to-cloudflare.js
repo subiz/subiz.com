@@ -35,7 +35,6 @@ async function uploadYoutubeToCloudflare(youtubeUrl, outputDir = './videos') {
 		let search = await searchRes.json()
 		let found = lo.get(search, 'result') || []
 		if (lo.size(found)) {
-			console.log('SEARCH CLOUDFLARE VIDEO HITTTTTTTT', youtubeUrl)
 			return found[0]
 		}
 
