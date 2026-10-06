@@ -5,7 +5,7 @@ title: Tiktok
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-09-22T03:37:45.361Z
+  date: 2026-10-03T04:36:35.708Z
 ---
 
 # Tiktok
@@ -59,16 +59,18 @@ Bạn có thể gửi tin nhắn tới TikTok để trải nghiệm việc nhậ
 
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
-Sau khi tích hợp Tiktok thành công, tin nhắn mới từ kênh TikTok sẽ mặc định hiển thị trên màn hình của toàn bộ nhân viên trong tài khoản.
+Sau khi tích hợp TikTok thành công, việc giao hội thoại cho nhân sự phụ trách được thực hiện theo Rule phân phối. Các chiến thuật phân phối mặc định hướng tới giao mỗi hội thoại cho một agent để xác định rõ trách nhiệm phản hồi. Nếu cần nhiều nhân viên cùng hỗ trợ, bạn có thể cài đặt hỗ trợ viên; các hỗ trợ viên được mời vào khi hội thoại thỏa mãn Rule.
 
-Nếu muốn phân công nhân sự phụ trách phản hồi khách hàng trên kênh TikTok, bạn thực hiện như sau:
+Để thiết lập phân công nhân sự phụ trách phản hồi tin nhắn hoặc comment TikTok, bạn thực hiện như sau:
 
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
 - Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting).
-- Tạo Rule mới với điều kiện: nguồn là \[Tên tài khoản TikTok\], hành động là Phân phối đến agent cụ thể.
-- Hoặc chỉnh sửa Rule hiện có thêm kênh TikTok.
+- Tạo Rule mới thuộc loại Tin nhắn hoặc Comment tùy nội dung cần phân phối, với điều kiện nguồn là \[Tên tài khoản TikTok\], rồi cài đặt phân phối đến agent phụ trách.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm kênh TikTok. Mỗi Rule chỉ thuộc một loại: Tin nhắn hoặc Comment; không được gộp hai loại trong cùng một Rule. Nếu cần xử lý cả tin nhắn và comment TikTok, hãy tạo hai Rule riêng.
 
-Ngay sau khi thiết lập, những hội thoại mới từ TikTok sẽ được giao cho nhân sự phụ trách theo cài đặt Rule của bạn.
+Ngay sau khi thiết lập, những hội thoại mới từ TikTok sẽ được xử lý theo loại hội thoại, điều kiện và cách phân phối trong Rule của bạn.
+
+Với comment TikTok không cần nhân viên xử lý, bạn có thể tạo Rule loại Comment, chọn nguồn là tài khoản TikTok tương ứng, đặt điều kiện cho các comment muốn loại khỏi luồng phân phối và chọn “Không phân phối”. Hội thoại thỏa mãn Rule vẫn về Subiz, vẫn tìm được trong lịch sử của khách hàng nhưng không được thống kê.
 
 ## Nhận và trả lời khách {#nhan-va-tra-loi-khach}
 
