@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1791858701400,
-  "updated": 1791858701400,
+  "fetched": 1792148948570,
+  "updated": 1792148948570,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -108,10 +108,10 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
-      "name": "2 Rule phân phối",
-      "modifiedTime": "2026-10-12T08:46:50.086Z",
-      "version": "450",
-      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
+      "name": "_2 Rule phân phối (cũ)",
+      "modifiedTime": "2026-10-16T10:58:48.812Z",
+      "version": "469",
+      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-cu"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -319,7 +319,7 @@
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
       "modifiedTime": "2026-10-09T05:11:28.352Z",
-      "version": "673",
+      "version": "675",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -605,7 +605,7 @@
       "id": "1VXMvo1sJiWr9ydHrwVaH_H7HWzqK8PHlVez7KhDyDPQ",
       "name": "3. Khách hàng tiềm năng",
       "modifiedTime": "2026-09-16T08:11:27.631Z",
-      "version": "598",
+      "version": "599",
       "path_lower": "/60 Quản lý khách hàng/3-khach-hang-tiem-nang"
     },
     {
@@ -809,6 +809,17 @@
     {
       "mimeType": "application/vnd.google-apps.document",
       "parents": [
+        "1iPEOm9T1vmPnJEn1qDARhX2EOiy7i2nH"
+      ],
+      "id": "1bcqIHUI_NiA8mR1E9dn8R9FbkCrDb8D717of9ziVWvA",
+      "name": "Nhân viên AI kết nối với hệ thống của doanh nghiệp ",
+      "modifiedTime": "2026-10-15T10:09:27.864Z",
+      "version": "131",
+      "path_lower": "/1000 Tổng hợp/nhan-vien-ai-ket-noi-voi-he-thong-cua-doanh-nghiep"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
         "1KD1W20zWNA-orA5vzAWDpLrY--r3zd9R"
       ],
       "id": "1dH9GPzrR4vEV5iVes2InnWr8jkZzcGME0dEBkYOZS08",
@@ -847,7 +858,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2026-06-03T09:53:47.190Z",
-      "version": "379",
+      "version": "380",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -957,7 +968,7 @@
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "8. Phiếu ghi (ticket)",
       "modifiedTime": "2026-03-16T02:12:58.074Z",
-      "version": "252",
+      "version": "253",
       "path_lower": "/40 Quản lý làm việc nhóm/8-phieu-ghi-ticket"
     },
     {
@@ -1033,8 +1044,8 @@
       ],
       "id": "1mPoF0jSFmO9GLYi_qQHb7eMVy0rzREqzf4szj_ZSsP4",
       "name": "Khám phá các chức năng của Nhân viên AI",
-      "modifiedTime": "2026-08-12T10:40:58.296Z",
-      "version": "638",
+      "modifiedTime": "2026-10-15T10:11:42.186Z",
+      "version": "666",
       "path_lower": "/1000 Tổng hợp/kham-pha-cac-chuc-nang-cua-nhan-vien-ai"
     },
     {
@@ -1098,9 +1109,9 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "1nq-g7-MC2mzQlnjBxKsuK3LV_US_KcZZ7qKN3vPpNHY",
-      "name": "_3. Rule phân phối",
-      "modifiedTime": "2026-10-12T10:27:01.181Z",
-      "version": "28",
+      "name": "3. Rule phân phối",
+      "modifiedTime": "2026-10-16T10:58:28.942Z",
+      "version": "118",
       "path_lower": "/40 Quản lý làm việc nhóm/3-rule-phan-phoi"
     },
     {
@@ -1342,7 +1353,7 @@
       "id": "1xdvADvDKt_EcevyaOns2NxgX1jMUsvjhKixfIwCEQ8Y",
       "name": "_20. Ghi nhận sự kiện trên Subiz",
       "modifiedTime": "2026-04-06T08:34:00.407Z",
-      "version": "52",
+      "version": "53",
       "path_lower": "/110 Ứng dụng nâng cao/20-ghi-nhan-su-kien-tren-subiz"
     },
     {

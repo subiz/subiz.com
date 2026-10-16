@@ -5,7 +5,7 @@ title: Khám phá chức năng của Nhân viên AI
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-08-12T10:40:58.296Z
+  date: 2026-10-15T10:11:42.186Z
 ---
 
 
@@ -83,7 +83,21 @@ Gợi ý: Nếu bạn muốn dễ dàng nhận biết những hội thoại có 
 
 ### Chỉ trả lời theo kiến thức {#chi-tra-loi-theo-kien-thuc}
 
-Nhân viên AI đã được cấu hình sẵn rằng chỉ trả lời theo kiến thức và thông báo chưa có thông tin nếu chưa tìm được kiến thức để trả lời khách hàng. Tại đây, bạn có thể chỉnh sửa nội dung thông báo khi AI không tìm được kiến thức hoặc chọn cho phép AI dẫn nguồn tài liệu kiến thức khi trả lời khách hàng
+Nhân viên AI đã được cấu hình sẵn rằng chỉ trả lời theo kiến thức và thông báo chưa có thông tin nếu chưa tìm được kiến thức để trả lời khách hàng. Tại đây, bạn có thể cài đặt cho phép AI dẫn nguồn tài liệu kiến thức khi phản hồi.
+
+Nếu không muốn AI thông báo chưa có thông tin, bạn có thể sửa lại nội dung thông báo tại mục <b>Xử lý tình huống</b> với chỉ dẫn <b>Khi thông tìm thấy kiến thức</b>.
+
+### Gửi webhook {#gui-webhook}
+
+Tính năng AI gửi webhook cho phép bạn tích hợp AI bên ngoài vào phản hồi khách trên Subiz. Phù hợp với doanh nghiệp đã có một hệ thống chatbot AI riêng, đã hoàn thiện và sẵn sàng hỗ trợ mọi yêu cầu của khách hàng:
+
+- Tại màn hình làm việc sau khi đăng nhập Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn <b>Tạo Nhân viên AI</b>
+- Tại tab <b>Thiết kế</b>, nhấn <b>Xem thêm</b> ở cuối trang
+- Tích vào ô vuông <b>Gửi webhook</b>
+- Nhập <b>địa chỉ URL</b> \(endpoint\) để nhận dữ liệu từ subiz
+- Thiết lập HTTP Headers cứng nếu cần xác thực hoặc truy vết gói tin webhook gửi sang hệ thống
+- Nhấn <b>Lưu</b>.
 
 ## Bổ sung kiến thức {#bo-sung-kien-thuc}
 
@@ -157,6 +171,30 @@ Subiz đã thiết lập sẵn kịch bản hỏi thăm khách thông minh theo 
 - Bấm <b>Lưu</b> thay đổi.
 
 Gợi ý: Để AI hỏi thăm đúng ý bạn hơn, bạn có thể thêm ví dụ hội thoại thực tế và mô tả rõ kỳ vọng về cách AI tiếp tục cuộc trò chuyện, tham khảo [mẫu kịch bản hỏi thăm lại thông minh](https://subiz.com.vn/docs/2015105931-chatbot-ai-hoi-tham-lai-thong-minh).
+
+## Công cụ {#cong-cu}
+
+### Gọi HTTP request {#goi-http-request}
+
+Tính năng AI gọi HTTP Request sẽ cho phép AI Subiz kết nối với hệ thống bên ngoài của doanh nghiệp để xử lý các yêu cầu của khách hàng như: tính giá, kiểm tra đơn hàng, kiểm tra phí giao hàng, đặt lịch.
+
+Các bước thiết lập:
+
+- Tại màn hình Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn vào Nhân viên AI muốn thiết lập và đi tới mục <b>Công cụ</b> ở menu bên trái
+- Nhấn <b>+ Thêm mới</b>, chọn <b>HTTP Request</b>
+- <b>Đặt tên</b> dễ nhận biết
+
+  <i>Ví dụ: Tính giá, Kiểm tra đơn, Tính phí ship...</i>
+- Viết <b>Mô tả nhiệm vụ</b> cho AI: nói rõ khi nào dùng công cụ và cần trả ra kết quả gì .
+
+  <i>Ví dụ: Dùng công cụ này khi khách hỏi phí ship/ phí giao hàng. Nếu khách chưa cung cấp địa chỉ nhận hàng, hãy hỏi bổ sung trước khi tính phí ship. </i>
+- <b>Khai báo tham số</b>, đây là các thông tin AI cần thu thập trong cuộc trò chuyện
+
+  <i>Ví dụ: tham số địa chỉ nhận hàng</i>
+- Nhập <b>địa chỉ URL</b> kết nối của hệ thống xử lý request.
+- \(Không bắt buộc\) Thêm các HTTP Headers cứng nếu cần xác thực hoặc truy vết gói tin webhook gửi sang hệ thống.
+- Nhấn <b>Lưu</b>.
 
 ## Điều kiện chạy AI {#dieu-kien-chay-ai}
 

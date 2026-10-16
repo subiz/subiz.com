@@ -1,0 +1,76 @@
+---
+id: 423123380
+slug: /423123380-nhan-vien-ai-ket-noi-voi-he-thong-cua-doanh-nghiep
+title: Nhân viên AI kết nối với hệ thống của doanh nghiệp
+pagination_next: null
+pagination_prev: null
+last_update:
+  date: 2026-10-15T10:09:27.864Z
+---
+
+# Nhân viên AI kết nối với hệ thống của doanh nghiệp
+
+## Nhân viên AI kết nối với hệ thống doanh nghiệp {#nhan-vien-ai-ket-noi-voi-he-thong-doanh-nghiep}
+
+## Tiện ích {#tien-ich}
+
+Chat AI trên Subiz không chỉ trả lời khách hàng dựa trên kiến thức có sẵn mà còn có thể kết nối với hệ thống khác của doanh nghiệp để lấy thông tin, xử lý yêu cầu và phản hồi khách hàng.
+
+Subiz cung cấp 2 chức năng giúp Chat AI trao đổi dữ liệu với hệ thống bên ngoài Subiz, phục vụ cho 2 nhu cầu phổ biến:
+
+- <b>Gọi HTTP Request</b> cho phép AI Subiz kết nối với hệ thống doanh nghiệp để tính giá, kiểm tra trạng thái đơn hàng, tra cứu tồn kho…
+- <b>Gửi webhook</b> cho phép sử dụng AI bên ngoài phản hồi khách hàng.
+
+## Gọi HTTP request {#goi-http-request}
+
+Tính năng AI gọi HTTP Request sẽ cho phép AI Subiz kết nối với hệ thống bên ngoài của doanh nghiệp để xử lý các yêu cầu của khách hàng như: tính giá, kiểm tra đơn hàng, kiểm tra phí giao hàng, đặt lịch.
+
+Hiểu đơn giản 1 HTTP request sẽ hoạt động như sau: Khi khách hỏi về đơn hàng → AI xin mã đơn → AI gửi yêu cầu \(HTTP request\) sang hệ thống quản lý đơn của bạn → hệ thống trả về thông tin đơn → AI trả lời khách.
+
+### Hướng dẫn cài đặt {#huong-dan-cai-dat}
+
+Trước khi cài đặt, bạn cần xác định 3 thông tin chính:
+
+1. Công cụ dùng để làm gì? Ví dụ: tính giá, tính phí ship, tra cứu đơn hàng,...
+2. AI cần thu thập những thông tin nào? Ví dụ: địa chỉ nhận hàng.
+3. Hệ thống nào sẽ xử lý yêu cầu? Cần có địa chỉ URL \(endpoint\) từ hệ thống đó.
+
+Các bước thiết lập:
+
+- Tại màn hình Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn vào Nhân viên AI muốn thiết lập và đi tới mục <b>Công cụ</b> ở menu bên trái
+- Nhấn <b>+ Thêm mới</b>, chọn <b>HTTP Request</b>
+- <b>Đặt tên</b> dễ nhận biết
+
+  <i>Ví dụ: Tính giá, Kiểm tra đơn, Tính phí ship...</i>
+- Viết <b>Mô tả nhiệm vụ</b> cho AI: nói rõ khi nào dùng công cụ và cần trả ra kết quả gì .
+
+  <i>Ví dụ: Dùng công cụ này khi khách hỏi phí ship/ phí giao hàng. Nếu khách chưa cung cấp địa chỉ nhận hàng, hãy hỏi bổ sung trước khi tính phí ship. </i>
+- <b>Khai báo tham số</b>, đây là các thông tin AI cần thu thập trong cuộc trò chuyện
+
+  <i>Ví dụ: tham số địa chỉ nhận hàng</i>
+- Nhập <b>địa chỉ URL</b> kết nối của hệ thống xử lý request.
+- \(Không bắt buộc\) Thêm các HTTP Headers cứng nếu cần xác thực hoặc truy vết gói tin webhook gửi sang hệ thống.
+- Nhấn <b>Lưu</b>.
+
+## Gửi webhook {#gui-webhook}
+
+:::info
+Yêu cầu gói dịch vụ: Tính năng khả dụng cho các gói Nâng cao \(Advanced\) trở lên. Vui lòng [kiểm tra gói dịch vụ của bạn](https://app.subiz.com.vn/settings/subscription-info) trước khi bắt đầu cài đặt.
+:::
+
+Tính năng AI gửi webhook cho phép bạn tích hợp AI bên ngoài vào phản hồi khách trên Subiz. Phù hợp với doanh nghiệp đã có một hệ thống chatbot AI riêng, đã hoàn thiện và sẵn sàng hỗ trợ mọi yêu cầu của khách hàng.
+
+Webhook hoạt động rất đơn giản: Khi khách nhắn tin trên Subiz, webhook sẽ gửi tin nhắn sang Chatbot AI của bạn để xử lý và trả lời.
+
+### Hướng dẫn cài đặt {#huong-dan-cai-dat}
+
+Trước khi bắt đầu, bạn cần có địa chỉ URL \(endpoint\) từ hệ thống Chat AI muốn kết nối. Nếu có đội ngũ kỹ thuật, bạn nên gửi tài liệu này cho kỹ thuật hỗ trợ thiết lập với các bước:
+
+- Tại màn hình làm việc sau khi đăng nhập Subiz, chọn [Nhân viên AI](https://app.subiz.com.vn/bots)
+- Nhấn <b>Tạo Nhân viên AI</b>
+- Tại tab <b>Thiết kế</b>, nhấn <b>Xem thêm</b> ở cuối trang
+- Tích vào ô vuông <b>Gửi webhook</b>
+- Nhập <b>địa chỉ URL</b> \(endpoint\) để nhận dữ liệu từ subiz
+- Thiết lập HTTP Headers cứng nếu cần xác thực hoặc truy vết gói tin webhook gửi sang hệ thống
+- Nhấn <b>Lưu</b>.
