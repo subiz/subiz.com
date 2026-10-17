@@ -5,7 +5,7 @@ title: Kết nối bảng hỏi website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-10-17T02:47:37.186Z
+  date: 2026-10-17T09:18:40.436Z
 ---
 
 # Kết nối bảng hỏi website
@@ -14,32 +14,38 @@ last_update:
 
 Website của bạn có các bảng hỏi thông tin như bảng báo giá, bảng liên hệ, phiếu thu thập ý kiến của khách hàng,... Bài viết này sẽ hướng dẫn bạn chuyển dữ liệu khách điền bảng hỏi website vào Subiz để bạn tập trung nhận thông tin chăm sóc khách hàng.
 
+![](https://vcdn.subiz-cdn.com/file/fisuhtlabluyknqeoypd_acpxkgumifuoofoosble/ec9f6eef1e2598da67c17ce48b78b59d.png)
+
 ## Hướng dẫn triển khai {#huong-dan-trien-khai}
 
 ### Bước 1: Kiểm tra trường thông tin khách trên Subiz {#buoc-1-kiem-tra-truong-thong-tin-khach-tren-subiz}
 
 Các thông tin khách điền trong bảng hỏi trên website sẽ tự động lưu vào các trường thông tin Subiz tương ứng. Hãy kiểm tra và tạo thêm trường thông tin chưa có trên Subiz bằng cách:
 
-- Mở trang Cài đặt
-- ở thanh bên trái màn hình chọn Trường thông tin
-- chọn Tạo mới
-- nhập thông tin và chọn Lưu.
-
-![](https://vcdn.subiz-cdn.com/file/fismoifskxbpfyxpvohn_acpxkgumifuoofoosble/7bc3724b492aa8911354ef65a0c8a1cd.png)
-
-[Xem hướng dẫn sử dụng thông tin khách hàng](https://subiz.com.vn/docs/777741175-ho-so-khach-hang#truong-thong-tin)
+- Tại màn hình sau khi [đăng nhập Subiz](https://app.subiz.com.vn/login/)
+- Nhấn biểu tượng bánh răng ở góc trên bên phải để tới trang cài đặt
+- Tại menu bên trái, chọn KHÁCH HÀNG &gt;[Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)
+- Chọn <b>Tạo mới</b>
+- Nhập tiêu đề thông tin và định dạng thông tin tương ứng
 
 ### Bước 2: Tạo popup mới trên Subiz {#buoc-2-tao-popup-moi-tren-subiz}
 
 Khách điền thông tin trên bảng hỏi website sẽ được chuyền vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\) thêm vào mã SDK tại bước 3.
 
-![](https://vcdn.subiz-cdn.com/file/fismoiftdhaogkjqqvrb_acpxkgumifuoofoosble/bcdae6e43149b61356edce8aa7122513.png)
+- Tới trang[https://app.subiz.com.vn/web\_plugin?type=popup](https://app.subiz.com.vn/web_plugin?type=popup)[cài đặt Popup](https://app.subiz.com.vn/web_plugin?type=popup) hoặc nhấn Công cụ từ menu bar phía trên màn hình làm việc Subiz &gt; chọn <b>Tiện ích web</b>
+- Nhấn <b>Tạo mới</b>
+- Chọn <b>sử dụng</b> một mẫu popup mời khách để lại thông tin
+- Nhấn <b>Lưu</b>.
+
+Lúc này danh sách popup của bạn sẽ hiển thị thêm 1 popup với trạng thái ‘tạm ngưng’ là thành công. ![](https://vcdn.subiz-cdn.com/file/fisuhvlkmnvleuoidxsa_acpxkgumifuoofoosble/06643df9f8a7d2bbeb2af8bc7b392991.png)
+
+Popup này chỉ dùng để chuyền dữ liệu từ form website vào Subiz nên không cần chỉnh sửa bảng hỏi thông tin trong popup, popup cũng không hiển thị với khách hàng.
 
 ### Bước 3: Đặt mã SDK vào code website {#buoc-3-dat-ma-sdk-vao-code-website}
 
-Bạn cần soạn mã SDK để ra lệnh gửi dữ liệu khách điền bảng hỏi cho Subiz.
+Bạn cần soạn mã SDK và đặt vào bảng hỏi website, để ra lệnh gửi dữ liệu khách điền bảng hỏi cho Subiz.
 
-Ví dụ mẫu SDK Subiz có cấu trúc như sau:
+Một mẫu SDK Subiz có cấu trúc như sau:
 
 ```
 <script>
@@ -51,7 +57,25 @@ Ví dụ mẫu SDK Subiz có cấu trúc như sau:
 </script>
 ```
 
-![](https://vcdn.subiz-cdn.com/file/fismoiftyyxtsarwgdcr_acpxkgumifuoofoosble/6311825283ef17f1b6a43a2519ad2f0e.png)
+Trong đó, ‘<b>cprsxvtpgbiiedribdzcj</b>’ là mã định danh popup trên Subiz \(đã tạo ở bước 2\), lấy mã định danh bằng cách:
+
+- Nhấn <b>Công cụ</b> từ menu bar phía trên màn hình làm việc Subiz &gt; chọn <b>Tiện ích web</b>
+- Nhấn <b>Chỉnh sửa</b> popup tương ứng
+- Trình duyệt của bạn sẽ chuyển sang 1 đường link chứa mã popup tương ứng.
+
+Ví dụ link ‘https://app.subiz.com.vn/web\_plugin/popup/cpsuhufczgeyjmtluksjl/design’
+
+thì mã popup là ‘cpsuhufczgeyjmtluksjl’
+
+![](https://vcdn.subiz-cdn.com/file/fisuhvlkonwnebziinah_acpxkgumifuoofoosble/b0d229dce853ccc372aa7bf6f888f033.png)
+
+<b>Key</b> là <b>khóa </b>trường thông tin trên Subiz, kiểm tra key bằng cách:
+
+- Tại màn hình sau khi [đăng nhập Subiz](https://app.subiz.com.vn/login/)
+- Nhấn biểu tượng bánh răng ở góc trên bên phải để tới trang cài đặt
+- Tại menu bên trái, chọn KHÁCH HÀNG &gt;[Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)
+- Nhập tìm tên trường thông tin ở ô tìm kiếm bên phải
+- Nhấn <b>Chỉnh sửa</b> để xem <b>khóa </b>của trường thông tin tương ứng
 
 Ví dụ bảng hỏi trên website thiết kế như sau:
 
@@ -65,21 +89,20 @@ Dưới đây là cách bạn nối bảng hỏi trên với Subiz:
 
 ### Bước 4: Agent nhận thông tin khách trên Subiz {#buoc-4-agent-nhan-thong-tin-khach-tren-subiz}
 
-Agent sẽ nhận được thông tin khách điền bảng hỏi tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
+Tư vấn viên sẽ nhận được thông báo ngay khi có khách để lại thông tin và xem thông tin khách tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
 
 ![](https://vcdn.subiz-cdn.com/file/fisuhtlabluyknqeoypd_acpxkgumifuoofoosble/ec9f6eef1e2598da67c17ce48b78b59d.png)
 
+### Bước 5: Giao nhân sự phụ trách {#buoc-5-giao-nhan-su-phu-trach}
+
+Mặc định hệ thống sẽ thông báo cho toàn bộ nhân sự khi có khách để lại thông tin, bạn có thể thiết lập chia khách cho nhân sự phụ trách như sau:
+
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting).
+- Tạo Rule mới thuộc loại <b>Biểu mẫu</b>, với điều kiện nguồn là \[<b>Tên popup</b>\], rồi cài đặt phân phối đến agent phụ trách.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm popup.
+
 ## Câu hỏi thường gặp {#cau-hoi-thuong-gap}
-
-<b>Tôi muốn chỉ 1 số nhân viên xem được khách điền bảng hỏi thông tin được không?</b>
-
-<b>Trả lời</b>: Hoàn toàn làm được.
-
-Khách điền bảng hỏi sẽ được tạo thành hội thoại nên bạn có thể phân chia agent nhân viên xem được khách bằng cách cài đặt rule phân phối hội thoại và chọn điều kiện kênh tương tác là Bảng hỏi thông tin.
-
-[Xem thêm hướng dẫn sử dụng rule phân phối.](https://subiz.com.vn/docs/972963943-rule-phan-phoi-hoi-thoai)
-
-![](https://vcdn.subiz-cdn.com/file/fismoifvejqkiikovgdc_acpxkgumifuoofoosble/68b2d5bf72bb7319f37e40a295547280.png)
 
 <b>Tôi muốn xuất danh sách khách điền thông tin bảng hỏi được không?</b>
 
@@ -89,4 +112,4 @@ Khách điền bảng hỏi thông tin được lưu và tổng hợp tại tran
 
 [Xem hướng dẫn sử dụng trang Khách.](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
 
-![](https://vcdn.subiz-cdn.com/file/fismoifvisapjntpmshn_acpxkgumifuoofoosble/64918ea520c444896cdd068f41695f26.png)
+![](https://vcdn.subiz-cdn.com/file/fisuhvlktgpjqicrzedx_acpxkgumifuoofoosble/ce2630591c8d65c9e52f1769069fa8d1.png)

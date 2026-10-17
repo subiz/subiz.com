@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1792223686152,
-  "updated": 1792223686152,
+  "fetched": 1792232692578,
+  "updated": 1792232692578,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -109,8 +109,8 @@
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
-      "modifiedTime": "2026-10-17T07:52:38.448Z",
-      "version": "487",
+      "modifiedTime": "2026-10-17T09:39:17.727Z",
+      "version": "513",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -836,7 +836,7 @@
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "50. Zalo Cá nhân",
       "modifiedTime": "2026-09-21T04:29:07.045Z",
-      "version": "780",
+      "version": "783",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-ca-nhan"
     },
     {
@@ -868,8 +868,8 @@
       ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
-      "modifiedTime": "2026-10-17T02:47:37.186Z",
-      "version": "302",
+      "modifiedTime": "2026-10-17T09:18:40.436Z",
+      "version": "345",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -1276,7 +1276,7 @@
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
       "name": "60. TikTok",
       "modifiedTime": "2026-10-03T04:36:35.708Z",
-      "version": "531",
+      "version": "534",
       "path_lower": "/20 Tích hợp kênh tương tác/60-tiktok"
     },
     {
