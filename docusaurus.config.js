@@ -114,8 +114,8 @@ const config = {
 						from: ['/628554948-agent-la-gi', '/628554948-agent-la-gi-'],
 					},
 					{
-						to: '/972963943-rule-phan-phoi',
-						from: ['/972963943-rule-phan-phoi-hoi-thoai'],
+						to: '/254864040-rule-phan-phoi',
+						from: ['/972963943-rule-phan-phoi', '/972963943-rule-phan-phoi-hoi-thoai'],
 					},
 					{
 						to: '/33314021-ban-giao-du-lieu',

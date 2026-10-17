@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1792148948570,
-  "updated": 1792148948570,
+  "fetched": 1792200181904,
+  "updated": 1792200181904,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -913,7 +913,7 @@
       "id": "1flHn1GEZmq-vd5Gzbv2uvBVU54WP0W0uKpzNcQX131I",
       "name": "_video_doc_sample",
       "modifiedTime": "2025-10-31T02:12:53.974Z",
-      "version": "121",
+      "version": "122",
       "path_lower": "/video-doc-sample"
     },
     {
@@ -1111,7 +1111,7 @@
       "id": "1nq-g7-MC2mzQlnjBxKsuK3LV_US_KcZZ7qKN3vPpNHY",
       "name": "3. Rule phân phối",
       "modifiedTime": "2026-10-16T10:58:28.942Z",
-      "version": "118",
+      "version": "120",
       "path_lower": "/40 Quản lý làm việc nhóm/3-rule-phan-phoi"
     },
     {
