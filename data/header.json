@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1792200181904,
-  "updated": 1792200181904,
+  "fetched": 1792223686152,
+  "updated": 1792223686152,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -108,10 +108,10 @@
         "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
       ],
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
-      "name": "_2 Rule phân phối (cũ)",
-      "modifiedTime": "2026-10-16T10:58:48.812Z",
-      "version": "469",
-      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-cu"
+      "name": "2 Rule phân phối",
+      "modifiedTime": "2026-10-17T07:52:38.448Z",
+      "version": "487",
+      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -868,8 +868,8 @@
       ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
-      "modifiedTime": "2026-03-12T11:11:45.351Z",
-      "version": "293",
+      "modifiedTime": "2026-10-17T02:47:37.186Z",
+      "version": "302",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -937,6 +937,17 @@
       "modifiedTime": "2026-07-24T03:22:26.449Z",
       "version": "482",
       "path_lower": "/30 Tư vấn khách hàng/7-app-mobile-subiz"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "parents": [
+        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
+      ],
+      "id": "1h1s7ErenQs4NgE3R6gcIi9hL6ypz-DYsaoTTqFudW_0",
+      "name": "_2 Rule phân phối (cũ).",
+      "modifiedTime": "2026-10-17T02:20:42.946Z",
+      "version": "8",
+      "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi-cu"
     },
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -1102,17 +1113,6 @@
       "modifiedTime": "2026-01-22T07:01:24.707Z",
       "version": "60",
       "path_lower": "/100 Marketing/3-faqs-ve-zns"
-    },
-    {
-      "mimeType": "application/vnd.google-apps.document",
-      "parents": [
-        "1jVgjCnbl24w91yzI2asZlan2IA8kPrNK"
-      ],
-      "id": "1nq-g7-MC2mzQlnjBxKsuK3LV_US_KcZZ7qKN3vPpNHY",
-      "name": "3. Rule phân phối",
-      "modifiedTime": "2026-10-16T10:58:28.942Z",
-      "version": "120",
-      "path_lower": "/40 Quản lý làm việc nhóm/3-rule-phan-phoi"
     },
     {
       "mimeType": "application/vnd.google-apps.document",

@@ -7,6 +7,7 @@ var lo = require('lodash')
 var flow = {map: require('./async-map.js')}
 const fs = require('fs')
 var path = require('path')
+const withFileLock = require('./file-lock.js')
 var datefns = require('date-fns')
 var html2md = require('./convert.js')
 var html2block2md = require('./html2block2md.js')
@@ -125,6 +126,7 @@ async function main() {
 
 	console.log('[3/4] Merging with local file')
 	let out = await diffDrive(current, hot)
+	out.news = out.news.filter((entry) => !shouldSkip(extractFilename(entry), entry.path_lower))
 
 	console.log('Remove', out.removes.length, 'files')
 	console.log('Update', out.news.length, 'files')
@@ -169,24 +171,26 @@ async function main() {
 			i++
 			//			if (i > 5) return
 			try {
-				// if (entry.path_lower.indexOf('cac-goi-dich') == -1) return
-				// if (entry.name.indexOf('20') == -1) return
-				ensureDirectoryExistence('./data' + entry.path_lower)
-				console.log('EXPORTING', entry.path_lower)
-				await exportFile(entry.id, './data' + entry.path_lower + '.html')
-				let out = extractFilename(entry)
-				let pathlowers = entry.path_lower.split('/')
-				pathlowers.pop() // remove file name
+				await withFileLock('./data' + entry.path_lower + '.html', async () => {
+					// if (entry.path_lower.indexOf('cac-goi-dich') == -1) return
+					// if (entry.name.indexOf('20') == -1) return
+					ensureDirectoryExistence('./data' + entry.path_lower)
+					console.log('EXPORTING', entry.path_lower)
+					await exportFile(entry.id, './data' + entry.path_lower + '.html')
+					let out = extractFilename(entry)
+					let pathlowers = entry.path_lower.split('/')
+					pathlowers.pop() // remove file name
 
-				let dataHtml = fs.readFileSync('./data' + entry.path_lower + '.html', {encoding: 'utf8'})
-				let markdown = await html2block2md(dataHtml, docM, videoMapping)
-				// let markdown = await html2md(dataHtml, docM, videoMapping)
-				let block = await html2Block(dataHtml, docM)
-				fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
-				blockM[entry.id] = block
-				entry.block = block
-				fs.writeFileSync('./data' + entry.path_lower + '.json', JSON.stringify(block, null, 2), {encoding: 'utf8'})
-				fs.writeFileSync('./data' + entry.path_lower + '.md', markdown, {encoding: 'utf8'})
+					let dataHtml = fs.readFileSync('./data' + entry.path_lower + '.html', {encoding: 'utf8'})
+					let markdown = await html2block2md(dataHtml, docM, videoMapping)
+					// let markdown = await html2md(dataHtml, docM, videoMapping)
+					let block = await html2Block(dataHtml, docM)
+					fs.writeFileSync('./raw/' + entry.id + '.html', dataHtml, {encoding: 'utf8'})
+					blockM[entry.id] = block
+					entry.block = block
+					fs.writeFileSync('./data' + entry.path_lower + '.json', JSON.stringify(block, null, 2), {encoding: 'utf8'})
+					fs.writeFileSync('./data' + entry.path_lower + '.md', markdown, {encoding: 'utf8'})
+				})
 			} catch (e) {
 				throw new Error(`Failed to sync ${entry.path_lower}: ${e.message}`, {cause: e})
 			}
@@ -446,7 +450,7 @@ async function diffDrive(current, hot) {
 		let found = hot.find((hentry) => hentry.id === entry.id)
 		if (!found) return removes.push(entry)
 		if (found.version != entry.version) {
-			return news.push(entry)
+			return news.push(found)
 		}
 	})
 
