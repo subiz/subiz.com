@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1792232692578,
-  "updated": 1792232692578,
+  "fetched": 1792451103042,
+  "updated": 1792451103042,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -99,7 +99,7 @@
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "85. Google Business",
       "modifiedTime": "2026-10-01T09:38:08.876Z",
-      "version": "343",
+      "version": "345",
       "path_lower": "/20 Tích hợp kênh tương tác/85-google-business"
     },
     {
@@ -110,7 +110,7 @@
       "id": "14nyRVJK0jYWWXpiy_49z8xbSQL90h64S1nWce9Ix4Ng",
       "name": "2 Rule phân phối",
       "modifiedTime": "2026-10-17T09:39:17.727Z",
-      "version": "513",
+      "version": "514",
       "path_lower": "/40 Quản lý làm việc nhóm/2-rule-phan-phoi"
     },
     {
@@ -330,7 +330,7 @@
       "id": "1IsppTxnE7zWPG4BpNOftsSGf286bLIN_lWInVbJ-nVk",
       "name": "75. Youtube",
       "modifiedTime": "2026-10-01T09:36:50.410Z",
-      "version": "47",
+      "version": "49",
       "path_lower": "/20 Tích hợp kênh tương tác/75-youtube"
     },
     {
@@ -396,7 +396,7 @@
       "id": "1Ksc7Fb2DtiS9bDNNxGOUqldgX6SwjU3znWTP92YbFBQ",
       "name": "Mã tài khoản Subiz",
       "modifiedTime": "2026-10-01T09:41:36.266Z",
-      "version": "53",
+      "version": "55",
       "path_lower": "/1000 Tổng hợp/ma-tai-khoan-subiz"
     },
     {
@@ -616,7 +616,7 @@
       "id": "1VY-QbC13JriM91hi-s0zAf9uqp8MShfPnlNPFdgqVeg",
       "name": "_Ẩn bình luận TikTok",
       "modifiedTime": "2026-08-13T10:28:31.668Z",
-      "version": "18",
+      "version": "19",
       "path_lower": "/1000 Tổng hợp/an-binh-luan-tiktok"
     },
     {
@@ -649,7 +649,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
       "modifiedTime": "2026-08-04T03:00:05.919Z",
-      "version": "327",
+      "version": "329",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -868,8 +868,8 @@
       ],
       "id": "1ebLIv_OYdwyhfxliqu2QY7r2DUVHdYqVNBy3gc0c8JM",
       "name": "1. Kết nối bảng hỏi website",
-      "modifiedTime": "2026-10-17T09:18:40.436Z",
-      "version": "345",
+      "modifiedTime": "2026-10-19T10:39:23.488Z",
+      "version": "423",
       "path_lower": "/110 Ứng dụng nâng cao/1-ket-noi-bang-hoi-website"
     },
     {
@@ -1022,8 +1022,8 @@
       ],
       "id": "1l-UUCh6UHUpiy_wdHsg7iQ5pOtl_ySob6K96UAhcGT4",
       "name": "1. Agent",
-      "modifiedTime": "2026-08-17T02:17:46.074Z",
-      "version": "1075",
+      "modifiedTime": "2026-10-19T07:45:19.463Z",
+      "version": "1084",
       "path_lower": "/40 Quản lý làm việc nhóm/1-agent"
     },
     {
@@ -1177,7 +1177,7 @@
       "id": "1qPlp61vzlh9KUvjmI421dG6YCWShJM4IXbtP28GDTBU",
       "name": "70. WhatsApp ",
       "modifiedTime": "2026-10-06T08:21:14.222Z",
-      "version": "191",
+      "version": "193",
       "path_lower": "/20 Tích hợp kênh tương tác/70-whatsapp"
     },
     {
@@ -1276,7 +1276,7 @@
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
       "name": "60. TikTok",
       "modifiedTime": "2026-10-03T04:36:35.708Z",
-      "version": "534",
+      "version": "537",
       "path_lower": "/20 Tích hợp kênh tương tác/60-tiktok"
     },
     {
@@ -1408,7 +1408,7 @@
       "id": "1zpHnnmzcRu0faiJ2bH4i0AdvDlsVtGGx88JwwDCyCUQ",
       "name": "Vì sao hội thoại trên Subiz được tự động hoàn thành?",
       "modifiedTime": "2026-07-28T04:43:46.199Z",
-      "version": "41",
+      "version": "42",
       "path_lower": "/1000 Tổng hợp/vi-sao-hoi-thoai-tren-subiz-duoc-tu-dong-hoan-thanh"
     }
   ],
