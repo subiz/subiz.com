@@ -5,7 +5,7 @@ title: Zalo cá nhân
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-09-21T04:29:07.045Z
+  date: 2026-10-22T08:41:45.961Z
 ---
 
 # Zalo cá nhân
@@ -52,7 +52,7 @@ Khi đồng bộ tài khoản Zalo cá nhân vào phần mềm Subiz, bạn sẽ
 - Xác nhận <b>Cấp quyền</b> truy cập trên điện thoại.
 - Giao diện hiển thị Zalo cá nhân kèm trạng thái <b>Hoạt động</b> là thành công.
 
-![](https://vcdn.subiz-cdn.com/file/fispzfktnzqobzdmkznp_acpxkgumifuoofoosble/98d34b3dbb6ce12cc2dc16c20ecb3ef0.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/90409bcbd12b001f4a0ed49d5d3ee53e711df0f811165fd9a2f758a2186b1e95)
 
 :::tip
 Bạn có thể giao tài khoản Zalo cá nhân cho 1 nhân sự chuyên phụ trách \(nhắn tin, nhận thông báo tin nhắn mới và quản lý danh sách bạn bè\) theo hướng dẫn [tại đây](https://subiz.com.vn/docs/765945895-giao-tai-khoan-zalo-ca-nhan-cho-1-nhan-vien-phu-trach).
@@ -62,7 +62,7 @@ Bạn có thể giao tài khoản Zalo cá nhân cho 1 nhân sự chuyên phụ 
 
 Sau khi kết nối thành công, tài khoản Zalo cá nhân sẽ hiển thị trạng thái <b>Hoạt động \(Active\)</b> trên trang cài đặt Subiz.
 
-![](https://vcdn.subiz-cdn.com/file/fismpqraoglzgdoadrem_acpxkgumifuoofoosble/65033f0eaab31bee74d8672b0268f41f.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/a2815beaf93e2d75c206cf96e8b010052c5db055167eb1b6dfa2515567f3ade8)
 
 Bạn cũng nên kiểm tra trạng thái bằng cách gửi tin nhắn bất kỳ từ Zalo để thấy hội thoại xuất hiện trên màn hình quản lý hội thoại của Subiz hay chưa.
 
@@ -72,11 +72,11 @@ Khi kết nối thành công, các hội thoại sẽ lần lượt xuất hiệ
 - Đồng bộ tên Zalo Group
 - Đồng bộ danh sách thành viên ở cột Hồ sơ khách hàng bên phải
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbdgczkywwhxnsj_acpxkgumifuoofoosble/41482d8478cf5a8bc58d7c9d33020033.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/94f9bddef343af6197e20d353fb0f86800cd6741aaa2b610fa32f14381023e44)
 
 Nếu trạng thái đang <b>Gián đoạn</b>, bạn sẽ cần tích hợp lại.
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbdktxhpnndfzbn_acpxkgumifuoofoosble/d57a0e649af94cc701fbf6e171999a60.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/3545ce483a66ae86324d01a5f57dab20738c84a5b96a3b2ba62337ef175a089d)
 
 ### Tích hợp lại {#tich-hop-lai}
 
@@ -86,16 +86,18 @@ Nếu trạng thái đang <b>Gián đoạn</b>, bạn sẽ cần tích hợp l�
 
 Trong trường hợp gửi tin nhắn Zalo lỗi trên Subiz, hoặc nhận cảnh báo \! Zalo màu đỏ, hãy kiểm tra trạng thái kết nối với tài khoản Zalo cá nhân.
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbdprheyefjlpnk_acpxkgumifuoofoosble/30b002d6a7b5e93c3a74d362a899349b.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/77006c2fc4a2b74d358a7c1b837179e7172312e1338bfd2df60b8e5949c65f0c)
 
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
-Để đảm bảo tin nhắn từ Zalo cá nhân của sale nào sẽ đổ về đúng tài khoản agent phụ trách trên Subiz, bạn sẽ cần phân luồng các hội thoại về cho người phụ trách & trả lời.
+Sau khi tích hợp Zalo cá nhân thành công, việc giao khách cho nhân sự phụ trách được thực hiện theo Rule phân phối. Các chiến thuật phân phối mặc định hướng tới giao mỗi hội thoại cho một nhân viên để xác định rõ trách nhiệm phản hồi. Nếu cần nhiều nhân sự cùng hỗ trợ, có thể thêm các nhân viên còn lại làm hỗ trợ viên trong Rule.
+
+Bạn thiết lập phân công nhân sự phụ trách phản hồi tin nhắn Zalo cá nhân như sau:
 
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
-- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting).
-- Tạo Rule mới với điều kiện: Nguồn là <b>\[Tên tài khoản Zalo cá nhân\]</b> Hành động: Phân phối đến agent /Nhóm agent.
-- Hoặc chỉnh sửa Rule hiện có thêm kênh Zalo cá nhân.
+- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tạo Rule mới thuộc loại <b>Tin nhắn</b>, với điều kiện nguồn là \[<b>Tên tài khoản Zalo cá nhân</b>\], rồi cài đặt phân phối đến <b>agent phụ trách</b>.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm kênh Zalo cá nhân.
 
 Với Subiz, nhiều nhân viên có thể đăng nhập và xử lý hội thoại cùng lúc trên cùng một số Zalo.
 
@@ -103,7 +105,7 @@ Với Subiz, nhiều nhân viên có thể đăng nhập và xử lý hội tho�
 
 Tài khoản Zalo cá nhân cũng có thể tận dụng tính năng bot chat tự động theo kịch bản hoặc linh hoạt với tính năng AI bot trên Subiz.
 
-<b>Thêm kênh Zalo cá nhân vào Bot có sẵn</b>
+<b>Thêm kênh Zalo cá nhân vào </b><b>Bot</b><b> có sẵn</b>
 
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
 - Chọn cài đặt [Bot](https://app.subiz.com.vn/bots)<b> </b>
@@ -121,7 +123,7 @@ Sau khi tích hợp Zalo cá nhân vào Subiz, danh sách bạn bè sẽ đượ
 - Nhập <b>Số điện thoại</b> hoặc <b>Tên</b> khách hàng
 - Bấm <b>Tạo hội thoại mới</b> hoặc <b>Nhắn tin </b>ở sidebar bên phải ngay dưới tên khách hàng
 
-![](https://vcdn.subiz-cdn.com/file/fisnascilgqzdermuleu_acpxkgumifuoofoosble/8e9cc95cd85946319302bbb5a15e49ff.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/84915632077d59ef15b8bfb408bc09ad58912492fc8293e88ddd72904efd6b97)
 
 - Chọn kênh gửi tin nhắn là Zalo cá nhân, gõ nội dung
 - Bấm <b>Gửi tin nhắn</b>.
@@ -141,14 +143,14 @@ Trên Subiz, bạn cũng có thể <b>chủ động nhắn tin bằng kênh Zalo
 
 Zalo cá nhân trên Subiz hỗ trợ tính năng chuyển tiếp tin nhắn tới người dùng khác, cho phép doanh nghiệp gửi tin nhắn tới hàng loạt khách hàng Zalo cá nhân cùng lúc.
 
-![](https://vcdn.subiz-cdn.com/file/fisngtwegyxqlzgzolgh_acpxkgumifuoofoosble/7ae7d3aa2acd31877bcc712d89f68889.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/142ae52c41583150409e74163130fe797db01b642ab2f03e678e8114e05170ca)
 
 - Trong hội thoại chat, nhấn vào tin nhắn muốn chuyển tiếp
 - Nhấn biểu tượng mũi tên<b> Chia sẻ</b>
 - Tick chọn người nhận hoặc nhóm Zalo cá nhân nhận tin nhắn
 - Bấm <b>Chia sẻ</b> để gửi
 
-![](https://vcdn.subiz-cdn.com/file/fisngtwejpuqlljtgmau_acpxkgumifuoofoosble/3fd6b1cc5c0a204ce47d136a354461c8.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/0ef3af2527dcdafc203af4ea97bc85cd9bab3ece45a6f96d980a4d980ad4c62c)
 
 ### Nhắn tin với thành viên trong Zalo group {#nhan-tin-voi-thanh-vien-trong-zalo-group}
 
@@ -160,7 +162,7 @@ Zalo cá nhân trên Subiz hỗ trợ tính năng chuyển tiếp tin nhắn t�
 - Chọn <b>kênh nhắn tin là Zalo cá nhân mong muốn</b>
 - Gõ nội dung rồi bấm <b>Gửi tin nhắn</b>
 
-![](https://vcdn.subiz-cdn.com/file/fisnasdpxvgjmzmweolz_acpxkgumifuoofoosble/5e912979139adb2542177f2abb8b9ba6.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/6709f13a731b2c9e200c939b9b116a41e1e6f654e9cf2ca54c9a3f2b34faa0ba)
 
 ### Quản lý bạn bè {#quan-ly-ban-be}
 
@@ -175,11 +177,11 @@ Chỉ những agent được phân quyền quản lý số Zalo mới có thể 
 1. Tới thanh tìm kiếm ở menu bar trên cùng bên phải 🔍, nhập <b>Số điện thoại</b> khách hàng
 2. Nhấn nút <b>Kết bạn </b>
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbdsdcllydxiyex_acpxkgumifuoofoosble/d351931486c72a7e7898cd8827cad61f.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/571f442b99798feacd8e8d076ba1bafc3e2a192caa2be6581800548790d0e3c8)
 
 Ngay sau khi gửi lời mời kết bạn thành công, một hội thoại mới sẽ được mở ra cùng với thông báo <i>“Bạn đã gửi yêu cầu kết bạn. You have sent a friend request.” </i>
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbdxdcsssopxhhh_acpxkgumifuoofoosble/82b501af2312a46153b88dc158225c37.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/3c26d802871ba45043513e407d054e5af4b86fabf90a32a1805ea9778cf90120)
 
 Tại đây, agent đã có thể bắt đầu nhắn tin ngay cho khách hàng.
 
@@ -188,7 +190,7 @@ Tại đây, agent đã có thể bắt đầu nhắn tin ngay cho khách hàng.
 1. Tại cột Hồ sơ khách hàng bên phải, nhấn vào <b>số điện thoại</b>
 2. Chọn <b>Kết bạn Zalo</b>
 
-![](https://vcdn.subiz-cdn.com/file/fismqmbebcgeuxbvvccm_acpxkgumifuoofoosble/ea33fccbe0e096e1d73e9e1a6e6384e0.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/d86e330a07f4ce6902d8f0df40986c99cc8847853da3b56718b1321039518961)
 
 #### Phản hồi lời mời kết bạn Zalo trên Subiz {#phan-hoi-loi-moi-ket-ban-zalo-tren-subiz}
 

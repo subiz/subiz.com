@@ -5,7 +5,7 @@ title: Instagram
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-09-21T04:30:52.827Z
+  date: 2026-10-22T08:13:07.634Z
 ---
 
 # Instagram
@@ -25,7 +25,7 @@ last_update:
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
 - Ở sidebar bên trái, chọn <b>TÍCH HỢP</b> &gt; [Instagram](https://app.subiz.com.vn/settings/instagram)
 - Nhấn nút <b>+ Tích hợp</b>
-- Đăng nhập Facebook của admin Fanpage
+- Đăng nhập Facebook của admin Instagram
 - Nếu đã từng tích hợp với Subiz, hãy chọn ‘Chỉnh sửa cài đặt trước đây’, lần lượt chọn các kênh hiện tại muốn kết nối vào Subiz
 - Đồng ý cấp quyền và Xong hoàn thành
 
@@ -33,12 +33,18 @@ Sau khi tích hợp thành công, trạng thái hiển thị Hoạt động, b�
 
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
-Để đảm bảo tin nhắn từ Instagram sẽ chuyển tới đúng tài khoản agent phụ trách trên Subiz, bạn sẽ cần phân luồng các hội thoại về cho người phụ trách & trả lời.
+Sau khi tích hợp Instagram thành công, việc giao khách cho nhân sự phụ trách được thực hiện theo Rule phân phối. Các chiến thuật phân phối mặc định hướng tới giao mỗi hội thoại cho một nhân viên để xác định rõ trách nhiệm phản hồi. Nếu cần nhiều nhân sự cùng hỗ trợ, có thể thêm các nhân viên còn lại làm hỗ trợ viên trong Rule.
+
+Bạn thiết lập phân công nhân sự phụ trách phản hồi tin nhắn hoặc comment Instagram như sau:
 
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
-- Tại sidebar bên trái, chọn <b>HỘI THOẠI</b> &gt; [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
-- Tạo Rule mới với điều kiện: Kênh tương tác là <b>\[Tên tài khoản Instagram\]</b> Hành động: Phân phối tới agent /Nhóm agent
-- Hoặc chỉnh sửa Rule hiện có thêm kênh Instagram.
+- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tạo Rule mới thuộc loại <b>Tin nhắn</b> hoặc <b>Bình luận</b> tùy nội dung cần phân phối, với điều kiện nguồn là \[<b>Tên tài khoản Instagram</b>\], rồi cài đặt phân phối đến <b>agent phụ trách</b>.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm kênh Instagram.
+
+Mỗi Rule chỉ thuộc một loại \[Tin nhắn\] hoặc \[Bình luận\], không được gộp hai loại trong cùng một Rule. Nếu cần xử lý cả tin nhắn và bình luận Instagram, hãy tạo 2 Rule riêng.
+
+Với bình luận Instagram không cần nhân viên xử lý, bạn có thể tạo Rule loại Bình luận, chọn nguồn là tài khoản Instagram tương ứng, đặt điều kiện cho các bình luận muốn loại khỏi luồng phân phối và chọn “Không phân phối”. Hội thoại thỏa mãn Rule vẫn về Subiz, vẫn tìm được trong lịch sử của khách hàng nhưng không được thống kê.
 
 ## Phản hồi tự động {#phan-hoi-tu-dong}
 
@@ -63,7 +69,7 @@ Tài khoản Instagram cũng có thể tận dụng tính năng bot chat tự đ
 
 #### Tại sao tôi không thể kết nối Instagram cá nhân vào Subiz? {#tai-sao-toi-khong-the-ket-noi-instagram-ca-nhan-vao-subiz}
 
-Theo quy định của Meta, Subiz chỉ hỗ trợ tích hợp Instagram Business \(tài khoản doanh nghiệp\) đã được liên kết với một Fanpage Facebook.
+Theo quy định của Meta, Subiz chỉ hỗ trợ tích hợp Instagram Business \(tài khoản doanh nghiệp\) đã được liên kết với một Instagram Facebook.
 
 #### Chatbot AI có hoạt động trên Instagram không? {#chatbot-ai-co-hoat-dong-tren-instagram-khong}
 

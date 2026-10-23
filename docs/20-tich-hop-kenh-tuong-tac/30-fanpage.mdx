@@ -5,7 +5,7 @@ title: Fanpage
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-09-30T07:57:02.772Z
+  date: 2026-10-22T04:46:02.328Z
 ---
 
 import EmbedVideo from '@site/src/components/EmbedVideo.js';
@@ -56,12 +56,18 @@ Khi đã tích hợp Fanpage vào Subiz nhưng muốn thêm Fanpage mới hoặc
 
 ## Giao nhân sự phụ trách {#giao-nhan-su-phu-trach}
 
-Quản lý sẽ cần lựa chọn nhân sự nào phụ trách phản hồi khách hàng trên những Fanpage này sau khi tích hợp lên Subiz.
+Sau khi tích hợp Fanpage thành công, việc giao khách cho nhân sự phụ trách được thực hiện theo Rule phân phối. Các chiến thuật phân phối mặc định hướng tới giao mỗi hội thoại cho một nhân viên để xác định rõ trách nhiệm phản hồi. Nếu cần nhiều nhân sự cùng hỗ trợ, có thể thêm các nhân viên còn lại làm hỗ trợ viên trong Rule.
+
+Bạn thiết lập phân công nhân sự phụ trách phản hồi tin nhắn hoặc comment Fanpage như sau:
 
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
-- Tại sidebar bên trái, chọn cài đặt <b>Rule phân phối</b>.
-- Tạo Rule mới với điều kiện: Kênh tương tác là <b>\[Tên Fanpage\]</b> Hành động: Phân phối đến agent /Nhóm agent.
-- Hoặc chỉnh sửa Rule hiện có, tích thêm kênh Fanpage.
+- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tạo Rule mới thuộc loại <b>Tin nhắn</b> hoặc <b>Bình luận</b> tùy nội dung cần phân phối, với điều kiện nguồn là \[<b>Tên tài khoản Fanpage</b>\], rồi cài đặt phân phối đến <b>agent phụ trách</b>.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm kênh Fanpage.
+
+Mỗi Rule chỉ thuộc một loại \[Tin nhắn\] hoặc \[Bình luận\], không được gộp hai loại trong cùng một Rule. Nếu cần xử lý cả tin nhắn và bình luận Fanpage, hãy tạo 2 Rule riêng.
+
+Với bình luận Fanpage không cần nhân viên xử lý, bạn có thể tạo Rule loại Bình luận, chọn nguồn là tài khoản Fanpage tương ứng, đặt điều kiện cho các bình luận muốn loại khỏi luồng phân phối và chọn “Không phân phối”. Hội thoại thỏa mãn Rule vẫn về Subiz, vẫn tìm được trong lịch sử của khách hàng nhưng không được thống kê.
 
 :::note
 Bạn có thể phân công nhân sự phụ trách phản hồi khách hàng [theo từng Fanpage](https://subiz.com.vn/docs/1652325030-cac-cach-phan-phoi-hoi-thoai#chia-theo-kenh-ban-hang) hoặc [theo từng bài viết cụ thể](https://subiz.com.vn/docs/620328580-kich-ban-tu-dong-cho-bai-quang-cao-facebook#giao-nhan-su-phu-trach).
@@ -118,7 +124,7 @@ Sau khi tích hợp fanpage lên Subiz, bạn có thể tùy chỉnh cài đặt
 - Hoặc chọn <b>Trả lời bằng AI</b> \([tính phí sử dụng AI](https://subiz.com.vn/docs/1081919878-cac-goi-dich-vu#nap-tien-su-dung-dich-vu-ai)\) và mô tả giọng văn, cách phản hồi kèm ví dụ phản hồi để AI tự động tạo câu trả lời tự nhiên theo mỗi bình luận.
 - Nhấn <b>Lưu thay đổi</b>.
 
-![](https://vcdn.subiz-cdn.com/file/fistudxqevgogdsbueny_acpxkgumifuoofoosble/8ebb9a52f3a6c4fe85d63de8a1468362.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/876de322ceab67827bee0d76bd7855fe0cfec122f3ce347b8c97177f03f9eb7b)
 
 #### Tự động phản hồi bình luận riêng cho từng bài post {#tu-dong-phan-hoi-binh-luan-rieng-cho-tung-bai-post}
 
@@ -152,7 +158,7 @@ Mỗi bình luận trên Fanpage chỉ cho phép gửi 1 tin nhắn riêng. Hãy
 - Hoặc chọn <b>Trả lời bằng AI</b> \([tính phí sử dụng AI](https://subiz.com.vn/docs/1081919878-cac-goi-dich-vu#nap-tien-su-dung-dich-vu-ai)\) và mô tả giọng văn, cách nhắn tin kèm ví dụ để AI tự động nhắn tin phù hợp cho từng khách.
 - Nhấn <b>Lưu thay đổi</b>.
 
-![](https://vcdn.subiz-cdn.com/file/fistudxqgtikipckagam_acpxkgumifuoofoosble/a785735deb7985ec09c920e84545a9fd.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/8e09b6c7b9475993641538176454c126b8a655ce948b6344c079c7f143e7b165)
 
 #### Tự động nhắn tin riêng cho bình luận bài post cụ thể {#tu-dong-nhan-tin-rieng-cho-binh-luan-bai-post-cu-the}
 
@@ -185,7 +191,7 @@ Với những bình luận khách hàng để lại thông tin liên hệ, để
 
 <b>Ghi nhận chuyển đổi</b> là tính năng giúp tự động đồng bộ các sự kiện ghi nhận thanh toán hoặc chuyển đổi từ Subiz lên Meta. Đây là tính năng được áp dụng với khách hàng sử dụng gói dịch vụ Nâng cao của Subiz.
 
-![](https://vcdn.subiz-cdn.com/file/fisnibevnrohbhqxjewy_acpxkgumifuoofoosble/6cf6ecbe83aac5dc159ae6834e900260.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/050589ed95f17bce236d44e0de074bdb85aa7e03cac6105233b2c18e9f501ae4)
 
 Cụ thể, khi khách nhắn tin đến từ quảng cáo Facebook và đạt mục tiêu chuyển đổi, nhân viên sẽ bấm Ghi nhận thanh toán trực tiếp trên Subiz. Nội dung này sẽ được chuyển tới Meta và đồng bộ với chiến dịch quảng cáo trên Trình quảng cáo Meta Business.
 
@@ -200,7 +206,7 @@ Cụ thể, khi khách nhắn tin đến từ quảng cáo Facebook và đạt m
 
 Khi cài đặt thành công, Fanpage sẽ hiển thị số lượng chuyển đổi được gửi từ Subiz, bạn có thể nhấn <b>Chi tiết</b> để xem báo cáo của từng lượt chuyển đổi.
 
-![](https://vcdn.subiz-cdn.com/file/fistudxqkrqistkbsazu_acpxkgumifuoofoosble/a853e4d0868e728dde660087554e57be.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/51e9e7a7d8d5b6430d916f0db459acb0d3e40d55f4db3bda65c2968a976ae1ff)
 
 #### Ghi nhận thanh toán {#ghi-nhan-thanh-toan}
 
@@ -221,7 +227,7 @@ Bạn xóa bớt Fanpage khỏi Subiz như sau:
 - Nhấn nút <b>…</b> ở cuối dòng tương ứng của fanpage
 - Chọn <b>Gỡ tích hợp</b> và xác nhận
 
-![](https://vcdn.subiz-cdn.com/file/fistudxqndzruxtbzymv_acpxkgumifuoofoosble/8ee9425314aebf1dac4a2f9195c83e13.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/23010f47f7166dee55af1c73614e8329e50e1b9718063874b088cf8e1702f420)
 
 ## FAQs {#faqs}
 

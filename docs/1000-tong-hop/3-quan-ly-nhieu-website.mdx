@@ -5,7 +5,7 @@ title: Quản lý nhiều website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-05-11T03:30:07.972Z
+  date: 2026-10-22T10:16:41.749Z
 ---
 
 # Quản lý nhiều website
@@ -30,11 +30,13 @@ Subiz hỗ trợ bạn quản lý và tương tác khách hàng trên nhiều we
 
 ### Bước 1: Tích hợp thêm website {#buoc-1-tich-hop-them-website}
 
-Thêm danh sách tên miền website vào trang [Cài đặt website](https://app.subiz.com.vn/website/install) của Subiz để quản lý tất cả các website trên cùng một giao diện Subiz.
+Tại [dashboard làm việc sau khi đăng nhập Subiz](https://app.subiz.com.vn/convo), làm theo các bước sau:
 
-Sau đó bạn sao chép mã nhúng Subiz và dán vào code website.
-
-![](https://vcdn.subiz-cdn.com/file/fismoidtscmoygcxeijw_acpxkgumifuoofoosble/151b688f93c5ee29baf983dabc36bae4.png)
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Chọn tích hợp <b>Website</b> ở sidebar bên trái
+- Nhấn <b>+ Cài lên website</b> ở góc phải màn hình
+- Điền tên miền website `domain.com`
+- Sao chép mã nhúng Subiz và tới trang quản trị website dán mã trong thẻ `body`.
 
 ### Bước 2: Thiết kế cửa sổ chat riêng cho từng website {#buoc-2-thiet-ke-cua-so-chat-rieng-cho-tung-website}
 
@@ -45,31 +47,30 @@ Hướng dẫn tạo thêm agent:
 - Mở [Cài đặt Website](https://app.subiz.com.vn/settings/website)
 - Chọn <b>Chỉnh sửa cửa sổ chat</b> tương ứng với mỗi website
 
-![](https://vcdn.subiz-cdn.com/file/fismoigqrmkyywdopefs_acpxkgumifuoofoosble/b68038794742ce391fe8306da009f5b6.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/8ab8d0b61d04fe79b2b283f58d86d39ed89fdf264a997dc1d0d41faeb4a1f044)
 
 - Lựa chọn thay đổi màu sắc, kích thước, vị trí… như thông thường
 
-![](https://vcdn.subiz-cdn.com/file/fismoigqwrljlxtfovfh_acpxkgumifuoofoosble/203615bfffd021f42ba5898d99b7a178.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/5b2c51df015883ad16870dda4d7560e7d0b730b497c277fbea0cc63e8b4cdf42)
 
 - Chọn Đối tượng mục tiêu nếu bạn muốn đặt cửa sổ chat chỉ hiển thị trên những trang con cụ thể trên website
 
-![](https://vcdn.subiz-cdn.com/file/fismoigrejrbxthlvkuc_acpxkgumifuoofoosble/50ffc695eafe13ff35662914c02795c6.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/2d3ef614ad0a9cc85301046485d47d919cf122317c549f87444f3ee671e8a0cd)
 
 - Bấm Lưu thay đổi để hệ thống ghi nhận thiết kế mới
 
 ### Bước 3: Phân chia hội thoại khách nhắn tin theo từng website {#buoc-3-phan-chia-hoi-thoai-khach-nhan-tin-theo-tung-website}
 
-Khi có nhiều website, bạn có thể thiết lập khách hàng nhắn tin từ website nào sẽ được chuyển cho đúng nhóm nhân viên phụ trách website đó. Như đó, nhân viên chỉ xem được tin nhắn của website phụ trách.
+Khi có nhiều website, bạn có thể thiết lập khách hàng nhắn tin từ website nào sẽ được chuyển cho đúng nhóm nhân viên phụ trách website đó. Vì vậy, nhân viên chỉ xem được tin nhắn của website phụ trách.
 
 Bạn sẽ [cài đặt rule phân phối](https://app.subiz.com.vn/settings/rule-setting) tự động chia tin nhắn của từng website:
 
-- Đặt tên rule dễ phân biệt website và agent trực chat
-- Điều kiện rule: chọn Kênh tương tác là Website cụ thể
-- Phân phối tới: agent phụ trách website đó
+- Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
+- Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting)
+- Tạo Rule mới thuộc loại <b>Tin nhắn</b>, với điều kiện nguồn là \[<b>Link website</b>\], rồi cài đặt phân phối đến <b>agent phụ trách</b>.
+- Hoặc chỉnh sửa Rule hiện có cùng loại để thêm kênh Website.
 
-Ví dụ Rule phân phối chat từ 2 website khác nhau cho 2 agent khác nhau trực chat
-
-![](https://vcdn.subiz-cdn.com/file/fismoidvqydcujtgjgox_acpxkgumifuoofoosble/248c98dd5a104137229138acc3bca849.png)
+Ví dụ có 3 website thì bạn tạo 3 Rule tương ứng chia khách của từng website
 
 ### Bước 4: Bot tự động trả lời theo từng website {#buoc-4-bot-tu-dong-tra-loi-theo-tung-website}
 
@@ -78,10 +79,10 @@ Bot tự động chào đón và trả lời riêng cho từng website.
 - [Tạo bot mới](https://app.subiz.com.vn/bots)
 - Tại mục 2 cài đặt, chọn “Trên các website có chứa” và điền “tên miền website”
 
-![](https://vcdn.subiz-cdn.com/file/fismoidwfeqnyuravbdf_acpxkgumifuoofoosble/bb6a6c54e27557bd3e0f02ef30f9e24f.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/96dc5a9adf1f8286b603a0f15528aa55939e8c051ebe7f3739fc20fd98ade1a2)
 
 ### Bước 5: Thống kê hội thoại của mỗi website {#buoc-5-thong-ke-hoi-thoai-cua-moi-website}
 
 Vào [Thống kê hội thoại](https://app.subiz.com.vn/new-reports/convo), chọn Theo website để xem chi tiết số lượng hội thoại từ từng nguồn.
 
-![](https://vcdn.subiz-cdn.com/file/fismoidwlmqxcuwfhcaz_acpxkgumifuoofoosble/1a0288a6b3e598899a6073e3b65174e0.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/19b29dbd9f62a3e1ade66ed9160713bfbc392c301feb707da8fd8957f983aa7d)

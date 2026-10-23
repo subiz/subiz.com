@@ -5,7 +5,7 @@ title: Kết nối bảng hỏi website
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-10-19T10:39:23.488Z
+  date: 2026-10-22T08:59:27.521Z
 ---
 
 # Kết nối bảng hỏi website
@@ -14,9 +14,7 @@ last_update:
 
 Nếu website của bạn đã có sẵn các form như <i>Đăng ký tư vấn</i>, <i>Yêu cầu báo giá</i> hay <i>Liên hệ</i>, bạn hoàn toàn có thể kết nối chúng trực tiếp với Subiz.
 
-Ngay khi có khách hàng điền form, nhân viên kinh doanh sẽ nhận được thông báo, xem nhu cầu và liên hệ khách ngay trên Subiz, không cần kiểm tra email hay tổng hợp danh sách thủ công.
-
-![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/a448b2851a731719ff3f54f9a2c74330d1832881703ffe18d47924906edabfb0)
+Ngay khi có khách hàng điền form, nhân viên kinh doanh sẽ nhận được thông báo và xem thông tin hỗ trợ khách ngay trên Subiz, không cần kiểm tra email hay tổng hợp danh sách thủ công.![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/918ff3288540934fa8e3293be2fa7fe79584efec802c70274eddd9a52276fd34)
 
 ## Hướng dẫn triển khai {#huong-dan-trien-khai}
 
@@ -32,9 +30,7 @@ Các thông tin khách điền trong bảng hỏi trên website sẽ tự độn
 
 ### Bước 2: Tạo popup đón dữ liệu trên Subiz {#buoc-2-tao-popup-don-du-lieu-tren-subiz}
 
-Khách điền thông tin trên bảng hỏi website sẽ được chuyền vào Subiz thông qua popup này.
-
-Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\) thêm vào mã SDK tại bước 3.
+Khách điền thông tin trên bảng hỏi website sẽ được chuyền vào Subiz thông qua popup này. Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\) thêm vào mã SDK submitForm.
 
 - Tới trang [cài đặt popup](https://app.subiz.com.vn/web_plugin?type=popup) hoặc nhấn <b>Công cụ</b> từ menu bar phía trên màn hình làm việc Subiz &gt; chọn <b>Tiện ích web</b>
 - Nhấn <b>Tạo mới</b>
@@ -47,9 +43,11 @@ Vì vậy, bạn cần tạo popup để có mã định danh popup \(ID popup\)
 
 ### Bước 3: Đặt mã SDK vào code website {#buoc-3-dat-ma-sdk-vao-code-website}
 
-Subiz cung cấp lệnh SDK submitForm để gửi thông tin từ form website vào hệ thống.
+:::info
+Nếu không chuyên về codewebsite, hãy gửi hướng dẫn này cho kỹ thuật website hoặc kỹ thuật công ty hỗ trợ
+:::
 
-Khi khách hoàn tất gửi form, website cần gọi lệnh này kèm những thông tin khách vừa nhập.
+Subiz cung cấp lệnh SDK submitForm để gửi thông tin từ form website vào hệ thống. Khi khách hoàn tất gửi form, website cần gọi lệnh này kèm những thông tin khách vừa nhập.
 
 Mẫu SDK kết nối form có cấu trúc như sau:
 
@@ -63,33 +61,23 @@ Mẫu SDK kết nối form có cấu trúc như sau:
 </script>
 ```
 
-Bạn sẽ soạn mã SDK:
+Trong đó:
 
-- ‘<b>cprsxvtpgbiiedribdzcj</b>’ là mã định danh ID popup trên Subiz \(đã lấy ở bước 2\)
-- ‘key’ là khóa trường thông tin trên Subiz
-- ‘value’ là giá trị mà khách đã nhập trên form website
+- `cprsxvtpgbiiedribdzcj` là mã định danh [ID popup](https://app.subiz.com.vn/web_plugin) trên Subiz \(đã lấy ở bước 2\)
+- `key` là <b>khóa</b> [trường thông tin](https://app.subiz.com.vn/settings/user-attributes) tương ứng trên Subiz
+- `value` là <b>giá trị</b> mà khách đã nhập trên form website
 
-<b>Key</b> là <b>khóa </b>trường thông tin trên Subiz, kiểm tra key bằng cách:
-
-- Tại màn hình sau khi [đăng nhập Subiz](https://app.subiz.com.vn/login/)
-- Nhấn biểu tượng bánh răng ở góc trên bên phải để tới trang cài đặt
-- Tại menu bên trái, chọn KHÁCH HÀNG &gt;[Trường thông tin](https://app.subiz.com.vn/settings/user-attributes)
-- Nhập tìm tên trường thông tin ở ô tìm kiếm bên phải
-- Nhấn <b>Chỉnh sửa</b> để xem <b>khóa </b>của trường thông tin tương ứng
-
-Ví dụ bảng hỏi trên website thiết kế như sau:
+Ví dụ website có 1 bảng hỏi như sau:
 
 ![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/fe7be6c394f9082448677553b982e901f2e69307c94ef1d6875da34c61cddcc2)
 
-Dựa vào bảng hỏi này, bạn sẽ tạo đoạn mã SDK Subiz để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút "Gửi".
-
-Dưới đây là cách bạn nối bảng hỏi trên với Subiz:
+Dựa vào bảng hỏi, bạn sẽ đặt 1 đoạn mã SDK tương ứng vào codewebsite để thu thập dữ liệu từ bảng hỏi và gửi đến Subiz khi khách hàng nhấn nút "Gửi":
 
 ![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/f8b074384f5a9f443014a433eef58c81ef94a3ce4b92443c30205e58fc38631c)
 
 ### Bước 4: Agent nhận thông tin khách trên Subiz {#buoc-4-agent-nhan-thong-tin-khach-tren-subiz}
 
-Tư vấn viên sẽ nhận được thông báo ngay khi có khách để lại thông tin và xem thông tin khách tại trang [TIN NHẮN](https://app.subiz.com.vn/convo). Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
+Ngay khi có khách điền form, tư vấn viên sẽ nhận được thông báo và xem thông tin khách đã để lại. Mỗi lượt khách điền bảng hỏi sẽ tạo thành một hội thoại. Thông tin khách được liệt kê dưới dạng danh sách và tự động lưu trữ vào trường thông tin khách ở cột bên phải.
 
 ![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/a448b2851a731719ff3f54f9a2c74330d1832881703ffe18d47924906edabfb0)
 
@@ -100,22 +88,17 @@ Mặc định hệ thống sẽ thông báo cho toàn bộ nhân sự khi
 - Nhấn biểu tượng bánh răng ở góc trên bên phải màn hình để tới trang cài đặt
 - Vào cài đặt [Rule phân phối](https://app.subiz.com.vn/settings/rule-setting).
 - Tạo Rule mới thuộc loại <b>Biểu mẫu</b>, với điều kiện nguồn là \[<b>Tên popup</b>\], rồi cài đặt phân phối đến agent phụ trách.
+- Nếu cần nhiều nhân sự cùng hỗ trợ, có thể thêm các nhân viên còn lại làm hỗ trợ viên trong Rule.
 - Hoặc chỉnh sửa Rule hiện có cùng loại để thêm popup.
 
 ## Câu hỏi thường gặp {#cau-hoi-thuong-gap}
 
 #### Tôi có cần sửa thiết kế popup trên Subiz giống form website không? {#toi-co-can-sua-thiet-ke-popup-tren-subiz-giong-form-website-khong}
 
-Không cần.
-
-Popup này chỉ dùng để làm địa chỉ đón dữ liệu từ Form Website. Popup hoàn toàn không hiển thị với khách hàng nên bạn không cần quan tâm tới thiết kế popup, trạng thái của popup trên Subiz sẽ là ‘tạm ngưng’.
+Không cần. Popup này chỉ dùng để làm địa chỉ đón dữ liệu từ Form Website. Popup hoàn toàn không hiển thị với khách hàng nên bạn không cần quan tâm tới thiết kế popup, trạng thái của popup trên Subiz sẽ là ‘tạm ngưng’.
 
 #### Tôi muốn xuất danh sách khách điền thông tin bảng hỏi được không? {#toi-muon-xuat-danh-sach-khach-dien-thong-tin-bang-hoi-duoc-khong}
 
-Hoàn toàn làm được.
-
-Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup \(Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên\) và chọn xuất file dữ liệu về.
-
-[Xem hướng dẫn sử dụng trang Khách.](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
+Hoàn toàn làm được.Khách điền bảng hỏi thông tin được lưu và tổng hợp tại trang Khách. Bạn xem tệp khách hàng popup \(Mở popup bạn đã tạo ở bước 2 như hướng dẫn bên trên\) và chọn xuất file dữ liệu về. [Xem hướng dẫn sử dụng trang Khách.](https://subiz.com.vn/docs/1221805713-khach-tiem-nang)
 
 ![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/23477cd691506d81001efd7da8bdeb7c39df0243667d12e865f33696f03b2c1d)
