@@ -5,7 +5,7 @@ title: Webhook tích hợp CRM
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-06-26T04:08:02.112Z
+  date: 2026-10-23T08:03:00.899Z
 ---
 
 # Webhook tích hợp CRM
@@ -22,9 +22,9 @@ Ví dụ:
 - Khi một người dùng Facebook gửi tin nhắn lên Fanpage. Webhook chuyển tin nhắn này tới server của bạn.
 - Khi khách hàng được cập nhật thông tin trên Subiz. Webhook gửi thông tin này sang server của bạn.
 
-![](https://vcdn.subiz-cdn.com/file/fismoifcthxupvsvfmzk_acpxkgumifuoofoosble/9b03afb5a9a5aa48c4e380733f0e2db0.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/4d2406e7ece9bfc7a0519770e230c041c29b7a501f3923c03aec556d284cc318)
 
-Subiz hỗ trợ nhiều loại sự kiện liên quan đến hội thoại, người dùng \(khách hàng\), theo dõi website và đơn hàng:![](https://vcdn.subiz-cdn.com/file/fisphxuxswohswlswqxc_acpxkgumifuoofoosble/c2db8ba42ea45c37f81596a37f2f7e8e.png)
+Subiz hỗ trợ nhiều loại sự kiện liên quan đến hội thoại, người dùng \(khách hàng\), theo dõi website và đơn hàng:![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/7856610752b630bcd3e286201db3b5bb1faf36412800eac01ca587b870dc7811)
 
 ## Bạn cần chuẩn bị những gì? {#ban-can-chuan-bi-nhung-gi}
 
@@ -88,15 +88,11 @@ Cẩn tắc vô áy náy, bạn cần xác thực gói tin ngay từ những gi�
 
 #### Thiết lập mật khẩu cho webhook {#thiet-lap-mat-khau-cho-webhook}
 
-Một lưu ý trước khi bạn bắt đầu là cơ chế xác thực chỉ áp dụng cho những webhook có đặt mật khẩu. Nếu bạn bỏ trống trường mật khẩu, chúng tôi ngầm hiểu rằng bạn đang áp dụng một cơ chế xác thực khác mà không muốn sử dụng cơ chế xác thực cung cấp bởi Subiz.
+Sau khi nhấn <b>Tạo webhook</b>, hệ thống Subiz sẽ tự động sinh một mật khẩu riêng \(dạng chuỗi ký tự cố định và không thể chỉnh sửa\), bạn sẽ dùng mật khẩu này để thiết lập cơ chế xác thực phía server/endpoint.
 
-Bạn có thể thiết lập mật khẩu cho webhook bằng cách đăng nhập vào Dashboard của Subiz. Vào Setting → Webhook → Chỉnh sửa, rồi chọn thay đổi ô Mật khẩu
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/036751c3557c0f16629e72541e2a0b5f6d568b95a804983c1bfeedc8fe138fe4)
 
-![](https://vcdn.subiz-cdn.com/file/fismoifdhvylakeetfys_acpxkgumifuoofoosble/6a2f2a55eb161f1f29dfb5ac20b6f4ff.png)
-
-Khi chọn mật khẩu, bạn nên sử dụng một mật khẩu ngẫu nhiên, càng dài sẽ càng bảo mật và không nhất thiết phải chứa ký tự đặc biệt. Nếu mật khẩu bị lộ, bên thứ 3 có thể giả dạng Subiz để gửi event không tin cậy sang endpoint của bạn.
-
-Mật khẩu này sẽ được sử dụng mỗi khi Subiz gửi tin sang endpoint của bạn. Chúng tôi sẽ tạo ra một chữ ký riêng biệt cho từng gói tin rồi gắn vào header \`\`X-Hub-Signature-256\` trước khi gửi tới endpoint của bạn.
+Mật khẩu sẽ được sử dụng mỗi khi Subiz gửi tin sang endpoint của bạn. Chúng tôi sẽ tạo ra một chữ ký riêng biệt cho từng gói tin rồi gắn vào header \`\`X-Hub-Signature-256\` trước khi gửi tới endpoint của bạn.
 
 Chữ ký được tạo ra bằng <b>thuật toán HMAC với hàm hash SHA256</b> \([hash-based message authentication code](https://en.wikipedia.org/wiki/HMAC) - là một kỹ thuật cơ bản và hiệu quả, hiện đang được sử dụng rộng rãi trên hầu hết các nền tảng webhook như của facebook, google, stripe hay github\). HMAC được triển khai sẵn trên hầu hết các nền tảng lập trình. Về cơ bản, HMAC là một hàm nhận vào 3 tham số: thuật toán hash, mật khẩu và nội dung gói tin, trả ra chữ ký cho gói tin truyền vào.
 
@@ -182,7 +178,7 @@ puts Base64.encode64(hash)
 
 ## Quy trình xác thực gói tin {#quy-trinh-xac-thuc-goi-tin}
 
-![](https://vcdn.subiz-cdn.com/file/fismoifdodmwgrbmzuhl_acpxkgumifuoofoosble/b6f773d43419528758af87bdb8ed061e.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/ebfa62da89d540d2a7b2abb97fd01369c672d33e631e766056ca0f10cfdc15c6)
 
 Đầu gửi \(subiz\)
 
@@ -242,7 +238,7 @@ Mỗi sự kiện sẽ có các trường thông tin chung như ví dụ bên d�
 }
 ```
 
-![](https://vcdn.subiz-cdn.com/file/fismoifduydldtyfmuwp_acpxkgumifuoofoosble/03dbb8d960852d5bd5d2fb79ff2e73c0.png)
+![](https://r2s.subiz.net/file/acpxkgumifuoofoosble/38aa660dac7b34848bc8844157b0d72fa4b42c8d00e636e9ae0931f97f97efbf)
 
 <b>user\_created</b>
 
