@@ -5,7 +5,7 @@ title: Nhân viên AI kết nối với hệ thống doanh nghiệp
 pagination_next: null
 pagination_prev: null
 last_update:
-  date: 2026-10-23T07:03:46.782Z
+  date: 2026-11-05T04:28:32.907Z
 ---
 
 ## Nhân viên AI kết nối với hệ thống doanh nghiệp {#nhan-vien-ai-ket-noi-voi-he-thong-doanh-nghiep}
@@ -73,4 +73,48 @@ Trước khi bắt đầu, bạn cần có địa chỉ URL \(endpoint\) từ h�
 - Thiết lập HTTP Headers cứng nếu cần xác thực hoặc truy vết gói tin webhook gửi sang hệ thống
 - Nhấn <b>Lưu</b>.
 
-Như vậy, khi khách nhắn tin, Subiz sẽ gửi webhook kèm nội dung tin nhắn sang hệ thống của bạn và chờ hệ thống phản hồi. Chatbot AI của bạn có thể tham khảo mẫu phản hồi dạng cấu trúc `\{format: 'plaintext', text: 'Nội dung phản hồi'\}`.
+Như vậy, khi khách nhắn tin, Subiz sẽ gửi webhook kèm nội dung tin nhắn sang hệ thống của bạn và chờ hệ thống phản hồi.
+
+### Cấu trúc JSON phản hồi Webhook {#cau-truc-json-phan-hoi-webhook}
+
+Chatbot AI của bạn cần trả về dữ liệu chuẩn định dạng JSON theo các mẫu dưới đây:
+
+#### Phản hồi dạng văn bản text {#phan-hoi-dang-van-ban-text}
+
+```
+{format: 'plaintext', text: 'Nội dung phản hồi'}
+```
+
+#### Phản hồi kèm ảnh {#phan-hoi-kem-anh}
+
+```
+{
+  format: ‘plaintext’,
+  text: ‘Nội dung văn bản đi kèm hình ảnh’,
+  attachments: [
+    {
+      type: ‘file’,
+      mimetype: ‘image/png’,
+      url: ‘https://samplelib.com/preview/png/sample-boat-400x300.png’,
+      name: ‘images.png’
+    }
+  ]
+}
+```
+
+#### Phản hồi kèm file {#phan-hoi-kem-file}
+
+```
+{
+  format: 'plaintext,
+  text: 'Text and file',
+  attachments: [
+    {
+      type: 'file',
+      mimetype: 'application/pdf',
+      url: 'https://sample-files.com/downloads/documents/pdf/basic-text.pdf',
+      name: 'basic-text.pdf',
+    }
+  ]
+}
+```

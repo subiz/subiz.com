@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1793728168354,
-  "updated": 1793728168354,
+  "fetched": 1793853751402,
+  "updated": 1793853751402,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -813,8 +813,8 @@
       ],
       "id": "1bcqIHUI_NiA8mR1E9dn8R9FbkCrDb8D717of9ziVWvA",
       "name": "Nhân viên AI kết nối với hệ thống của doanh nghiệp ",
-      "modifiedTime": "2026-10-23T07:03:46.782Z",
-      "version": "145",
+      "modifiedTime": "2026-11-05T04:28:32.907Z",
+      "version": "161",
       "path_lower": "/1000 Tổng hợp/nhan-vien-ai-ket-noi-voi-he-thong-cua-doanh-nghiep"
     },
     {
@@ -1133,7 +1133,7 @@
       "id": "1oL7RVULspimElhO2Wol7Eis7soDCsUWNTDeKFMaLQm8",
       "name": "8. SDK tuỳ chỉnh cửa sổ chat  ",
       "modifiedTime": "2026-09-04T04:15:10.700Z",
-      "version": "241",
+      "version": "243",
       "path_lower": "/1000 Tổng hợp/8-sdk-tuy-chinh-cua-so-chat"
     },
     {
@@ -1176,8 +1176,8 @@
       ],
       "id": "1qPlp61vzlh9KUvjmI421dG6YCWShJM4IXbtP28GDTBU",
       "name": "70. WhatsApp ",
-      "modifiedTime": "2026-10-22T08:50:55.434Z",
-      "version": "199",
+      "modifiedTime": "2026-11-05T04:41:53.525Z",
+      "version": "206",
       "path_lower": "/20 Tích hợp kênh tương tác/70-whatsapp"
     },
     {
@@ -1275,8 +1275,8 @@
       ],
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
       "name": "60. TikTok",
-      "modifiedTime": "2026-10-03T04:36:35.708Z",
-      "version": "541",
+      "modifiedTime": "2026-11-05T04:35:39.374Z",
+      "version": "549",
       "path_lower": "/20 Tích hợp kênh tương tác/60-tiktok"
     },
     {
