@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "fetched": 1794458338202,
-  "updated": 1794458338202,
+  "fetched": 1794569041116,
+  "updated": 1794569041116,
   "entries": [
     {
       "mimeType": "application/vnd.google-apps.document",
@@ -99,7 +99,7 @@
       "id": "14kVK3k17831FEsIg7Z3kQth47VIfTdZgUezR22x8C4I",
       "name": "85. Google Business",
       "modifiedTime": "2026-10-22T08:58:10.919Z",
-      "version": "356",
+      "version": "358",
       "path_lower": "/20 Tích hợp kênh tương tác/85-google-business"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "id": "1IppYCSG_o3O8C2H3upyKoGrSmMgXkw8SBngFcbafZYA",
       "name": "11. Khắc phục sự cố",
-      "modifiedTime": "2026-10-09T05:11:28.352Z",
-      "version": "675",
+      "modifiedTime": "2026-11-13T09:05:55.729Z",
+      "version": "682",
       "path_lower": "/30 Tư vấn khách hàng/11-khac-phuc-su-co"
     },
     {
@@ -329,8 +329,8 @@
       ],
       "id": "1IsppTxnE7zWPG4BpNOftsSGf286bLIN_lWInVbJ-nVk",
       "name": "75. Youtube",
-      "modifiedTime": "2026-10-22T08:52:05.246Z",
-      "version": "61",
+      "modifiedTime": "2026-11-13T08:06:05.001Z",
+      "version": "75",
       "path_lower": "/20 Tích hợp kênh tương tác/75-youtube"
     },
     {
@@ -418,7 +418,7 @@
       "id": "1Lwxf741tGtBt-9Ppar2lpKohySJfLpAEEaw-73rKWbk",
       "name": "30. Fanpage",
       "modifiedTime": "2026-10-22T04:46:02.328Z",
-      "version": "705",
+      "version": "707",
       "path_lower": "/20 Tích hợp kênh tương tác/30-fanpage"
     },
     {
@@ -473,7 +473,7 @@
       "id": "1OdHzD1ypMK04ZaPeDe9WZFdztesSjeaHbelvFjaONcM",
       "name": "_4. Chiến dịch telesales",
       "modifiedTime": "2026-01-08T09:03:13.432Z",
-      "version": "188",
+      "version": "190",
       "path_lower": "/_90 Tổng đài điện thoại/4-chien-dich-telesales"
     },
     {
@@ -528,7 +528,7 @@
       "id": "1RZ6IzxH8vwlJLjVO84iWmKNy-kbps4M15iNmUU-iojY",
       "name": "55. Instagram",
       "modifiedTime": "2026-10-22T08:13:07.634Z",
-      "version": "301",
+      "version": "302",
       "path_lower": "/20 Tích hợp kênh tương tác/55-instagram"
     },
     {
@@ -649,7 +649,7 @@
       "id": "1WQOY3OUs8DkrfqUAjFunasPambTvEHXWof7ynRsyHhc",
       "name": "14. Đo lường chuyển đổi Facebook Ads",
       "modifiedTime": "2026-08-04T03:00:05.919Z",
-      "version": "330",
+      "version": "331",
       "path_lower": "/110 Ứng dụng nâng cao/14-do-luong-chuyen-doi-facebook-ads"
     },
     {
@@ -660,7 +660,7 @@
       "id": "1WW0MUn-__4E1CR_puSrvJHefB4JyHjJBxkDXioeAgNo",
       "name": "2. Hồ sơ khách hàng",
       "modifiedTime": "2026-10-08T10:09:23.469Z",
-      "version": "869",
+      "version": "870",
       "path_lower": "/60 Quản lý khách hàng/2-ho-so-khach-hang"
     },
     {
@@ -704,7 +704,7 @@
       "id": "1YswrS9uZ8Bjwuod82X-WOmNUo2lSQoWXrDyAuKGeny4",
       "name": "80. Email",
       "modifiedTime": "2026-10-22T08:57:21.948Z",
-      "version": "598",
+      "version": "600",
       "path_lower": "/20 Tích hợp kênh tương tác/80-email"
     },
     {
@@ -737,7 +737,7 @@
       "id": "1_bJYBgDYFk8MtN2MBxR54oUSj3_GYhbJLrpjHnr9_tM",
       "name": "2. Sử dụng tổng đài",
       "modifiedTime": "2025-11-05T08:29:40.964Z",
-      "version": "470",
+      "version": "471",
       "path_lower": "/_90 Tổng đài điện thoại/2-su-dung-tong-dai"
     },
     {
@@ -835,8 +835,8 @@
       ],
       "id": "1dX02WpxrJYs960WCuoSp9iQWSDdcLO_uvMSak0nRl0o",
       "name": "50. Zalo Cá nhân",
-      "modifiedTime": "2026-11-12T04:36:05.596Z",
-      "version": "849",
+      "modifiedTime": "2026-11-13T09:06:01.222Z",
+      "version": "894",
       "path_lower": "/20 Tích hợp kênh tương tác/50-zalo-ca-nhan"
     },
     {
@@ -847,7 +847,7 @@
       "id": "1dwAnTeee-sYbRKXQGDmXsI1zLJhYPzQ5243Q8y6M7Lg",
       "name": "30. Popup",
       "modifiedTime": "2026-04-15T07:07:20.621Z",
-      "version": "491",
+      "version": "493",
       "path_lower": "/50 Tự động hóa/30-popup"
     },
     {
@@ -858,7 +858,7 @@
       "id": "1e9MTi0vj-MSWg_STFAX7eVzPkG1CqUXgyWuvW5Ga180",
       "name": "2. Mẫu tin nhắn",
       "modifiedTime": "2026-06-03T09:53:47.190Z",
-      "version": "381",
+      "version": "382",
       "path_lower": "/30 Tư vấn khách hàng/2-mau-tin-nhan"
     },
     {
@@ -924,7 +924,7 @@
       "id": "1fzoGVEC-SUMUNq4WwpL6z7dAIFH0DPkVYtv6bAUvcz4",
       "name": "65. Tổng đài",
       "modifiedTime": "2026-10-22T08:49:23.125Z",
-      "version": "453",
+      "version": "454",
       "path_lower": "/20 Tích hợp kênh tương tác/65-tong-dai"
     },
     {
@@ -979,7 +979,7 @@
       "id": "1iST9WO60WIO9bQvCWd14itDnj5RFqZXmoREAjoxXuuI",
       "name": "8. Phiếu ghi (ticket)",
       "modifiedTime": "2026-03-16T02:12:58.074Z",
-      "version": "254",
+      "version": "255",
       "path_lower": "/40 Quản lý làm việc nhóm/8-phieu-ghi-ticket"
     },
     {
@@ -1078,7 +1078,7 @@
       "id": "1miIkpnPmE7U6ii4hYBunhNHM4IysBKGgI_4P1jKUF_Y",
       "name": "3. Tag hội thoại",
       "modifiedTime": "2026-09-03T04:57:41.560Z",
-      "version": "220",
+      "version": "221",
       "path_lower": "/30 Tư vấn khách hàng/3-tag-hoi-thoai"
     },
     {
@@ -1144,7 +1144,7 @@
       "id": "1oZc8MN4DrJmSIcZgz8KodNIm8SFBQQB_0aNQSmIJyrU",
       "name": "40. Zalo OA",
       "modifiedTime": "2026-10-22T08:40:46.689Z",
-      "version": "518",
+      "version": "520",
       "path_lower": "/20 Tích hợp kênh tương tác/40-zalo-oa"
     },
     {
@@ -1177,7 +1177,7 @@
       "id": "1qPlp61vzlh9KUvjmI421dG6YCWShJM4IXbtP28GDTBU",
       "name": "70. WhatsApp ",
       "modifiedTime": "2026-11-05T04:42:00.818Z",
-      "version": "209",
+      "version": "211",
       "path_lower": "/20 Tích hợp kênh tương tác/70-whatsapp"
     },
     {
@@ -1210,7 +1210,7 @@
       "id": "1rIYkDlKUMjQVQC83AvBZUxJkhsXWORa61D_biWhQVdo",
       "name": "2. Các gói dịch vụ",
       "modifiedTime": "2026-09-29T10:11:13.765Z",
-      "version": "744",
+      "version": "745",
       "path_lower": "/10 Làm quen với Subiz/2-cac-goi-dich-vu"
     },
     {
@@ -1276,7 +1276,7 @@
       "id": "1u8S6I2frg7zv9cHkt4lMf8HLxWIzwL_XB-bmRwnq0Eo",
       "name": "60. TikTok",
       "modifiedTime": "2026-11-05T04:35:39.374Z",
-      "version": "551",
+      "version": "552",
       "path_lower": "/20 Tích hợp kênh tương tác/60-tiktok"
     },
     {
@@ -1308,8 +1308,8 @@
       ],
       "id": "1v264ftLXzhF4DWE8t3P1XgtZjCF9h3ZdyZG9_wlhdYw",
       "name": "20. Cửa sổ chat",
-      "modifiedTime": "2026-10-20T04:43:08.439Z",
-      "version": "692",
+      "modifiedTime": "2026-11-12T07:20:58.839Z",
+      "version": "699",
       "path_lower": "/20 Tích hợp kênh tương tác/20-cua-so-chat"
     },
     {
@@ -1397,7 +1397,7 @@
       "id": "1zg8M61k4WMqBrQbfIU-XSHawGNMlGblPOh1I6_wcMes",
       "name": "6. Hỗ trợ khách trong Lễ Tết ",
       "modifiedTime": "2026-03-27T02:43:42.992Z",
-      "version": "239",
+      "version": "240",
       "path_lower": "/1000 Tổng hợp/6-ho-tro-khach-trong-le-tet"
     },
     {
